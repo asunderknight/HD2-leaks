@@ -1,0 +1,4994 @@
+{
+    "Version": 1,
+    "Language": {
+        "Hash": "0xba39c3ec",
+        "KnownName": "de",
+        "KnownFriendlyName": "German"
+    },
+    "Items": [
+        {
+            "Key": 525501,
+            "Value": "ZIVILISTEN IM GEBIET"
+        },
+        {
+            "Key": 3415334,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 9138940,
+            "Value": "Anzahl der Spritzen, mit denen Helldivers in den Einsatz starten, wird um #V_ONE erhöht."
+        },
+        {
+            "Key": 12348112,
+            "Value": "Spritzenkapazität ist nicht mehr erhöht."
+        },
+        {
+            "Key": 14881450,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 16829487,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 19757233,
+            "Value": "Auslöschen"
+        },
+        {
+            "Key": 23818252,
+            "Value": "LUFTÜBERLEGENHEIT"
+        },
+        {
+            "Key": 27832939,
+            "Value": "Die Taktikausrüstung „Orbital-Laser“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 32304560,
+            "Value": "BEFEHLE AUSBLENDEN"
+        },
+        {
+            "Key": 35452912,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 37894509,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 38424495,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 40790875,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 56725756,
+            "Value": "Dichte Sandstürme <i=1>beeinträchtigen die Mobilität</i> und <i=1>beeinträchtigen die Sicht in großem Maße</i> sowohl für Feinde als auch für Verbündete."
+        },
+        {
+            "Key": 61153676,
+            "Value": "Der Abschluss dieser Operation hilft bei der Rückeroberung der Stadt. Die erfolgreiche Rückeroberung von Städten trägt wesentlich zur Befreiung des Planeten bei."
+        },
+        {
+            "Key": 67045919,
+            "Value": "Die Taktikausrüstung „120-mm-HE-Orbitalschlag“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 70418734,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 72582816,
+            "Value": "Die Taktikausrüstung „Adler – Napalmluftschlag“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 75445877,
+            "Value": "Die Taktikausrüstung „ARC-3-Bogenwerfer“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 77038681,
+            "Value": "<i=1>#V_ONE</i> steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 77306762,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 79192892,
+            "Value": "GRAVITATIONSANOMALIE ENTDECKT"
+        },
+        {
+            "Key": 81388574,
+            "Value": "BESCHAFFUNG VON E-711"
+        },
+        {
+            "Key": 81523500,
+            "Value": "Eltern verzweifelt, nachdem ihr Kind sein Bewusstsein auf Cloud-Server hochlädt."
+        },
+        {
+            "Key": 82371251,
+            "Value": "Gefallene Helldivers"
+        },
+        {
+            "Key": 91998981,
+            "Value": "FORTSCHRITT DER INVASIONSKAMPAGNE"
+        },
+        {
+            "Key": 98611233,
+            "Value": "Wohnkosten steigen, da die noch größere „Größte Generation“ in den Ruhestand geht."
+        },
+        {
+            "Key": 100511399,
+            "Value": "Aufruf zur Einberufung an alle Bürgerklassen verschickt."
+        },
+        {
+            "Key": 103735208,
+            "Value": "<i=1>#V_ONE</i> ist nicht mehr verfügbar."
+        },
+        {
+            "Key": 104772162,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 107490755,
+            "Value": "PLANET BEFREIT – ZU NEUEM PLANETEN BEGEBEN"
+        },
+        {
+            "Key": 110359831,
+            "Value": "Virydian Toys im Falle der"
+        },
+        {
+            "Key": 114720360,
+            "Value": "Mögliche Einsätze der Taktikausrüstung <i=1>#V_ONE</i> sind nicht mehr erhöht."
+        },
+        {
+            "Key": 122818609,
+            "Value": "Die Taktikausrüstung „Schwere MG-Stellung“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 125302513,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 129724100,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 136327622,
+            "Value": "Überraschende Roboter-Verstärkung hat erhebliche Gebietsgewinne auf dem Planeten #V_ONE verzeichnet."
+        },
+        {
+            "Key": 141087962,
+            "Value": "Anzahl der Magazine, mit denen Helldivers in den Einsatz starten, ist für alle Waffen vorübergehend um #V_ONE verringert."
+        },
+        {
+            "Key": 148778530,
+            "Value": "Die Taktikausrüstung „Verteidigungswall“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 149087144,
+            "Value": "KANONENSCHIFFPATROUILLEN"
+        },
+        {
+            "Key": 149945353,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 150895216,
+            "Value": "Für einige Zeit geht Boden auf dem Planeten #V_ONE schneller verloren als zuvor."
+        },
+        {
+            "Key": 157970715,
+            "Value": "Missionszeiterhöhung ist nicht mehr aktiv."
+        },
+        {
+            "Key": 159541688,
+            "Value": "Wird abgeworfen in"
+        },
+        {
+            "Key": 159552540,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 161233440,
+            "Value": "Alle Helldivers regenerieren passiv Gesundheit mit einer Rate von #V_ONE % pro Sekunde."
+        },
+        {
+            "Key": 162355166,
+            "Value": "MERIDIAN-SINGULARITÄT"
+        },
+        {
+            "Key": 163446619,
+            "Value": "Auf dieser kargen, kalten und zerklüfteten Welt scheint es keine erkennbare Form von Leben zu geben."
+        },
+        {
+            "Key": 163457594,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 169372105,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 170919653,
+            "Value": "Die Taktikausrüstung „M-105-Stalwart“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 171607714,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 179861588,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 180403125,
+            "Value": "STADT-OPERATION"
+        },
+        {
+            "Key": 182613085,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 187286726,
+            "Value": "EFFEKTE"
+        },
+        {
+            "Key": 196135185,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 199880516,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 199902803,
+            "Value": "und erlaubt 8 neue, im Voraus genehmigte Kommentare in Nachrichtenmedien."
+        },
+        {
+            "Key": 207159351,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 210713076,
+            "Value": "Dieses schwarze Loch ist alles, was von den Hoffnungen und Träumen der Kolonisten geblieben ist, die hier ein neues Leben hätten anfangen können. Unsere Feinde würden lieber die gesamte Galaxie in eine endlose Leere stürzen, als unsere Lebensweise zu dulden."
+        },
+        {
+            "Key": 216069095,
+            "Value": "NEUE OPERATION VERFÜGBAR"
+        },
+        {
+            "Key": 222371685,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 233657198,
+            "Value": "<c=FF336666>VERFOLGEN:</c> <c=FFcd6801>MISSIONSANFRAGEN</c>"
+        },
+        {
+            "Key": 234584469,
+            "Value": "„Pulsar Pop“-Tanzwahn erobert die Galaxy."
+        },
+        {
+            "Key": 235670415,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 236488569,
+            "Value": "Taktikausrüstung „Orbital-Gasangriff“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 236643916,
+            "Value": "PLÖTZLICHE FLUCHT"
+        },
+        {
+            "Key": 243191521,
+            "Value": "TAKTIKAUSRÜSTUNGSÜBERSCHUSS"
+        },
+        {
+            "Key": 246067354,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 249507806,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 254710586,
+            "Value": "Helldivers bereiten sich auf massiven Angriff auf Terminid-Schwärme vor."
+        },
+        {
+            "Key": 257436714,
+            "Value": "Anzeichen von empfindungsfähigen Lebensformen auf Okul VI entdeckt; gefahrlos eliminiert."
+        },
+        {
+            "Key": 265269866,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 269334634,
+            "Value": "Die Taktikausrüstung „Orbital-Präzisionsschlag“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 271258196,
+            "Value": "Anzahl der Granaten, mit denen Helldivers in den Einsatz starten, wird um #V_ONE erhöht."
+        },
+        {
+            "Key": 276825548,
+            "Value": "Auf diesem Planeten wurde ein durch Düsternis verstärkter Terminidenstamm gemeldet. S.E.A.F.-Patrouillen wurden in Hinterhalte gelockt und von unsichtbaren Angreifern ausgeschaltet. Jedes Quäntchen der überlegenen Helldiver-Sinne wird nötig sein, um diese gefährliche Bedrohung zur Strecke zu bringen."
+        },
+        {
+            "Key": 280616943,
+            "Value": "<i=3>GENERALBEFEHL ERFOLGREICH</i>\n<i=1>Gaellivare</i> konnte für die festgelegte Zeit gehalten werden. Der Planet und die DRS selbst bleiben jedoch in Gefahr. Der Kampf ist noch nicht vorbei.\nDas Oberkommando wird die Situation überwachen. Weitere Leitlinien folgen, sobald das Schicksal von <i=1>Gaellivare</i> entschieden ist – so oder so."
+        },
+        {
+            "Key": 280740600,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 293424533,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 295786814,
+            "Value": "UMHERSTREIFENDE KREISCHER"
+        },
+        {
+            "Key": 298108088,
+            "Value": "Mögliche Einsätze der Taktikausrüstung <i=1>#V_ONE</i> sind vorübergehend um #V_TWO erhöht."
+        },
+        {
+            "Key": 298138811,
+            "Value": "ROBOTER-INVASION"
+        },
+        {
+            "Key": 302770875,
+            "Value": "Eine weitere Kolonie wurde durch einen Roboter-Überraschungsangriff verwüstet."
+        },
+        {
+            "Key": 311608928,
+            "Value": "Superwaffe wird abgefeuert in <i=1>#TIME</i>."
+        },
+        {
+            "Key": 315140100,
+            "Value": "ILLUMINIERTEN-ÜBERSCHIFF"
+        },
+        {
+            "Key": 318178055,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 322782799,
+            "Value": "Willkommen im Galaktischen Krieg.\n\nHier kämpft die Community gegen ihre gemeinsamen Feinde."
+        },
+        {
+            "Key": 323825976,
+            "Value": "Taktikausrüstung „Adler – Napalmluftschlag“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 324886748,
+            "Value": "SEKTOR"
+        },
+        {
+            "Key": 329443307,
+            "Value": "Die Taktikausrüstung „Orbital-Luftstoßangriff“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 330847558,
+            "Value": "ROBOTER-ÜBERTAKTUNG"
+        },
+        {
+            "Key": 332478520,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 332764715,
+            "Value": "STÄRKE DER ILLUMINIERTEN-FLOTTE"
+        },
+        {
+            "Key": 336774918,
+            "Value": "Das trockene, felsige Biom, das diese Welt bedeckt, hat seine verschiedenen Organismen dazu gezwungen, einen effizienten Wasserhaushalt zu entwickeln."
+        },
+        {
+            "Key": 337953497,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 341723394,
+            "Value": "Taktikausrüstung „Sprungpaket“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 342717574,
+            "Value": "Taktikausrüstung „Adler – 500-kg-Bombe“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 346314042,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 346784578,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 352042548,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 352192220,
+            "Value": "Granatenkapazität ist nicht mehr erhöht."
+        },
+        {
+            "Key": 356236815,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 358548648,
+            "Value": "Nummer 4 wurde zur „Demokratischsten Nummer“ gewählt."
+        },
+        {
+            "Key": 366648504,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 368572468,
+            "Value": "Schmelzende Eiskappen auf den Gemstone Bluffs führen zu einem Anstieg der Superboat-Hotelpreise."
+        },
+        {
+            "Key": 372178714,
+            "Value": "Taktikausrüstung „ST-1-Stinger“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 376917040,
+            "Value": "ATMOSPHÄRISCHE SPOREN"
+        },
+        {
+            "Key": 379867334,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 380809060,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 381140667,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 390099180,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 394682596,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 399173704,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 399581668,
+            "Value": "Vorläufige Installationsverfahren für das Netzwerk zur Terminiden-Abwehr beginnen."
+        },
+        {
+            "Key": 405521417,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 407681137,
+            "Value": "PROBEN:"
+        },
+        {
+            "Key": 408492564,
+            "Value": "EXPERIMENTELLE HÜFTBEUTEL"
+        },
+        {
+            "Key": 409186856,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 410498120,
+            "Value": "Die Taktikausrüstung „Schildgenerator-Rucksack“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 420079450,
+            "Value": "Anzahl der Granaten, mit denen Helldivers in den Einsatz starten, wird um #V_ONE verringert."
+        },
+        {
+            "Key": 421418845,
+            "Value": "Neue Beweise legen nahe, dass das berühmte Foto „Die Tötung der Bestie von Vog-Sojoth“ gefälscht wurde."
+        },
+        {
+            "Key": 422331606,
+            "Value": "Neue Studie offenbart, dass 98 % der Kinder unter 12 Jahren "
+        },
+        {
+            "Key": 423571628,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 425147060,
+            "Value": "ADLER-STURM"
+        },
+        {
+            "Key": 428146136,
+            "Value": "Operationen mit höherer Schwierigkeit sind kniffliger und enthalten neue Feinde und Missionen.\n\nSie wirken sich auch stärker auf den Krieg aus und bieten bessere Belohnungen. Schließe eine <i=1>Operation</i> mit der höchsten aktuell verfügbaren <i=1>Schwierigkeit</i> ab, um die nächsthöhere freizuschalten."
+        },
+        {
+            "Key": 430447578,
+            "Value": "Granatenkapazität ist für alle Helldivers vorübergehend um #V_ONE erhöht."
+        },
+        {
+            "Key": 435602687,
+            "Value": "DÜSTERNIS-QUELLE"
+        },
+        {
+            "Key": 435905688,
+            "Value": "Endet in:"
+        },
+        {
+            "Key": 436895486,
+            "Value": "Mögliche Einsätze der Taktikausrüstung <i=1>#V_ONE</i> werden um #V_TWO verringert."
+        },
+        {
+            "Key": 440415104,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 441886279,
+            "Value": "S.E.A.F.-Vorstoß gegen Roboter gerät ins Stocken."
+        },
+        {
+            "Key": 446478236,
+            "Value": "Zermalmender Schlamm, sich windende Wurzeln; der Geruch von Fäulnis und Anarchie. Ein wimmelnder, endloser Morast."
+        },
+        {
+            "Key": 450606106,
+            "Value": "Operationsauswirkung"
+        },
+        {
+            "Key": 450787924,
+            "Value": "Neue Rasse von biolumineszierenden Kätzchen in Minuten ausverkauft!"
+        },
+        {
+            "Key": 456680010,
+            "Value": "Ionenstürme <i=1>deaktivieren Taktikausrüstungen zeitweise</i>."
+        },
+        {
+            "Key": 459656999,
+            "Value": "Achtung: Auf dem Schlachtfeld befinden sich treue Zivilisten."
+        },
+        {
+            "Key": 467439839,
+            "Value": "EXTREM"
+        },
+        {
+            "Key": 476794755,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 476862046,
+            "Value": "Helldiver tritt bei"
+        },
+        {
+            "Key": 477119209,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 478168078,
+            "Value": "Künstliches Sonnenlicht ist nachweislich mindestens genauso gut, wenn nicht sogar besser, als natürliches Sonnenlicht."
+        },
+        {
+            "Key": 486634204,
+            "Value": "UNMÖGLICH"
+        },
+        {
+            "Key": 496937874,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 498333968,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 500293760,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 500598816,
+            "Value": "Die Illuminierten erzeugen auf diesem Planeten Dunkle Energie, mit der sie die Meridian-Singularität in Richtung Über-Erde verschieben. Sie müssen um jeden Preis aufgehalten werden. "
+        },
+        {
+            "Key": 501613549,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 502012056,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 506754096,
+            "Value": "FEHLSCHLAG"
+        },
+        {
+            "Key": 510506755,
+            "Value": "KLUFT-STAMM"
+        },
+        {
+            "Key": 511262727,
+            "Value": "FTL-SPRUNG INITIIEREN"
+        },
+        {
+            "Key": 513992565,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 515165111,
+            "Value": "Immer wenn ein Helldiver getötet wird, wird automatisch ein Orbitalschlag abgefeuert."
+        },
+        {
+            "Key": 519669347,
+            "Value": "Schwere Außenposten"
+        },
+        {
+            "Key": 528459454,
+            "Value": "Die Taktikausrüstung „EAT-17-Einmal-Panzerabwehr“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 530653442,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 534797284,
+            "Value": "Für weitere Befehle vom Oberkommando Über-Erdes bereithalten"
+        },
+        {
+            "Key": 536003898,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 540423199,
+            "Value": "Überraschende Roboter-Verstärkung verzeichnet erhebliche Gebietsgewinne auf dem Planeten #V_ONE."
+        },
+        {
+            "Key": 541236438,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 543070732,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 544784714,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 545364779,
+            "Value": "Auswirkungen von Missionen sind wieder auf normalem Niveau."
+        },
+        {
+            "Key": 552258063,
+            "Value": "Schwer gepanzerte Feinde"
+        },
+        {
+            "Key": 560244346,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 560314369,
+            "Value": "#DISTANCE km"
+        },
+        {
+            "Key": 563887562,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 565044815,
+            "Value": "FEUERTORNADOS"
+        },
+        {
+            "Key": 574471121,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 574562412,
+            "Value": "„Über-Erde-Plasma-Sniper“ wird zum Kassenschlager."
+        },
+        {
+            "Key": 584424596,
+            "Value": "Die Taktikausrüstung „Orbital-Schienenkanone“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 588515429,
+            "Value": "VERSORGUNGSKETTEN-HERAUSFORDERUNGEN"
+        },
+        {
+            "Key": 588827542,
+            "Value": "Die DRS setzt während Missionen <i=1>Adler-Tieffliegerangriffe</i> ein."
+        },
+        {
+            "Key": 591550370,
+            "Value": "<i=1>Missionszeit</i> reduziert auf <i=1>30 Minuten</i>."
+        },
+        {
+            "Key": 592732242,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 593729951,
+            "Value": "Schwarm"
+        },
+        {
+            "Key": 597619832,
+            "Value": "Die Taktikausrüstung „Automatische Kanone AC-8“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 603021238,
+            "Value": "ERZEUGT DUNKLE ENERGIE"
+        },
+        {
+            "Key": 607081875,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 608133461,
+            "Value": "Taktikausrüstung „Orbital-EMS-Feuer“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 608996976,
+            "Value": "Befreien"
+        },
+        {
+            "Key": 627359968,
+            "Value": "Helldivers werden möchten. Die restlichen 2 % stehen unter Untersuchung."
+        },
+        {
+            "Key": 636634761,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 638005199,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 638493401,
+            "Value": "Die Taktikausrüstung „Guard Dog“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 644692723,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 645988482,
+            "Value": "Taktikausrüstung „FAF-14-Speer“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 652439512,
+            "Value": "NACHRICHTEN-FEED"
+        },
+        {
+            "Key": 658025856,
+            "Value": "SANDREGEN"
+        },
+        {
+            "Key": 659452616,
+            "Value": "Anzahl der Granaten, mit denen Helldivers in den Einsatz starten, ist vorübergehend um #V_ONE erhöht."
+        },
+        {
+            "Key": 666928538,
+            "Value": "Die Taktikausrüstung „Anti-Personen-Minenleger“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 669023182,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 670070393,
+            "Value": "HOHE REKRUTIERUNGSRATE"
+        },
+        {
+            "Key": 671564727,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 679349357,
+            "Value": "Ein sengend heißer Wüstenplanet, dessen endloses Dünenmeer nur von felsigen Tafelbergen unterbrochen wird."
+        },
+        {
+            "Key": 681502033,
+            "Value": "Taktikausrüstung „380-mm-HE-Orbitalsperrfeuer“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 688744041,
+            "Value": "Dieser Planet ist vollständig von der Düsternis eingehüllt, was die logistische Unterstützung stark erschwert.\nDie Evakuierungszeiten verlängern sich um <i=1>40 Sekunden</i>, die Dauer der Adler-Wiedereinsatzbereitschaft ist um <i=1>30 %</i> erhöht und die Munition aus Pickups um <i=1>50 %</i> verringert."
+        },
+        {
+            "Key": 688917118,
+            "Value": "Spritzenanzahl ist nicht mehr verringert."
+        },
+        {
+            "Key": 691816876,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 696616553,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 698845032,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 710821004,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 715841083,
+            "Value": "Medaillenverdienst pro Mission ist für alle Helldivers vorübergehend um #V_ONE erhöht."
+        },
+        {
+            "Key": 718238054,
+            "Value": "Der Feind greift diesen Planeten an. Wenn sie nicht rechtzeitig zurückgeschlagen werden, ist er verloren."
+        },
+        {
+            "Key": 721358359,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 723927417,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 733451672,
+            "Value": "PLANETARES VERTEIDIGUNGSVERSAGEN IN: #TIME"
+        },
+        {
+            "Key": 734628521,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 735976853,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 740677481,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 747167917,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 747694778,
+            "Value": "Hier können alle derzeit aktiven <i=1>Befehle</i> eingesehen werden."
+        },
+        {
+            "Key": 749051481,
+            "Value": "Eine Katastrophe hat vor nicht allzu langer Zeit – geologisch gesehen – beinah alles Leben auf diesem Planeten ausgelöscht. Asche und scharfe Lavafelsen sind offenbar alles, was noch übrig ist."
+        },
+        {
+            "Key": 759038053,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 761453557,
+            "Value": "Für einige Zeit wird automatisch ein Orbitalschlag abgefeuert, wenn ein Helldiver getötet wird."
+        },
+        {
+            "Key": 761483845,
+            "Value": "Anzahl der Magazine, mit denen Helldivers in den Einsatz starten, wird für alle Waffen um #V_ONE verringert."
+        },
+        {
+            "Key": 765324963,
+            "Value": "Die Präsenz der DRS in der Nähe dieses Planeten verleiht dem Fortschritt der <i=1>Befreiungskampagne</i> einen kleinen Schub."
+        },
+        {
+            "Key": 765332655,
+            "Value": "<i=1>Karte verdeckt</i> von Bug-Sporen."
+        },
+        {
+            "Key": 768384977,
+            "Value": "Taktikausrüstung „EAT-17-Einmal-Panzerabwehr“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 772000433,
+            "Value": "SPORENWOLKE-TASCHEN"
+        },
+        {
+            "Key": 775530628,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 781677224,
+            "Value": "Das Verfassungsgericht von Über-Erde veranlasst Gesetzesänderung"
+        },
+        {
+            "Key": 783681730,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 786290638,
+            "Value": "PERSÖNLICHE BEFEHLE"
+        },
+        {
+            "Key": 786752156,
+            "Value": "Empfindungsfähiges Computernetzwerk von geistesgegenwärtigem IT-Mitarbeiter rasch gelöscht."
+        },
+        {
+            "Key": 795291061,
+            "Value": "Berge aus Sand brennen in der gnadenlosen Hitze dieses öden Planeten."
+        },
+        {
+            "Key": 796165462,
+            "Value": "Die Roboter haben eine neue Reihe spezialisierter Modelle auf diesen Planeten entsandt. Diese verbesserten Bots verwenden gestohlene Sprungpaket-Technologie, die rücksichtslos von den Körpern gefallener Helldivers gestohlen und zu etwas fast Unerkennbarem rekonstruiert wurde."
+        },
+        {
+            "Key": 796263081,
+            "Value": "Forschungsschiff behauptet, Illuminierten-artige Energiesignatur entdeckt zu haben."
+        },
+        {
+            "Key": 800984942,
+            "Value": "Taktikausrüstung „Gatling-Orbitalsperrfeuer“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 808072914,
+            "Value": "Der Abschluss dieser Operation trägt zur Befreiung des Planeten bei."
+        },
+        {
+            "Key": 815477269,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 823091821,
+            "Value": "AUSRÜSTUNGSTEST"
+        },
+        {
+            "Key": 826900961,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 828430095,
+            "Value": "OPERATION"
+        },
+        {
+            "Key": 828770804,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 830957581,
+            "Value": "Taktikausrüstung „Adler – Luftgefechtsraketen“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 832453372,
+            "Value": "Das wohlhabende Meridia wurde zu einer verdorbenen Terminiden-Superkolonie, die mithilfe des mysteriösen Dunklen Fluids zerstört werden musste. Diese galaktische Narbe ist alles, was bleibt. Hinweis: Unbeständige Raumzeit-Fluktuationen verhindern derzeit Reisen mit Überlichtgeschwindigkeit zum Schwarzen Loch in Meridia."
+        },
+        {
+            "Key": 832857255,
+            "Value": "Die Taktikausrüstung „Vorratsrucksack“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 836288058,
+            "Value": "Anhäufung von Weltraummüll führt zur Bildung eines schwimmenden Müllmondes."
+        },
+        {
+            "Key": 837262895,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 838975314,
+            "Value": "Verbündete Taktikziele"
+        },
+        {
+            "Key": 839605471,
+            "Value": "Planetenereignisse können auftreten, wenn Feinde Planeten angreifen, die unter der Kontrolle von Über-Erde stehen – <i=1>Verteidigungsereignisse</i> –, oder wenn Über-Erde in der Galaxie weiter vorrückt – <i=1>Befreiungsereignisse</i>.\n\nLeiste deinen Beitrag!"
+        },
+        {
+            "Key": 841627405,
+            "Value": "EROBERE"
+        },
+        {
+            "Key": 845365900,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 846661856,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 847861910,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 848932066,
+            "Value": "ORBITAL-BLOCKADE"
+        },
+        {
+            "Key": 849379401,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 849502854,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 851158655,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 851413624,
+            "Value": "TERMINIDEN-QUARANTÄNEBEREICH"
+        },
+        {
+            "Key": 853684841,
+            "Value": "PREDATOR-STAMM"
+        },
+        {
+            "Key": 853966900,
+            "Value": "Der Planet #V_ONE, der kurz vor einer erfolgreichen Verteidigung stand, ist an den Feind gefallen."
+        },
+        {
+            "Key": 860616678,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 874072646,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 876330716,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 877078639,
+            "Value": "BESCHREIBUNG"
+        },
+        {
+            "Key": 878002307,
+            "Value": "UNTERWEGS ZUM MISSIONSGEBIET"
+        },
+        {
+            "Key": 883460329,
+            "Value": "SANDSTÜRME"
+        },
+        {
+            "Key": 890036569,
+            "Value": "Helldivers von Operation Wall der Tapferkeit umgeleitet, um Roboter umfassend zu bekämpfen."
+        },
+        {
+            "Key": 893408910,
+            "Value": "Senator Killjoy Jr. liefert ergreifende Rede: „Über-Erde stärker denn je!“"
+        },
+        {
+            "Key": 894064163,
+            "Value": "STADT-OPERATIONSBELOHNUNG"
+        },
+        {
+            "Key": 898859057,
+            "Value": "Explodiert in:"
+        },
+        {
+            "Key": 900097455,
+            "Value": "Galaktische Erwärmung ist laut Studie auf natürliche Ursachen zurückzuführen."
+        },
+        {
+            "Key": 900452567,
+            "Value": "Die Taktikausrüstung „Orbital-Gasangriff“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 904306987,
+            "Value": "SIEDLUNG"
+        },
+        {
+            "Key": 905309513,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 906120598,
+            "Value": "In der Ausrüstung"
+        },
+        {
+            "Key": 912562356,
+            "Value": "Massenproduktionskapazitäten der Roboter übertreffen Erwartungen."
+        },
+        {
+            "Key": 913638062,
+            "Value": "Taktikausrüstung „Schildgenerator-Rucksack“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 926375565,
+            "Value": "9"
+        },
+        {
+            "Key": 929394276,
+            "Value": "Die Taktikausrüstung „Tesla-Turm“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 938578203,
+            "Value": "MISSION GESCHEITERT"
+        },
+        {
+            "Key": 940530831,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 945213331,
+            "Value": "Im Orbit"
+        },
+        {
+            "Key": 946320087,
+            "Value": "Aktive Helldivers"
+        },
+        {
+            "Key": 946808779,
+            "Value": "Übertragungen der verschwundenen Kolonie erwähnen „Squids“."
+        },
+        {
+            "Key": 954575608,
+            "Value": "Wähle eine <i=1>Mission</i> und mach dich bereit für den Einsatz."
+        },
+        {
+            "Key": 954976452,
+            "Value": "Dichter Nebel <i=1>beeinträchtigt die Sicht in geringem Maße</i> sowohl für Feinde als auch für Verbündete."
+        },
+        {
+            "Key": 959254541,
+            "Value": "Ein Wüstenplanet mit ebenso gefährlichen wie unvorhersehbaren Sandstürmen."
+        },
+        {
+            "Key": 964957063,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 968713913,
+            "Value": "Terminidenfreundliche Aktivisten von heroischem Richter zu 20 Jahren Haft in Asteroid-Minen verurteilt."
+        },
+        {
+            "Key": 973323483,
+            "Value": "Aktive Freunde"
+        },
+        {
+            "Key": 979668381,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 980743299,
+            "Value": "Vermisster Kinder-Astronaut von Roboterhund in Plutonium-Brunnen gefunden."
+        },
+        {
+            "Key": 981791852,
+            "Value": "ALLE SEKTOREN BEFREIEN"
+        },
+        {
+            "Key": 983707629,
+            "Value": "Freedomball-Star Rex Stribling erzielt im zwölften Spiel in Folge ein Mega-Tor."
+        },
+        {
+            "Key": 986874313,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 989037070,
+            "Value": "Evakuierung geht #V_TWO Sekunden schneller."
+        },
+        {
+            "Key": 989136222,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 990366181,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 990898661,
+            "Value": "Die Taktikausrüstung „Adler – 500-kg-Bombe“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 991851783,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 994552698,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 994838962,
+            "Value": "Mächtige Staubteufel <i=1>schleudern kleinere Gegner in die Luft</i> und <i=1>betäuben größere Gegner</i>."
+        },
+        {
+            "Key": 996991993,
+            "Value": "Medaillenverdienst pro Mission wird für alle Helldivers um #V_ONE verringert."
+        },
+        {
+            "Key": 1004277842,
+            "Value": "Der Großteil der Oberfläche dieses Planeten ist von Eis und bemoosten Felsen bedeckt."
+        },
+        {
+            "Key": 1006242818,
+            "Value": "Vermisstes Kind nach Unglück bei Familien-Weltraumspaziergang im Orbit eines Asteroiden wiedergefunden."
+        },
+        {
+            "Key": 1007592719,
+            "Value": "Taktikausrüstung „120-mm-HE-Orbitalschlag“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 1016254138,
+            "Value": "MODIFIKATOREN <i=1>[#COUNT]</i>"
+        },
+        {
+            "Key": 1017745296,
+            "Value": "Terminiden-Drachenschaben bedrohen den Himmel über diesem Planeten."
+        },
+        {
+            "Key": 1032974617,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 1036926398,
+            "Value": "DURCH ROBOTER BESETZTER RAUM"
+        },
+        {
+            "Key": 1039556110,
+            "Value": "Die Taktikausrüstung „M-105-Stalwart“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 1042419338,
+            "Value": "Meteore schlagen auf der Oberfläche ein und <i=1>verursachen massiven Schaden</i>."
+        },
+        {
+            "Key": 1044524616,
+            "Value": "Nahkampfschaden ist vorübergehend um #V_ONE % verringert."
+        },
+        {
+            "Key": 1048514854,
+            "Value": "ZERBROCHENER PLANET"
+        },
+        {
+            "Key": 1052101257,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1055503030,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1057301920,
+            "Value": "GROSSE SCHWÄRME"
+        },
+        {
+            "Key": 1057931616,
+            "Value": "Medaillenverdienst pro Mission ist für alle Helldivers vorübergehend um #V_ONE verringert."
+        },
+        {
+            "Key": 1064788115,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1070316424,
+            "Value": "Schließe Operationen auf #PLANET ab."
+        },
+        {
+            "Key": 1077822980,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 1081573383,
+            "Value": "MISSIONSABSCHLUSS-BONUS"
+        },
+        {
+            "Key": 1081890590,
+            "Value": "Wenn du über einen Sektor fährst, wird angezeigt, welchen Anteil davon Über-Erde bereits befreit hat. Alle Operationen tragen dazu bei, die Feinde von Über-Erde zurückzudrängen.\nWähle einen <i=1>Sektor</i> aus, um zu sehen, auf welchen Planeten derzeit gespielt werden kann."
+        },
+        {
+            "Key": 1085262938,
+            "Value": "Ansammlung Dunkler Energie"
+        },
+        {
+            "Key": 1087117852,
+            "Value": "Taktikausrüstung „MG-43-Maschinengewehr“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 1088538005,
+            "Value": "Taktikausrüstung „‚Vorratsrucksack“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 1092949246,
+            "Value": "#RACE"
+        },
+        {
+            "Key": 1095630749,
+            "Value": "NÄHE ZU MERIDIA KRITISCH"
+        },
+        {
+            "Key": 1096582530,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1097082914,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1099893987,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1100838265,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1102455063,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1103811886,
+            "Value": "LUFTABWEHR-VERTEIDIGUNGEN"
+        },
+        {
+            "Key": 1105510156,
+            "Value": "Ätzende Säurestürme <i=1>verringern vorübergehend die Effektivität der Rüstung</i> von feindlichen und verbündeten Einheiten."
+        },
+        {
+            "Key": 1106899537,
+            "Value": "Die Taktikausrüstung „ST-1-Stinger“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 1108590970,
+            "Value": "OPERATIONSSTATUS"
+        },
+        {
+            "Key": 1118917483,
+            "Value": "<c=FF336666>HELLDIVERS: #VALUE</c>"
+        },
+        {
+            "Key": 1122786168,
+            "Value": "TERMINIDENCHAOS"
+        },
+        {
+            "Key": 1127333130,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1128318835,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1132095991,
+            "Value": "<c=FF336666>PLATOON: #VALUE</c>"
+        },
+        {
+            "Key": 1133331067,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1142717293,
+            "Value": "DEMOKRATIE-RAUMSTATION"
+        },
+        {
+            "Key": 1143206197,
+            "Value": "GESCHEITERT"
+        },
+        {
+            "Key": 1148626776,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1153079351,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1154884549,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1155954398,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1175249090,
+            "Value": "OPERATIONSAUSWIRKUNG"
+        },
+        {
+            "Key": 1175505148,
+            "Value": "Die Taktikausrüstung „Orbital-EMS-Feuer“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 1181578023,
+            "Value": "ÜBER-ERDE VERTEIDIGEN"
+        },
+        {
+            "Key": 1181673243,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 1185004327,
+            "Value": "Unbestätigte Berichte über Sichtung von Illuminierten werden Fehlinformationen von Dissidenten zugeschrieben."
+        },
+        {
+            "Key": 1188671070,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1192959313,
+            "Value": "Abklingzeit für Taktikausrüstung <i=1>#V_ONE</i> ist nicht mehr erhöht."
+        },
+        {
+            "Key": 1198280391,
+            "Value": "#PERCENTAGE% GEHALTEN"
+        },
+        {
+            "Key": 1198664072,
+            "Value": "Die DRS feuert während Missionen <i=1>Orbitalsperrfeuer</i>."
+        },
+        {
+            "Key": 1199081198,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 1200775727,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1202503064,
+            "Value": "Terminiden schwärmen allen Erklärungen von Experten zum Trotz in nie dagewesener Zahl."
+        },
+        {
+            "Key": 1203435533,
+            "Value": "Die Taktikausrüstung „GL-6-Granatwerfer“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 1212122769,
+            "Value": "Der feindliche Fortschritt in <i=1>Verteidigungskampagnen</i> wird verlangsamt."
+        },
+        {
+            "Key": 1214176856,
+            "Value": "82-jährige Frau ertappt Gruppe von Volksverhetzern auf ihrem Dachboden."
+        },
+        {
+            "Key": 1220458627,
+            "Value": "Hohe, knorrige Bäume gedeihen auf der Oberfläche dieser bewaldeten Welt. Sonnenlicht dringt an baumelnden Ranken vorbei ins satte Unterholz. "
+        },
+        {
+            "Key": 1220564275,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1221361339,
+            "Value": "Dieser Planet gilt als feindliches Gebiet. Die Helldivers müssen ihn von den tyrannischen Besetzern zurückerobern. "
+        },
+        {
+            "Key": 1222861557,
+            "Value": "AUFKLÄRUNGSKAMPAGNE"
+        },
+        {
+            "Key": 1227007866,
+            "Value": "Taktikausrüstung „RS-422-Railgun“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 1233597562,
+            "Value": "Biogenetik-Start-up füllt Vulkan mit mutierten Riesen-Popcorn-Körnern."
+        },
+        {
+            "Key": 1234134964,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1245451289,
+            "Value": "VERTEIDIGUNG"
+        },
+        {
+            "Key": 1248590461,
+            "Value": "WIDERSTAND"
+        },
+        {
+            "Key": 1248749717,
+            "Value": "STARKE HITZE"
+        },
+        {
+            "Key": 1248813848,
+            "Value": "Historiker haben festgestellt, dass „Gaslighting“ eine andere Bedeutung als bisher gedacht hat."
+        },
+        {
+            "Key": 1250959666,
+            "Value": "ERFOLGREICH"
+        },
+        {
+            "Key": 1256670303,
+            "Value": "7"
+        },
+        {
+            "Key": 1259927622,
+            "Value": "Die Taktikausrüstung „FAF-14-Speer“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 1260781333,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1269775050,
+            "Value": "Anzahl der pro Mission verfügbaren Verstärkungen ist vorübergehend um #V_ONE verringert."
+        },
+        {
+            "Key": 1269865237,
+            "Value": "Erster Helldiver-Vorstoß gegen die Terminiden ist ein „eindeutiger Erfolg“. "
+        },
+        {
+            "Key": 1274994819,
+            "Value": "Erfahrungsgewinn ist für alle Helldivers vorübergehend um #V_ONE % verringert."
+        },
+        {
+            "Key": 1275097566,
+            "Value": "Massive Feinde"
+        },
+        {
+            "Key": 1275858585,
+            "Value": "Auf Mission"
+        },
+        {
+            "Key": 1281626413,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1286783998,
+            "Value": "KRITISCHE BEDROHUNGSSTUFE"
+        },
+        {
+            "Key": 1287780346,
+            "Value": "Diese schützt das individuelle Recht auf den Besitz eines riesigen, mechanischen Roboters."
+        },
+        {
+            "Key": 1288283817,
+            "Value": "Völlig unvorhersehbare Mutationen durch das Termizid führten zu einem hyperbeschleunigten Bug-Wachstum auf diesem Planeten und machten ihn zu einer Superkolonie. Er ist verdorben und nicht mehr zu retten. Die Bugs befallen jeden Zentimeter bis zum Mantel und erzeugen täglich Billionen von Sporen."
+        },
+        {
+            "Key": 1297927281,
+            "Value": "Taktikausrüstung „‚Ballistischer Schild‘-Rucksack“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 1302721265,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1307362764,
+            "Value": "Mann tauscht riesige rote Büroklammer gegen Asteroid ein."
+        },
+        {
+            "Key": 1308260976,
+            "Value": "Taktikausrüstung „Guard Dog“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 1316641959,
+            "Value": "Taktikausrüstung-<i=1>Anforderungszeit</i> um <i=1>#V_ONE %</i> erhöht."
+        },
+        {
+            "Key": 1321624866,
+            "Value": "Eine unerwartete Terminidenwelle verzeichnet erhebliche Gebietsgewinne auf dem Planeten #V_ONE."
+        },
+        {
+            "Key": 1327984623,
+            "Value": "Die Zeit zum Abschließen aller Missionen ist vorübergehend um #V_ONE % erhöht."
+        },
+        {
+            "Key": 1330527915,
+            "Value": "#PLANET"
+        },
+        {
+            "Key": 1333202479,
+            "Value": "PLANETENBOMBARDIERUNG"
+        },
+        {
+            "Key": 1333514364,
+            "Value": "Solange noch mindestens eine Mega-Stadt steht, wird auch Über-Erde standhalten. Die Stärke der Illuminierten-Flotte muss dezimiert werden, bevor die letzte Stadt fällt."
+        },
+        {
+            "Key": 1334351473,
+            "Value": "Heldenhaftes Kindergartenkind identifiziert dissidenten Mitschüler."
+        },
+        {
+            "Key": 1335028754,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 1337083243,
+            "Value": "Taktikausrüstung „FLAM-40-Flammenwerfer“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 1341626796,
+            "Value": "Warnung: Wenn du eine neue Operation startest, wird deine derzeit aktive Operation aufgegeben."
+        },
+        {
+            "Key": 1351068056,
+            "Value": "Wird evakuiert"
+        },
+        {
+            "Key": 1351573785,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1352658065,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1360171009,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1362615920,
+            "Value": "DÜSTERNISSCHICHT MIT GERINGER DICHTE"
+        },
+        {
+            "Key": 1366592442,
+            "Value": "Die Taktikausrüstung „Lineares Orbitalsperrfeuer“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 1368910238,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1369704001,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1370699443,
+            "Value": "Die Taktikausrüstung „Lineares Orbitalsperrfeuer“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 1377558815,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1384800625,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1387189142,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1388682879,
+            "Value": "Anzahl der Spritzen, mit denen Helldivers in den Einsatz starten, ist vorübergehend um #V_ONE verringert."
+        },
+        {
+            "Key": 1389118231,
+            "Value": "Taktikausrüstung „Schwere MG-Stellung“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 1391161752,
+            "Value": "Demokratiefeindliche Aufständische wurden mit überwältigender Effizienz zusammengetrommelt."
+        },
+        {
+            "Key": 1393788306,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1394082721,
+            "Value": "Felszungen erstrecken sich über Feldern aus hohem Gras, die diesen Planeten mit seinem nebligen Hochland dominieren."
+        },
+        {
+            "Key": 1394558076,
+            "Value": "Vulkane auf diesem Planeten <i=1>schleudern brennendes Gestein</i>."
+        },
+        {
+            "Key": 1395641588,
+            "Value": "SCHWIERIGKEIT"
+        },
+        {
+            "Key": 1396646413,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1397951729,
+            "Value": "Die Taktikausrüstung „Raketengeschütz“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 1401075638,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1401708733,
+            "Value": "Forscher für Tod erklärt, nachdem Headset zur neuralen Kommunikation "
+        },
+        {
+            "Key": 1402635182,
+            "Value": "Heldenhafter Hund rettet Junge aus Plutonium-Minenschacht"
+        },
+        {
+            "Key": 1411615216,
+            "Value": "Verstärkungsanzahl ist nicht mehr erhöht."
+        },
+        {
+            "Key": 1414808501,
+            "Value": "ÜBERLEGENHEIT IN NIEDRIGER UMLAUFBAHN"
+        },
+        {
+            "Key": 1427924894,
+            "Value": "Dieser Planet erzeugt kontinuierlich eine dichte atmosphärische Düsternisschicht, was die logistische Unterstützung extrem erschwert.\nDie Gesamtverstärkungen sind um <i=1>20 %</i> verringert, die Dauer der Adler-Wiedereinsatzbereitschaft ist um <i=1>30 %</i> erhöht und die Munition aus Pickups um <i=1>50 %</i> verringert."
+        },
+        {
+            "Key": 1428514248,
+            "Value": "Operation aufgeben"
+        },
+        {
+            "Key": 1428857865,
+            "Value": "Abgefeuerte Kugeln"
+        },
+        {
+            "Key": 1430621983,
+            "Value": "Die Taktikausrüstung „380-mm-HE-Orbitalsperrfeuer“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 1432392942,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 1436541877,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1438391677,
+            "Value": "Medaillenverdienst ist nicht mehr verringert."
+        },
+        {
+            "Key": 1440367083,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1440732110,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1444097505,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1444453133,
+            "Value": "10"
+        },
+        {
+            "Key": 1448346078,
+            "Value": "<c=FF336666>LOKALE ZEIT-EINSTELLUNGEN:</c> <c=FF66cc99>#VALUE</c>"
+        },
+        {
+            "Key": 1448926797,
+            "Value": "Trifft ein in:"
+        },
+        {
+            "Key": 1449862733,
+            "Value": "6"
+        },
+        {
+            "Key": 1455812852,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1460918234,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 1466494124,
+            "Value": "Granatenkapazität wird für alle Helldivers um #V_ONE erhöht."
+        },
+        {
+            "Key": 1467045295,
+            "Value": "TRIVIAL"
+        },
+        {
+            "Key": 1469457772,
+            "Value": "Taktikausrüstung „M-105-Stalwart“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 1469579845,
+            "Value": "Effektivität von <i=1>#V_ONE</i> ist vorübergehend um #V_TWO % erhöht."
+        },
+        {
+            "Key": 1470428275,
+            "Value": "Operation Wall der Tapferkeit in einer Krise."
+        },
+        {
+            "Key": 1486726561,
+            "Value": "Netzwerk zur Terminiden-Abwehr ist nach Einrichtung eines Kordons einsatzbereit."
+        },
+        {
+            "Key": 1495667994,
+            "Value": "Die Taktikausrüstung „Adler – Luftgefechtsraketen“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 1500272076,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1509118015,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1511294332,
+            "Value": "Das ewig kalte Klima lässt kleine, bunte Sträucher auf der Oberfläche des Planeten gedeihen."
+        },
+        {
+            "Key": 1511706843,
+            "Value": "Neue Studie durch Terminiden-Angriff tragischerweise vorzeitig abgebrochen."
+        },
+        {
+            "Key": 1518361384,
+            "Value": "ROBOTER-ANGRIFF"
+        },
+        {
+            "Key": 1519537554,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1523141570,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1541244759,
+            "Value": "Auf diesem Planeten gibt es einen tödlichen Stamm Terminiden, die den Boden, aus dem sie hervorbrechen, spalten."
+        },
+        {
+            "Key": 1542765264,
+            "Value": "oder wir senden dich dorthin“ stecken hinter feindlichen Linien fest."
+        },
+        {
+            "Key": 1544020724,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1548482629,
+            "Value": "Folgen von Planetenbrechern: Verwüstung."
+        },
+        {
+            "Key": 1549509767,
+            "Value": "ROBOTER-KONTROLLE"
+        },
+        {
+            "Key": 1550801594,
+            "Value": "Medaillenverdienst ist nicht mehr erhöht."
+        },
+        {
+            "Key": 1552724045,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 1554224329,
+            "Value": "Villa verloren in <i=1>#TIME</i>."
+        },
+        {
+            "Key": 1555761967,
+            "Value": "LEICHT"
+        },
+        {
+            "Key": 1562007656,
+            "Value": "ROBOTER-BLOCKADEWELTEN"
+        },
+        {
+            "Key": 1563519737,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1571419000,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1574302876,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 1579975284,
+            "Value": "Die Illuminierten greifen unsere florierenden Kolonien an, errichten seltsame Bauwerke und terrorisieren unsere loyalen Bürger. Obwohl ihr Ziel nicht die Eroberung von Planeten zu sein scheint, muss ihre Invasion dennoch abgewehrt werden, bevor sie ihre geheimnisvollen, böswilligen Ziele erreichen können."
+        },
+        {
+            "Key": 1581316934,
+            "Value": "DER GALAKTISCHE KRIEG"
+        },
+        {
+            "Key": 1581728388,
+            "Value": "Die Taktikausrüstung „Automatisches Kanonengeschütz“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 1586771010,
+            "Value": "ZERMÜRBUNG"
+        },
+        {
+            "Key": 1588699686,
+            "Value": "Fliegende Kanonenschiffe patrouillieren das Schlachtfeld."
+        },
+        {
+            "Key": 1592659928,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1594223240,
+            "Value": "Taktikausrüstung „Gatlinggeschütz“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 1600569559,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1601524508,
+            "Value": "BEFEHLE"
+        },
+        {
+            "Key": 1606297654,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1610686869,
+            "Value": "KAMPAGNE WÄHLEN"
+        },
+        {
+            "Key": 1616831615,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1617408679,
+            "Value": "Phasen mit eisigen Temperaturen <i=1>reduzieren die Feuerrate</i> und <i=1>verzögen die Wärmeentwicklung von Waffen</i>."
+        },
+        {
+            "Key": 1619497901,
+            "Value": "Ultimatives Ziel der Roboter scheint laut Verteidigungsministerium Über-Erde selbst zu sein."
+        },
+        {
+            "Key": 1623115737,
+            "Value": "Die Taktikausrüstung „Sprungpaket“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 1624199958,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1624648166,
+            "Value": "Taktikausrüstung „Automatische Kanone AC-8“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 1628213888,
+            "Value": "DÜSTERNISSCHICHT MIT MITTLERER DICHTE"
+        },
+        {
+            "Key": 1633278767,
+            "Value": "Die Taktikausrüstung „SAR-1-Scharfschützengewehr“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 1637889699,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1645271001,
+            "Value": "Kommunikationsprobleme aus dem Terminiden-Quarantänebereich."
+        },
+        {
+            "Key": 1649129897,
+            "Value": "BEFREIUNGSEREIGNIS"
+        },
+        {
+            "Key": 1651478897,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1657318854,
+            "Value": "in"
+        },
+        {
+            "Key": 1657727475,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1660724659,
+            "Value": "MISSION STARTEN"
+        },
+        {
+            "Key": 1673988944,
+            "Value": "Mögliche Einsätze der Taktikausrüstung <i=1>#V_ONE</i> sind nicht mehr verringert."
+        },
+        {
+            "Key": 1679117955,
+            "Value": "VERTEIDIGUNGSFORTSCHRITT"
+        },
+        {
+            "Key": 1683637306,
+            "Value": "GEFÜLLTE RÄNGE"
+        },
+        {
+            "Key": 1695074190,
+            "Value": "Die Taktikausrüstung „Schildgenerator-Rucksack“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 1698977452,
+            "Value": "Riesenpandas offiziell ausgestorben; Wert von „Riesenpanda-Bot“-ETF schießt in die Höhe."
+        },
+        {
+            "Key": 1703319218,
+            "Value": "ZUM FREISCHALTEN EINE OPERATION DER#CR_NEWLINE SCHWIERIGKEIT <c=FFFFFFFF>#CR_DESC</c> ABSCHLIESSEN"
+        },
+        {
+            "Key": 1709336004,
+            "Value": "LAUFENDE MISSIONEN WERDEN GESUCHT"
+        },
+        {
+            "Key": 1711370733,
+            "Value": "Erhöhte Feindpräsenz"
+        },
+        {
+            "Key": 1714339271,
+            "Value": "Nahkampfschaden wird um #V_ONE % verringert."
+        },
+        {
+            "Key": 1715337177,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1728812511,
+            "Value": "DICHTER NEBEL"
+        },
+        {
+            "Key": 1734037268,
+            "Value": "VERTEIDIGE"
+        },
+        {
+            "Key": 1739141267,
+            "Value": "nach erfolgreich durchgeführten Nuklearwaffentests."
+        },
+        {
+            "Key": 1740259294,
+            "Value": "Die Taktikausrüstung „Adler – 500-kg-Bombe“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 1741687388,
+            "Value": "SCHWARZES LOCH IN MERIDIA"
+        },
+        {
+            "Key": 1741704172,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1744150534,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1752849254,
+            "Value": "Raumschiff von Theseus Stück für Stück zerstört."
+        },
+        {
+            "Key": 1753680151,
+            "Value": "Die Taktikausrüstung „Vorratsrucksack“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 1760171012,
+            "Value": "DIE JET-BRIGADE"
+        },
+        {
+            "Key": 1761921686,
+            "Value": "Magazinanzahl ist nicht mehr verringert."
+        },
+        {
+            "Key": 1762114919,
+            "Value": "PILOTENMANGEL"
+        },
+        {
+            "Key": 1766099987,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1766576141,
+            "Value": "Anzahl der Magazine, mit denen Helldivers in den Einsatz starten, ist für alle Waffen vorübergehend um #V_ONE erhöht."
+        },
+        {
+            "Key": 1766908181,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 1768195961,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1771161994,
+            "Value": "Generalbefehl erwarten"
+        },
+        {
+            "Key": 1773290147,
+            "Value": "Startet in:"
+        },
+        {
+            "Key": 1775857616,
+            "Value": "Anzahl der Granaten, mit denen Helldivers in den Einsatz starten, ist vorübergehend um #V_ONE verringert."
+        },
+        {
+            "Key": 1775883134,
+            "Value": "Missionszeitverringerung ist nicht mehr aktiv."
+        },
+        {
+            "Key": 1776442652,
+            "Value": "Mittlere Außenposten"
+        },
+        {
+            "Key": 1776879455,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1784509355,
+            "Value": "Ein patriotisches Wunder? Frau auf Pioneer II entdeckt Flagge von Über-Erde in ihrem Toast."
+        },
+        {
+            "Key": 1788938205,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1794880589,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1798420664,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1808133179,
+            "Value": "SCHLACHT UM ÜBER-ERDE"
+        },
+        {
+            "Key": 1810147530,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1813268956,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1816240066,
+            "Value": "SEKTORKARTE"
+        },
+        {
+            "Key": 1820072234,
+            "Value": "Sonnensturm Edna neu eingestuft als Sonnenorkan Edna."
+        },
+        {
+            "Key": 1821642638,
+            "Value": "PLANETARER BRUCH BESTÄTIGT"
+        },
+        {
+            "Key": 1832315388,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1834073347,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1834399666,
+            "Value": "Zerstöre die Roboter-Superwaffe."
+        },
+        {
+            "Key": 1834813801,
+            "Value": "Rache-Orbitalschlag ist nicht mehr aktiv."
+        },
+        {
+            "Key": 1840983393,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1841826768,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1842722237,
+            "Value": "TAKTIKAUSRÜSTUNGSEINSPARUNG"
+        },
+        {
+            "Key": 1843987253,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1856257560,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1857535277,
+            "Value": "Spritzenkapazität wird für alle Helldivers um #V_ONE verringert."
+        },
+        {
+            "Key": 1860113674,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1861781896,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1863900176,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1865943011,
+            "Value": "Gesetz über „Meinungsfreiheit“ wird verabschiedet "
+        },
+        {
+            "Key": 1867310690,
+            "Value": "Die Meridian-Singularität wird schneller, je mehr Dunkle Energie sich ansammelt."
+        },
+        {
+            "Key": 1869076182,
+            "Value": "UNBEKANNTE SIGNATUR"
+        },
+        {
+            "Key": 1869137776,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1876911081,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1877124884,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1881325251,
+            "Value": "ZINNKNAPPHEIT"
+        },
+        {
+            "Key": 1882056404,
+            "Value": "Auf dem Planeten #V_ONE geht Boden nicht mehr schneller verloren."
+        },
+        {
+            "Key": 1898505845,
+            "Value": "C.O.B. Genetics spendet den Mais des letzten Jahres an hungrige Kühe."
+        },
+        {
+            "Key": 1899890705,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1905746110,
+            "Value": "Aussichtsvolle neue Studie stellt Verbindung zwischen 4-D-Kino und Gewalt in der echten Welt her."
+        },
+        {
+            "Key": 1909834013,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1910438702,
+            "Value": "Die Taktikausrüstung „Raketengeschütz“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 1910935327,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1914480073,
+            "Value": "Taktikausrüstung „TS-4-Bogenwerfer“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 1916939864,
+            "Value": "Rip Gustafson gewinnt noch einen weiteren Mr.-Multiverse-Wettbewerb."
+        },
+        {
+            "Key": 1918416101,
+            "Value": "Astronomen identifizieren vielversprechenden neuen Exoplaneten zur Besiedlung."
+        },
+        {
+            "Key": 1920797433,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1922856298,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1926911363,
+            "Value": "Erobere #SECTOR."
+        },
+        {
+            "Key": 1927541015,
+            "Value": "SCAN LÄUFT ..."
+        },
+        {
+            "Key": 1939963888,
+            "Value": "Helldivers vom Kampf gegen Roboter zurück zu Terminiden geleitet."
+        },
+        {
+            "Key": 1941457820,
+            "Value": "SPORENBERSTER-STAMM"
+        },
+        {
+            "Key": 1942440765,
+            "Value": "Die Überreste eines von der Meridian-Singularität zerstörten Planeten. Eine bedrückende Erinnerung an die Verwüstung, die die Tyrannei hinterlässt."
+        },
+        {
+            "Key": 1949115573,
+            "Value": "Starkregen <i=1>beeinträchtigt die Sicht</i>."
+        },
+        {
+            "Key": 1954812789,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1954863675,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1956121965,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1959551110,
+            "Value": "1"
+        },
+        {
+            "Key": 1959596684,
+            "Value": "ORBITALSCHWANKUNGEN"
+        },
+        {
+            "Key": 1960029036,
+            "Value": "INVASIONSKAMPAGNE"
+        },
+        {
+            "Key": 1960734304,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1962232551,
+            "Value": "ABFALLREDUZIERUNGSINITIATIVE"
+        },
+        {
+            "Key": 1971579583,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1981927828,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1985114247,
+            "Value": "WENIG INFORMATIONEN"
+        },
+        {
+            "Key": 1986627572,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 1991087075,
+            "Value": "Anzahl der Spritzen, mit denen Helldivers in den Einsatz starten, ist vorübergehend um #V_ONE erhöht."
+        },
+        {
+            "Key": 1991556873,
+            "Value": "Die Taktikausrüstung „Gatling-Orbitalsperrfeuer“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 1999107264,
+            "Value": "Evakuierungszeit ist nicht mehr verlängert."
+        },
+        {
+            "Key": 2000175962,
+            "Value": "Der Abschluss dieser Operation hilft dabei, diese Mega-Stadt zu halten. Sobald eine Mega-Stadt gefallen ist, kann sie nicht zurückerobert werden."
+        },
+        {
+            "Key": 2002849930,
+            "Value": "Taktikausrüstung „Adler – 110-mm-Raketen-Pods“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 2011403767,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2012858935,
+            "Value": "Spritzenkapazität ist für alle Helldivers vorübergehend um #V_ONE erhöht."
+        },
+        {
+            "Key": 2021607808,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2021867720,
+            "Value": "SCHNEESTÜRME"
+        },
+        {
+            "Key": 2022304852,
+            "Value": "Die Taktikausrüstung „Adler – 110-mm-Raketen-Pods“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 2023248821,
+            "Value": "Die Taktikausrüstung „Orbital-Gasangriff“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 2030180306,
+            "Value": "Die Taktikausrüstung „Schildgenerator-Relais“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 2035440895,
+            "Value": "SEKTORINVASION ENTDECKT"
+        },
+        {
+            "Key": 2036938262,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2039291506,
+            "Value": "TERMINID-INVASION"
+        },
+        {
+            "Key": 2042181890,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2042223451,
+            "Value": "Präsident genehmigt Einsatz von „Planetenbrecher“-Ladungen zur Terminiden-Bekämpfung."
+        },
+        {
+            "Key": 2050925525,
+            "Value": "EXOANZUG-RESERVEN"
+        },
+        {
+            "Key": 2051691805,
+            "Value": "Die Taktikausrüstung <i=1>#V_ONE</i> steht den Helldivers nicht zur Verfügung."
+        },
+        {
+            "Key": 2052096401,
+            "Value": "Die Taktikausrüstung „RS-422-Railgun“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 2055421011,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2056147079,
+            "Value": "Mehrere Operationsmodifikatoren"
+        },
+        {
+            "Key": 2056979701,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2057952192,
+            "Value": "3"
+        },
+        {
+            "Key": 2061243786,
+            "Value": "Bei einem weiteren glorreichen Märtyrer-Tag wurde die Helden-Wand um 79 Millionen Namen erweitert."
+        },
+        {
+            "Key": 2064126481,
+            "Value": "Die Taktikausrüstung „Rückstoßfreies Gewehr AT-48“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 2067880461,
+            "Value": "STEROIDZUSÄTZE"
+        },
+        {
+            "Key": 2069462311,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2069818539,
+            "Value": "Die Taktikausrüstung „Adler – Luftgefechtsraketen“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 2071377108,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2072040952,
+            "Value": "Feindliche Taktikziele"
+        },
+        {
+            "Key": 2074393271,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 2077769934,
+            "Value": " tödlichen Hoverboarding-Unfälle für unschuldig erklärt."
+        },
+        {
+            "Key": 2087852427,
+            "Value": "Granatenkapazität ist nicht mehr verringert."
+        },
+        {
+            "Key": 2088267641,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2090195605,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2092128075,
+            "Value": "<c=FF336666>GEFEUERTE KUGELN: #VALUE</c>"
+        },
+        {
+            "Key": 2093838115,
+            "Value": "Evakuierungszeit ist vorübergehend um #V_TWO Sekunden verlängert."
+        },
+        {
+            "Key": 2094457118,
+            "Value": "#PERCENTAGE % BEFREIT"
+        },
+        {
+            "Key": 2098091969,
+            "Value": "GENERALBEFEHL-BELOHNUNG"
+        },
+        {
+            "Key": 2101006324,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2102410972,
+            "Value": "Jeder Befehl ist mit einer feindlichen Fraktion und einem Ort im Weltraum verbunden, der durch ein Symbol auf der Karte dargestellt wird."
+        },
+        {
+            "Key": 2107483823,
+            "Value": "Spritzenkapazität ist nicht mehr verringert."
+        },
+        {
+            "Key": 2114321379,
+            "Value": "EHEMALIGE ÜBER-ERDE-KOLONIE"
+        },
+        {
+            "Key": 2115313058,
+            "Value": "Die Taktikausrüstung „Nachschub“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 2116313662,
+            "Value": "Evakuierung dauert #V_TWO Sekunden länger."
+        },
+        {
+            "Key": 2117228825,
+            "Value": "SEKTOR WÄHLEN"
+        },
+        {
+            "Key": 2121224478,
+            "Value": "Neue bärenartige Spezies auf Ridge World entdeckt. Als undemokratisch anerkannt und umgehend eliminiert."
+        },
+        {
+            "Key": 2129095230,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 2135009396,
+            "Value": "Taktikausrüstung „Mörsergeschütz“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 2137542345,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2138647213,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2143388062,
+            "Value": "SUPER-HELLDIVE"
+        },
+        {
+            "Key": 2144369469,
+            "Value": "Die Taktikausrüstung „Verteidigungswall“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 2144846208,
+            "Value": "BETRITT DAS KOLOSSEUM: ROBOTER VS. BUG – WER WIRD GEWINNEN!?"
+        },
+        {
+            "Key": 2146730072,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2149309645,
+            "Value": "ORBITAL-BLOCKADE"
+        },
+        {
+            "Key": 2149389475,
+            "Value": "Eine durch die Düsternis ausgelöste Mutation sorgt dafür, dass die Terminiden auf diesem Planeten überschüssige Sporen erzeugen, die bei ihrem Ableben explosionsartig freigesetzt werden. Diese insektoiden Extremisten demonstrieren eine unnatürliche Missachtung des Lebens und schrecken vor nichts zurück, um ihre Verderbnis zu verbreiten."
+        },
+        {
+            "Key": 2151089975,
+            "Value": "Die Taktikausrüstung <i=1>#V_ONE</i> steht allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 2156619321,
+            "Value": "Nahkampfschaden ist nicht mehr verringert."
+        },
+        {
+            "Key": 2158648524,
+            "Value": "Die Düsternis bedeckt diesen Planeten vollständig und erschwert eine Vielzahl logistischer Operationen.\nDie Evakuierungszeiten verlängern sich um <i=1>30 Sekunden</i> und die Dauer der Adler-Wiedereinsatzbereitschaft ist um <i=1>20 %</i> erhöht."
+        },
+        {
+            "Key": 2158877299,
+            "Value": "PLANETENBOMBARDIERUNG"
+        },
+        {
+            "Key": 2163192956,
+            "Value": "<c=FF336666>LÄNGENGRAD:</c> <c=FF66cc99>#VALUE</c>"
+        },
+        {
+            "Key": 2171531708,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2171714381,
+            "Value": "Feindpatrouillen"
+        },
+        {
+            "Key": 2172345078,
+            "Value": "Dieser dunkle Abgrund ist alles, was von dem grünen Paradies, das Meridia einst war, geblieben ist. Die atemberaubenden Wälder und üppigen Ressourcen wurden von den Terminiden verdorben und zerstört, weshalb uns keine andere Wahl blieb, als Dunkles Fluid einzusetzen, um den Planeten vollständig zu zerstören. Jetzt bleibt diese Singularität als Mahnmal bestehen und erinnert uns alle daran, was passiert, wenn man sich der Freiheit widersetzt."
+        },
+        {
+            "Key": 2186316023,
+            "Value": "OPERATIONSMODIFIKATOREN"
+        },
+        {
+            "Key": 2188248277,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2189446260,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 2190082137,
+            "Value": "KOLONIE-MISSION"
+        },
+        {
+            "Key": 2195933349,
+            "Value": "Auf dem Planeten #V_ONE geht Boden nicht mehr schneller verloren."
+        },
+        {
+            "Key": 2197061274,
+            "Value": "<i=1>Taktikausrüstung-Codes</i> verschlüsselt."
+        },
+        {
+            "Key": 2197155395,
+            "Value": "Nach tagelangem Kampf ist <i=1>Gaellivare</i> in die Hände der <i=1>Jet-Brigade</i> der Roboter gefallen. Doch dank der intelligenten Manöver der Helldivers befindet sich die <i=1>DRS</i> sicher außerhalb ihrer Reichweite.\nDie Helldivers haben bei ihrer demokratischen Leitung der DRS eine unbestreitbare taktische Brillanz an den Tag gelegt und einmal mehr bewiesen, warum sie als die Elite-Streitkraft der Galaxie bekannt sind. Ihre Bemühungen hielten den Angriff der Roboter lange genug auf, um die Evakuierung einer großen Anzahl an Bürgern zu ermöglichen, von denen viele bei der Konstruktion der Raumstation geholfen haben.\nDie <i=1>Jet-Brigade</i> bleibt eine erhebliche Bedrohung. Unterdessen dauert die durch den plötzlichen und schockierenden Ausbruch im <i=1>Terminiden-Forschungszentrum</i> ausgelöste Krise an. Die Aufstockung des Arsenals der Freiheit mit der DRS, selbst in ihrem eingeschränkten Zustand, hätte zu keinem besseren Zeitpunkt kommen können. Die gelenkte Demokratie ist in Gefahr und wir brauchen jede Waffe, die uns zur Verfügung steht."
+        },
+        {
+            "Key": 2201953643,
+            "Value": "BEBEN"
+        },
+        {
+            "Key": 2204300642,
+            "Value": "Endet in:"
+        },
+        {
+            "Key": 2208700795,
+            "Value": "Informiere dich im <i=1>Nachrichten-Feed</i> über die aktuellsten Geschehnisse im Galaktischen Krieg.\n\nDie neuesten Ereignisse werden automatisch angezeigt!"
+        },
+        {
+            "Key": 2209565657,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2211654071,
+            "Value": "S.E.A.F.-Streitkräfte verlieren weiteren Planeten an vorrückende Roboter."
+        },
+        {
+            "Key": 2214315056,
+            "Value": "STADTBEFREIUNGS-FORTSCHRITT"
+        },
+        {
+            "Key": 2217090127,
+            "Value": "Wird abgefeuert in:"
+        },
+        {
+            "Key": 2222856057,
+            "Value": "Letzter überlebender Held des Ersten Galaktischen Kriegs stirbt mit 103; „Größte Ehre“ war sein Dienst."
+        },
+        {
+            "Key": 2229540422,
+            "Value": "GENERALBEFEHLE"
+        },
+        {
+            "Key": 2236873416,
+            "Value": "Zurückhalten"
+        },
+        {
+            "Key": 2237848324,
+            "Value": "mit Hunden sich mit Wölfen in der Nähe verband."
+        },
+        {
+            "Key": 2239744702,
+            "Value": "Vollständige Mobilmachung ausgerufen: „Über-Erde befindet sich im Krieg“, sagt der Präsident."
+        },
+        {
+            "Key": 2241719727,
+            "Value": "Die Taktikausrüstung „Gatlinggeschütz“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 2243848952,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2245317431,
+            "Value": "DETAILS AUSBLENDEN"
+        },
+        {
+            "Key": 2251917506,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2253660066,
+            "Value": "Dieses schwarze Loch ist alles, was von dem einzigartig schönen Planeten, der Moradesh einst war, geblieben ist. Seine endlosen wellenförmigen Dünen und reichhaltigen Ressourcen wurden durch einen unvermeidlichen Unfall in der Forschungseinrichtung für Dunkles Fluid zerstört, als deren heldenhafte Wissenschaftler versuchten, unsere Bürger vor der ersten Terminiden-Superkolonie zu retten. Die Terminiden haben uns Moradesh genommen und diese Narbe als Erinnerung an ihre grenzenlose Barbarei hinterlassen."
+        },
+        {
+            "Key": 2254072857,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2256945266,
+            "Value": "Das blendende Leuchtfeuer, das alle Sterne im Licht der Demokratie erstrahlen lässt. Ein patriotisches Paradies für Bürger, die ihrer Föderation mit Leib und Seele verpflichtet sind. Und ein Beispiel für die utopische Zukunft, die den Rest der Galaxie erwartet."
+        },
+        {
+            "Key": 2267936639,
+            "Value": "Das leblose Grau dieses Planeten wird nur von den violetten Blumen unterbrochen, die aus seltsamen, parasitären Vorkommen wachsen."
+        },
+        {
+            "Key": 2271311985,
+            "Value": "GRAVITATIONSKOLLAPS BESTÄTIGT"
+        },
+        {
+            "Key": 2274321752,
+            "Value": "STADTMISSION"
+        },
+        {
+            "Key": 2275368038,
+            "Value": "Taktikausrüstung „Automatisches Kanonengeschütz“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 2276221414,
+            "Value": "ILLUMINIERTEN-ZIELE ERREICHT: #TIME"
+        },
+        {
+            "Key": 2284968224,
+            "Value": "Spritzenkapazität ist für alle Helldivers vorübergehend um #V_ONE verringert."
+        },
+        {
+            "Key": 2285096076,
+            "Value": "Hinhalten"
+        },
+        {
+            "Key": 2288853684,
+            "Value": "Beschütze die Präsidentenvilla!"
+        },
+        {
+            "Key": 2292582320,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2293035076,
+            "Value": "Operationsmodifikatoren"
+        },
+        {
+            "Key": 2294037091,
+            "Value": "ZU EINEM FRONTPLANETEN MOBILISIEREN"
+        },
+        {
+            "Key": 2295362658,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2296962065,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2307358133,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2310758180,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2311243214,
+            "Value": "BEFREIUNG"
+        },
+        {
+            "Key": 2313692969,
+            "Value": "Experte für Infektionskrankheiten bezeichnet die Verbreitung von Terminiden als „Epidemie“."
+        },
+        {
+            "Key": 2328985689,
+            "Value": "Orbital-Taktikausrüstung-<i=1>Streuung erhöht</i>."
+        },
+        {
+            "Key": 2333231349,
+            "Value": "8"
+        },
+        {
+            "Key": 2337517887,
+            "Value": "ILLUMINIERTEN-FLOTTE"
+        },
+        {
+            "Key": 2337748496,
+            "Value": "Die Taktikausrüstung „120-mm-HE-Orbitalschlag“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 2340829721,
+            "Value": "Feindliche Kräfte versuchen, diesen Planeten zu erobern! Dränge sie zurück, indem du Spezialmissionen innerhalb der vorgegebenen Zeit spielst, sonst fällt der Planet in Feindeshand."
+        },
+        {
+            "Key": 2346647635,
+            "Value": "Erfahrungsgewinn wird für alle Helldivers um #V_ONE % erhöht."
+        },
+        {
+            "Key": 2347407351,
+            "Value": "DER GALAKTISCHE KRIEG"
+        },
+        {
+            "Key": 2350760417,
+            "Value": "Auf dem Planeten #V_ONE geht Boden schneller verloren als zuvor."
+        },
+        {
+            "Key": 2350849714,
+            "Value": "Die Taktikausrüstung „Anti-Personen-Minenleger“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 2358017004,
+            "Value": "Die Illuminierten breiten sich auf diesem Planeten aus und bemächtigen sich unserer Kolonien und Bürger.  Sie müssen ausgelöscht werden."
+        },
+        {
+            "Key": 2365925959,
+            "Value": "„Mein Sohn war ein Roboter-Sympathisant.“ Die tapfere Entscheidung einer Mutter, ihren Sohn auszuliefern."
+        },
+        {
+            "Key": 2370462133,
+            "Value": "Taktikausrüstung <i=1>#V_ONE</i> steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 2371122801,
+            "Value": "S.E.A.F. wird im Kampf gegen Bots durch begrenzte Helldiver-Operationen verstärkt."
+        },
+        {
+            "Key": 2371709060,
+            "Value": "Das wohlhabende Meridia wurde zu einer verdorbenen Terminiden-Superkolonie, die mithilfe des mysteriösen Dunklen Fluids zerstört werden musste. Diese galaktische Narbe ist alles, was bleibt."
+        },
+        {
+            "Key": 2373683900,
+            "Value": "INVASIONSSTUFE"
+        },
+        {
+            "Key": 2376871409,
+            "Value": "Magazinanzahl ist nicht mehr erhöht."
+        },
+        {
+            "Key": 2383194414,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2386528247,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2388346408,
+            "Value": "Auf diesem Planeten ist eine Roboter-Einheit aktiv, die mit Flammenwerfern und Brandmunition ausgestattet ist. Diese schamlosen Brandstifter werden nicht eher ruhen, bis sie alles niedergebrannt haben, was der Menschheit lieb und teuer ist."
+        },
+        {
+            "Key": 2390390042,
+            "Value": "2"
+        },
+        {
+            "Key": 2393862676,
+            "Value": "TERMINIDEN-QUARANTÄNEBEREICH"
+        },
+        {
+            "Key": 2396194048,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2399209115,
+            "Value": "DAS BRANDKORPS"
+        },
+        {
+            "Key": 2399790664,
+            "Value": "Neues Sturmgewehr aus dem 3D-Drucker kann defensiv bis zu 30 Bugs pro Sekunde töten."
+        },
+        {
+            "Key": 2406613085,
+            "Value": "Taktikausrüstung „Schildgenerator-Relais“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 2410601166,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2411531247,
+            "Value": "Die Große Armada der Illuminierten überschwemmt diesen Planeten. Sie müssen dezimiert werden."
+        },
+        {
+            "Key": 2413997357,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2415134279,
+            "Value": "EINGENOMMENES GEBIET"
+        },
+        {
+            "Key": 2415162749,
+            "Value": "Erfahrungsgewinn ist für alle Helldivers vorübergehend um #V_ONE % erhöht."
+        },
+        {
+            "Key": 2416591458,
+            "Value": "Abklingzeit für Taktikausrüstung <i=1>#V_ONE</i> wird um #V_TWO verringert."
+        },
+        {
+            "Key": 2417525045,
+            "Value": "MISSION"
+        },
+        {
+            "Key": 2422343601,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2431191520,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2435973138,
+            "Value": "Umweltkatastrophe oder Wirtschaftswunder? Absturz eines Raumtransporters "
+        },
+        {
+            "Key": 2444029825,
+            "Value": "LIVE-FEED"
+        },
+        {
+            "Key": 2449061412,
+            "Value": "<i=1>#V_ONE</i> steht allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 2459288933,
+            "Value": "von"
+        },
+        {
+            "Key": 2459634787,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2460265460,
+            "Value": "Kampagnen mit hoher Priorität enthalten einzigartige Missionen zum aktuellen Generalbefehl. Über-Erde befreit Planeten im Zuge von Kampagnen mit hoher Priorität genauso wie bei Befreiungskampagnen."
+        },
+        {
+            "Key": 2463363546,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2466622891,
+            "Value": "<c=FF4EE077>MITTEL</c>"
+        },
+        {
+            "Key": 2471906713,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2474213151,
+            "Value": "Die Taktikausrüstung „Orbital-Schienenkanone“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 2479997013,
+            "Value": "Die Taktikausrüstung „SAR-1-Scharfschützengewehr“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 2480987539,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2481539336,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2481837058,
+            "Value": "Zurückschlagen"
+        },
+        {
+            "Key": 2489679843,
+            "Value": "SCHWIERIGKEIT"
+        },
+        {
+            "Key": 2490822601,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2495155753,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2495253146,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2500643197,
+            "Value": "MISSIONSSTANDORT"
+        },
+        {
+            "Key": 2501573715,
+            "Value": "Detoniert in:"
+        },
+        {
+            "Key": 2504204569,
+            "Value": "Universität Über-Erde führt neuen standardisierten Patriotismus-Test zur Zulassungsprüfung ein."
+        },
+        {
+            "Key": 2510020937,
+            "Value": "OPERATIONSAUSWIRKUNG"
+        },
+        {
+            "Key": 2512194864,
+            "Value": "STADTVERTEIDIGUNGSSTATUS"
+        },
+        {
+            "Key": 2517836643,
+            "Value": "Wir erobern passiv Boden auf dem Planeten #V_ONE zurück."
+        },
+        {
+            "Key": 2519645656,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2520638833,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2526165328,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2528469051,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2533196689,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2537322567,
+            "Value": "Die Taktikausrüstung „Adler – 110-mm-Raketen-Pods“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 2539164536,
+            "Value": "FORTSCHRITT VON KAMPAGNE MIT HOHER PRIORITÄT"
+        },
+        {
+            "Key": 2542905200,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2544350923,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2547716136,
+            "Value": "auf"
+        },
+        {
+            "Key": 2552962615,
+            "Value": "Mehr Teilnehmer von „Errate, auf welchem Planeten du stehst "
+        },
+        {
+            "Key": 2553646586,
+            "Value": "Die Taktikausrüstung „ST-1-Stinger“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 2555770549,
+            "Value": "ORBITAL-VERTEIDIGUNG"
+        },
+        {
+            "Key": 2568918320,
+            "Value": "Abklingzeit für Taktikausrüstung <i=1>#V_ONE</i> ist vorübergehend um #V_TWO erhöht."
+        },
+        {
+            "Key": 2569598906,
+            "Value": "Die Taktikausrüstung „Rückstoßfreies Gewehr AT-48“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 2570684122,
+            "Value": "METEORSCHAUER"
+        },
+        {
+            "Key": 2574842690,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2577515503,
+            "Value": "KAMPAGNENSTATUS"
+        },
+        {
+            "Key": 2579047542,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2592792787,
+            "Value": "#GRADE (#PERCENT %)"
+        },
+        {
+            "Key": 2604396474,
+            "Value": "UPDATE ZUM GALAKTISCHEN KRIEG"
+        },
+        {
+            "Key": 2606603087,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2608634901,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2611035692,
+            "Value": "Abklingzeit für Taktikausrüstung <i=1>#V_ONE</i> ist nicht mehr verringert."
+        },
+        {
+            "Key": 2615229268,
+            "Value": "Die Taktikausrüstung „Schwere MG-Stellung“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 2616020441,
+            "Value": "Jetzt ansehen: Ein Helldiver kehrt nach 4 Jahren des Einsatzes zu seinem Roboterhund-Partner zurück."
+        },
+        {
+            "Key": 2618604845,
+            "Value": "Eine gefrorene Welt mit einer dicken Eisschicht, die nur gelegentlich von rötlichen Felsen und schwammartigem Moos durchbrochen wird."
+        },
+        {
+            "Key": 2621267569,
+            "Value": "PLANET"
+        },
+        {
+            "Key": 2633483286,
+            "Value": "Taktikausrüstung <i=1>#V_ONE</i> ist wieder verfügbar (falls gekauft)."
+        },
+        {
+            "Key": 2634188326,
+            "Value": "Schaltet neue entdeckbare Proben und Gegnerarten frei."
+        },
+        {
+            "Key": 2635572434,
+            "Value": "Mögliche Einsätze der Taktikausrüstung <i=1>#V_ONE</i> werden um #V_TWO erhöht."
+        },
+        {
+            "Key": 2635626170,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2637750421,
+            "Value": "Die Taktikausrüstung „MG-43-Maschinengewehr“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 2640264077,
+            "Value": "LEERER PLATZ"
+        },
+        {
+            "Key": 2645020198,
+            "Value": "Dichte Sandstürme <i=1>beeinträchtigen die Sicht</i>."
+        },
+        {
+            "Key": 2648438993,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2650537364,
+            "Value": "Beamte des Wissenschaftsministeriums stellen fest, dass Roboter eine beispiellose Massenproduktionstechnologie verwenden."
+        },
+        {
+            "Key": 2652834629,
+            "Value": "Überwacht unerklärliche Raumzeit-Fluktuationen."
+        },
+        {
+            "Key": 2654681255,
+            "Value": "MUNITIONSÜBERSCHUSS"
+        },
+        {
+            "Key": 2662096373,
+            "Value": "OPERATION GESCHEITERT"
+        },
+        {
+            "Key": 2665279633,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2668736157,
+            "Value": "Die Taktikausrüstung „Automatische Kanone AC-8“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 2674681081,
+            "Value": "Die Taktikausrüstung „Orbital-EMS-Feuer“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 2679897061,
+            "Value": "Spritzenkapazität wird für alle Helldivers um #V_ONE erhöht."
+        },
+        {
+            "Key": 2683120236,
+            "Value": "Neue Studie offenbart Patriotismus als ##1 Anzeichen für Zufriedenheit, Langlebigkeit und Gewichtsverlust."
+        },
+        {
+            "Key": 2690990992,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2703264067,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2704077047,
+            "Value": "Dichte, giftige Dämpfe aus den Tiefen der Planetenkruste dringen durch Risse in der Erde an die Oberfläche und bedecken den Boden mit einem kränklichen Dunst."
+        },
+        {
+            "Key": 2706258613,
+            "Value": "„Nehmt jetzt teil, um mit etwas Glück Tickets für die erste Reihe des Freedomball-Galaxiscups zu gewinnen!“"
+        },
+        {
+            "Key": 2707183486,
+            "Value": "CYBERSTAN"
+        },
+        {
+            "Key": 2709724928,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2715016726,
+            "Value": "Nahkampfschaden ist vorübergehend um #V_ONE % erhöht."
+        },
+        {
+            "Key": 2718162576,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 2720395566,
+            "Value": "ZIVILISTEN UND S.E.A.F. IM GEBIET"
+        },
+        {
+            "Key": 2724329671,
+            "Value": "S.E.A.F.-VERSTÄRKUNG"
+        },
+        {
+            "Key": 2727007226,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2730564149,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2731662120,
+            "Value": "STÄDTE AUF #PLANET"
+        },
+        {
+            "Key": 2731796619,
+            "Value": "Primärziele"
+        },
+        {
+            "Key": 2733602713,
+            "Value": "„Roboter sind den Helldivers nicht gewachsen“, sagt Beamter des Verteidigungsministeriums."
+        },
+        {
+            "Key": 2749628958,
+            "Value": "Taktikausrüstung „Tesla-Turm“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 2750396089,
+            "Value": "<i=1>Persönliche Befehle</i> werden von den Helldivers individuell ausgeführt und ändern sich jeden Tag abhängig vom sich verändernden Schlachtfeld."
+        },
+        {
+            "Key": 2752298661,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2754737465,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2756304220,
+            "Value": "Die Taktikausrüstung „FAF-14-Speer“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 2760552626,
+            "Value": "FÜR PLANETENTRANSIT HALTEN"
+        },
+        {
+            "Key": 2761003916,
+            "Value": "STAUBTEUFEL"
+        },
+        {
+            "Key": 2761612032,
+            "Value": "Abklingzeit für Taktikausrüstung <i=1>#V_ONE</i> wird um #V_TWO erhöht."
+        },
+        {
+            "Key": 2763456608,
+            "Value": "Medaillenverdienst pro Mission wird für alle Helldivers um #V_ONE erhöht."
+        },
+        {
+            "Key": 2769011681,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2772833762,
+            "Value": "Der Abschluss dieser Operation hilft dabei, diese Stadt zu halten. Das erfolgreiche Halten von Städten trägt wesentlich zur Verteidigung des Planeten bei."
+        },
+        {
+            "Key": 2777160708,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2777631244,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2777830035,
+            "Value": "OPERATION ERFOLGREICH"
+        },
+        {
+            "Key": 2778843793,
+            "Value": "<c=FFFF3939>SEHR HOCH</c>"
+        },
+        {
+            "Key": 2782937074,
+            "Value": "Roboter-Sympathisanten in atemberaubendem Überraschungsangriff getötet; Kollateralschaden auf heldenhafte Weise minimiert."
+        },
+        {
+            "Key": 2784761516,
+            "Value": "MUNITIONSKNAPPHEIT"
+        },
+        {
+            "Key": 2788352405,
+            "Value": "E-711 ist nur auf Schwarmwelten zu finden. Die exotische Substanz ist entscheidend für die galaktische Sicherheit. Es muss gesichert werden, egal wie hoch das Risiko ist. "
+        },
+        {
+            "Key": 2794581015,
+            "Value": "Sandregen <i=1>beeinträchtigt die Sicht</i>."
+        },
+        {
+            "Key": 2795043115,
+            "Value": "OFFENSIVVORTEIL"
+        },
+        {
+            "Key": 2795807034,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2798593236,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2801833803,
+            "Value": "An alle Bürger, die ihr zu Hause aufgrund von feindlicher Aktivität verloren haben:"
+        },
+        {
+            "Key": 2805628145,
+            "Value": "SÄURESTÜRME"
+        },
+        {
+            "Key": 2807101694,
+            "Value": "Taktikkarte <i=1>gestört</i>."
+        },
+        {
+            "Key": 2807326037,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2809865391,
+            "Value": "MITTEL"
+        },
+        {
+            "Key": 2810548766,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2811783031,
+            "Value": "LEVIATHAN-BLOCKADE"
+        },
+        {
+            "Key": 2812548386,
+            "Value": "PLÖTZLICHES SCHWÄRMEN"
+        },
+        {
+            "Key": 2820793322,
+            "Value": "ANSPRUCHSVOLL"
+        },
+        {
+            "Key": 2822310909,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2825040173,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2826211131,
+            "Value": "Feindliche Stützpunkte"
+        },
+        {
+            "Key": 2829208561,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2835334755,
+            "Value": "Die Taktikausrüstung „Schildgenerator-Relais“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 2839861759,
+            "Value": "Der Planet #V_ONE, der kurz davor stand, an den Feind zu fallen, wurde erfolgreich verteidigt."
+        },
+        {
+            "Key": 2842185114,
+            "Value": "Über-Erde befreit keine Planeten der Aufklärungskampagne, aber sie bleiben verfügbar, solange der Sektor aktiv ist."
+        },
+        {
+            "Key": 2845922418,
+            "Value": "Die Taktikausrüstung „‚Ballistischer Schild‘-Rucksack“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 2846958731,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2852239993,
+            "Value": "STADT"
+        },
+        {
+            "Key": 2855846799,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2859517006,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 2866122630,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2866225573,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2870476391,
+            "Value": "MANGEL AN MEDIZINISCHEN VORRÄTEN"
+        },
+        {
+            "Key": 2873462989,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2875263080,
+            "Value": "kurze aber unbedenkliche Gehirn-Übernahme durch Illuminierten."
+        },
+        {
+            "Key": 2876468059,
+            "Value": "Die Zeit zum Abschließen aller Missionen wird um #V_ONE % erhöht."
+        },
+        {
+            "Key": 2876478471,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2879703857,
+            "Value": "Die Taktikausrüstung „Gatling-Orbitalsperrfeuer“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 2883316736,
+            "Value": "Operation Wall der Tapferkeit verläuft laut Bericht des Verteidigungsministeriums „erwartungsgemäß“."
+        },
+        {
+            "Key": 2883743751,
+            "Value": "<c=FF336666>FREUNDE: #VALUE</c>"
+        },
+        {
+            "Key": 2887369089,
+            "Value": "Mehr Taktikziele"
+        },
+        {
+            "Key": 2888129135,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2888682480,
+            "Value": "Über-Erde bringt einem weiteren Planeten die Freiheit! Wenn die Community in den Spezialereignissen des Planeten genügend Missionen abschließt, bevor die Zeit abläuft, können wir das Über-Erde-Territorium expandieren."
+        },
+        {
+            "Key": 2893255745,
+            "Value": "Unbekannter Name"
+        },
+        {
+            "Key": 2895551820,
+            "Value": "Nahkampfschaden ist nicht mehr erhöht."
+        },
+        {
+            "Key": 2902232420,
+            "Value": "Neue Studie zeigt, dass Illuminierten-Terror hinter jeder Ecke lauert und dass Bürger nie zu wachsam sein können."
+        },
+        {
+            "Key": 2907327826,
+            "Value": "Die Taktikausrüstung „Sprungpaket“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 2908633975,
+            "Value": "BESPRECHUNG"
+        },
+        {
+            "Key": 2912407889,
+            "Value": "Der „<i=1>#V_ONE</i>“-Booster ist automatisch für alle Missionen aktiv."
+        },
+        {
+            "Key": 2914005300,
+            "Value": "Anzahl der Spritzen, mit denen Helldivers in den Einsatz starten, wird um #V_ONE verringert."
+        },
+        {
+            "Key": 2916359955,
+            "Value": "SCHWER"
+        },
+        {
+            "Key": 2923344480,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 2925450467,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2931881971,
+            "Value": "AUSRÜSTUNGSTEST"
+        },
+        {
+            "Key": 2933045560,
+            "Value": "ILLUMINIERTE-INVASION"
+        },
+        {
+            "Key": 2937033102,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2939461461,
+            "Value": "HELDEN VON ÜBER-ERDE AUSBLENDEN"
+        },
+        {
+            "Key": 2944563374,
+            "Value": "Unerwartete S.E.A.F.-Verstärkung hat erhebliche Gebietsgewinne auf dem Planeten #V_ONE verzeichnet."
+        },
+        {
+            "Key": 2956467301,
+            "Value": "Taktikausrüstung <i=1>#V_ONE</i> steht den Helldivers vorübergehend nicht zur Verfügung."
+        },
+        {
+            "Key": 2958892596,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 2962065378,
+            "Value": "Evakuierungszeit ist nicht mehr verkürzt."
+        },
+        {
+            "Key": 2969104525,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 2970341781,
+            "Value": "Der Planet #V_ONE, der kurz vor einer erfolgreichen Verteidigung stand, ist an den Feind gefallen."
+        },
+        {
+            "Key": 2975979471,
+            "Value": "<c=FF5F96FF>NIEDRIG</c>"
+        },
+        {
+            "Key": 2977252622,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 2978562338,
+            "Value": "EXPERIMENTELLE INITIATIVE"
+        },
+        {
+            "Key": 2980169751,
+            "Value": "Taktikausrüstung „Orbital-Luftstoßangriff“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 2986036167,
+            "Value": "Die Taktikausrüstung „Adler – Luftschlag“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 2987454492,
+            "Value": "Die spezielle Form der Fotosynthese, die solch eigenartig gefärbte Flora auf diesem Planeten gedeihen lässt, gibt selbst den größten Exobiologen von Über-Erde noch immer Rätsel auf."
+        },
+        {
+            "Key": 2989731610,
+            "Value": "verursacht „Element 710“-Regen über HydroFall Prime."
+        },
+        {
+            "Key": 2992258348,
+            "Value": "EINGEHENDE NACHRICHT VON ÜBER-ERDE"
+        },
+        {
+            "Key": 2992438367,
+            "Value": "Mobilisiert in:"
+        },
+        {
+            "Key": 2994723165,
+            "Value": "Effektivität von <i=1>#V_ONE</i> ist nicht mehr erhöht."
+        },
+        {
+            "Key": 2996003713,
+            "Value": "Die Taktikausrüstung „Adler – Napalmluftschlag“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 2997344754,
+            "Value": "#SECTOR"
+        },
+        {
+            "Key": 2998873950,
+            "Value": "ERFOLG"
+        },
+        {
+            "Key": 3001978230,
+            "Value": "Phasen mit hohen Temperaturen <i=1>erhöhen den Ausdauer-Verbrauch</i> und <i=1>beschleunigen die Wärmeentwicklung von Waffen</i>."
+        },
+        {
+            "Key": 3013802117,
+            "Value": "DÜSTERNIS-FORSCHUNGSFORTSCHRITT"
+        },
+        {
+            "Key": 3018577702,
+            "Value": "Legion"
+        },
+        {
+            "Key": 3021947593,
+            "Value": "Die Taktikausrüstung „Nachschub“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 3022153599,
+            "Value": "Anzahl der pro Mission verfügbaren Verstärkungen ist vorübergehend um #V_ONE erhöht."
+        },
+        {
+            "Key": 3022209575,
+            "Value": "E-711 EXTRAHIERT"
+        },
+        {
+            "Key": 3023260311,
+            "Value": "Taktikausrüstung „Adler – Luftschlag“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 3029166506,
+            "Value": "Die Taktikausrüstung „Automatisches Kanonengeschütz“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 3030000168,
+            "Value": "Zerstören"
+        },
+        {
+            "Key": 3033475065,
+            "Value": "ATMOSPHÄRISCHE STERILISATION"
+        },
+        {
+            "Key": 3036081418,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 3041244548,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3049338773,
+            "Value": "Die Taktikausrüstung „MG-43-Maschinengewehr“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 3058519513,
+            "Value": "STÄRKE DER ILLUMINIERTEN-FLOTTE"
+        },
+        {
+            "Key": 3067367692,
+            "Value": "S.E.A.F.-EINHEITEN IM GEBIET"
+        },
+        {
+            "Key": 3071335446,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3080761082,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3082330525,
+            "Value": "Die Taktikausrüstung „GL-6-Granatwerfer“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 3085453425,
+            "Value": "SPRENGSTOFFÜBERSCHUSS"
+        },
+        {
+            "Key": 3087338564,
+            "Value": "UMGEBUNGSBEDINGUNGEN"
+        },
+        {
+            "Key": 3088565990,
+            "Value": "4"
+        },
+        {
+            "Key": 3089283956,
+            "Value": "Dieser einst wunderschöne Planet wurde durch die gefräßige Ausbreitung der Terminiden zu einem Hort der Tyrannei, der bis zur Unkenntlichkeit verdorben ist."
+        },
+        {
+            "Key": 3091226237,
+            "Value": "FÄLLT VORAUSSICHTLICH IN"
+        },
+        {
+            "Key": 3091609804,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3093738873,
+            "Value": "Die Zeit zum Abschließen aller Missionen ist vorübergehend um #V_ONE % verringert."
+        },
+        {
+            "Key": 3097330934,
+            "Value": "Der Planet #V_ONE, der kurz davor stand, an den Feind zu fallen, wurde erfolgreich verteidigt."
+        },
+        {
+            "Key": 3099561362,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 3103904605,
+            "Value": "Verstärkungsanzahl ist nicht mehr verringert."
+        },
+        {
+            "Key": 3110277580,
+            "Value": "BESCHÄDIGTE FABRIKEN"
+        },
+        {
+            "Key": 3112086663,
+            "Value": "Raumzeit-Fluktuationsanzeige"
+        },
+        {
+            "Key": 3112970015,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3113572060,
+            "Value": "Granatenanzahl ist nicht mehr erhöht."
+        },
+        {
+            "Key": 3115257147,
+            "Value": "Draufgänger Felix Bressler legt die Strecke von 4,5 Milliarden Kilometer zwischen Über-Erde und Neptun im freien Fall zurück."
+        },
+        {
+            "Key": 3130602394,
+            "Value": "<c=FF336666>VERFOLGEN:</c> <c=FFcd6801>AKTIVE HELLDIVER-TRUPPS</c>"
+        },
+        {
+            "Key": 3131923926,
+            "Value": "Die frostigen Gipfel dieser Welt, die in ewigem Winter erstarrt ist, schimmern im Licht ihrer zu weit entfernten Sonne."
+        },
+        {
+            "Key": 3134031991,
+            "Value": "BETRIEBSUNTERSTÜTZUNG"
+        },
+        {
+            "Key": 3135493657,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3140249806,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3141182007,
+            "Value": "Leichte Außenposten"
+        },
+        {
+            "Key": 3142675334,
+            "Value": "OPERATIONSAUSWIRKUNG"
+        },
+        {
+            "Key": 3143498604,
+            "Value": "Erfahrungsgewinn ist nicht mehr verringert."
+        },
+        {
+            "Key": 3145861536,
+            "Value": "Taktikausrüstung „Orbital-Schienenkanone“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 3155398956,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3169807818,
+            "Value": "Anzahl der Magazine, mit denen Helldivers in den Einsatz starten, wird für alle Waffen um #V_ONE erhöht."
+        },
+        {
+            "Key": 3171440668,
+            "Value": "E-711 BESCHAFFEN"
+        },
+        {
+            "Key": 3174686750,
+            "Value": "BEFEHLE ANZEIGEN"
+        },
+        {
+            "Key": 3178802138,
+            "Value": "Die Taktikausrüstung „Mörsergeschütz“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 3184460045,
+            "Value": "EXPERIMENTELLER BOOSTER"
+        },
+        {
+            "Key": 3192569703,
+            "Value": "FORTSCHRITT DER KAMPAGNE MIT HOHER PRIORITÄT"
+        },
+        {
+            "Key": 3198058331,
+            "Value": "Evakuiert in:"
+        },
+        {
+            "Key": 3205119654,
+            "Value": "Die Präsenz der DRS in der Nähe dieses Planeten gewährt allen Exoanzug-Taktikausrüstungen eine Verkürzung der Abklingzeit um 35 %."
+        },
+        {
+            "Key": 3207971879,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3208135968,
+            "Value": "Die Taktikausrüstung „380-mm-HE-Orbitalsperrfeuer“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 3209106735,
+            "Value": "Die Taktikausrüstung „LAS-98-Laserkanone“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 3215105768,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3219545753,
+            "Value": "Die Taktikausrüstung „Guard Dog“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 3224337239,
+            "Value": "<c=FF336666>REVOLUTIONSPHASE:</c> <c=FF66cc99>#VALUE JAHRE</c>"
+        },
+        {
+            "Key": 3224513262,
+            "Value": "FEINDLICHE BEDROHUNG ENTDECKT"
+        },
+        {
+            "Key": 3226304447,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 3235946435,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3245996303,
+            "Value": "Die Taktikausrüstung „LAS-98-Laserkanone“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 3247523256,
+            "Value": "FORTSCHRITT DER AUFKLÄRUNGSKAMPAGNE"
+        },
+        {
+            "Key": 3247730854,
+            "Value": "EHRE DEN GEFALLENEN"
+        },
+        {
+            "Key": 3254570404,
+            "Value": "BEFREIUNGSEREIGNIS-FORTSCHRITT"
+        },
+        {
+            "Key": 3257677184,
+            "Value": "Feindeliminierungen"
+        },
+        {
+            "Key": 3258667075,
+            "Value": "Die reine Quelle, aus der sich gelenkte Demokratie ergießt. Sie muss um jeden Preis verteidigt werden."
+        },
+        {
+            "Key": 3260412817,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3262302717,
+            "Value": "Bereichsaufseher der Mine 306.7D wurde nach Schmuggel von Sizzle-Fisch Tod aufgefunden."
+        },
+        {
+            "Key": 3262651298,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3267185606,
+            "Value": "ATMOSPHÄRISCHE INTERFERENZ"
+        },
+        {
+            "Key": 3271778464,
+            "Value": "Fliegende Leviathan-Kriegsschiffe patrouillieren das Schlachtfeld."
+        },
+        {
+            "Key": 3279518460,
+            "Value": "Dissidenten-Sabotage für Preisanstieg bei Aluminium verantwortlich gemacht"
+        },
+        {
+            "Key": 3284998754,
+            "Value": "<c=FF336666>ELIMINIERTE FEINDE: #VALUE</c>"
+        },
+        {
+            "Key": 3285131061,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3293632592,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 3294732250,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3300297336,
+            "Value": "Taktikausrüstung „SAR-1-Scharfschützengewehr“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 3308761296,
+            "Value": "PERSÖNLICHER BEFEHL"
+        },
+        {
+            "Key": 3321373642,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3323477698,
+            "Value": "Taktikausrüstung-<i=1>Abklingzeit</i> um <i=1>#V_ONE %</i> erhöht."
+        },
+        {
+            "Key": 3323676179,
+            "Value": "Neue Studie kommt zu dem Schluss, dass die männliche Glatze ein patriotisches Zeichen für die Freiheit der Haare ist, den Kopf zu verlassen."
+        },
+        {
+            "Key": 3327005717,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3329970575,
+            "Value": "Zum Staffelstart von „Überleben in der Galaxie“ sind 18 Bürger für 39 Tage auf dem Eismond von Kryx gestrandet."
+        },
+        {
+            "Key": 3339644534,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3347550390,
+            "Value": "Die Oasen, die diesen Wüstenplaneten zieren, sind wohl die beschaulichsten Orte, die man so weit von Über-Erde entfernt finden kann."
+        },
+        {
+            "Key": 3351044875,
+            "Value": "<i=1>Zielorte</i> sind versteckt."
+        },
+        {
+            "Key": 3351717482,
+            "Value": "<i=1>Taktikausrüstungsplätze</i> um <i=1>#V_ONE</i> reduziert."
+        },
+        {
+            "Key": 3354493846,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3355650295,
+            "Value": "ÜBERSCHUSS AN MEDIZINISCHEN VORRÄTEN"
+        },
+        {
+            "Key": 3356696792,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3358511735,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3363201044,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3364434386,
+            "Value": "REGENSCHAUER"
+        },
+        {
+            "Key": 3370187171,
+            "Value": "Der Abschluss dieser Operation wirkt sich auf die Stärke der Illuminierten-Flotte aus."
+        },
+        {
+            "Key": 3371885955,
+            "Value": "SPRENGSTOFFKNAPPHEIT"
+        },
+        {
+            "Key": 3372276277,
+            "Value": "Schließe Operationen in #SECTOR ab."
+        },
+        {
+            "Key": 3376195384,
+            "Value": "Eine <i=1>Operation</i> ist eine Zusammenstellung von Missionen. Schließe alle Missionen ab, um die Operation zum Erfolg zu führen und Bonusbelohnungen zu erhalten. Schlägt eine Mission fehl, schlägt auch die restliche Operation fehl."
+        },
+        {
+            "Key": 3379144539,
+            "Value": "KAMPAGNE MIT HOHER PRIORITÄT"
+        },
+        {
+            "Key": 3381496091,
+            "Value": "Die Taktikausrüstung „FLAM-40-Flammenwerfer“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 3398823357,
+            "Value": "Bis auf Weiteres regenerieren alle Helldivers passiv Gesundheit mit einer Rate von #V_ONE % pro Sekunde."
+        },
+        {
+            "Key": 3401809146,
+            "Value": "LEBENSMÜDE"
+        },
+        {
+            "Key": 3409725421,
+            "Value": "NIEDRIGE REKRUTIERUNGSRATE"
+        },
+        {
+            "Key": 3411407988,
+            "Value": "Roboter-Invasionsstreitkräfte stellen „ernste Bedrohung“ für Über-Erde dar."
+        },
+        {
+            "Key": 3412098611,
+            "Value": "Neue Umfrage stuft Erson Sands als besten Ort zum Großziehen von Kindern zu Verteidigern der Freiheit ein."
+        },
+        {
+            "Key": 3413020356,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3414366619,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3418968587,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3420120836,
+            "Value": "Für einige Zeit wird jede erfolgreiche Mission mehr zur Befreiung des Planeten beitragen."
+        },
+        {
+            "Key": 3425904814,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3438649121,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3453882851,
+            "Value": "Die Taktikausrüstung „Orbital-Laser“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 3455993788,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3468937862,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3469341397,
+            "Value": "Für einige Zeit wird passiv Boden auf dem Planeten #V_ONE zurückerobert."
+        },
+        {
+            "Key": 3472158635,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3474023215,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3478073223,
+            "Value": "nach"
+        },
+        {
+            "Key": 3478602676,
+            "Value": "Roboter-Invasion zeigt keine Anzeichen einer Abschwächung."
+        },
+        {
+            "Key": 3483139454,
+            "Value": "FORTSCHRITT DER ILLUMINIERTEN-INVASION"
+        },
+        {
+            "Key": 3486805749,
+            "Value": "Beschützen"
+        },
+        {
+            "Key": 3487732002,
+            "Value": "Taktikausrüstung „Lineares Orbitalsperrfeuer“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 3489533456,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3490555416,
+            "Value": "<i=1>Verteidigungskampagnen</i> können nicht von diesem Planeten ausgehen."
+        },
+        {
+            "Key": 3491418699,
+            "Value": "<c=FFFE881F>HOCH</c>"
+        },
+        {
+            "Key": 3493908691,
+            "Value": "Die Taktikausrüstung „‚Ballistischer Schild‘-Rucksack“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 3494550326,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3494856217,
+            "Value": "Dieser feuchte Planet voller Leben ist von tiefen Ozeanen, dichten Wäldern und hohen Gräsern bedeckt."
+        },
+        {
+            "Key": 3505533461,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3508750577,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3515520839,
+            "Value": "GLARBLE GARB GORK! Autor von Nachrichtenschlagzeilen erlebt "
+        },
+        {
+            "Key": 3517530400,
+            "Value": "GENERALBEFEHL"
+        },
+        {
+            "Key": 3517848091,
+            "Value": "Granatenkapazität ist für alle Helldivers vorübergehend um #V_ONE verringert."
+        },
+        {
+            "Key": 3521674760,
+            "Value": "Taktikausrüstung „Orbital-Präzisionsschlag“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 3523340692,
+            "Value": "<c=FF336666>ROTATIONSPHASE:</c> <c=FF66cc99>#VALUE TAGE</c>"
+        },
+        {
+            "Key": 3526613987,
+            "Value": "EXPERIMENTELLE VITAMINE"
+        },
+        {
+            "Key": 3527094628,
+            "Value": "Die Taktikausrüstung „Gatlinggeschütz“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 3527331608,
+            "Value": "Helldivers setzen tapferen Kampf zur Eindämmung der Terminiden fort."
+        },
+        {
+            "Key": 3533673621,
+            "Value": "TKS-INSTALLATION IM GANGE"
+        },
+        {
+            "Key": 3534334954,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3539536174,
+            "Value": "Dieser Planet wird angegriffen. Die Helldivers müssen ihn gegen die Streitkräfte der Tyrannei verteidigen. "
+        },
+        {
+            "Key": 3541023337,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3544318250,
+            "Value": "Helldivers sollen Terminid-Kordon-Planeten für „Auslöschung“ vorbereiten."
+        },
+        {
+            "Key": 3547528638,
+            "Value": "Laut einer neuen Umfrage gelten die Terminiden als die „käferartigsten“ Feinde der Supererde."
+        },
+        {
+            "Key": 3552412487,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3552972191,
+            "Value": "Düsternispartikel stören Pelikane beim Landen und verlängern die Evakuierungszeiten um <i=1>20 Sekunden</i>."
+        },
+        {
+            "Key": 3554256659,
+            "Value": "EXPERIMENTELLE TRAGETASCHEN"
+        },
+        {
+            "Key": 3559900755,
+            "Value": "INVASIONSKAMPAGNE"
+        },
+        {
+            "Key": 3564181953,
+            "Value": "STOSSPRODUKTION"
+        },
+        {
+            "Key": 3567262339,
+            "Value": "Heftige Schneestürme <i=1>beeinträchtigen die Sicht</i>."
+        },
+        {
+            "Key": 3575339405,
+            "Value": "Heftige Schneestürme <i=1>beeinträchtigen die Mobilität</i> und <i=1>beeinträchtigen die Sicht in mittlerem Maße</i> sowohl für Feinde als auch für Verbündete."
+        },
+        {
+            "Key": 3578568891,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3579090922,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3580449947,
+            "Value": "DRACHENSCHABEN"
+        },
+        {
+            "Key": 3589166843,
+            "Value": "VERTEIDIGUNGSKAMPAGNE"
+        },
+        {
+            "Key": 3603056465,
+            "Value": "VULKANISCHE AKTIVITÄT"
+        },
+        {
+            "Key": 3612924764,
+            "Value": "UMKÄMPFTE UMLAUFBAHN"
+        },
+        {
+            "Key": 3613667837,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3614743432,
+            "Value": "BEFREIUNG IM GANGE"
+        },
+        {
+            "Key": 3614892168,
+            "Value": "BEFEHLSÜBERSICHT"
+        },
+        {
+            "Key": 3625902892,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3626549577,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3627786736,
+            "Value": "Je nach Kriegsfortschritt sind unterschiedliche Planeten verfügbar. Wähle einen <i=1>Planeten</i> aus, um zu sehen, welche Operationen dort aktiv sind."
+        },
+        {
+            "Key": 3629407012,
+            "Value": "FELDBEFÖRDERUNGEN"
+        },
+        {
+            "Key": 3630364424,
+            "Value": "Demokratisieren"
+        },
+        {
+            "Key": 3632158433,
+            "Value": "Die DRS aktiviert ihren äußerst experimentellen atmosphärischen Autoklav, der 50 km³ Düsternis-Sporen pro Minute vernichtet. Die ausgedünnte Sporenschicht setzt lichtempfindliche Terminidenvarianten der atmosphärischen UV-Strahlung aus."
+        },
+        {
+            "Key": 3633071572,
+            "Value": "Die Taktikausrüstung „TS-4-Bogenwerfer“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 3637004657,
+            "Value": "Unerwartete S.E.A.F.-Verstärkung verzeichnet erhebliche Gebietsgewinne auf dem Planeten #V_ONE."
+        },
+        {
+            "Key": 3637171496,
+            "Value": "BATTLE ROYALE: Bugs vs. Roboter "
+        },
+        {
+            "Key": 3641252510,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3648328316,
+            "Value": "Verbündete S.E.A.F.-Einheiten sind auf dem Schlachtfeld im Einsatz."
+        },
+        {
+            "Key": 3649078966,
+            "Value": "PROTEINKNAPPHEIT"
+        },
+        {
+            "Key": 3662013215,
+            "Value": "ILLUMINIERTEN-KONTROLLE"
+        },
+        {
+            "Key": 3662335600,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3665609909,
+            "Value": "KOMPLEXE PLANUNG VON TAKTIKAUSRÜSTUNGEN"
+        },
+        {
+            "Key": 3666873906,
+            "Value": "Spritzenanzahl ist nicht mehr erhöht."
+        },
+        {
+            "Key": 3667104994,
+            "Value": "Neue Studie bezeichnet „Super Adler“ als demokratischsten Vogel."
+        },
+        {
+            "Key": 3670045382,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3671853690,
+            "Value": "TERMINIDEN-KONTROLLE"
+        },
+        {
+            "Key": 3671889012,
+            "Value": "Taktikausrüstung „LAS-98-Laserkanone“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 3672735503,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3673381184,
+            "Value": "Mögliche Einsätze der Taktikausrüstung <i=1>#V_ONE</i> sind vorübergehend um #V_TWO verringert."
+        },
+        {
+            "Key": 3680923929,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3689153387,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3689262198,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3689672148,
+            "Value": "Evakuierungszeit ist vorübergehend um #V_TWO Sekunden verkürzt."
+        },
+        {
+            "Key": 3690459614,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3694006643,
+            "Value": "Jede erfolgreiche Mission trägt mehr zur Befreiung des Planeten bei."
+        },
+        {
+            "Key": 3695557077,
+            "Value": "Dichter Nebel <i=1>beeinträchtigt die Sicht</i>."
+        },
+        {
+            "Key": 3699173130,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3699613863,
+            "Value": "Kind findet Spielzeug-Kriegsschiff, dass sie in 6 Jahren in einem schwarzen Loch verlieren wird."
+        },
+        {
+            "Key": 3701975858,
+            "Value": "Sekundärziele"
+        },
+        {
+            "Key": 3708765037,
+            "Value": "Cyberstan als Zentrum des Roboter-Kommandos identifiziert."
+        },
+        {
+            "Key": 3709494312,
+            "Value": "SCHWARM-LORDS"
+        },
+        {
+            "Key": 3710378294,
+            "Value": "#SHORT – #LONG"
+        },
+        {
+            "Key": 3714868912,
+            "Value": "LETZTES AUFBÄUMEN"
+        },
+        {
+            "Key": 3719011487,
+            "Value": "Gesetz zur Sicherheit in Schulen verabschiedet. Schüler aller Jahrgangsstufen erhalten nun eigene Handgranaten."
+        },
+        {
+            "Key": 3726538024,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 3726974502,
+            "Value": "KOLONIE-OPERATIONSBELOHNUNG"
+        },
+        {
+            "Key": 3732635510,
+            "Value": "Granatenkapazität wird für alle Helldivers um #V_ONE verringert."
+        },
+        {
+            "Key": 3741917828,
+            "Value": "Die Taktikausrüstung „RS-422-Railgun“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 3744612820,
+            "Value": "Hinrichtung durch Spaghettisierung als verfassungskonform angesehen."
+        },
+        {
+            "Key": 3753359961,
+            "Value": "Die Taktikausrüstung „FLAM-40-Flammenwerfer“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 3762112087,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3765717289,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3770521993,
+            "Value": "PLANETENEREIGNISSE"
+        },
+        {
+            "Key": 3772486163,
+            "Value": "Fliegende Kreischer-Schwärme ziehen über das Schlachtfeld."
+        },
+        {
+            "Key": 3774133754,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3777103266,
+            "Value": "OPERATIONSBELOHNUNG"
+        },
+        {
+            "Key": 3781056562,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3786402002,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3798161962,
+            "Value": "Granatenanzahl ist nicht mehr verringert."
+        },
+        {
+            "Key": 3798493358,
+            "Value": "Der Fortschritt in <i=1>Verteidigungskampagnen</i> wird beschleunigt."
+        },
+        {
+            "Key": 3801573631,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3802611417,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 3804225068,
+            "Value": "<i=1>Generalbefehle</i> repräsentieren die Ziele der Helldiver-Community."
+        },
+        {
+            "Key": 3810233876,
+            "Value": "Eliminieren"
+        },
+        {
+            "Key": 3811000733,
+            "Value": "Die Taktikausrüstung „Tesla-Turm“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 3811178773,
+            "Value": "Eine unerwartete Terminidenwelle hat erhebliche Gebietsgewinne auf dem Planeten #V_ONE verzeichnet."
+        },
+        {
+            "Key": 3820781527,
+            "Value": "AUSRÜSTUNGSTEST"
+        },
+        {
+            "Key": 3821064877,
+            "Value": "Schülergruppe veranlasst öffentliche Löschung undemokratischer E-Books."
+        },
+        {
+            "Key": 3822540736,
+            "Value": "Die Taktikausrüstung „Adler – Luftschlag“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 3833236254,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 3842398028,
+            "Value": "EXTREME KÄLTE"
+        },
+        {
+            "Key": 3846241460,
+            "Value": "HELLPODS AKTIV – ZU HELLPODS GEHEN"
+        },
+        {
+            "Key": 3853638486,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3853707815,
+            "Value": "Taktikausrüstung <i=1>#V_ONE</i> ist nicht länger verfügbar."
+        },
+        {
+            "Key": 3859378194,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3859521726,
+            "Value": "ÜBER-ERDE-KONTROLLE"
+        },
+        {
+            "Key": 3862338222,
+            "Value": "Taktikausrüstung „Rückstoßfreies Gewehr AT-48“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 3864025069,
+            "Value": "Ein einsamer Felsmond mit extrem wertvollen Mineralvorkommen unter der Oberfläche."
+        },
+        {
+            "Key": 3866756371,
+            "Value": "Taktikausrüstung „Verteidigungswall“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 3870546934,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3875363401,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3883771315,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3885662626,
+            "Value": "Erfahrungsgewinn wird für alle Helldivers um #V_ONE % verringert."
+        },
+        {
+            "Key": 3888729957,
+            "Value": "Abklingzeit für Taktikausrüstung <i=1>#V_ONE</i> ist vorübergehend um #V_TWO verringert."
+        },
+        {
+            "Key": 3888872278,
+            "Value": "<i=1>Effekte</i> sind temporäre Veränderungen der Schlachtfeldbedingungen. Sie verändern sich mit Fortschreiten des Krieges und können Helldivers dazu zwingen, ihre Taktik anzupassen."
+        },
+        {
+            "Key": 3897481459,
+            "Value": "Die Taktikausrüstung „EAT-17-Einmal-Panzerabwehr“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 3900413013,
+            "Value": "Auf dem Planeten #V_ONE wird kein Boden mehr passiv zurückerobert."
+        },
+        {
+            "Key": 3903115201,
+            "Value": "Taktikausrüstung „Orbital-Laser“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 3910555043,
+            "Value": "MEGA-STADT"
+        },
+        {
+            "Key": 3920132753,
+            "Value": "<c=FF336666>GEFALLEN: #VALUE</c>"
+        },
+        {
+            "Key": 3921291543,
+            "Value": "KOLONIE-OPERATION"
+        },
+        {
+            "Key": 3922111694,
+            "Value": "FEINDLICHE STREITKRAFT"
+        },
+        {
+            "Key": 3929288014,
+            "Value": "Nahkampfschaden wird um #V_ONE % erhöht."
+        },
+        {
+            "Key": 3933634258,
+            "Value": "Genetiker zu Hause von Kreuzung aus Huhn, Kuh und Schwein getötet."
+        },
+        {
+            "Key": 3952083751,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3957075233,
+            "Value": "DÜSTERNISSCHICHT MIT HOHER DICHTE"
+        },
+        {
+            "Key": 3957297661,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 3963333572,
+            "Value": "Erfahrungsgewinn ist nicht mehr erhöht."
+        },
+        {
+            "Key": 3979430036,
+            "Value": "Häufige Erdbeben <i=1>betäuben sowohl Spieler als auch Feinde</i>."
+        },
+        {
+            "Key": 3983056343,
+            "Value": "Die Taktikausrüstung „Orbital-Präzisionsschlag“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 3983592335,
+            "Value": "Taktikausrüstung „GL-6-Granatwerfer“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 3987183872,
+            "Value": "OPERATIONSAUSWIRKUNG"
+        },
+        {
+            "Key": 3991486518,
+            "Value": "Diese Welt ist von ätherischen, unbändigen und sonderbaren Pflanzen erfüllt, die sich still und uneingeschränkt über die gesamte Oberfläche ausbreiten."
+        },
+        {
+            "Key": 3994324289,
+            "Value": "vs. genetisch-modifizierte Riesenschildkröten. Tickets jetzt erhältlich!"
+        },
+        {
+            "Key": 4002694918,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 4005066509,
+            "Value": "Auf dem Planeten #V_ONE geht Boden schneller verloren als zuvor."
+        },
+        {
+            "Key": 4009717880,
+            "Value": "VERDIENSTVOLLE AUSZEICHNUNGEN"
+        },
+        {
+            "Key": 4010359064,
+            "Value": "Genetiker entwickeln erste Kreuzung aus Huhn, Kuh und Schwein. Bezeichnen es als „perfektes Fleisch.“"
+        },
+        {
+            "Key": 4013240943,
+            "Value": "Die Taktikausrüstung „Orbital-Luftstoßangriff“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 4013599258,
+            "Value": "Effektivität von <i=1>#V_ONE</i> wird um #V_TWO % erhöht."
+        },
+        {
+            "Key": 4014396602,
+            "Value": "Auf dem Schlachtfeld befinden sich sowohl S.E.A.F.-Einheiten als auch treue Zivilisten."
+        },
+        {
+            "Key": 4014468095,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 4021456882,
+            "Value": "EFFEKTE"
+        },
+        {
+            "Key": 4026104845,
+            "Value": "der"
+        },
+        {
+            "Key": 4029307286,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 4030497262,
+            "Value": "BEFREIUNG IM GANGE"
+        },
+        {
+            "Key": 4032160005,
+            "Value": "Taktikausrüstung „Raketengeschütz“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 4036526020,
+            "Value": "SCHWIERIGKEITSGRAD GESPERRT"
+        },
+        {
+            "Key": 4038600486,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 4045585038,
+            "Value": "MEHRERE BEDROHUNGEN ENTDECKT"
+        },
+        {
+            "Key": 4048072361,
+            "Value": "ZURÜCK ZUR GALAXIEKARTE"
+        },
+        {
+            "Key": 4051101358,
+            "Value": "Aufhalten"
+        },
+        {
+            "Key": 4052077326,
+            "Value": "<c=FF336666>BREITENGRAD:</c> <c=FF66cc99>#VALUE</c>"
+        },
+        {
+            "Key": 4061126716,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 4064243582,
+            "Value": "Die Illuminierten verschieben die Meridian-Singularität in Richtung Über-Erde. Sie wird alles, was sich auf ihrem Weg befindet, in Stücke reißen."
+        },
+        {
+            "Key": 4074421269,
+            "Value": "Die Zeit zum Abschließen aller Missionen wird um #V_ONE % verringert."
+        },
+        {
+            "Key": 4077571604,
+            "Value": "IONENSTÜRME"
+        },
+        {
+            "Key": 4082794250,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 4089075400,
+            "Value": "ADLER-STURM"
+        },
+        {
+            "Key": 4089347326,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 4091665372,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 4093368079,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 4099756016,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 4103555409,
+            "Value": "PLANET VERLOREN – RÜCKZUGSBEFEHL ERTEILT"
+        },
+        {
+            "Key": 4109477478,
+            "Value": "Taktikausrüstung „Anti-Personen-Minenleger“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 4117380630,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 4121140021,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 4125819870,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 4129291016,
+            "Value": "ORTSCHAFT"
+        },
+        {
+            "Key": 4130639501,
+            "Value": "Neuer Gesetzentwurf finanziert Training für Schullehrer zur Erkennung von Dissidenten."
+        },
+        {
+            "Key": 4131334693,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 4134510414,
+            "Value": "Anzahl der pro Mission verfügbaren Verstärkungen wird um #V_ONE erhöht."
+        },
+        {
+            "Key": 4136698015,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 4137589588,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 4138268575,
+            "Value": "Taktikausrüstung „Nachschub“ ist nicht länger verfügbar."
+        },
+        {
+            "Key": 4141672169,
+            "Value": "Neue Studie belegt, dass 100 % der Über-Erde-Studien akkurat sind."
+        },
+        {
+            "Key": 4146967339,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 4149219876,
+            "Value": "Schrödingers Katze endgültig für Tod erklärt ... "
+        },
+        {
+            "Key": 4149383367,
+            "Value": "PLANETENSTATUS WIRD AKTUALISIERT"
+        },
+        {
+            "Key": 4152680051,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 4153717289,
+            "Value": "Der Abschluss dieser Operation trägt zur Verteidigung des Planeten bei."
+        },
+        {
+            "Key": 4155114762,
+            "Value": "#A / <i=1>#B</i>"
+        },
+        {
+            "Key": 4160556404,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 4160586354,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 4162825007,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 4163415863,
+            "Value": "HOLOGRAM VERLASSEN"
+        },
+        {
+            "Key": 4168458073,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 4169143112,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 4170693832,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 4171075538,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 4189958024,
+            "Value": "Auf diesem Planeten wurden Terminiden-Schwarm-Lords entdeckt."
+        },
+        {
+            "Key": 4192344096,
+            "Value": "Für einige Zeit geht Boden auf dem Planeten #V_ONE schneller verloren als zuvor."
+        },
+        {
+            "Key": 4198200621,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 4204853773,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 4204986708,
+            "Value": "Erobere #PLANET im #SECTOR."
+        },
+        {
+            "Key": 4207523721,
+            "Value": "Terminiden drohen aus Kordon auszubrechen."
+        },
+        {
+            "Key": 4211030149,
+            "Value": "Der Planet wird von <i=1>tödlichen Feuertornados</i> heimgesucht."
+        },
+        {
+            "Key": 4212371007,
+            "Value": "NEUE NACHRICHTEN"
+        },
+        {
+            "Key": 4215606859,
+            "Value": "Installation des Netzwerks zur Terminiden-Abwehr durch Vorfall mit Terminid-Schwarm stark verzögert."
+        },
+        {
+            "Key": 4217315838,
+            "Value": "Neue Studie zeigt, dass Bots doppelt so autoritär sind wie bisher angenommen."
+        },
+        {
+            "Key": 4217970983,
+            "Value": "Die als E-711 bekannte Substanz ist der Schlüssel zur Synthese des Dunklen Fluids, eines unglaublich mächtigen exotischen Materials. Es zu beschaffen, ist von größter Bedeutung."
+        },
+        {
+            "Key": 4219308386,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 4226477129,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 4229317978,
+            "Value": "Die Taktikausrüstung „Mörsergeschütz“ steht vorübergehend allen Helldivers zur Verfügung."
+        },
+        {
+            "Key": 4232658408,
+            "Value": "ELEKTRONISCHE ABWEHRMASSNAHMEN"
+        },
+        {
+            "Key": 4240023177,
+            "Value": "GRANATENBEUTELKNAPPHEIT"
+        },
+        {
+            "Key": 4240196127,
+            "Value": "Gesundheitsregeneration ist nicht mehr aktiv."
+        },
+        {
+            "Key": 4240961977,
+            "Value": "Eine purpurrote Alge hat den gesamten Planeten überwuchert und hüllt die felsigen Hügel in ein tiefes Rot. Es ist kaum von dem Blut der Helden zu unterscheiden, die im Kampf gegen die Tyrannei gefallen sind."
+        },
+        {
+            "Key": 4243009745,
+            "Value": "INSPIRIERTE MITARBEITER"
+        },
+        {
+            "Key": 4247313880,
+            "Value": "5"
+        },
+        {
+            "Key": 4250663430,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 4252439335,
+            "Value": "HELLDIVE"
+        },
+        {
+            "Key": 4256936100,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 4260257322,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 4262661334,
+            "Value": "Anzahl der pro Mission verfügbaren Verstärkungen wird um #V_ONE verringert."
+        },
+        {
+            "Key": 4267041493,
+            "Value": "BRIEFING"
+        },
+        {
+            "Key": 4271615407,
+            "Value": "Glühende Hitze, starke Winde und geringer Niederschlag sorgen dafür, dass dieser Planet fast durchgehend von tosenden Flammen heimgesucht wird, gelegentlich abgelöst von kurzen Phasen des Lebens und des Wachstums."
+        },
+        {
+            "Key": 4274339261,
+            "Value": "HELDEN VON ÜBER-ERDE ANZEIGEN"
+        },
+        {
+            "Key": 4276858195,
+            "Value": "S.E.A.F.-GEGENOFFENSIVE"
+        },
+        {
+            "Key": 4277436083,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 4280421164,
+            "Value": "Explosion eines Kinderkrankenhauses steht in direktem Zusammenhang mit Roboter-Sympathisanten-Gruppe „Innominate.“"
+        },
+        {
+            "Key": 4281386727,
+            "Value": "WAFFENERPROBUNG"
+        },
+        {
+            "Key": 4283177289,
+            "Value": "Unbekannt"
+        },
+        {
+            "Key": 4287360836,
+            "Value": "Der sehnlichst erhoffte Kampf von Malavax Prime wird live übertragen – hier Tickets kaufen."
+        }
+    ]
+}

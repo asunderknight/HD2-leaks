@@ -1,0 +1,70 @@
+{
+    "Version": 1,
+    "Language": {
+        "Hash": "0xba39c3ec",
+        "KnownName": "de",
+        "KnownFriendlyName": "German"
+    },
+    "Items": [
+        {
+            "Key": 35708001,
+            "Value": "WÄHLEN"
+        },
+        {
+            "Key": 157403948,
+            "Value": "STIMMABGABE GESCHEITERT"
+        },
+        {
+            "Key": 432275452,
+            "Value": "Du bist deiner demokratischen Pflicht nachgekommen.\nGUT GEMACHT!"
+        },
+        {
+            "Key": 437129953,
+            "Value": "#DAYS TAGEN #HOURS STD. #MINUTES MIN."
+        },
+        {
+            "Key": 709049035,
+            "Value": "KANDIDAT KANN KEINE STIMMEN ERHALTEN."
+        },
+        {
+            "Key": 918788164,
+            "Value": "BIOGRAFIE:"
+        },
+        {
+            "Key": 1647647552,
+            "Value": "Bitte warte bis Über-Erde auf demokratische Weise deine Stimme auswertet."
+        },
+        {
+            "Key": 1864299915,
+            "Value": "Bedingung #TERM"
+        },
+        {
+            "Key": 2098644286,
+            "Value": "WAHL BEGINNT IN: "
+        },
+        {
+            "Key": 2565771413,
+            "Value": "WAHL ENDET IN: "
+        },
+        {
+            "Key": 3075853207,
+            "Value": "POLITIK:"
+        },
+        {
+            "Key": 3161593322,
+            "Value": "STIMMABGABE ERFOLGREICH"
+        },
+        {
+            "Key": 3669227538,
+            "Value": "BITTE WARTEN"
+        },
+        {
+            "Key": 3800224967,
+            "Value": "BEDINGUNG #TERM"
+        },
+        {
+            "Key": 4275589329,
+            "Value": "#DAYS TAGEN #HOURS STD. #MINUTES MIN."
+        }
+    ]
+}

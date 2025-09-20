@@ -1,0 +1,70 @@
+{
+    "Version": 1,
+    "Language": {
+        "Hash": "0x4a2ca9c9",
+        "KnownName": "pt",
+        "KnownFriendlyName": "Portuguese (Europe)"
+    },
+    "Items": [
+        {
+            "Key": 35708001,
+            "Value": "Votar"
+        },
+        {
+            "Key": 157403948,
+            "Value": "VOTO BEM-SUCEDIDO"
+        },
+        {
+            "Key": 432275452,
+            "Value": "Cumpriste o teu dever democrático\nMUITO BEM!"
+        },
+        {
+            "Key": 437129953,
+            "Value": "#DAYS DIAS #HOURS HORAS #MINUTES MIN"
+        },
+        {
+            "Key": 709049035,
+            "Value": "CANDIDATO NÃO ELEGÍVEL PARA VOTOS"
+        },
+        {
+            "Key": 918788164,
+            "Value": "BIOGRAFIA:"
+        },
+        {
+            "Key": 1647647552,
+            "Value": "Aguarda enquanto a Super Terra processa democraticamente o teu voto."
+        },
+        {
+            "Key": 1864299915,
+            "Value": "Mandato #TERM"
+        },
+        {
+            "Key": 2098644286,
+            "Value": "A ELEIÇÃO COMEÇA EM: "
+        },
+        {
+            "Key": 2565771413,
+            "Value": "A ELEIÇÃO TERMINA EM: "
+        },
+        {
+            "Key": 3075853207,
+            "Value": "POLÍTICA:"
+        },
+        {
+            "Key": 3161593322,
+            "Value": "VOTO FALHADO"
+        },
+        {
+            "Key": 3669227538,
+            "Value": "AGUARDA"
+        },
+        {
+            "Key": 3800224967,
+            "Value": "MANDATO #TERM"
+        },
+        {
+            "Key": 4275589329,
+            "Value": "#DAYS DIAS #HOURS HORAS #MINUTES MIN"
+        }
+    ]
+}

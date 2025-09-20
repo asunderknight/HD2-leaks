@@ -1,0 +1,494 @@
+{
+    "Version": 1,
+    "Language": {
+        "Hash": "0x03f97b57",
+        "KnownName": "us",
+        "KnownFriendlyName": "English (US)"
+    },
+    "Items": [
+        {
+            "Key": 56830759,
+            "Value": "CIRCLE"
+        },
+        {
+            "Key": 142911852,
+            "Value": "SHIELD"
+        },
+        {
+            "Key": 143999691,
+            "Value": "NONE"
+        },
+        {
+            "Key": 178828132,
+            "Value": "CHEVRONS"
+        },
+        {
+            "Key": 182907562,
+            "Value": "#X MEMBERS ENLISTED"
+        },
+        {
+            "Key": 184509412,
+            "Value": "NONE"
+        },
+        {
+            "Key": 195519033,
+            "Value": "Super Earth is unable to process this Platoon modification request at this time.\n\nPlease check for signal interference by Automaton sympathizers and attempt this request later."
+        },
+        {
+            "Key": 206049419,
+            "Value": "MEMBER"
+        },
+        {
+            "Key": 210473997,
+            "Value": "Emblem Symbol"
+        },
+        {
+            "Key": 227247324,
+            "Value": "HOLD TO DISBAND PLATOON"
+        },
+        {
+            "Key": 309765858,
+            "Value": "EDIT PLATOON"
+        },
+        {
+            "Key": 342339632,
+            "Value": "STATION IN TRANSIT TO LOCATION: <c=FFFF0000>#NAME</c>"
+        },
+        {
+            "Key": 346709241,
+            "Value": "Unable to Disband"
+        },
+        {
+            "Key": 374131559,
+            "Value": "CREATE PLATOON"
+        },
+        {
+            "Key": 378216613,
+            "Value": "DONE"
+        },
+        {
+            "Key": 409628890,
+            "Value": "Platoon Description"
+        },
+        {
+            "Key": 420664536,
+            "Value": "EDIT NAME"
+        },
+        {
+            "Key": 513172241,
+            "Value": "KICK FROM PLATOON"
+        },
+        {
+            "Key": 522733309,
+            "Value": "#X PENDING PLATOON INVITE"
+        },
+        {
+            "Key": 611575020,
+            "Value": "STATUS: <c=FFFF0000>IN TRANSIT</c>"
+        },
+        {
+            "Key": 626905797,
+            "Value": "MUTE"
+        },
+        {
+            "Key": 627529432,
+            "Value": "Level #LEVEL"
+        },
+        {
+            "Key": 646935466,
+            "Value": "ACCEPT INVITE"
+        },
+        {
+            "Key": 661953282,
+            "Value": "HELLDIVER"
+        },
+        {
+            "Key": 675402310,
+            "Value": "Emblem Frame"
+        },
+        {
+            "Key": 678595308,
+            "Value": "VOLUME: #COUNT"
+        },
+        {
+            "Key": 774822970,
+            "Value": "REVIEW PLATOON INVITES"
+        },
+        {
+            "Key": 839360228,
+            "Value": "NONE"
+        },
+        {
+            "Key": 853653893,
+            "Value": "Open"
+        },
+        {
+            "Key": 903691396,
+            "Value": "BROWSE"
+        },
+        {
+            "Key": 929651778,
+            "Value": "NOT IN A PLATOON"
+        },
+        {
+            "Key": 934573387,
+            "Value": "VIEW INVITE OPTIONS"
+        },
+        {
+            "Key": 950311852,
+            "Value": "Online #X <c=FF606060>/ #Y</c>"
+        },
+        {
+            "Key": 986842787,
+            "Value": "Administrate Platoon - Move Platoon Station - Manage Members"
+        },
+        {
+            "Key": 995956334,
+            "Value": "#HUNDREDTHS:#MINS:#SECS / #COUNT days ago"
+        },
+        {
+            "Key": 1051492327,
+            "Value": "SERPENT"
+        },
+        {
+            "Key": 1072844939,
+            "Value": "Platoon Orders are available to all members as long as the Station is in orbit around the local planet."
+        },
+        {
+            "Key": 1096792928,
+            "Value": "SUBMIT CHANGES"
+        },
+        {
+            "Key": 1104209403,
+            "Value": "PRIVATE"
+        },
+        {
+            "Key": 1183586150,
+            "Value": "CREATE PLATOON"
+        },
+        {
+            "Key": 1221377980,
+            "Value": "<c=FF7B7B7B>[#HOURS:#MINUTES] #NAME:</c> <c=FFCCCCCC>#ENTRY</c>"
+        },
+        {
+            "Key": 1409694852,
+            "Value": "Super Earth is temporarily unable to process the Platoon disbandment request at this time.\n\nPlease check for signal interference by Terminid spores and attempt this request later."
+        },
+        {
+            "Key": 1438835195,
+            "Value": "Super Earth is unable to process the enlistment request for this Platoon at this time.\n\nPlease check for signal interference by Automaton sympathizers and attempt this request later."
+        },
+        {
+            "Key": 1522590399,
+            "Value": "TARGET"
+        },
+        {
+            "Key": 1677506112,
+            "Value": "COMPANY COMMANDER"
+        },
+        {
+            "Key": 1679167207,
+            "Value": "COMMANDER"
+        },
+        {
+            "Key": 1688511920,
+            "Value": "Access Inventory - Invite Members"
+        },
+        {
+            "Key": 1789012940,
+            "Value": "NONE"
+        },
+        {
+            "Key": 1812825730,
+            "Value": "Created: #DATE"
+        },
+        {
+            "Key": 1821916982,
+            "Value": "Platoon Station"
+        },
+        {
+            "Key": 1829092719,
+            "Value": "CREST"
+        },
+        {
+            "Key": 1832146147,
+            "Value": "Friends Only"
+        },
+        {
+            "Key": 1842631881,
+            "Value": "HOLD TO LEAVE PLATOON"
+        },
+        {
+            "Key": 1894830715,
+            "Value": "REVIEW PLATOON INVITES"
+        },
+        {
+            "Key": 1912765315,
+            "Value": "BROWSE PLATOON MEMBERS"
+        },
+        {
+            "Key": 1913835796,
+            "Value": "PLEASE WAIT DEMOCRATICALLY"
+        },
+        {
+            "Key": 1941128898,
+            "Value": "NONE"
+        },
+        {
+            "Key": 2039690901,
+            "Value": "NONE"
+        },
+        {
+            "Key": 2067755867,
+            "Value": "[DELETED MESSAGE]"
+        },
+        {
+            "Key": 2090344839,
+            "Value": "Platoon Level #COUNT"
+        },
+        {
+            "Key": 2094607911,
+            "Value": "SELECT MEMBERS"
+        },
+        {
+            "Key": 2098999253,
+            "Value": "CHEVRONS"
+        },
+        {
+            "Key": 2149763568,
+            "Value": "Type your message here. (Max. #COUNT characters)"
+        },
+        {
+            "Key": 2176649816,
+            "Value": "TRANSFERRING PLATOON INFO FROM SUPER EARTH"
+        },
+        {
+            "Key": 2180925136,
+            "Value": "STATUS: <c=FFFF0000>OFF-WORLD</c>"
+        },
+        {
+            "Key": 2221796468,
+            "Value": "EDIT DESCRIPTION"
+        },
+        {
+            "Key": 2275640941,
+            "Value": "DAGGER"
+        },
+        {
+            "Key": 2306165366,
+            "Value": "#X Pending Invites"
+        },
+        {
+            "Key": 2343090682,
+            "Value": "Platoon Name"
+        },
+        {
+            "Key": 2413212961,
+            "Value": "STAR"
+        },
+        {
+            "Key": 2418712607,
+            "Value": "NONE"
+        },
+        {
+            "Key": 2470994602,
+            "Value": "PRIVATES (#COUNT)"
+        },
+        {
+            "Key": 2475289602,
+            "Value": "Welcome to the Platoon page! You are currently not part of a Platoon, but you can create your own, or be invited to an existing Platoon by a fellow Helldiver.\n\nSuper Earth studies have shown that Helldivers in a Platoon have a 37% higher survival rate and democratic engagement - join one today!"
+        },
+        {
+            "Key": 2527988016,
+            "Value": "BROWSE OPTIONS"
+        },
+        {
+            "Key": 2553366971,
+            "Value": "EDIT MESSAGE"
+        },
+        {
+            "Key": 2568191016,
+            "Value": "SKULLS"
+        },
+        {
+            "Key": 2622393247,
+            "Value": "BARRIER"
+        },
+        {
+            "Key": 2707903874,
+            "Value": "ROPES"
+        },
+        {
+            "Key": 2746422749,
+            "Value": "LAUREL"
+        },
+        {
+            "Key": 2807246729,
+            "Value": "DECLINE INVITE"
+        },
+        {
+            "Key": 2915598743,
+            "Value": "START CREATING PLATOON"
+        },
+        {
+            "Key": 2934496041,
+            "Value": "The proposed name for this Platoon is already in use by another group of Helldivers.\n\nPlease adjust the Platoon name and resubmit the request to Super Earth."
+        },
+        {
+            "Key": 2953477976,
+            "Value": "OFFICERS (#COUNT)"
+        },
+        {
+            "Key": 2980665497,
+            "Value": "UNAVAILABLE"
+        },
+        {
+            "Key": 3004684212,
+            "Value": "Joining clan #NEWCLAN..."
+        },
+        {
+            "Key": 3054967594,
+            "Value": "CHAT"
+        },
+        {
+            "Key": 3061277827,
+            "Value": "NOT IN A COMPANY"
+        },
+        {
+            "Key": 3080280732,
+            "Value": "INVITE SENT"
+        },
+        {
+            "Key": 3112881276,
+            "Value": "CREATE A NEW PLATOON"
+        },
+        {
+            "Key": 3120901567,
+            "Value": "UNMUTE"
+        },
+        {
+            "Key": 3120905061,
+            "Value": "Private"
+        },
+        {
+            "Key": 3144943400,
+            "Value": "CANCEL"
+        },
+        {
+            "Key": 3181272332,
+            "Value": "SEND MESSAGE"
+        },
+        {
+            "Key": 3215614512,
+            "Value": "STARS"
+        },
+        {
+            "Key": 3273004357,
+            "Value": "OFFICER"
+        },
+        {
+            "Key": 3331298965,
+            "Value": "Enlistment Failed"
+        },
+        {
+            "Key": 3352344726,
+            "Value": "NONE"
+        },
+        {
+            "Key": 3428153134,
+            "Value": "Super Earth is unable to process this Platoon creation request at this time.\n\nPlease check for signal interference by Automaton sympathizers and attempt this request later."
+        },
+        {
+            "Key": 3440565698,
+            "Value": "Emblem Background"
+        },
+        {
+            "Key": 3466931570,
+            "Value": "Creation Failed"
+        },
+        {
+            "Key": 3495369260,
+            "Value": "CHANGE EMBLEM LAYER"
+        },
+        {
+            "Key": 3511058706,
+            "Value": "NEXT REWARD:"
+        },
+        {
+            "Key": 3532457893,
+            "Value": "CONTINUE EDITING"
+        },
+        {
+            "Key": 3548648189,
+            "Value": "BROWSE PLATOON INVITES"
+        },
+        {
+            "Key": 3586517645,
+            "Value": "EDIT PLATOON"
+        },
+        {
+            "Key": 3646429350,
+            "Value": "LEVEL #LEVEL"
+        },
+        {
+            "Key": 3648962888,
+            "Value": "INSPECT"
+        },
+        {
+            "Key": 3691955230,
+            "Value": "EAGLE"
+        },
+        {
+            "Key": 3709380662,
+            "Value": "INVITE TO CLAN"
+        },
+        {
+            "Key": 3713933293,
+            "Value": "KICK (HOLD)"
+        },
+        {
+            "Key": 3734233663,
+            "Value": "Unable to Leave Platoon"
+        },
+        {
+            "Key": 3833056521,
+            "Value": "PLATOON INVITES"
+        },
+        {
+            "Key": 3912990761,
+            "Value": "Join a Platoon Today!"
+        },
+        {
+            "Key": 3928714995,
+            "Value": "STATION OUT OF RANGE - LOCATION: <c=FFFF0000>#NAME</c>"
+        },
+        {
+            "Key": 3990689406,
+            "Value": "Editing Failed"
+        },
+        {
+            "Key": 4011482639,
+            "Value": "VIEW MEMBER ACTIONS"
+        },
+        {
+            "Key": 4043585896,
+            "Value": "#X PENDING PLATOON INVITES"
+        },
+        {
+            "Key": 4044526227,
+            "Value": "SAVE CHANGES?"
+        },
+        {
+            "Key": 4128497404,
+            "Value": "Public"
+        },
+        {
+            "Key": 4130586688,
+            "Value": "STATUS: <c=FF00FF00>IN ORBIT</c>"
+        },
+        {
+            "Key": 4222608598,
+            "Value": "Super Earth is temporarily unable to process the request to leave this Platoon at this time.\n \nPlease check for signal interference due to Illuminate tampering and attempt this request later."
+        }
+    ]
+}

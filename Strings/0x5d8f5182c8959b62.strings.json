@@ -1,0 +1,70 @@
+{
+    "Version": 1,
+    "Language": {
+        "Hash": "0x9eba952a",
+        "KnownName": "tc",
+        "KnownFriendlyName": "Chinese (Traditional)"
+    },
+    "Items": [
+        {
+            "Key": 35708001,
+            "Value": "投票"
+        },
+        {
+            "Key": 157403948,
+            "Value": "投票成功"
+        },
+        {
+            "Key": 432275452,
+            "Value": "你已履行民主責任\n非常好！"
+        },
+        {
+            "Key": 437129953,
+            "Value": "#DAYS天#HOURS小時#MINUTES分"
+        },
+        {
+            "Key": 709049035,
+            "Value": "候選人沒有投票權"
+        },
+        {
+            "Key": 918788164,
+            "Value": "生平："
+        },
+        {
+            "Key": 1647647552,
+            "Value": "超級地球正以民主方式處理你的選票，請等待。"
+        },
+        {
+            "Key": 1864299915,
+            "Value": "任期：#TERM"
+        },
+        {
+            "Key": 2098644286,
+            "Value": "選舉開始倒數："
+        },
+        {
+            "Key": 2565771413,
+            "Value": "選舉結束倒數："
+        },
+        {
+            "Key": 3075853207,
+            "Value": "政策："
+        },
+        {
+            "Key": 3161593322,
+            "Value": "投票失敗"
+        },
+        {
+            "Key": 3669227538,
+            "Value": "請稍候"
+        },
+        {
+            "Key": 3800224967,
+            "Value": "任期：#TERM"
+        },
+        {
+            "Key": 4275589329,
+            "Value": "#DAYS天#HOURS小時#MINUTES分"
+        }
+    ]
+}

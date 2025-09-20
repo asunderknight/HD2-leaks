@@ -1,0 +1,738 @@
+{
+    "Version": 1,
+    "Language": {
+        "Hash": "0xfea0f61f",
+        "KnownName": "fr",
+        "KnownFriendlyName": "French"
+    },
+    "Items": [
+        {
+            "Key": 22554536,
+            "Value": "ARCTIQUE"
+        },
+        {
+            "Key": 66334679,
+            "Value": "L'éclat troublant qui émane de cette ampoule éclaire les environs de sa tyrannie. "
+        },
+        {
+            "Key": 68016543,
+            "Value": "Typographie esthétique et espaces élégants, ce panneau est un véritable chef-d'œuvre de l'artisanat patriote."
+        },
+        {
+            "Key": 119363641,
+            "Value": "« Félicitations ! Votre demande de procréation pour [1] enfant a été acceptée. Nous vous souhaitons de répandre l'amour de la démocratie pour les générations à venir. »"
+        },
+        {
+            "Key": 122742932,
+            "Value": "DÉPOUILLE D'AUTOMATON"
+        },
+        {
+            "Key": 189073958,
+            "Value": "Un message est gravé à sa surface : « Gratitude éternelle aux loyaux soldats qui ont donné leur vie pour défendre la démocratie contrôlée. »"
+        },
+        {
+            "Key": 203787011,
+            "Value": "Sans électricité, ce distributeur n'est qu'une coquille sans vie. Encore une victime innocente de la tyrannie."
+        },
+        {
+            "Key": 208239710,
+            "Value": "VERTE"
+        },
+        {
+            "Key": 291289431,
+            "Value": "APPAREIL DE COMMUNICATION"
+        },
+        {
+            "Key": 315220150,
+            "Value": "« Inventaire de la cache :\n-300 cartouches de Libérateur\n-14 stims\n-12 litres d'eau\n-3 grenades à fragmentation »"
+        },
+        {
+            "Key": 348575717,
+            "Value": "« CENTRE D'ENTRAÎNEMENT DES HELLDIVERS\nBienvenue à l'entraînement des Helldivers\nMÉRITEZ VOTRE CAPE\nCONSULTEZ VOTRE CARTE POUR TROUVER LE CENTRE D'ENTRAÎNEMENT DES HELLDIVERS »"
+        },
+        {
+            "Key": 361417381,
+            "Value": "SERRE – TYPE 203"
+        },
+        {
+            "Key": 377777281,
+            "Value": "L'éclat rouge de cet engin, preuve inéluctable de sa malveillance, permet aux Helldivers perspicaces de savoir qu'il s'agit d'une arme explosive."
+        },
+        {
+            "Key": 390649935,
+            "Value": "« Mange ça, vermine extraterrestre. »"
+        },
+        {
+            "Key": 398354838,
+            "Value": "DISTRIBUTEUR"
+        },
+        {
+            "Key": 399898153,
+            "Value": "Un outil n'est plus à sa place. Il a sans doute été chapardé par un ennemi bien décidé à commettre des méfaits."
+        },
+        {
+            "Key": 417920220,
+            "Value": "L'énergie de ces batteries a temporairement été arrachée aux griffes des automatons."
+        },
+        {
+            "Key": 425538989,
+            "Value": "« Bienvenue ! En cas d'accueil insuffisamment chaleureux, merci de nous prévenir immédiatement. »"
+        },
+        {
+            "Key": 467457185,
+            "Value": "« Merci de présenter ce certificat d'approbation pour pouvoir effectuer le salut de la main gauche pendant toute la durée de votre convalescence. »"
+        },
+        {
+            "Key": 472562261,
+            "Value": "La serre permet de conserver une atmosphère similaire à celle de la Super-Terre."
+        },
+        {
+            "Key": 476382944,
+            "Value": "Cette nuée d'étincelles est comme un feu d'artifice tiré au nom de la démocratie."
+        },
+        {
+            "Key": 501371246,
+            "Value": "Nous ignorons si cet automaton parvient encore à percevoir des stimuli externes. Personne ne peut savoir combien de temps il restera dans cet état avant que sa batterie arrive en fin de vie."
+        },
+        {
+            "Key": 515860602,
+            "Value": "« Joyeuse Fête de la Liberté, les cafards ! »"
+        },
+        {
+            "Key": 518966165,
+            "Value": "Ce distributeur ne contient pas une seule de ces cannettes pourtant aussi délicieuses que désaltérantes."
+        },
+        {
+            "Key": 550229856,
+            "Value": "L'éclat verdâtre de cette lampe est aussi sinistre qu'étrange, conséquence évidente de sa conception antidémocratique."
+        },
+        {
+            "Key": 575509922,
+            "Value": "Évadez-vous à Giza. Confort moderne et charme d'antan. Pavillons disponibles."
+        },
+        {
+            "Key": 599823837,
+            "Value": "« Modèle d'éloge funèbre — Soldat, variante de tirs fratricides 016 : [Nom] a consacré de nombreuses heures à la prospérité de la Super-Terre. Qu'il/elle repose en paix en sachant que [la balle/le shrapnel/l'explosion] qui lui a ôté la vie était d'origine démocratique et a été tiré(e) au nom de la liberté. »"
+        },
+        {
+            "Key": 641985862,
+            "Value": "L'écran est figé sur un message vantant les mérites du travail intense."
+        },
+        {
+            "Key": 651948458,
+            "Value": "Il suffit d'UN TRAÎTRE pour réduire à néant une utopie.\n\nLe ministère de l'Unité."
+        },
+        {
+            "Key": 658237782,
+            "Value": "Une étagère contenant tous les outils nécessaires pour façonner un avenir meilleur."
+        },
+        {
+            "Key": 667736962,
+            "Value": "« Le chargeur semble de plus en plus agité lorsqu'on l'expose à des images de Helldivers. Des signes de mutation ? »"
+        },
+        {
+            "Key": 668500134,
+            "Value": "Pas chez moi.\n\nEngagez-vous."
+        },
+        {
+            "Key": 683910113,
+            "Value": "« Le manuel du responsable de colonie. Guide de terraformation planétaire, d'extraction de ressources et de supervision des colons. Approuvé par le ministère du Développement. »"
+        },
+        {
+            "Key": 730295732,
+            "Value": "« Suivant !\n\nAchetez des obligations de guerre. »"
+        },
+        {
+            "Key": 738463181,
+            "Value": "PLANÈTE MARÉCAGEUSE"
+        },
+        {
+            "Key": 867635046,
+            "Value": "AFFICHE DE SERVICE PUBLIC"
+        },
+        {
+            "Key": 880394900,
+            "Value": "EXPLOSIF DESPOTIQUE"
+        },
+        {
+            "Key": 880679518,
+            "Value": "« Le ministère de la Science rappelle à tous ses citoyens que participer à des essais cliniques confère de nombreux privilèges. Comment votre corps pourrait-il mieux servir la liberté ? »"
+        },
+        {
+            "Key": 885191753,
+            "Value": "« Livraison de la semaine prochaine :\n - 4 Libérateurs\n - 2 caisses de viande préfabriquée\n- 1 baril de carburant »"
+        },
+        {
+            "Key": 927788013,
+            "Value": "Ces batteries alimentent la machine de guerre automaton."
+        },
+        {
+            "Key": 945439925,
+            "Value": "ROCHEUSE"
+        },
+        {
+            "Key": 952870686,
+            "Value": "« Toutes vos inquiétudes concernant la sécurité des mines, ce qui inclut les horaires prolongés, les tunnels sombres, le soutien insuffisant, les échelles instables, etc., ont été notées, examinées et résolues. Vous pouvez avoir toute confiance en la sécurité de nos opérations minières. »"
+        },
+        {
+            "Key": 976163900,
+            "Value": "MESSAGE ÉCRIT À LA HÂTE"
+        },
+        {
+            "Key": 1003978479,
+            "Value": "L'ampoule est éteinte, le logo stylisé n'est plus que l'ombre de son ancienne gloire étincelante."
+        },
+        {
+            "Key": 1018033629,
+            "Value": "AFFICHE PATRIOTIQUE"
+        },
+        {
+            "Key": 1028349052,
+            "Value": "Onzième de la série « Loyauté », ce panneau renoue avec ses racines après l'extravagance de la version 10."
+        },
+        {
+            "Key": 1034277673,
+            "Value": "Qui sait ce que cette machine machiavélique manigance ?"
+        },
+        {
+            "Key": 1036715918,
+            "Value": "« URGENCE ! Troupes hostiles en approche. Évacuez immédiatement. URGENCE ! Troupes hostiles en approche. Évacuez immédiatement. »"
+        },
+        {
+            "Key": 1056267452,
+            "Value": "MESSAGE MANUSCRIT"
+        },
+        {
+            "Key": 1057866065,
+            "Value": "CHARIOT ÉLÉVATEUR"
+        },
+        {
+            "Key": 1072626935,
+            "Value": "« Le ministère de l'Humanité est sincèrement désolé d'apprendre la perte tragique d'un membre de votre famille. Veuillez suivre les instructions fournies pour organiser des funérailles patriotiques et vous acquitter de vos responsabilités fiscales. »"
+        },
+        {
+            "Key": 1076885230,
+            "Value": "MACHINE TYRANNIQUE"
+        },
+        {
+            "Key": 1111578990,
+            "Value": "AFFICHE PATRIOTIQUE"
+        },
+        {
+            "Key": 1175196149,
+            "Value": "« Notification : suite aux dernières restrictions budgétaires, la température des habitations de la colonie sera réduite de [13 %]. »"
+        },
+        {
+            "Key": 1186162679,
+            "Value": "CARTE DE BIBLIOTHÈQUE ENSANGLANTÉE"
+        },
+        {
+            "Key": 1201290169,
+            "Value": "LUMIÈRE AUTORITAIRE"
+        },
+        {
+            "Key": 1234533814,
+            "Value": "PLANÈTE SABLONNEUSE"
+        },
+        {
+            "Key": 1246250826,
+            "Value": "PLANÈTE ROCHEUSE"
+        },
+        {
+            "Key": 1289883582,
+            "Value": "AFFICHE PATRIOTIQUE"
+        },
+        {
+            "Key": 1290317954,
+            "Value": "« Félicitations ! Votre candidature à l'Université des pionniers, premier centre de formation en ligne des responsables coloniaux, a été acceptée. »"
+        },
+        {
+            "Key": 1294782553,
+            "Value": "PLANÈTE SAVANE"
+        },
+        {
+            "Key": 1309000342,
+            "Value": "Un message est gravé sur sa surface : « N'oublions jamais les innombrables Helldivers qui ont fait le sacrifice ultime lors de la Première Guerre intergalactique. »"
+        },
+        {
+            "Key": 1366620121,
+            "Value": "La fonction de cette machine est inconnue, elle est aussi irrécupérable que ses créateurs."
+        },
+        {
+            "Key": 1373264655,
+            "Value": "MESSAGE GRIBOUILLÉ SUR UNE BOMBE"
+        },
+        {
+            "Key": 1391731473,
+            "Value": "La vérité : la pierre angulaire de la démocratie.\n\nLe ministère de la Vérité."
+        },
+        {
+            "Key": 1396651258,
+            "Value": "Permet de transporter le minerai, les habitations modulaires et les enclos de détention des dissidents."
+        },
+        {
+            "Key": 1436263504,
+            "Value": "La tyrannie dans une matrice d'anodes et de cathodes."
+        },
+        {
+            "Key": 1439694785,
+            "Value": "AFFICHE PATRIOTIQUE"
+        },
+        {
+            "Key": 1449081236,
+            "Value": "Quelqu'un a commencé à écrire un message sur cette tablette maculée de sang : « Soutien aérien immédiat requis. Nous subissons de lourdes per– »"
+        },
+        {
+            "Key": 1455663094,
+            "Value": "« À livrer aux terminides DQP. »"
+        },
+        {
+            "Key": 1457793035,
+            "Value": "PUBLICITÉ"
+        },
+        {
+            "Key": 1476637725,
+            "Value": "Des glyphes automatons aussi menaçantes qu'assoiffées de pouvoir recouvrent sa carcasse."
+        },
+        {
+            "Key": 1477469637,
+            "Value": "RE : SÉCURITÉ DES MINES"
+        },
+        {
+            "Key": 1504996095,
+            "Value": "« Rappel : chaque retour tardif constitue une forme de trahison. »"
+        },
+        {
+            "Key": 1554836788,
+            "Value": "« N'oubliez pas de voter pour le meilleur patriote de VOTRE colonie ! »"
+        },
+        {
+            "Key": 1565025413,
+            "Value": "Un immonde détournement d'une des plus belles inventions de l'humanité."
+        },
+        {
+            "Key": 1588759936,
+            "Value": "PLANÈTE VERTE"
+        },
+        {
+            "Key": 1687119863,
+            "Value": "AFFICHE DE SERVICE PUBLIC"
+        },
+        {
+            "Key": 1778996632,
+            "Value": "« Manipuler avec précaution »"
+        },
+        {
+            "Key": 1813328760,
+            "Value": "« Modèle d'éloge funèbre — Soldat, variante 004 : [Grade] [Nom] a rejoint l'armée à l'âge de [âge]. Il/Elle a servi avec [nom élogieux] et péri héroïquement lors d'une bataille contre les [ennemis]. Nous n'oublierons jamais sa [caractéristique unique]. »"
+        },
+        {
+            "Key": 1840545502,
+            "Value": "Ces plantes commencent à flétrir sans la main verte de la démocratie."
+        },
+        {
+            "Key": 1850831891,
+            "Value": "Tout ce que vous avez besoin de savoir.\n\nLe ministère de la Vérité."
+        },
+        {
+            "Key": 1888359229,
+            "Value": "« Démo Zéro. Libérez-vous. »"
+        },
+        {
+            "Key": 1933276130,
+            "Value": "AFFICHE DE SERVICE PUBLIC"
+        },
+        {
+            "Key": 1954555863,
+            "Value": "Nous restons INFORMÉS pour VOUS informer.\n\nLe ministère de la Vérité."
+        },
+        {
+            "Key": 1983790063,
+            "Value": "Les outils ont été méticuleusement rangés, conformément aux instructions gouvernementales."
+        },
+        {
+            "Key": 1987986869,
+            "Value": "« Ne pas utiliser sans guide au sol. »"
+        },
+        {
+            "Key": 2004112673,
+            "Value": "Libéré de sa programmation tyrannique, le métal de cet automaton vaincu est de nouveau libre."
+        },
+        {
+            "Key": 2024515668,
+            "Value": "« Alerte : suite à une recrudescence de l'activité hostile dans la région, toutes les funérailles devront respecter le protocole d'inhumation accélérée jusqu'à nouvel ordre. »"
+        },
+        {
+            "Key": 2050982497,
+            "Value": "« Ne manquez pas le bulletin bimensuel de la fédération à 20 h ! (Toute absence doit être préapprouvée.) »"
+        },
+        {
+            "Key": 2053947121,
+            "Value": "Éloignez leurs tentacules de vos enfants !"
+        },
+        {
+            "Key": 2082344782,
+            "Value": "« Saveurs disponibles : Dr Démocratie, M. Saveur, Prof. Délicieux et Maître Miaaam »"
+        },
+        {
+            "Key": 2151041792,
+            "Value": "FORÊT"
+        },
+        {
+            "Key": 2256936138,
+            "Value": "Une étagère à outils standard conçue pour ranger des outils standard."
+        },
+        {
+            "Key": 2318053846,
+            "Value": "« Merci de ne pas utiliser de machines industrielles lorsque vous consommez cette boisson. »"
+        },
+        {
+            "Key": 2383760178,
+            "Value": "OBSERVATION n° ##64"
+        },
+        {
+            "Key": 2398394710,
+            "Value": "« Rappel : les élections du responsable planétaire vont bientôt avoir lieu ! »"
+        },
+        {
+            "Key": 2411766708,
+            "Value": "Un message est gravé à sa surface : « À la mémoire des serviteurs de la liberté qui ont péri héroïquement sous d'inéluctables tirs fratricides. »"
+        },
+        {
+            "Key": 2436288325,
+            "Value": "« Prenez ça ! »"
+        },
+        {
+            "Key": 2453875425,
+            "Value": "« Modèle d'éloge funèbre — Soldat, service exemplaire 121 : [Grade] [Nom] a fait preuve d'un héroïsme absolument exceptionnel. Il/Elle n'a pas simplement donné sa vie au nom de la Super-Terre. Il/Elle s'est sacrifié(e) de son plein gré. »"
+        },
+        {
+            "Key": 2459063269,
+            "Value": "« Rappel à toutes les troupes de la Super-Terre : l'envoi de courrier est désormais réservé aux soldats ayant rendu des services exceptionnellement démocratiques à l'humanité. »"
+        },
+        {
+            "Key": 2494575413,
+            "Value": "Un tas de ferraille incandescent. Il a eu ce qu'il méritait."
+        },
+        {
+            "Key": 2504313014,
+            "Value": "TOURBE"
+        },
+        {
+            "Key": 2540993890,
+            "Value": "PLANÈTE FORESTIÈRE"
+        },
+        {
+            "Key": 2572052001,
+            "Value": "« Note au préparateur des tombes : compte tenu de l'activité hautement hostile dans la région, les tombes creusées devront être plus grandes que d'habitude. »"
+        },
+        {
+            "Key": 2616113535,
+            "Value": "AFFICHE DE SERVICE PUBLIC"
+        },
+        {
+            "Key": 2627013640,
+            "Value": "Accroit la priorité de votre mission, ce qui augmente vos chances d'être rejoint par d'autres Helldivers."
+        },
+        {
+            "Key": 2631473995,
+            "Value": "« Veuillez contacter votre garant de la loyauté dans les plus brefs délais. Raison : [Rapport citoyen de discours dissident]. »"
+        },
+        {
+            "Key": 2643234841,
+            "Value": "PLANÈTE PRIMORDIALE"
+        },
+        {
+            "Key": 2649909856,
+            "Value": "Les manipulateurs robotiques installés à l'extrémité de ce bras ne peuvent rien saisir, sauf l'oppression."
+        },
+        {
+            "Key": 2654073100,
+            "Value": "« L'activité hostile a été classée FAIBLE dans la région. Tous les citoyens doivent continuer d'accomplir leur devoir jusqu'à nouvel ordre. »"
+        },
+        {
+            "Key": 2656947245,
+            "Value": "« Le ministère de l'Humanité a terminé l'enquête relative à votre rapport de personne disparue. Résultat : [AFFAIRE CLASSÉE]. Conclusion : [Mine défaillante]. »"
+        },
+        {
+            "Key": 2658730238,
+            "Value": "« Ne convient pas aux traîtres à la démocratie. »"
+        },
+        {
+            "Key": 2662913543,
+            "Value": "« Veuillez choisir la délicieuse saveur des prochaines rations saisonnières de notre colonie : myrtille, chocolat, cannelle ou gâteau d'anniversaire. » Saveur gâteau d'anniversaire sélectionnée."
+        },
+        {
+            "Key": 2683508963,
+            "Value": "ÉTAGÈRE À OUTILS DE LA SUPER-TERRE"
+        },
+        {
+            "Key": 2683971696,
+            "Value": "PACK DE BIÈRE « PRESSION DÉMOCRATIQUE »"
+        },
+        {
+            "Key": 2688155711,
+            "Value": "MONUMENT DE LA LIBERTÉ"
+        },
+        {
+            "Key": 2693768507,
+            "Value": "L'écran est figé sur le dernier message transmis : « Tenez bon. »"
+        },
+        {
+            "Key": 2716080683,
+            "Value": "Balise de détresse"
+        },
+        {
+            "Key": 2719222461,
+            "Value": "« Rappel au responsable de la colonie : veuillez vous reporter au Guide de conformité pour ajuster le taux de productivité des ouvriers. »"
+        },
+        {
+            "Key": 2724107978,
+            "Value": "« Le ministère de l'Humanité vous adresse ses plus sincères félicitations pour l'approbation de votre demande de mariage. Veuillez trouver ci-joint les instructions à suivre pour consolider vos domiciles. »"
+        },
+        {
+            "Key": 2752474601,
+            "Value": "DISPOSITIF DE COMMUNICATION DES S.E.A.F."
+        },
+        {
+            "Key": 2808721942,
+            "Value": "Un jardin luxuriant uniquement composé de plantes super-terriennes. Les racines de la liberté s'étendent partout dans la galaxie."
+        },
+        {
+            "Key": 2848746371,
+            "Value": "« Compte tenu de la menace exceptionnelle qui pèse sur nos troupes, tous les soldats de la Super-Terre et leurs unités familiales approuvées recevront l'habilitation Citoyen de classe C en cas de réussite de la mission ou de mort. »"
+        },
+        {
+            "Key": 2893623201,
+            "Value": "« Rappel au responsable de la colonie : afin de mieux servir la liberté, le budget alloué à la sécurité de votre colonie sera réduit de [23,7 %] au cours de la prochaine année fiscale. »"
+        },
+        {
+            "Key": 2901963580,
+            "Value": "PRIMORDIALE"
+        },
+        {
+            "Key": 2937633613,
+            "Value": "« J'ai pris le matos. J'en avais besoin. Désolé. \n P.S. Ce type était raide quand je suis arrivé. \n– D »"
+        },
+        {
+            "Key": 2946371041,
+            "Value": "L'écran affiche une photo. On dirait la famille d'un soldat de la Super-Terre qui tient une bannière sur laquelle il est inscrit « Défendons notre liberté »."
+        },
+        {
+            "Key": 2956446175,
+            "Value": "AFFICHE PATRIOTIQUE"
+        },
+        {
+            "Key": 2985529596,
+            "Value": "SAVANE"
+        },
+        {
+            "Key": 2988205947,
+            "Value": "« À court de matos. Je prends les munitions, je laisse le porridge. Bonne chance – D »"
+        },
+        {
+            "Key": 3066659304,
+            "Value": "PANNEAU DE BIENVENUE – VARIANTE 02"
+        },
+        {
+            "Key": 3121815003,
+            "Value": "SABLONNEUSE"
+        },
+        {
+            "Key": 3172306278,
+            "Value": "Ce chariot élévateur est le globule rouge de la démocratie contrôlée : il transporte tous les éléments vitaux là où ils sont nécessaires."
+        },
+        {
+            "Key": 3238307974,
+            "Value": "Une paire de lunettes de sécurité suspendue à sa lanière, les verres sont maculés de sang. On dirait qu'elles n'ont pas rempli leur fonction."
+        },
+        {
+            "Key": 3255839399,
+            "Value": "« Bibliothèque du ministère de la Vérité, allée 301C. »"
+        },
+        {
+            "Key": 3268782755,
+            "Value": "LIBERTY MARKET\n\nLe centre commercial le plus long au monde"
+        },
+        {
+            "Key": 3278267572,
+            "Value": "Des milliards d'étoiles. Une fédération.\n\nLe ministère du Développement."
+        },
+        {
+            "Key": 3284598023,
+            "Value": "Seuls les plus grands philosophes pourront déterminer si cet automaton a un jour été en vie. Ce qui est sûr, c'est qu'il est mort maintenant."
+        },
+        {
+            "Key": 3323987103,
+            "Value": "Un outil de la tyrannie."
+        },
+        {
+            "Key": 3346567964,
+            "Value": "« Avis aux colons : opération militaire en cours aux abords de la colonie. Inutile de s'inquiéter. Veuillez rester chez vous jusqu'à nouvel ordre. »"
+        },
+        {
+            "Key": 3348449738,
+            "Value": "AFFICHE DE SERVICE PUBLIC"
+        },
+        {
+            "Key": 3350686635,
+            "Value": "« Vous allez goûter à la liberté ! »"
+        },
+        {
+            "Key": 3367142121,
+            "Value": "L'écran fissuré montre la photo d'une enfant souriante, une pioche sur l'épaule."
+        },
+        {
+            "Key": 3384238125,
+            "Value": "JOURNAL DU CAPITAINE"
+        },
+        {
+            "Key": 3434031175,
+            "Value": "MARAIS"
+        },
+        {
+            "Key": 3515658116,
+            "Value": "PUBLICITÉ"
+        },
+        {
+            "Key": 3561698279,
+            "Value": "Nous défendons l'avenir de la démocratie.\n\nLe ministère de la Défense."
+        },
+        {
+            "Key": 3573408908,
+            "Value": "Restez à l'affût des TRAÎTRES."
+        },
+        {
+            "Key": 3637654068,
+            "Value": "« Bisous de la Super-Terre »"
+        },
+        {
+            "Key": 3639189188,
+            "Value": "Cette sculpture en marbre synthétique transmet un message clair : la liberté ne connaît pas les frontières imposées par les espèces et la sagesse."
+        },
+        {
+            "Key": 3653989852,
+            "Value": "Le ministère de la Prospérité fait en sorte que toutes les colonies aient les dernières boissons à leur disposition, offrant ainsi toute l'ingéniosité libertaire de la Super-Terre à l'intégralité de ses citoyens."
+        },
+        {
+            "Key": 3665189065,
+            "Value": "AFFICHE PATRIOTIQUE"
+        },
+        {
+            "Key": 3671633165,
+            "Value": "Une abomination construite par des abominations aux intentions abominables."
+        },
+        {
+            "Key": 3698614321,
+            "Value": "La loyauté est récompensée. Dénoncez tous les dissidents.\n\nLe ministère de l'Unité."
+        },
+        {
+            "Key": 3713896677,
+            "Value": "Examiner"
+        },
+        {
+            "Key": 3730334434,
+            "Value": "« Nous avons le regret de vous informer que votre demande d'adoption ayant pour objet [1] [hamster] a été refusée. »"
+        },
+        {
+            "Key": 3762269985,
+            "Value": "N'oublions jamais l'avant-poste 32"
+        },
+        {
+            "Key": 3812730735,
+            "Value": "On pourrait croire qu'il s'agit d'une simple lampe, mais les vrais patriotes sauront immédiatement que c'est une effroyable abomination."
+        },
+        {
+            "Key": 3833198954,
+            "Value": "« CENTRE DE FORMATION DES HELLDIVERS »"
+        },
+        {
+            "Key": 3837189790,
+            "Value": "PLANÈTE TOURBIÈRE"
+        },
+        {
+            "Key": 3846306529,
+            "Value": "PLANÈTE ARCTIQUE"
+        },
+        {
+            "Key": 3849701791,
+            "Value": "Un message est gravé sur le piédestal : « Ils nous sauveront. »"
+        },
+        {
+            "Key": 3859177696,
+            "Value": "Une dernière récolte frénétique semble avoir eu lieu pendant l'évacuation."
+        },
+        {
+            "Key": 3859574095,
+            "Value": "Nous transportons une large cargaison de lance-flammes. Présence ennemie importante. La livraison devrait nous prendre toute la journée. Derek a oublié l'extincteur, mais je pense que tout devrait bi–"
+        },
+        {
+            "Key": 3875504792,
+            "Value": "Un appareil qui permet au Département de l'expansion de communiquer avec les Responsables coloniaux."
+        },
+        {
+            "Key": 3908624458,
+            "Value": "« Chers insectes... »"
+        },
+        {
+            "Key": 3940634112,
+            "Value": "« Pesticide »"
+        },
+        {
+            "Key": 3947210492,
+            "Value": "Cette machine ne montre aucun signe d'intelligence, mais on ne sait jamais."
+        },
+        {
+            "Key": 3978598201,
+            "Value": "APPAREIL PERSONNEL"
+        },
+        {
+            "Key": 3978938678,
+            "Value": "« Vous êtes juridiquement tenu de signaler toute attaque terminide aux autorités ! »"
+        },
+        {
+            "Key": 4054366495,
+            "Value": "« ORDRE : ne vous repliez pas. Défendez la liberté à tout prix. »"
+        },
+        {
+            "Key": 4072697637,
+            "Value": "Aujourd'hui endormie, cette machine abandonnée fredonnait autrefois un air apaisant."
+        },
+        {
+            "Key": 4088732588,
+            "Value": "AFFICHE PATRIOTIQUE"
+        },
+        {
+            "Key": 4118649839,
+            "Value": "« D'après un rapport du ministère de la Défense, le moral de nos ennemis n'a jamais été aussi bas. »"
+        },
+        {
+            "Key": 4145325589,
+            "Value": "Le silence inquiétant de sa carcasse dissimule l'énergie autocratique qui se cache à l'intérieur."
+        },
+        {
+            "Key": 4162633951,
+            "Value": "« Rappel : les plaintes constituent une porte vers la dissidence. »"
+        },
+        {
+            "Key": 4197052020,
+            "Value": "« Dr Démocratie™ : contient 17 additifs alimentaires »"
+        },
+        {
+            "Key": 4218706212,
+            "Value": "Qu'est-ce que vous attendez ?"
+        },
+        {
+            "Key": 4237357784,
+            "Value": "Ces teintes patriotiques feraient chavirer le cœur de tout Super-Terrien qui se respecte."
+        },
+        {
+            "Key": 4249190617,
+            "Value": "« Le ministère de la Vérité rappelle aux citoyens que toutes les publications antidémocratiques doivent être signalées dans les plus brefs délais. »"
+        },
+        {
+            "Key": 4279615051,
+            "Value": "Stoppez l'infestation !"
+        }
+    ]
+}

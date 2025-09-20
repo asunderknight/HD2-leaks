@@ -1,0 +1,346 @@
+{
+    "Version": 1,
+    "Language": {
+        "Hash": "0xe5c65a36",
+        "KnownName": "ms",
+        "KnownFriendlyName": "Spanish (Mexico)"
+    },
+    "Items": [
+        {
+            "Key": 15139530,
+            "Value": "#VALUE SEGUNDO"
+        },
+        {
+            "Key": 134881717,
+            "Value": "#COUNT m/s"
+        },
+        {
+            "Key": 374081602,
+            "Value": "#COUNT dB"
+        },
+        {
+            "Key": 433168853,
+            "Value": "#X / #Y"
+        },
+        {
+            "Key": 460237456,
+            "Value": "#TEXT || "
+        },
+        {
+            "Key": 465767362,
+            "Value": "#HOURS h #MINUTES min"
+        },
+        {
+            "Key": 529146598,
+            "Value": "#VALUE HORAS"
+        },
+        {
+            "Key": 566160508,
+            "Value": "(#COUNT)"
+        },
+        {
+            "Key": 713394709,
+            "Value": "#LEADIN #DAY #HOUR #MINUTE"
+        },
+        {
+            "Key": 823367019,
+            "Value": "[#X/#Y]"
+        },
+        {
+            "Key": 929766607,
+            "Value": "#HOURS:#MINUTES:#SECONDS"
+        },
+        {
+            "Key": 945668272,
+            "Value": "#COUNT s"
+        },
+        {
+            "Key": 956860246,
+            "Value": "#COUNT m"
+        },
+        {
+            "Key": 970937181,
+            "Value": "#MINUTES:#SECONDS"
+        },
+        {
+            "Key": 980029096,
+            "Value": "#X/#Y"
+        },
+        {
+            "Key": 1020964387,
+            "Value": "<i=1>#HOUR_ZEROS</i><i=2>#HOURS</i> H <i=1>#MINUTE_ZEROS</i><i=2>#MINUTES</i> MIN"
+        },
+        {
+            "Key": 1157079216,
+            "Value": "T-#MINUTES:#SECONDS:#MILLI"
+        },
+        {
+            "Key": 1238175497,
+            "Value": "#VALUE min"
+        },
+        {
+            "Key": 1250926542,
+            "Value": "#SUBTITLE"
+        },
+        {
+            "Key": 1310979905,
+            "Value": "\"#TEXT\""
+        },
+        {
+            "Key": 1399897974,
+            "Value": "#VALUE d"
+        },
+        {
+            "Key": 1446200790,
+            "Value": "#VALUE día"
+        },
+        {
+            "Key": 1475232210,
+            "Value": "<i=1>#MINUTE_ZEROS</i><i=2>#MINUTES</i> MIN <i=1>#SECOND_ZEROS</i><i=2>#SECONDS</i> S"
+        },
+        {
+            "Key": 1490709564,
+            "Value": "<c=FFFFE900>#VALUE</c> SEGUNDOS"
+        },
+        {
+            "Key": 1517240444,
+            "Value": "<c=FFFFE900>#VALUE</c> DÍAS"
+        },
+        {
+            "Key": 1555503243,
+            "Value": "<c=FFFFE900>#VALUE</c> DÍA"
+        },
+        {
+            "Key": 1558469090,
+            "Value": "#MINUTES:#SECONDS:#MILLI"
+        },
+        {
+            "Key": 1583484500,
+            "Value": "#X - #Y"
+        },
+        {
+            "Key": 1594599891,
+            "Value": "."
+        },
+        {
+            "Key": 1600211229,
+            "Value": "<i=2>#DAYS</i> D"
+        },
+        {
+            "Key": 1777848808,
+            "Value": "#VALUE segundo"
+        },
+        {
+            "Key": 1888183316,
+            "Value": "?"
+        },
+        {
+            "Key": 1917163885,
+            "Value": "#COUNT mrad"
+        },
+        {
+            "Key": 1918022460,
+            "Value": "<i=1>#ZEROES</i>#COUNT"
+        },
+        {
+            "Key": 1985620230,
+            "Value": "<c=FFFFE900>#VALUE</c> HORAS"
+        },
+        {
+            "Key": 2144747701,
+            "Value": "#SECONDS s"
+        },
+        {
+            "Key": 2203259731,
+            "Value": "#VALUE horas"
+        },
+        {
+            "Key": 2272830189,
+            "Value": "T-"
+        },
+        {
+            "Key": 2287300586,
+            "Value": "#VALUE DÍAS"
+        },
+        {
+            "Key": 2389233478,
+            "Value": "#COUNT"
+        },
+        {
+            "Key": 2410361446,
+            "Value": "T-#SECONDS"
+        },
+        {
+            "Key": 2412757892,
+            "Value": "<c=FFFFE900>#VALUE</c> HORA"
+        },
+        {
+            "Key": 2433320646,
+            "Value": "[#MINUTES:#SECONDS]"
+        },
+        {
+            "Key": 2440539975,
+            "Value": "<c=FFFFE900>#VALUE</c> MINUTO"
+        },
+        {
+            "Key": 2529489660,
+            "Value": "#SECONDS s"
+        },
+        {
+            "Key": 2562534265,
+            "Value": "#VALUE HORA"
+        },
+        {
+            "Key": 2565732693,
+            "Value": "#A (#PERCENT%)"
+        },
+        {
+            "Key": 2647440251,
+            "Value": "T- #DAYS d:#HOURS:#MINUTES:#SECONDS"
+        },
+        {
+            "Key": 2648738319,
+            "Value": "#X #Y #Z"
+        },
+        {
+            "Key": 2667748644,
+            "Value": "#A/#B (#PERCENT %)"
+        },
+        {
+            "Key": 2684728733,
+            "Value": "#VALUE segundos"
+        },
+        {
+            "Key": 2741953390,
+            "Value": "#VALUE SEGUNDOS"
+        },
+        {
+            "Key": 2754851505,
+            "Value": "#LEADIN #DAY #HOUR #MINUTE #SECOND"
+        },
+        {
+            "Key": 2908936646,
+            "Value": "#HOURS h #MINUTES min #SECONDS s"
+        },
+        {
+            "Key": 2968988351,
+            "Value": "T- #HOURS:#MINUTES:#SECONDS"
+        },
+        {
+            "Key": 2987532778,
+            "Value": "#VALUE días"
+        },
+        {
+            "Key": 3127989858,
+            "Value": "#LEADIN #HOUR #MINUTE"
+        },
+        {
+            "Key": 3137384160,
+            "Value": "#VALUE DÍA"
+        },
+        {
+            "Key": 3212373153,
+            "Value": "#COUNTs"
+        },
+        {
+            "Key": 3222869178,
+            "Value": "#VALUE día"
+        },
+        {
+            "Key": 3240883761,
+            "Value": "#VALUE minutos"
+        },
+        {
+            "Key": 3295025058,
+            "Value": "<i=1>#DAY_ZEROS</i><i=2>#DAYS</i> D <i=1>#HOUR_ZEROS</i><i=2>#HOURS</i> H"
+        },
+        {
+            "Key": 3298627204,
+            "Value": "."
+        },
+        {
+            "Key": 3316959333,
+            "Value": "#COUNT m"
+        },
+        {
+            "Key": 3356860647,
+            "Value": "#X<i=1>/#Y</i>"
+        },
+        {
+            "Key": 3452784529,
+            "Value": "#A • #B • #C"
+        },
+        {
+            "Key": 3535878147,
+            "Value": "#VALUE MINUTOS"
+        },
+        {
+            "Key": 3643179164,
+            "Value": "#SPEAKER: #SUBTITLE"
+        },
+        {
+            "Key": 3651033560,
+            "Value": "#VALUE h"
+        },
+        {
+            "Key": 3702434399,
+            "Value": "#VALUE s"
+        },
+        {
+            "Key": 3738101114,
+            "Value": "#MINUTES min #SECONDS s"
+        },
+        {
+            "Key": 3775688985,
+            "Value": "#VALUE hora"
+        },
+        {
+            "Key": 3830221876,
+            "Value": "#X #Y"
+        },
+        {
+            "Key": 3845201383,
+            "Value": "#VALUE minuto"
+        },
+        {
+            "Key": 3937829206,
+            "Value": "T - #SECONDS"
+        },
+        {
+            "Key": 3964889908,
+            "Value": "<c=FFFFE900>#VALUE</c> SEGUNDO"
+        },
+        {
+            "Key": 4015316504,
+            "Value": "#LEADIN #DAY"
+        },
+        {
+            "Key": 4049372406,
+            "Value": "#VALUE MINUTO"
+        },
+        {
+            "Key": 4062007571,
+            "Value": "Opción #NUMBER"
+        },
+        {
+            "Key": 4146883874,
+            "Value": "<c=FFFFE900>#VALUE</c> MINUTOS"
+        },
+        {
+            "Key": 4243487113,
+            "Value": "#A • #B"
+        },
+        {
+            "Key": 4250090175,
+            "Value": "#VALUE días"
+        },
+        {
+            "Key": 4256097648,
+            "Value": "#PERCENT %"
+        },
+        {
+            "Key": 4262706477,
+            "Value": "+#COUNT"
+        }
+    ]
+}

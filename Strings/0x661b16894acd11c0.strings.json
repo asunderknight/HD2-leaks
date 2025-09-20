@@ -1,0 +1,386 @@
+{
+    "Version": 1,
+    "Language": {
+        "Hash": "0xe2fb1acd",
+        "KnownName": "it",
+        "KnownFriendlyName": "Italian"
+    },
+    "Items": [
+        {
+            "Key": 7350021,
+            "Value": "Il lungo braccio della Giustizia"
+        },
+        {
+            "Key": 28572979,
+            "Value": "Completa una missione a Difficile o superiore senza che nessuno usi l'arma primaria o ausiliaria."
+        },
+        {
+            "Key": 74724350,
+            "Value": "Completa l'addestramento di base."
+        },
+        {
+            "Key": 235196461,
+            "Value": "Uccidi 100 nemici con danni da fuoco nella stessa missione."
+        },
+        {
+            "Key": 240084251,
+            "Value": "Il potere della Democrazia"
+        },
+        {
+            "Key": 243360535,
+            "Value": "Fornisci una ricarica d'emergenza a un compagno di squadra."
+        },
+        {
+            "Key": 254510718,
+            "Value": "Tienimi l'arma primaria, vado dentro!"
+        },
+        {
+            "Key": 279570205,
+            "Value": "Ottieni tutti i trofei di HELLDIVERS™ 2."
+        },
+        {
+            "Key": 331887065,
+            "Value": "I campioni sono i migliori amici degli Helldiver"
+        },
+        {
+            "Key": 421687485,
+            "Value": "Totalmente in funzione"
+        },
+        {
+            "Key": 432134967,
+            "Value": "La tattica è sempre la tattica"
+        },
+        {
+            "Key": 442059879,
+            "Value": "Personalizza il tuo Helldiver con un mantello, una corazza e un casco nuovi."
+        },
+        {
+            "Key": 472312330,
+            "Value": "La scienza si fa con la quantità"
+        },
+        {
+            "Key": 490276034,
+            "Value": "Estrai dopo lo scadere del timer."
+        },
+        {
+            "Key": 552362711,
+            "Value": "Estrai con almeno 15 campioni comuni."
+        },
+        {
+            "Key": 752968066,
+            "Value": "Pacchetto di 1000 (750 + 250 extra) crediti super"
+        },
+        {
+            "Key": 788445221,
+            "Value": "Pacchetto di 2100 (1500 + 600 extra) crediti super"
+        },
+        {
+            "Key": 854221043,
+            "Value": "Estrai da una missione in squadra con almeno 15 campioni rari."
+        },
+        {
+            "Key": 911872437,
+            "Value": "Pacchetto di 150 crediti super"
+        },
+        {
+            "Key": 921854660,
+            "Value": "Più sono alti..."
+        },
+        {
+            "Key": 1031312853,
+            "Value": "Presi con i rifornimenti!"
+        },
+        {
+            "Key": 1071140672,
+            "Value": "Estrazione in campagna"
+        },
+        {
+            "Key": 1104401796,
+            "Value": "Pari e patta"
+        },
+        {
+            "Key": 1144600268,
+            "Value": "Decollo!"
+        },
+        {
+            "Key": 1256112630,
+            "Value": "Partita veloce"
+        },
+        {
+            "Key": 1266360816,
+            "Value": "Distruggi entrambe le braccia di un Gigante ed estrai mentre è ancora vivo."
+        },
+        {
+            "Key": 1280579303,
+            "Value": "L'unico modo per accertarsene..."
+        },
+        {
+            "Key": 1328589529,
+            "Value": "Disponi 6 stratagemmi di sbarramento orbitale nello stesso luogo e nello stesso momento."
+        },
+        {
+            "Key": 1332152835,
+            "Value": "La tattica è sempre la tattica"
+        },
+        {
+            "Key": 1427976274,
+            "Value": "Gioca 1 missione Insetto."
+        },
+        {
+            "Key": 1456717076,
+            "Value": "Pacchetto di 375 crediti super"
+        },
+        {
+            "Key": 1476181576,
+            "Value": "Completa una missione, ma fallisci l'estrazione."
+        },
+        {
+            "Key": 1478360991,
+            "Value": "Raggiungi il livello massimo in un modulo della nave."
+        },
+        {
+            "Key": 1488816523,
+            "Value": "I bravi ragazzi non g... AAAAH!"
+        },
+        {
+            "Key": 1495807816,
+            "Value": "Lo stalking è un reato"
+        },
+        {
+            "Key": 1538898674,
+            "Value": "Sconfiggi un Titano rabbioso."
+        },
+        {
+            "Key": 1647024014,
+            "Value": "Cura un compagno con gli stimolanti."
+        },
+        {
+            "Key": 1741663299,
+            "Value": "Patata bollente!"
+        },
+        {
+            "Key": 1841056965,
+            "Value": "Prendete!"
+        },
+        {
+            "Key": 1842016181,
+            "Value": "Completa almeno 100 missioni."
+        },
+        {
+            "Key": 1874589215,
+            "Value": "I campioni sono amici degli Helldiver"
+        },
+        {
+            "Key": 1954310570,
+            "Value": "Uccidili col fuoco!"
+        },
+        {
+            "Key": 1956109868,
+            "Value": "Esporta la democrazia controllata"
+        },
+        {
+            "Key": 2020130716,
+            "Value": "Tienimi l'arma primaria, vado dentro!"
+        },
+        {
+            "Key": 2049351693,
+            "Value": "Subisci lesioni a tutti gli arti contemporaneamente."
+        },
+        {
+            "Key": 2258743961,
+            "Value": "Pesta-Insetti"
+        },
+        {
+            "Key": 2311231392,
+            "Value": "Super cittadino"
+        },
+        {
+            "Key": 2346618264,
+            "Value": "Spara almeno 150 colpi in una raffica, uccidendo almeno 10 nemici."
+        },
+        {
+            "Key": 2367885192,
+            "Value": "Estrai con una squadra completa in una missione a difficoltà Difficile o superiore."
+        },
+        {
+            "Key": 2474948923,
+            "Value": "La Democrazia ha ancora bisogno di te"
+        },
+        {
+            "Key": 2480962503,
+            "Value": "Missione compiuta!"
+        },
+        {
+            "Key": 2502670206,
+            "Value": "Promuovi la sinergia"
+        },
+        {
+            "Key": 2537357154,
+            "Value": "Perdi conoscenza mentre usi lo zaino di salto."
+        },
+        {
+            "Key": 2538735225,
+            "Value": "Elimina un Ariete con un pod di rifornimento."
+        },
+        {
+            "Key": 2570980737,
+            "Value": "Il simbolo della Super Terra"
+        },
+        {
+            "Key": 2599416825,
+            "Value": "Gioca ad almeno 50 missioni."
+        },
+        {
+            "Key": 2664916455,
+            "Value": "Partita veloce con gli amici"
+        },
+        {
+            "Key": 2692147882,
+            "Value": "Potenzia tutti i moduli della nave di almeno 1 livello."
+        },
+        {
+            "Key": 2700797469,
+            "Value": "Fai la tua parte"
+        },
+        {
+            "Key": 2715791332,
+            "Value": "Completa 10 obiettivi tattici."
+        },
+        {
+            "Key": 2742712394,
+            "Value": "Estrai da una missione in squadra con almeno 15 campioni rari."
+        },
+        {
+            "Key": 2764315601,
+            "Value": "Un tuffo all'inferno"
+        },
+        {
+            "Key": 2771110748,
+            "Value": "Avvia una partita veloce solo con gli amici"
+        },
+        {
+            "Key": 2816087179,
+            "Value": "Completa un covo degli Inseguitori come obiettivo tattico."
+        },
+        {
+            "Key": 2817236126,
+            "Value": "Ciò che non uccide..."
+        },
+        {
+            "Key": 2877533264,
+            "Value": "Niente è più importante della Libertà"
+        },
+        {
+            "Key": 2932688770,
+            "Value": "Libertà, arrivo!"
+        },
+        {
+            "Key": 2943934930,
+            "Value": "Patriota"
+        },
+        {
+            "Key": 2964567034,
+            "Value": "Avvia una partita veloce"
+        },
+        {
+            "Key": 3045882396,
+            "Value": "Uccidi 150 nemici nella stessa missione."
+        },
+        {
+            "Key": 3086803146,
+            "Value": "Gioca 1 missione bot."
+        },
+        {
+            "Key": 3143868727,
+            "Value": "Estrattamente!"
+        },
+        {
+            "Key": 3164004999,
+            "Value": "Uccidi 25 nemici con uno stratagemma."
+        },
+        {
+            "Key": 3167134455,
+            "Value": "Gioca a una missione di difesa planetaria."
+        },
+        {
+            "Key": 3175499143,
+            "Value": "Vengono di notte..."
+        },
+        {
+            "Key": 3211646015,
+            "Value": "Completa una missione Blitz a difficoltà Estrema ed estrai in meno di 6 minuti."
+        },
+        {
+            "Key": 3215974987,
+            "Value": "Rottama-bot"
+        },
+        {
+            "Key": 3328163412,
+            "Value": "Fuori in 360 secondi!"
+        },
+        {
+            "Key": 3377781636,
+            "Value": "Completa una missione a difficoltà Difficile o superiore senza che nessuno spari con l'arma primaria o ausiliaria."
+        },
+        {
+            "Key": 3383073796,
+            "Value": "Respingi una granata innescata."
+        },
+        {
+            "Key": 3385453702,
+            "Value": "Roba seria"
+        },
+        {
+            "Key": 3508298212,
+            "Value": "Estrai da una missione di notte."
+        },
+        {
+            "Key": 3525879475,
+            "Value": "Per il bene superiore!"
+        },
+        {
+            "Key": 3546336164,
+            "Value": "Estrai con una squadra completa in una missione a difficoltà Difficile o superiore."
+        },
+        {
+            "Key": 3552395834,
+            "Value": "Uccidi 5.000 nemici."
+        },
+        {
+            "Key": 3606813900,
+            "Value": "Per un pelo"
+        },
+        {
+            "Key": 3625397401,
+            "Value": "Completa una missione a difficoltà Estrema o superiore senza che nessuno muoia."
+        },
+        {
+            "Key": 3655668821,
+            "Value": "Vola ad almeno 25 metri dall'onda d'urto di un'esplosione."
+        },
+        {
+            "Key": 3679744062,
+            "Value": "Prendete questo!"
+        },
+        {
+            "Key": 3690650666,
+            "Value": "Uccidi un bersaglio a oltre 100 metri di distanza."
+        },
+        {
+            "Key": 3884685493,
+            "Value": "Completa una missione Blitz a difficoltà Estrema ed estrai in meno di 6 minuti."
+        },
+        {
+            "Key": 3959584611,
+            "Value": "Lo stile non manca"
+        },
+        {
+            "Key": 3982625721,
+            "Value": "Sconfiggi un Gigante."
+        },
+        {
+            "Key": 4011519829,
+            "Value": "Uccidi un guerriero insetto con un fucile a una distanza inferiore a 1 metro."
+        }
+    ]
+}

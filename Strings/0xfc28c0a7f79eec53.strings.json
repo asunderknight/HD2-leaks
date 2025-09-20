@@ -1,0 +1,4994 @@
+{
+    "Version": 1,
+    "Language": {
+        "Hash": "0x31806842",
+        "KnownName": "es",
+        "KnownFriendlyName": "Spanish (Spain)"
+    },
+    "Items": [
+        {
+            "Key": 525501,
+            "Value": "CIVILES EN EL ÁREA"
+        },
+        {
+            "Key": 3415334,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 9138940,
+            "Value": "El número de estims con los que se despliega cada Helldiver aumenta en #V_ONE."
+        },
+        {
+            "Key": 12348112,
+            "Value": "El aumento de la capacidad de estims ya no surte efecto."
+        },
+        {
+            "Key": 14881450,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 16829487,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 19757233,
+            "Value": "Aniquilar"
+        },
+        {
+            "Key": 23818252,
+            "Value": "DOMINIO AÉREO"
+        },
+        {
+            "Key": 27832939,
+            "Value": "La estratagema del láser orbital está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 32304560,
+            "Value": "OCULTAR ÓRDENES"
+        },
+        {
+            "Key": 35452912,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 37894509,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 38424495,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 40790875,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 56725756,
+            "Value": "Las densas tormentas de arena <i=1>reducen la movilidad</i> y <i=1>disminuyen enormemente la visibilidad</i> tanto de las unidades enemigas como aliadas."
+        },
+        {
+            "Key": 61153676,
+            "Value": "Esta operación, una vez completada, nos ayudará a reclamar la ciudad. La recuperación de las ciudades contribuye en gran medida a la liberación del planeta."
+        },
+        {
+            "Key": 67045919,
+            "Value": "La estratagema del ataque orbital ME de 120 mm está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 70418734,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 72582816,
+            "Value": "La estratagema del ataque aéreo con napalm del Águila está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 75445877,
+            "Value": "La estratagema del lanzaarcos ARC-3 está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 77038681,
+            "Value": "<i=1>#V_ONE</i> está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 77306762,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 79192892,
+            "Value": "ANOMALÍA GRAVITACIONAL DETECTADA"
+        },
+        {
+            "Key": 81388574,
+            "Value": "ADQUISICIÓN DE E-711"
+        },
+        {
+            "Key": 81523500,
+            "Value": "Padres preocupados cuando niño sube su consciencia a un servidor en la nube"
+        },
+        {
+            "Key": 82371251,
+            "Value": "Helldivers CEC"
+        },
+        {
+            "Key": 91998981,
+            "Value": "PROGRESO DE LA CAMPAÑA DE INVASIÓN"
+        },
+        {
+            "Key": 98611233,
+            "Value": "Sube el coste de la vivienda cuando la mayor generación aún más mayor se jubila."
+        },
+        {
+            "Key": 100511399,
+            "Value": "Se envía la convocatoria de alistamiento a ciudadanos de todas las clases."
+        },
+        {
+            "Key": 103735208,
+            "Value": "<i=1>#V_ONE</i> ha dejado de estar disponible."
+        },
+        {
+            "Key": 104772162,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 107490755,
+            "Value": "PLANETA LIBERADO: TRASLÁDATE A OTRO PLANETA"
+        },
+        {
+            "Key": 110359831,
+            "Value": "La empresa Virydian Toys, declarada no culpable"
+        },
+        {
+            "Key": 114720360,
+            "Value": "El aumento del número de usos de la estratagema <i=1>#V_ONE</i> ya no surte efecto."
+        },
+        {
+            "Key": 122818609,
+            "Value": "La estratagema del emplazamiento de ametralladora pesada está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 125302513,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 129724100,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 136327622,
+            "Value": "Los inesperados refuerzos autómatas han ganado mucho terreno en el planeta #V_ONE."
+        },
+        {
+            "Key": 141087962,
+            "Value": "El número de cargadores de todas las armas con los que se despliegan los Helldivers se reduce temporalmente en #V_ONE."
+        },
+        {
+            "Key": 148778530,
+            "Value": "La estratagema del muro defensivo está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 149087144,
+            "Value": "PATRULLAS DE AVIONES DE COMBATE"
+        },
+        {
+            "Key": 149945353,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 150895216,
+            "Value": "Durante un tiempo, se perderá terreno en el planeta #V_ONE más rápido que antes."
+        },
+        {
+            "Key": 157970715,
+            "Value": "El aumento temporal de la misión ya no surte efecto."
+        },
+        {
+            "Key": 159541688,
+            "Value": "Descendiendo"
+        },
+        {
+            "Key": 159552540,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 161233440,
+            "Value": "Todos los Helldivers regeneran salud de forma pasiva a una velocidad del #V_ONE % por segundo."
+        },
+        {
+            "Key": 162355166,
+            "Value": "SINGULARIDAD DE MERIDIA"
+        },
+        {
+            "Key": 163446619,
+            "Value": "Este mundo austero, frío y rocoso carece de cualquier forma de vida reconocible."
+        },
+        {
+            "Key": 163457594,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 169372105,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 170919653,
+            "Value": "La estratagema de la M-105 Stalwart está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 171607714,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 179861588,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 180403125,
+            "Value": "OPERACIÓN URBANA"
+        },
+        {
+            "Key": 182613085,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 187286726,
+            "Value": "EFECTOS"
+        },
+        {
+            "Key": 196135185,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 199880516,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 199902803,
+            "Value": "legalizando 8 nuevos comentarios preaprobados en los medios de comunicación."
+        },
+        {
+            "Key": 207159351,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 210713076,
+            "Value": "Este agujero negro es lo único que queda de los sueños y las esperanzas de los colonos que podrían haber construido una vida aquí. Nuestros enemigos preferirían ver toda la galaxia devorada por un vacío sin fin antes que permitir que nuestro modo de vida prospere."
+        },
+        {
+            "Key": 216069095,
+            "Value": "NUEVA OPERACIÓN DISPONIBLE"
+        },
+        {
+            "Key": 222371685,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 233657198,
+            "Value": "<c=FF336666>SEGUIMIENTO:</c> <c=FFcd6801>SOLICITUDES DE MISIÓN</c>"
+        },
+        {
+            "Key": 234584469,
+            "Value": "La locura por el baile \"pop pulsar\" se extiende por la galaxia"
+        },
+        {
+            "Key": 235670415,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 236488569,
+            "Value": "La estratagema del ataque de gas orbital ya no está disponible."
+        },
+        {
+            "Key": 236643916,
+            "Value": "DESBANDADA INESPERADA"
+        },
+        {
+            "Key": 243191521,
+            "Value": "EXCESO DE ESTRATAGEMAS"
+        },
+        {
+            "Key": 246067354,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 249507806,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 254710586,
+            "Value": "Los Helldivers se preparan para un ataque masivo a las colmenas termínidas."
+        },
+        {
+            "Key": 257436714,
+            "Value": "Señales de vida consciente descubiertas en Okul VI; erradicada de forma segura."
+        },
+        {
+            "Key": 265269866,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 269334634,
+            "Value": "La estratagema del ataque de precisión orbital está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 271258196,
+            "Value": "El número de granadas con las que se despliega cada Helldiver aumenta en #V_ONE."
+        },
+        {
+            "Key": 276825548,
+            "Value": "Se ha detectado la presencia de una cepa de termínidos mejorada por la lobreguez en este planeta. Las patrullas S.E.A.F. han caído en emboscadas y han sido abatidas por asaltantes invisibles. Necesitaremos de los agudos sentidos de los Helldivers para dar caza a esta peligrosa amenaza."
+        },
+        {
+            "Key": 280616943,
+            "Value": "<i=3>ORDEN DEL TENIENTE CORONEL CUMPLIDA</i>\nHemos mantenido <i=1>Gaellivare</i> bajo control durante el tiempo indicado. No obstante, tanto el planeta como la E.E.D. siguen estando en peligro. La lucha no ha terminado.\nEl alto mando supervisará la situación. Se darán nuevas indicaciones tan pronto como se decida el destino de <i=1>Gaellivare</i>, sea cual sea."
+        },
+        {
+            "Key": 280740600,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 293424533,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 295786814,
+            "Value": "CHILLONES ERRANTES"
+        },
+        {
+            "Key": 298108088,
+            "Value": "El número de usos de la estratagema <i=1>#V_ONE</i> aumenta temporalmente en #V_TWO."
+        },
+        {
+            "Key": 298138811,
+            "Value": "INVASIÓN AUTÓMATA"
+        },
+        {
+            "Key": 302770875,
+            "Value": "Otra colonia arrasada por un ataque sorpresa autómata."
+        },
+        {
+            "Key": 311608928,
+            "Value": "La superarma disparará en <i=1>#TIME</i>"
+        },
+        {
+            "Key": 315140100,
+            "Value": "NAVE NODRIZA DE LOS ILUMINADOS"
+        },
+        {
+            "Key": 318178055,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 322782799,
+            "Value": "Te damos la bienvenida a la Guerra Galáctica.\n\nAquí la comunidad lucha unida contra sus enemigos comunes."
+        },
+        {
+            "Key": 323825976,
+            "Value": "La estratagema del ataque aéreo con napalm del Águila ya no está disponible."
+        },
+        {
+            "Key": 324886748,
+            "Value": "SECTOR"
+        },
+        {
+            "Key": 329443307,
+            "Value": "La estratagema del ataque de explosión aérea orbital está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 330847558,
+            "Value": "EXCESO DE AUTÓMATAS"
+        },
+        {
+            "Key": 332478520,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 332764715,
+            "Value": "POTENCIA DE LA FLOTA DE LOS ILUMINADOS"
+        },
+        {
+            "Key": 336774918,
+            "Value": "El bioma árido y rocoso de este mundo ha provocado que sus diversos organismos evolucionen para hacer un uso excepcionalmente eficiente del agua."
+        },
+        {
+            "Key": 337953497,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 341723394,
+            "Value": "La estratagema de la mochila de salto ya no está disponible."
+        },
+        {
+            "Key": 342717574,
+            "Value": "La estratagema de la bomba de 500 kg del Águila ya no está disponible."
+        },
+        {
+            "Key": 346314042,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 346784578,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 352042548,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 352192220,
+            "Value": "El aumento de la capacidad de granadas ya no surte efecto."
+        },
+        {
+            "Key": 356236815,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 358548648,
+            "Value": "El número 4 votado el \"número más democrático\"."
+        },
+        {
+            "Key": 366648504,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 368572468,
+            "Value": "El deshielo de los casquetes polares en Riscos de gemas lleva a un aumento en los precios de superbarco-hoteles."
+        },
+        {
+            "Key": 372178714,
+            "Value": "La estratagema del Stinger ST-1 ya no está disponible."
+        },
+        {
+            "Key": 376917040,
+            "Value": "ESPORAS ATMOSFÉRICAS"
+        },
+        {
+            "Key": 379867334,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 380809060,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 381140667,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 390099180,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 394682596,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 399173704,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 399581668,
+            "Value": "Comienzan los procedimientos de instalación preliminares de la red de disuasión de termínidos."
+        },
+        {
+            "Key": 405521417,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 407681137,
+            "Value": "MUESTRAS:"
+        },
+        {
+            "Key": 408492564,
+            "Value": "BOLSILLOS EXPERIMENTALES EN LAS CADERAS"
+        },
+        {
+            "Key": 409186856,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 410498120,
+            "Value": "La estratagema de la mochila generadora de escudo está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 420079450,
+            "Value": "El número de granadas con las que se despliega cada Helldiver se reduce en #V_ONE."
+        },
+        {
+            "Key": 421418845,
+            "Value": "Nuevas pruebas sugieren que la famosa foto \"La eliminación de la bestia de Vog-Sojoth V\" es falsa."
+        },
+        {
+            "Key": 422331606,
+            "Value": "Nuevo estudio muestra que el 98 % de los niños menores de 12 años quieren "
+        },
+        {
+            "Key": 423571628,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 425147060,
+            "Value": "TORMENTA DE ÁGUILA"
+        },
+        {
+            "Key": 428146136,
+            "Value": "Las operaciones con dificultades más elevadas son más desafiantes y contienen nuevos enemigos y misiones. \n\nTambién tienen un impacto mayor en el curso de la guerra y otorgan mejores recompensas. Completa una <i=1>operación</i> con la <i=1>dificultad</i> más alta desbloqueada para desbloquear la de nivel superior."
+        },
+        {
+            "Key": 430447578,
+            "Value": "La capacidad de granadas de todos los Helldivers aumenta temporalmente en #V_ONE."
+        },
+        {
+            "Key": 435602687,
+            "Value": "FUENTE DE LOBREGUEZ"
+        },
+        {
+            "Key": 435905688,
+            "Value": "Finaliza en:"
+        },
+        {
+            "Key": 436895486,
+            "Value": "El número de usos de la estratagema <i=1>#V_ONE</i> se reduce en #V_TWO."
+        },
+        {
+            "Key": 440415104,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 441886279,
+            "Value": "El avance de los S.E.A.F. contra los autómatas se estanca."
+        },
+        {
+            "Key": 446478236,
+            "Value": "Barro pegajoso, raíces retorcidas… El olor de la podredumbre y la anarquía. Una rezumante ciénaga sin fin."
+        },
+        {
+            "Key": 450606106,
+            "Value": "Impacto de la operación:"
+        },
+        {
+            "Key": 450787924,
+            "Value": "¡La nueva raza de gatos bioluminiscentes se agota en minutos!"
+        },
+        {
+            "Key": 456680010,
+            "Value": "Las tormentas de iones <i=1>desactivan las estratagemas</i> de forma intermitente."
+        },
+        {
+            "Key": 459656999,
+            "Value": "Precaución: civiles leales en el campo de batalla."
+        },
+        {
+            "Key": 467439839,
+            "Value": "EXTREMO"
+        },
+        {
+            "Key": 476794755,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 476862046,
+            "Value": "Helldiver uniéndose"
+        },
+        {
+            "Key": 477119209,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 478168078,
+            "Value": "La luz de sol artificial es considerada al menos tan buena, si no mejor, que la luz de sol natural."
+        },
+        {
+            "Key": 486634204,
+            "Value": "IMPOSIBLE"
+        },
+        {
+            "Key": 496937874,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 498333968,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 500293760,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 500598816,
+            "Value": "Los Iluminados están generando energía oscura en este planeta para desplazar la singularidad de Meridia hacia Supertierra. Debemos detener su avance cueste lo que cueste. "
+        },
+        {
+            "Key": 501613549,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 502012056,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 506754096,
+            "Value": "FRACASO"
+        },
+        {
+            "Key": 510506755,
+            "Value": "CEPA DE RUPTURA"
+        },
+        {
+            "Key": 511262727,
+            "Value": "INICIANDO SALTO SL"
+        },
+        {
+            "Key": 513992565,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 515165111,
+            "Value": "Se lanzará automáticamente un ataque orbital cada vez que maten a un Helldiver."
+        },
+        {
+            "Key": 519669347,
+            "Value": "Puestos de avanzada pesados"
+        },
+        {
+            "Key": 528459454,
+            "Value": "La estratagema del antitanque desechable EAT-17 está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 530653442,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 534797284,
+            "Value": "Espera a recibir órdenes del alto mando de Supertierra"
+        },
+        {
+            "Key": 536003898,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 540423199,
+            "Value": "Los inesperados refuerzos autómatas están ganando mucho terreno en el planeta #V_ONE."
+        },
+        {
+            "Key": 541236438,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 543070732,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 544784714,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 545364779,
+            "Value": "El impacto de cada misión vuelve a su nivel normal."
+        },
+        {
+            "Key": 552258063,
+            "Value": "Enemigos con armaduras pesadas"
+        },
+        {
+            "Key": 560244346,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 560314369,
+            "Value": "#DISTANCE km"
+        },
+        {
+            "Key": 563887562,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 565044815,
+            "Value": "TORNADOS DE FUEGO"
+        },
+        {
+            "Key": 574471121,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 574562412,
+            "Value": "\"Francotirador de plasma de Supertierra\" bate récords en taquilla."
+        },
+        {
+            "Key": 584424596,
+            "Value": "La estratagema del cañón de riel orbital está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 588515429,
+            "Value": "DESAFÍOS DE LA CADENA DE SUMINISTROS"
+        },
+        {
+            "Key": 588827542,
+            "Value": "La E.E.D. despliega <i=1>barridos de ametralladora de Águila</i> durante las misiones."
+        },
+        {
+            "Key": 591550370,
+            "Value": "El <i=1>temporizador de la misión</i> se reduce a <i=1>30 minutos</i>."
+        },
+        {
+            "Key": 592732242,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 593729951,
+            "Value": "Enjambre"
+        },
+        {
+            "Key": 597619832,
+            "Value": "La estratagema del cañón automático AC-8 está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 603021238,
+            "Value": "GENERANDO ENERGÍA OSCURA"
+        },
+        {
+            "Key": 607081875,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 608133461,
+            "Value": "La estratagema del ataque con EMS orbital ya no está disponible."
+        },
+        {
+            "Key": 608996976,
+            "Value": "Liberar"
+        },
+        {
+            "Key": 627359968,
+            "Value": "Ser Helldivers de mayores (el 2 % restante está siendo investigado)."
+        },
+        {
+            "Key": 636634761,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 638005199,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 638493401,
+            "Value": "La estratagema del perro guardián está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 644692723,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 645988482,
+            "Value": "La estratagema de la lanza FAF-14 ya no está disponible."
+        },
+        {
+            "Key": 652439512,
+            "Value": "NOTICIAS"
+        },
+        {
+            "Key": 658025856,
+            "Value": "LLUVIAS DE ARENA"
+        },
+        {
+            "Key": 659452616,
+            "Value": "El número de granadas con las que se despliega cada Helldiver aumenta temporalmente en #V_ONE."
+        },
+        {
+            "Key": 666928538,
+            "Value": "La estratagema del dispensador de minas antipersona está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 669023182,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 670070393,
+            "Value": "RECLUTAMIENTO ALTO"
+        },
+        {
+            "Key": 671564727,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 679349357,
+            "Value": "Un abrasador planeta desértico. Sus mesetas rocosas son el único elemento que interrumpe el interminable mar de dunas."
+        },
+        {
+            "Key": 681502033,
+            "Value": "La estratagema del bombardeo orbital ME de 380 mm ya no está disponible."
+        },
+        {
+            "Key": 688744041,
+            "Value": "Este planeta está totalmente envuelto en lobreguez, lo que impide gravemente el apoyo logístico.\nLos tiempos de extracción aumentan en <i=1>40 segundos,</i> El tiempo de rearme de los Águilas aumenta un <i=1>30 %</i> y la munición de las recogidas se reduce un <i=1>50 %.</i>"
+        },
+        {
+            "Key": 688917118,
+            "Value": "La reducción temporal de estims ya no surte efecto."
+        },
+        {
+            "Key": 691816876,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 696616553,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 698845032,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 710821004,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 715841083,
+            "Value": "El número de medallas por misión de todos los Helldivers aumenta temporalmente en #V_ONE."
+        },
+        {
+            "Key": 718238054,
+            "Value": "El enemigo está atacando este planeta. Si no se les detiene a tiempo, lo perderemos."
+        },
+        {
+            "Key": 721358359,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 723927417,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 733451672,
+            "Value": "FRACASO DE LA DEFENSA EN: #TIME"
+        },
+        {
+            "Key": 734628521,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 735976853,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 740677481,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 747167917,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 747694778,
+            "Value": "Puedes ver todas las <i=1>órdenes</i> activas aquí."
+        },
+        {
+            "Key": 749051481,
+            "Value": "Un cataclismo reciente desde el punto de vista geológico erradicó casi toda la vida de este planeta. Todo lo que queda parecen ser cenizas y rocas de lava puntiagudas."
+        },
+        {
+            "Key": 759038053,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 761453557,
+            "Value": "Durante un tiempo, se lanzará automáticamente un ataque orbital cada vez que maten a un Helldiver."
+        },
+        {
+            "Key": 761483845,
+            "Value": "El número de cargadores de todas las armas con los que se despliegan los Helldivers se reduce en #V_ONE."
+        },
+        {
+            "Key": 765324963,
+            "Value": "La presencia de la E.E.D. en las inmediaciones de este planeta mejora ligeramente el progreso de la <i=1>campaña de liberación</i>."
+        },
+        {
+            "Key": 765332655,
+            "Value": "Las esporas de bichos <i=1>tapan el mapa</i>."
+        },
+        {
+            "Key": 768384977,
+            "Value": "La estratagema del antitanque desechable EAT-17 ya no está disponible."
+        },
+        {
+            "Key": 772000433,
+            "Value": "BOLSAS DE NUBES DE ESPORAS"
+        },
+        {
+            "Key": 775530628,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 781677224,
+            "Value": "El Tribunal Supremo de Supertierra determina que la enmienda "
+        },
+        {
+            "Key": 783681730,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 786290638,
+            "Value": "ÓRDENES PERSONALES"
+        },
+        {
+            "Key": 786752156,
+            "Value": "Red computerizada consciente eliminada rápidamente por un informático diligente."
+        },
+        {
+            "Key": 795291061,
+            "Value": "Las montañas de arena arden bajo el calor implacable de este planeta totalmente desolado."
+        },
+        {
+            "Key": 796165462,
+            "Value": "Los autómatas han desplegado una serie de nuevos modelos especializados en este planeta. Estos robots mejorados utilizan mochilas de salto, una tecnología que arrebataron sin piedad de los cuerpos de los Helldivers caídos y han convertido en algo casi irreconocible."
+        },
+        {
+            "Key": 796263081,
+            "Value": "Una nave de exploración afirma haber detectado una señal energética similar a la de los iluminados."
+        },
+        {
+            "Key": 800984942,
+            "Value": "La estratagema del bombardeo de gatling orbital ya no está disponible."
+        },
+        {
+            "Key": 808072914,
+            "Value": "Completar esta operación contribuye a la liberación del planeta."
+        },
+        {
+            "Key": 815477269,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 823091821,
+            "Value": "PRUEBAS CON EL EQUIPO"
+        },
+        {
+            "Key": 826900961,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 828430095,
+            "Value": "OPERACIÓN"
+        },
+        {
+            "Key": 828770804,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 830957581,
+            "Value": "La estratagema de los misiles aire-aire del Águila ya no está disponible."
+        },
+        {
+            "Key": 832453372,
+            "Value": "La próspera Meridia fue corrompida y transformada en una supercolonia termínida, lo que hizo necesaria su destrucción utilizando el misterioso fluido oscuro. Esta cicatriz galáctica es todo lo que queda. Aviso: Actualmente las volátiles fluctuaciones del espacio-tiempo prohíben los viajes SL al agujero negro de Meridia."
+        },
+        {
+            "Key": 832857255,
+            "Value": "La estratagema de la mochila de suministros está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 836288058,
+            "Value": "La acumulación de basura espacial lleva a la formación de lunas de basura flotantes"
+        },
+        {
+            "Key": 837262895,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 838975314,
+            "Value": "Objetivos tácticos de los aliados"
+        },
+        {
+            "Key": 839605471,
+            "Value": "Los eventos planetarios pueden tener lugar cuando los enemigos atacan los planetas controlados por Supertierra (<i=1>eventos de defensa</i>) o cuando las fuerzas de Supertierra avanzan por la galaxia (<i=1>eventos de liberación</i>).\n\n¡No olvides hacer tu parte! "
+        },
+        {
+            "Key": 841627405,
+            "Value": "RECLAMAR"
+        },
+        {
+            "Key": 845365900,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 846661856,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 847861910,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 848932066,
+            "Value": "BLOQUEO ORBITAL"
+        },
+        {
+            "Key": 849379401,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 849502854,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 851158655,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 851413624,
+            "Value": "ZONA DE CUARENTENA DE TERMÍNIDOS"
+        },
+        {
+            "Key": 853684841,
+            "Value": "CEPA DEPREDADORA"
+        },
+        {
+            "Key": 853966900,
+            "Value": "El planeta #V_ONE, que parecía a punto de culminar con éxito su defensa, ha caído en manos enemigas."
+        },
+        {
+            "Key": 860616678,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 874072646,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 876330716,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 877078639,
+            "Value": "DESCRIPCIÓN"
+        },
+        {
+            "Key": 878002307,
+            "Value": "EN TRÁNSITO HACIA EL LUGAR DE LA MISIÓN"
+        },
+        {
+            "Key": 883460329,
+            "Value": "TORMENTAS DE ARENA"
+        },
+        {
+            "Key": 890036569,
+            "Value": "Redirigen a los Helldivers de la operación Cercado Valiente a centrarse en la lucha contra los autómatas."
+        },
+        {
+            "Key": 893408910,
+            "Value": "El senador Killjoy Jr. pronuncia un emotivo discurso: \"¡Supertierra es más fuerte que nunca!\"."
+        },
+        {
+            "Key": 894064163,
+            "Value": "RECOMPENSA DE LA OPERACIÓN URBANA"
+        },
+        {
+            "Key": 898859057,
+            "Value": "Explota en:"
+        },
+        {
+            "Key": 900097455,
+            "Value": "Estudio descubre que el calentamiento galáctico se debe a causas naturales"
+        },
+        {
+            "Key": 900452567,
+            "Value": "La estratagema del ataque de gas orbital está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 904306987,
+            "Value": "ASENTAMIENTO"
+        },
+        {
+            "Key": 905309513,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 906120598,
+            "Value": "En el equipo"
+        },
+        {
+            "Key": 912562356,
+            "Value": "La capacidad de producción en serie de los autómatas supera todas las expectativas."
+        },
+        {
+            "Key": 913638062,
+            "Value": "La estratagema de la mochila generadora de escudo ya no está disponible."
+        },
+        {
+            "Key": 926375565,
+            "Value": "9"
+        },
+        {
+            "Key": 929394276,
+            "Value": "La estratagema de la torre tesla está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 938578203,
+            "Value": "MISIÓN FALLIDA"
+        },
+        {
+            "Key": 940530831,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 945213331,
+            "Value": "En órbita"
+        },
+        {
+            "Key": 946320087,
+            "Value": "Helldivers activos"
+        },
+        {
+            "Key": 946808779,
+            "Value": "Las transmisiones de la colonia desaparecida hablan de \"calamares\"."
+        },
+        {
+            "Key": 954575608,
+            "Value": "Selecciona una <i=1>misión</i> y prepárate para saltar en picado."
+        },
+        {
+            "Key": 954976452,
+            "Value": "La niebla densa <i=1>reduce ligeramente la visibilidad</i> tanto de las unidades enemigas como aliadas."
+        },
+        {
+            "Key": 959254541,
+            "Value": "Un planeta desértico propenso a sufrir peligrosos tornados de arena impredecibles."
+        },
+        {
+            "Key": 964957063,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 968713913,
+            "Value": "Activistas protermínidos sentenciados a 20 años en las minas de asteroides por heroico juez."
+        },
+        {
+            "Key": 973323483,
+            "Value": "Amigos activos"
+        },
+        {
+            "Key": 979668381,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 980743299,
+            "Value": "Niño astronauta desaparecido encontrado en pozo de plutonio por perro robot."
+        },
+        {
+            "Key": 981791852,
+            "Value": "LIBERA TODOS LOS SECTORES"
+        },
+        {
+            "Key": 983707629,
+            "Value": "La estrella de liberbol Rex Stribling marca un megagol por duodécimo partido consecutivo."
+        },
+        {
+            "Key": 986874313,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 989037070,
+            "Value": "La extracción tarda #V_TWO segundos menos."
+        },
+        {
+            "Key": 989136222,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 990366181,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 990898661,
+            "Value": "La estratagema de la bomba de 500 kg del Águila está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 991851783,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 994552698,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 994838962,
+            "Value": "Los poderosos remolinos de arena <i=1>lanzan por los aires a los combatientes más pequeños </i> y <i=1>aturden a los más grandes</i>."
+        },
+        {
+            "Key": 996991993,
+            "Value": "El número de medallas por misión de todos los Helldivers se reduce en #V_ONE."
+        },
+        {
+            "Key": 1004277842,
+            "Value": "El hielo y las rocas cubiertas de musgo se extienden por la mayor parte de la superficie de este planeta."
+        },
+        {
+            "Key": 1006242818,
+            "Value": "Niño desaparecido encontrado orbitando un asteroide tras un accidentado paseo espacial familiar."
+        },
+        {
+            "Key": 1007592719,
+            "Value": "La estratagema del ataque orbital ME de 120 mm ya no está disponible."
+        },
+        {
+            "Key": 1016254138,
+            "Value": "MODIFICADORES <i=1>[#COUNT]</i>"
+        },
+        {
+            "Key": 1017745296,
+            "Value": "Los cucadragones termínidos amenazan los cielos de este planeta."
+        },
+        {
+            "Key": 1032974617,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 1036926398,
+            "Value": "ESPACIO AUTÓMATA OCUPADO"
+        },
+        {
+            "Key": 1039556110,
+            "Value": "La estratagema de la M-105 Stalwart está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 1042419338,
+            "Value": "Los meteoritos impactan en la superficie <i=1>y causan daños masivos</i>."
+        },
+        {
+            "Key": 1044524616,
+            "Value": "El daño cuerpo a cuerpo se reduce temporalmente un #V_ONE %."
+        },
+        {
+            "Key": 1048514854,
+            "Value": "PLANETA FRACTURADO"
+        },
+        {
+            "Key": 1052101257,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1055503030,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1057301920,
+            "Value": "LAS GRANDES COLMENAS"
+        },
+        {
+            "Key": 1057931616,
+            "Value": "El número de medallas por misión de todos los Helldivers se reduce temporalmente en #V_ONE."
+        },
+        {
+            "Key": 1064788115,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1070316424,
+            "Value": "Completa operaciones en #PLANET"
+        },
+        {
+            "Key": 1077822980,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 1081573383,
+            "Value": "BONIFICACIONES POR COMPLETAR MISIONES"
+        },
+        {
+            "Key": 1081890590,
+            "Value": "Al pasar el ratón sobre un sector, se puede ver qué parte ha liberado ya Supertierra. Todas las operaciones contribuyen a hacer retroceder a los enemigos de Supertierra.\nSelecciona un <i=1>sector</i> para ver en qué planetas se puede jugar."
+        },
+        {
+            "Key": 1085262938,
+            "Value": "Acumulación de energía oscura"
+        },
+        {
+            "Key": 1087117852,
+            "Value": "La estratagema de la ametralladora MG-43 ya no está disponible."
+        },
+        {
+            "Key": 1088538005,
+            "Value": "La estratagema de la mochila de suministros ya no está disponible."
+        },
+        {
+            "Key": 1092949246,
+            "Value": "#RACE"
+        },
+        {
+            "Key": 1095630749,
+            "Value": "PROXIMIDAD A MERIDIA CRÍTICA"
+        },
+        {
+            "Key": 1096582530,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1097082914,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1099893987,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1100838265,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1102455063,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1103811886,
+            "Value": "DEFENSAS ANTIAÉREAS"
+        },
+        {
+            "Key": 1105510156,
+            "Value": "Las tormentas de ácido corrosivo <i=1>reducen ligeramente la efectividad de la armadura</i> tanto de las unidades enemigas como aliadas."
+        },
+        {
+            "Key": 1106899537,
+            "Value": "La estratagema del Stinger ST-1 está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 1108590970,
+            "Value": "ESTADO DE LA OPERACIÓN"
+        },
+        {
+            "Key": 1118917483,
+            "Value": "<c=FF336666>HELLDIVERS: #VALUE</c>"
+        },
+        {
+            "Key": 1122786168,
+            "Value": "FRENESÍ TERMÍNIDO"
+        },
+        {
+            "Key": 1127333130,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1128318835,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1132095991,
+            "Value": "<c=FF336666>PELOTÓN: #VALUE</c>"
+        },
+        {
+            "Key": 1133331067,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1142717293,
+            "Value": "ESTACIÓN ESPACIAL DE LA DEMOCRACIA"
+        },
+        {
+            "Key": 1143206197,
+            "Value": "FALLIDO"
+        },
+        {
+            "Key": 1148626776,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1153079351,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1154884549,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1155954398,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1175249090,
+            "Value": "IMPACTO DE LA OPERACIÓN"
+        },
+        {
+            "Key": 1175505148,
+            "Value": "La estratagema del ataque con EMS orbital está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 1181578023,
+            "Value": "DEFENDER SUPERTIERRA"
+        },
+        {
+            "Key": 1181673243,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 1185004327,
+            "Value": "Informan de avistamientos de iluminados sin verificar atribuidos a la desinformación de los disidentes."
+        },
+        {
+            "Key": 1188671070,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1192959313,
+            "Value": "El aumento del tiempo de recuperación de la estratagema <i=1>#V_ONE</i> ya no surte efecto."
+        },
+        {
+            "Key": 1198280391,
+            "Value": "#PERCENTAGE% MANTENIDO"
+        },
+        {
+            "Key": 1198664072,
+            "Value": "La E.E.D. dispara <i=1>descargas orbitales</i> durante las misiones."
+        },
+        {
+            "Key": 1199081198,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 1200775727,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1202503064,
+            "Value": "Los termínidos alcanzan cifras sin precedentes y desafían las explicaciones de los expertos."
+        },
+        {
+            "Key": 1203435533,
+            "Value": "La estratagema del lanzagranadas GL-6 está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 1212122769,
+            "Value": "Se ralentiza el progreso enemigo en las <i=1>campañas de defensa</i>."
+        },
+        {
+            "Key": 1214176856,
+            "Value": "Anciana de 82 años descubre reunión de grupo sedicioso en ático."
+        },
+        {
+            "Key": 1220458627,
+            "Value": "La superficie de este mundo forestal está recubierta de árboles altos y nudosos. Los rayos del sol se filtran entre las enredaderas colgantes, iluminando el suelo revestido de maleza."
+        },
+        {
+            "Key": 1220564275,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1221361339,
+            "Value": "Este planeta se considera territorio enemigo. Los Helldivers deben recuperarlo de las manos de sus tiránicos ocupantes. "
+        },
+        {
+            "Key": 1222861557,
+            "Value": "CAMPAÑA DE RECONOCIMIENTO"
+        },
+        {
+            "Key": 1227007866,
+            "Value": "La estratagema del cañón de riel RS-422 ya no está disponible."
+        },
+        {
+            "Key": 1233597562,
+            "Value": "Empresa emergente de biogenética llena volcán de granos de maíz gigante mutante"
+        },
+        {
+            "Key": 1234134964,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1245451289,
+            "Value": "DEFENSA"
+        },
+        {
+            "Key": 1248590461,
+            "Value": "RESISTENCIA"
+        },
+        {
+            "Key": 1248749717,
+            "Value": "CALOR INTENSO"
+        },
+        {
+            "Key": 1248813848,
+            "Value": "Historiadores determinan que \"hacer luz de gas\" nunca significó lo que creíamos"
+        },
+        {
+            "Key": 1250959666,
+            "Value": "CONSEGUIDO"
+        },
+        {
+            "Key": 1256670303,
+            "Value": "7"
+        },
+        {
+            "Key": 1259927622,
+            "Value": "La estratagema de la lanza FAF-14 está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 1260781333,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1269775050,
+            "Value": "El número de refuerzos disponibles por misión se reduce temporalmente en #V_ONE."
+        },
+        {
+            "Key": 1269865237,
+            "Value": "\"Éxito rotundo\" de la ofensiva inicial de los Helldivers contra los termínidos."
+        },
+        {
+            "Key": 1274994819,
+            "Value": "La experiencia que obtienen todos los Helldivers se reduce temporalmente un #V_ONE %."
+        },
+        {
+            "Key": 1275097566,
+            "Value": "Enemigos masivos"
+        },
+        {
+            "Key": 1275858585,
+            "Value": "En misión"
+        },
+        {
+            "Key": 1281626413,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1286783998,
+            "Value": "NIVEL DE AMENAZA CRÍTICO"
+        },
+        {
+            "Key": 1287780346,
+            "Value": "protege el derecho individual a poseer un robot mecanizado gigante"
+        },
+        {
+            "Key": 1288283817,
+            "Value": "El Termicida ha provocado mutaciones totalmente inesperadas. Los bichos de este planeta están experimentando un crecimiento hiperacelerado, lo que ha dado lugar al nacimiento de una nueva supercolonia. No hay esperanza: el planeta está corrupto y no se puede salvar. Los bichos han estado generando billones de esporas cada día y lo han infestado todo, incluidas las profundidades del manto geológico."
+        },
+        {
+            "Key": 1297927281,
+            "Value": "La estratagema de la mochila de escudo balístico ya no está disponible."
+        },
+        {
+            "Key": 1302721265,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1307362764,
+            "Value": "Hombre cambia clip rojo gigante por asteroide."
+        },
+        {
+            "Key": 1308260976,
+            "Value": "La estratagema del perro guardián ya no está disponible."
+        },
+        {
+            "Key": 1316641959,
+            "Value": "El <i=1>tiempo de solicitud</i> de las estratagemas ha aumentado en un <i=1>#V_ONE %</i>."
+        },
+        {
+            "Key": 1321624866,
+            "Value": "Un incremento inesperado de termínidos está ganando mucho terreno en el planeta #V_ONE."
+        },
+        {
+            "Key": 1327984623,
+            "Value": "El tiempo para completar todas las misiones aumenta temporalmente un #V_ONE %."
+        },
+        {
+            "Key": 1330527915,
+            "Value": "#PLANET"
+        },
+        {
+            "Key": 1333202479,
+            "Value": "BOMBARDEO PLANETARIO"
+        },
+        {
+            "Key": 1333514364,
+            "Value": "Mientras haya una sola megaciudad en pie, Supertierra sobrevivirá. Debemos mermar las fuerzas del ejército de los Iluminados antes de que caiga la última."
+        },
+        {
+            "Key": 1334351473,
+            "Value": "Niño heroico identifica a compañero disidente en preescolar"
+        },
+        {
+            "Key": 1335028754,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 1337083243,
+            "Value": "La estratagema del lanzallamas FLAM-40 ya no está disponible."
+        },
+        {
+            "Key": 1341626796,
+            "Value": "Advertencia: Al comenzar una nueva operación abandonarás la que está activa actualmente"
+        },
+        {
+            "Key": 1351068056,
+            "Value": "Extrayendo"
+        },
+        {
+            "Key": 1351573785,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1352658065,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1360171009,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1362615920,
+            "Value": "CUBIERTA DE LOBREGUEZ LIGERA"
+        },
+        {
+            "Key": 1366592442,
+            "Value": "La estratagema del bombardeo orbital caminante está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 1368910238,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1369704001,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1370699443,
+            "Value": "La estratagema del bombardeo orbital caminante está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 1377558815,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1384800625,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1387189142,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1388682879,
+            "Value": "El número de estims con los que se despliega cada Helldiver se reduce temporalmente en #V_ONE."
+        },
+        {
+            "Key": 1389118231,
+            "Value": "La estratagema del emplazamiento de ametralladora pesada ya no está disponible."
+        },
+        {
+            "Key": 1391161752,
+            "Value": "Rebeldes antidemócratas acorralados con asombrosa eficacia."
+        },
+        {
+            "Key": 1393788306,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1394082721,
+            "Value": "Los afloramientos rocosos salpican los campos de hierba de este planeta, dominado por brumosas tierras altas."
+        },
+        {
+            "Key": 1394558076,
+            "Value": "Los volcanes <i=1>lanzan rocas incandescentes</i> por todo el planeta."
+        },
+        {
+            "Key": 1395641588,
+            "Value": "DIFICULTAD"
+        },
+        {
+            "Key": 1396646413,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1397951729,
+            "Value": "La estratagema del centinela con cohete está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 1401075638,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1401708733,
+            "Value": "Investigadores declarados muertos después de que "
+        },
+        {
+            "Key": 1402635182,
+            "Value": "Perro heroico rescata a niño de hueco de mina de plutonio"
+        },
+        {
+            "Key": 1411615216,
+            "Value": "El aumento de los refuerzos ya no surte efecto."
+        },
+        {
+            "Key": 1414808501,
+            "Value": "SUPERIORIDAD DE ÓRBITA BAJA"
+        },
+        {
+            "Key": 1427924894,
+            "Value": "Este planeta produce continuamente una cubierta de lobreguez atmosférica densa, lo que dificulta increíblemente el apoyo logístico.\nLos refuerzos totales se reducen un <i=1>20 %,</i> El tiempo de rearme de los Águilas aumenta un <i=1>30 %</i> y la munición de las recogidas se reduce un <i=1>50 %.</i>"
+        },
+        {
+            "Key": 1428514248,
+            "Value": "Abandonar la operación"
+        },
+        {
+            "Key": 1428857865,
+            "Value": "Balas disparadas"
+        },
+        {
+            "Key": 1430621983,
+            "Value": "La estratagema del bombardeo orbital ME de 380 mm está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 1432392942,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 1436541877,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1438391677,
+            "Value": "La reducción de medallas por misión ya no surte efecto."
+        },
+        {
+            "Key": 1440367083,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1440732110,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1444097505,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1444453133,
+            "Value": "10"
+        },
+        {
+            "Key": 1448346078,
+            "Value": "<c=FF336666>CONFIGURACIÓN DE HORA LOCAL:</c> <c=FF66cc99>#VALUE</c>"
+        },
+        {
+            "Key": 1448926797,
+            "Value": "Llega en:"
+        },
+        {
+            "Key": 1449862733,
+            "Value": "6"
+        },
+        {
+            "Key": 1455812852,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1460918234,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 1466494124,
+            "Value": "La capacidad de granadas de todos los Helldivers aumenta en #V_ONE."
+        },
+        {
+            "Key": 1467045295,
+            "Value": "TIRADO"
+        },
+        {
+            "Key": 1469457772,
+            "Value": "La estratagema de la M-105 Stalwart ya no está disponible."
+        },
+        {
+            "Key": 1469579845,
+            "Value": "La efectividad de <i=1>#V_ONE</i> aumenta temporalmente un #V_TWO %."
+        },
+        {
+            "Key": 1470428275,
+            "Value": "La operación Cercado Valiente está en crisis."
+        },
+        {
+            "Key": 1486726561,
+            "Value": "La red de disuasión de termínidos está lista para instalarse tras el establecimiento del cordón."
+        },
+        {
+            "Key": 1495667994,
+            "Value": "La estratagema de los misiles aire-aire del Águila está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 1500272076,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1509118015,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1511294332,
+            "Value": "El perenne clima frío de este planeta ha permitido que florezcan pequeños arbustos de colores por toda su superficie."
+        },
+        {
+            "Key": 1511706843,
+            "Value": "Nuevo estudio trágicamente interrumpido por ataque de termínidos."
+        },
+        {
+            "Key": 1518361384,
+            "Value": "INCURSIÓN AUTÓMATA"
+        },
+        {
+            "Key": 1519537554,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1523141570,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1541244759,
+            "Value": "En este planeta hay una cepa letal de termínidos que emergen del suelo."
+        },
+        {
+            "Key": 1542765264,
+            "Value": "allí\" perdidos tras las líneas enemigas."
+        },
+        {
+            "Key": 1544020724,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1548482629,
+            "Value": "El uso de las cargas destructoras de planetas provoca devastación total."
+        },
+        {
+            "Key": 1549509767,
+            "Value": "BAJO CONTROL AUTÓMATA"
+        },
+        {
+            "Key": 1550801594,
+            "Value": "El aumento de medallas por misión ya no surte efecto."
+        },
+        {
+            "Key": 1552724045,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 1554224329,
+            "Value": "La mansión se perderá en <i=1>#TIME</i>"
+        },
+        {
+            "Key": 1555761967,
+            "Value": "FÁCIL"
+        },
+        {
+            "Key": 1562007656,
+            "Value": "MUNDOS ASEDIADOS AUTÓMATAS"
+        },
+        {
+            "Key": 1563519737,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1571419000,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1574302876,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 1579975284,
+            "Value": "Los Iluminados están atacando nuestras prósperas colonias, alzando estructuras extrañas y aterrorizando a nuestros leales ciudadanos. Aunque su objetivo no parece ser la conquista planetaria, debemos repeler la invasión antes de que puedan alcanzar sus misteriosas y malignas metas."
+        },
+        {
+            "Key": 1581316934,
+            "Value": "LA GUERRA GALÁCTICA"
+        },
+        {
+            "Key": 1581728388,
+            "Value": "La estratagema del centinela con cañón automático está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 1586771010,
+            "Value": "DESGASTE"
+        },
+        {
+            "Key": 1588699686,
+            "Value": "Los aviones de combate patrullan el campo de batalla."
+        },
+        {
+            "Key": 1592659928,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1594223240,
+            "Value": "La estratagema del centinela con gatling ya no está disponible."
+        },
+        {
+            "Key": 1600569559,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1601524508,
+            "Value": "ÓRDENES"
+        },
+        {
+            "Key": 1606297654,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1610686869,
+            "Value": "ELEGIR CAMPAÑA"
+        },
+        {
+            "Key": 1616831615,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1617408679,
+            "Value": "Los periodos de temperaturas gélidas <i=1>reducen la cadencia de tiro</i> y <i=1>retrasan el calentamiento de las armas</i>."
+        },
+        {
+            "Key": 1619497901,
+            "Value": "El objetivo definitivo de los autómatas parece ser la propia Supertierra, según el Ministerio de Defensa."
+        },
+        {
+            "Key": 1623115737,
+            "Value": "La estratagema de la mochila de salto está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 1624199958,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1624648166,
+            "Value": "La estratagema del cañón automático AC-8 ya no está disponible."
+        },
+        {
+            "Key": 1628213888,
+            "Value": "MANTA DE LOBREGUEZ MODERADA"
+        },
+        {
+            "Key": 1633278767,
+            "Value": "La estratagema del rifle de francotirador SAR-1 está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 1637889699,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1645271001,
+            "Value": "Problemas de comunicación con la zona de cuarentena de termínidos."
+        },
+        {
+            "Key": 1649129897,
+            "Value": "EVENTO DE LIBERACIÓN"
+        },
+        {
+            "Key": 1651478897,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1657318854,
+            "Value": "en"
+        },
+        {
+            "Key": 1657727475,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1660724659,
+            "Value": "COMENZAR MISIÓN"
+        },
+        {
+            "Key": 1673988944,
+            "Value": "La reducción del número de usos de la estratagema <i=1>#V_ONE</i> ya no surte efecto."
+        },
+        {
+            "Key": 1679117955,
+            "Value": "PROGRESO DE LA DEFENSA"
+        },
+        {
+            "Key": 1683637306,
+            "Value": "EXCESO DE PERSONAL"
+        },
+        {
+            "Key": 1695074190,
+            "Value": "La estratagema de la mochila generadora de escudo está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 1698977452,
+            "Value": "Pandas gigantes extintos oficialmente; se dispara el valor de los ETF de panda gigante"
+        },
+        {
+            "Key": 1703319218,
+            "Value": "COMPLETA LA OPERACIÓN <c=FFFFFFFF>#CR_DESC</c>#CR_NEWLINE PARA DESBLOQUEAR"
+        },
+        {
+            "Key": 1709336004,
+            "Value": "BUSCANDO MISIONES EN CURSO"
+        },
+        {
+            "Key": 1711370733,
+            "Value": "Aumento de la presencia enemiga"
+        },
+        {
+            "Key": 1714339271,
+            "Value": "El daño cuerpo a cuerpo se reduce un #V_ONE %."
+        },
+        {
+            "Key": 1715337177,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1728812511,
+            "Value": "NIEBLA DENSA"
+        },
+        {
+            "Key": 1734037268,
+            "Value": "DEFENDER"
+        },
+        {
+            "Key": 1739141267,
+            "Value": "tras una exitosa prueba con armas nucleares."
+        },
+        {
+            "Key": 1740259294,
+            "Value": "La estratagema de la bomba de 500 kg del Águila está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 1741687388,
+            "Value": "AGUJERO NEGRO DE MERIDIA"
+        },
+        {
+            "Key": 1741704172,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1744150534,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1752849254,
+            "Value": "Nave de Teseo destruida pieza a pieza"
+        },
+        {
+            "Key": 1753680151,
+            "Value": "La estratagema de la mochila de suministros está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 1760171012,
+            "Value": "LA BRIGADA DE CAZAS"
+        },
+        {
+            "Key": 1761921686,
+            "Value": "La reducción temporal de cargadores ya no surte efecto."
+        },
+        {
+            "Key": 1762114919,
+            "Value": "ESCASEZ DE PILOTOS"
+        },
+        {
+            "Key": 1766099987,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1766576141,
+            "Value": "El número de cargadores de todas las armas con los que se despliegan los Helldivers aumenta temporalmente en #V_ONE."
+        },
+        {
+            "Key": 1766908181,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 1768195961,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1771161994,
+            "Value": "Esperando orden suprema"
+        },
+        {
+            "Key": 1773290147,
+            "Value": "Se lanza en:"
+        },
+        {
+            "Key": 1775857616,
+            "Value": "El número de granadas con las que se despliega cada Helldiver se reduce temporalmente en #V_ONE."
+        },
+        {
+            "Key": 1775883134,
+            "Value": "La reducción del tiempo de las misiones ya no surte efecto."
+        },
+        {
+            "Key": 1776442652,
+            "Value": "Puestos de avanzada medios"
+        },
+        {
+            "Key": 1776879455,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1784509355,
+            "Value": "¿Un milagro patriótico? Mujer de Pionero II encuentra una bandera de Supertierra en una tostada"
+        },
+        {
+            "Key": 1788938205,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1794880589,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1798420664,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1808133179,
+            "Value": "BATALLA POR SUPERTIERRA"
+        },
+        {
+            "Key": 1810147530,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1813268956,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1816240066,
+            "Value": "MAPA DE SECTOR"
+        },
+        {
+            "Key": 1820072234,
+            "Value": "La tormenta solar Edna se ha reclasificado como huracán solar Edna."
+        },
+        {
+            "Key": 1821642638,
+            "Value": "FRACTURACIÓN PLANETARIA CONFIRMADA"
+        },
+        {
+            "Key": 1832315388,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1834073347,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1834399666,
+            "Value": "Destruye la superarma autómata"
+        },
+        {
+            "Key": 1834813801,
+            "Value": "El ataque orbital de venganza ya no surte efecto."
+        },
+        {
+            "Key": 1840983393,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1841826768,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1842722237,
+            "Value": "CONSERVACIÓN DE ESTRATAGEMAS"
+        },
+        {
+            "Key": 1843987253,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1856257560,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1857535277,
+            "Value": "La capacidad de estims de todos los Helldivers se reduce en #V_ONE."
+        },
+        {
+            "Key": 1860113674,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1861781896,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1863900176,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1865943011,
+            "Value": "Se aprueba el proyecto de ley \"Libertad de expresión\", "
+        },
+        {
+            "Key": 1867310690,
+            "Value": "La singularidad de Meridia gana velocidad conforme se va acumulando energía oscura."
+        },
+        {
+            "Key": 1869076182,
+            "Value": "SEÑAL DESCONOCIDA"
+        },
+        {
+            "Key": 1869137776,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1876911081,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1877124884,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1881325251,
+            "Value": "ESCASEZ DE LATÓN"
+        },
+        {
+            "Key": 1882056404,
+            "Value": "Ya no se perderá terreno con mayor rapidez en el planeta #V_ONE."
+        },
+        {
+            "Key": 1898505845,
+            "Value": "C. O. B. Genetics donará el maíz del último año a vacas hambrientas."
+        },
+        {
+            "Key": 1899890705,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1905746110,
+            "Value": "Prometedor nuevo estudio establece relación entre el cine 4D y la violencia en el mundo real."
+        },
+        {
+            "Key": 1909834013,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1910438702,
+            "Value": "La estratagema del centinela con cohete está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 1910935327,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1914480073,
+            "Value": "La estratagema del lanzaarcos TS-4 ya no está disponible."
+        },
+        {
+            "Key": 1916939864,
+            "Value": "Rip Gustasfon gana otro concurso de Mr. Multiverso"
+        },
+        {
+            "Key": 1918416101,
+            "Value": "Los astrónomos identifican un nuevo exoplaneta prometedor para un asentamiento."
+        },
+        {
+            "Key": 1920797433,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1922856298,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1926911363,
+            "Value": "Conquista el #SECTOR"
+        },
+        {
+            "Key": 1927541015,
+            "Value": "ESCANEANDO…"
+        },
+        {
+            "Key": 1939963888,
+            "Value": "Redirigen a los Helldivers del conflicto con los autómatas a la lucha contra los termínidos."
+        },
+        {
+            "Key": 1941457820,
+            "Value": "CEPA BOMBA DE ESPORAS"
+        },
+        {
+            "Key": 1942440765,
+            "Value": "Esto es todo lo que queda de un planeta arrasado por la singularidad de Meridia. Un solemne recordatorio de la desolación que la tiranía deja a su paso."
+        },
+        {
+            "Key": 1949115573,
+            "Value": "Las lluvias torrenciales <i=1>reducen la visibilidad</i>."
+        },
+        {
+            "Key": 1954812789,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1954863675,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1956121965,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1959551110,
+            "Value": "1"
+        },
+        {
+            "Key": 1959596684,
+            "Value": "FLUCTUACIONES ORBITALES"
+        },
+        {
+            "Key": 1960029036,
+            "Value": "CAMPAÑA DE INVASIÓN"
+        },
+        {
+            "Key": 1960734304,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1962232551,
+            "Value": "INICIATIVA DE REDUCCIÓN DE DESECHOS"
+        },
+        {
+            "Key": 1971579583,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1981927828,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1985114247,
+            "Value": "INFORMES INSUFICIENTES"
+        },
+        {
+            "Key": 1986627572,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 1991087075,
+            "Value": "El número de estims con los que se despliega cada Helldiver aumenta temporalmente en #V_ONE."
+        },
+        {
+            "Key": 1991556873,
+            "Value": "La estratagema del bombardeo de gatling orbital está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 1999107264,
+            "Value": "El aumento del tiempo de extracción ya no surte efecto."
+        },
+        {
+            "Key": 2000175962,
+            "Value": "Esta operación, una vez completada, nos ayudará a liberar esta megaciudad. Una vez que una megaciudad cae, no puede recuperarse."
+        },
+        {
+            "Key": 2002849930,
+            "Value": "La estratagema de las cápsulas de cohetes de 110 mm del Águila ya no está disponible."
+        },
+        {
+            "Key": 2011403767,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2012858935,
+            "Value": "La capacidad de estims de todos los Helldivers aumenta temporalmente en #V_ONE."
+        },
+        {
+            "Key": 2021607808,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2021867720,
+            "Value": "VENTISCAS"
+        },
+        {
+            "Key": 2022304852,
+            "Value": "La estratagema de las cápsulas de cohetes de 110 mm del Águila está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 2023248821,
+            "Value": "La estratagema del ataque de gas orbital está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 2030180306,
+            "Value": "La estratagema del relevo generador de escudo está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 2035440895,
+            "Value": "INTRUSIÓN EN EL SECTOR DETECTADA"
+        },
+        {
+            "Key": 2036938262,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2039291506,
+            "Value": "INVASIÓN TERMÍNIDA"
+        },
+        {
+            "Key": 2042181890,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2042223451,
+            "Value": "El presidente autoriza el uso de cargas \"destructoras de planetas\" para contener a los termínidos."
+        },
+        {
+            "Key": 2050925525,
+            "Value": "RESERVAS DEL EXOTRAJE"
+        },
+        {
+            "Key": 2051691805,
+            "Value": "La estratagema <i=1>#V_ONE</i> no está disponible para todos los Helldivers."
+        },
+        {
+            "Key": 2052096401,
+            "Value": "La estratagema del cañón de riel RS-422 está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 2055421011,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2056147079,
+            "Value": "Modificadores de la operación múltiple"
+        },
+        {
+            "Key": 2056979701,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2057952192,
+            "Value": "3"
+        },
+        {
+            "Key": 2061243786,
+            "Value": "79 millones de héroes añadidos al muro en otro glorioso Día de los Mártires."
+        },
+        {
+            "Key": 2064126481,
+            "Value": "La estratagema del rifle sin retroceso AT-48 está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 2067880461,
+            "Value": "ESTEROIDES SUPLEMENTARIOS"
+        },
+        {
+            "Key": 2069462311,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2069818539,
+            "Value": "La estratagema de los misiles aire-aire del Águila está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 2071377108,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2072040952,
+            "Value": "Objetivos tácticos de los enemigos"
+        },
+        {
+            "Key": 2074393271,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 2077769934,
+            "Value": "por los letales accidentes de aerodeslizadores."
+        },
+        {
+            "Key": 2087852427,
+            "Value": "La reducción de la capacidad de granadas ya no surte efecto."
+        },
+        {
+            "Key": 2088267641,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2090195605,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2092128075,
+            "Value": "<c=FF336666>BALAS DISPARADAS: #VALUE</c>"
+        },
+        {
+            "Key": 2093838115,
+            "Value": "El tiempo de extracción aumenta temporalmente #V_TWO segundos."
+        },
+        {
+            "Key": 2094457118,
+            "Value": "#PERCENTAGE % LIBERADO"
+        },
+        {
+            "Key": 2098091969,
+            "Value": "RECOMPENSA DEL TENIENTE CORONEL"
+        },
+        {
+            "Key": 2101006324,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2102410972,
+            "Value": "Cada orden está vinculada a una facción enemiga y a una ubicación en el espacio, representada por un icono en el mapa"
+        },
+        {
+            "Key": 2107483823,
+            "Value": "La reducción de la capacidad de estims ya no surte efecto."
+        },
+        {
+            "Key": 2114321379,
+            "Value": "ANTIGUA COLONIA DE SUPERTIERRA"
+        },
+        {
+            "Key": 2115313058,
+            "Value": "La estratagema de reabastecimiento está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 2116313662,
+            "Value": "La extracción tarda #V_TWO segundos más."
+        },
+        {
+            "Key": 2117228825,
+            "Value": "ELEGIR SECTOR"
+        },
+        {
+            "Key": 2121224478,
+            "Value": "La nueva especie osuna descubierta en Mundo Cresta ha sido declarada antidemocrática y erradicada de inmediato."
+        },
+        {
+            "Key": 2129095230,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 2135009396,
+            "Value": "La estratagema del centinela con mortero ya no está disponible."
+        },
+        {
+            "Key": 2137542345,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2138647213,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2143388062,
+            "Value": "SUPERHELLDIVER"
+        },
+        {
+            "Key": 2144369469,
+            "Value": "La estratagema del muro defensivo está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 2144846208,
+            "Value": "ENTRA EN EL COLISEO: AUTÓMATA CONTRA BICHO - ¿¡QUIÉN GANARÁ!?"
+        },
+        {
+            "Key": 2146730072,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2149309645,
+            "Value": "BLOQUEO ORBITAL"
+        },
+        {
+            "Key": 2149389475,
+            "Value": "Una mutación inducida por la lobreguez hace que los termínidos de este planeta generen un exceso de esporas. Al morir, estas son liberadas con un estallido explosivo. Estos insectiodes extremistas no se detienen ante nada para extender su corrupción y mostrar su desprecio antinatural por la vida."
+        },
+        {
+            "Key": 2151089975,
+            "Value": "La estratagema <i=1>#V_ONE</i> está disponible para todos los Helldivers."
+        },
+        {
+            "Key": 2156619321,
+            "Value": "La reducción del daño cuerpo a cuerpo ya no surte efecto."
+        },
+        {
+            "Key": 2158648524,
+            "Value": "La lobreguez cubre por completo este planeta, lo que bloquea múltiples operaciones logísticas.\nLos tiempos de extracción aumentan en <i=1>30 segundos,</i> El tiempo de rearme de los Águilas aumenta un <i=1>20 %.</i>"
+        },
+        {
+            "Key": 2158877299,
+            "Value": "BOMBARDEO PLANETARIO"
+        },
+        {
+            "Key": 2163192956,
+            "Value": "<c=FF336666>LONG.:</c> <c=FF66cc99>#VALUE</c>"
+        },
+        {
+            "Key": 2171531708,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2171714381,
+            "Value": "Patrullas enemigas"
+        },
+        {
+            "Key": 2172345078,
+            "Value": "Este oscuro abismo es todo lo que queda del verde paraíso que alguna vez fue Meridia. Los termínidos se encargaron de corromper y destruir sus impresionantes bosques y sus abundantes recursos. No nos dejaron más alternativa que utilizar el fluido oscuro para destruirlo por completo. Ahora, esta singularidad se mantendrá como un monumento conmemorativo para que nos recuerde a todos cuáles son las consecuencias de desafiar a la libertad."
+        },
+        {
+            "Key": 2186316023,
+            "Value": "MODIFICADORES DE OPERACIÓN"
+        },
+        {
+            "Key": 2188248277,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2189446260,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 2190082137,
+            "Value": "MISIÓN DE LA COLONIA"
+        },
+        {
+            "Key": 2195933349,
+            "Value": "Ya no se perderá terreno con mayor rapidez en el planeta #V_ONE."
+        },
+        {
+            "Key": 2197061274,
+            "Value": "Los <i=1>códigos de las estratagemas</i> están desordenados."
+        },
+        {
+            "Key": 2197155395,
+            "Value": "Tras varios días de lucha, <i=1>Gaellivare</i> ha terminado en manos de la <i=1>brigada autómata de cazas</i>. Sin embargo, gracias a las astutas maniobras de los Helldivers, la <i=1>E.E.D.</i> está a salvo y fuera de su alcance.\nLos Helldivers, con su liderazgo democrático de la E.E.D., han hecho gala de una innegable maestría táctica. Una vez más, han dejado claro por qué se les considera la mejor fuerza de combate de toda la galaxia. Sus esfuerzos han detenido el asalto de los autómatas el tiempo suficiente para llevar a cabo las evacuaciones de emergencia y salvar a numerosos ciudadanos, muchos de los cuales ayudaron a construir la estación espacial.\nLa <i=1>brigada de cazas</i> continúa siendo una amenaza importante. Además, la crisis provocada por la repentina e impactante plaga de bichos en el <i=1>Centro de investigación de termínidos</i> continúa. Incluso en su estado debilitado, la incorporación de la E.E.D. al arsenal de la libertad no podría haber tenido lugar en un momento mejor. La democracia gestionada está en peligro y necesitamos todas las armas que podamos conseguir."
+        },
+        {
+            "Key": 2201953643,
+            "Value": "TEMBLORES"
+        },
+        {
+            "Key": 2204300642,
+            "Value": "Finaliza en:"
+        },
+        {
+            "Key": 2208700795,
+            "Value": "Mantente al día de los últimos acontecimientos de la Guerra Galáctica gracias a las <i=1>noticias</i>. \n\n¡Aquí se mostrarán automáticamente los últimos eventos! "
+        },
+        {
+            "Key": 2209565657,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2211654071,
+            "Value": "Las fuerzas de los S.E.A.F. ceden otro planeta a los autómatas, que siguen avanzando."
+        },
+        {
+            "Key": 2214315056,
+            "Value": "PROGRESO DE LIBERACIÓN DE CIUDADES"
+        },
+        {
+            "Key": 2217090127,
+            "Value": "Dispara en:"
+        },
+        {
+            "Key": 2222856057,
+            "Value": "Último héroe superviviente de la Primera Guerra Galáctica fallece a los 103 años; el \"mayor honor\" fue servir."
+        },
+        {
+            "Key": 2229540422,
+            "Value": "ÓRDENES SUPREMAS"
+        },
+        {
+            "Key": 2236873416,
+            "Value": "Contener"
+        },
+        {
+            "Key": 2237848324,
+            "Value": "casco de comunicación neural canina se vincule accidentalmente a lobos cercanos."
+        },
+        {
+            "Key": 2239744702,
+            "Value": "Se ordena la movilización total. \"Supertierra está en guerra\", afirma el presidente."
+        },
+        {
+            "Key": 2241719727,
+            "Value": "La estratagema del centinela con gatling está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 2243848952,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2245317431,
+            "Value": "OCULTAR DETALLES"
+        },
+        {
+            "Key": 2251917506,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2253660066,
+            "Value": "Este agujero negro es todo lo que queda del hermoso planeta que una alguna vez fue Moradesh. Un inevitable accidente en el Centro de investigación del fluido oscuro arrasó con sus interminables dunas onduladas y sus abundantes recursos, mientras nuestros heroicos científicos lo daban todo por salvar a nuestros ciudadanos de la primera supercolonia termínida. Los termínidos nos han arrebatado Moradesh, dejando esta cicatriz como recordatorio de su desmesurada barbarie."
+        },
+        {
+            "Key": 2254072857,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2256945266,
+            "Value": "La cegadora baliza que ilumina las estrellas con la luz de la democracia. El paraíso patriótico para los ciudadanos que de verdad sirven a su Federación. El futuro utópico que le espera a toda la galaxia."
+        },
+        {
+            "Key": 2267936639,
+            "Value": "El tono gris apagado de este planeta solo se ve interrumpido por las flores violetas que crecen en extraños afloramientos parasitarios."
+        },
+        {
+            "Key": 2271311985,
+            "Value": "COLAPSO GRAVITACIONAL CONFIRMADO"
+        },
+        {
+            "Key": 2274321752,
+            "Value": "MISIÓN DE CIUDAD"
+        },
+        {
+            "Key": 2275368038,
+            "Value": "La estratagema del centinela con cañón automático ya no está disponible."
+        },
+        {
+            "Key": 2276221414,
+            "Value": "OBJETIVOS DE LOS ILUMINADOS ALCANZADOS: #TIME"
+        },
+        {
+            "Key": 2284968224,
+            "Value": "La capacidad de estims de todos los Helldivers se reduce temporalmente en #V_ONE."
+        },
+        {
+            "Key": 2285096076,
+            "Value": "Ahuyentar"
+        },
+        {
+            "Key": 2288853684,
+            "Value": "¡Protege la mansión del presidente!"
+        },
+        {
+            "Key": 2292582320,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2293035076,
+            "Value": "Modificadores de la operación"
+        },
+        {
+            "Key": 2294037091,
+            "Value": "MOVILÍZATE A UN PLANETA QUE ESTÉ EN EL FRENTE DE BATALLA"
+        },
+        {
+            "Key": 2295362658,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2296962065,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2307358133,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2310758180,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2311243214,
+            "Value": "LIBERACIÓN"
+        },
+        {
+            "Key": 2313692969,
+            "Value": "Un experto en enfermedades infecciosas califica de \"epidemia\" la propagación de los termínidos."
+        },
+        {
+            "Key": 2328985689,
+            "Value": "<i=1>Aumenta la dispersión</i> de las estratagemas orbitales."
+        },
+        {
+            "Key": 2333231349,
+            "Value": "8"
+        },
+        {
+            "Key": 2337517887,
+            "Value": "FLOTA DE LOS ILUMINADOS"
+        },
+        {
+            "Key": 2337748496,
+            "Value": "La estratagema del ataque orbital ME de 120 mm está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 2340829721,
+            "Value": "¡Las fuerzas enemigas intentan hacerse con este planeta! Hazlos retroceder jugando misiones especiales durante el periodo de tiempo especificado o el planeta caerá en manos enemigas."
+        },
+        {
+            "Key": 2346647635,
+            "Value": "La experiencia que obtienen todos los Helldivers aumenta un #V_ONE %."
+        },
+        {
+            "Key": 2347407351,
+            "Value": "LA GUERRA GALÁCTICA"
+        },
+        {
+            "Key": 2350760417,
+            "Value": "Se pierde terreno en el planeta #V_ONE más rápido que antes."
+        },
+        {
+            "Key": 2350849714,
+            "Value": "La estratagema del dispensador de minas antipersona está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 2358017004,
+            "Value": "Los Iluminados se están extendiendo por este planeta y apoderándose de nuestras colonias y ciudadanos.  Hay que liquidarlos."
+        },
+        {
+            "Key": 2365925959,
+            "Value": "\"Mi hijo era simpatizante de los autómatas\" - La valiente decisión de una madre al delatar a su hijo."
+        },
+        {
+            "Key": 2370462133,
+            "Value": "La estratagema <i=1>#V_ONE</i> está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 2371122801,
+            "Value": "La lucha de los S.E.A.F. contra los bots se intensifica con operaciones limitadas de los Helldivers."
+        },
+        {
+            "Key": 2371709060,
+            "Value": "La próspera Meridia fue corrompida y transformada en una supercolonia termínida, lo que hizo necesaria su destrucción utilizando el misterioso fluido oscuro. Esta cicatriz galáctica es todo lo que queda."
+        },
+        {
+            "Key": 2373683900,
+            "Value": "NIVEL DE INVASIÓN"
+        },
+        {
+            "Key": 2376871409,
+            "Value": "El aumento temporal de cargadores ya no surte efecto."
+        },
+        {
+            "Key": 2383194414,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2386528247,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2388346408,
+            "Value": "En este planeta hay una unidad de autómatas equipada con lanzallamas y munición incendiaria. Estos pirómanos sin escrúpulos no descansarán hasta que hayan arrasado con todo lo que la humanidad aprecia."
+        },
+        {
+            "Key": 2390390042,
+            "Value": "2"
+        },
+        {
+            "Key": 2393862676,
+            "Value": "ZONA DE CUARENTENA DE TERMÍNIDOS"
+        },
+        {
+            "Key": 2396194048,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2399209115,
+            "Value": "EL CUERPO DE INCINERACIÓN"
+        },
+        {
+            "Key": 2399790664,
+            "Value": "Un nuevo rifle de asalto impreso en 3D puede aniquilar defensivamente hasta a 30 bichos por segundo."
+        },
+        {
+            "Key": 2406613085,
+            "Value": "La estratagema del relevo generador de escudo ya no está disponible."
+        },
+        {
+            "Key": 2410601166,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2411531247,
+            "Value": "La Gran hueste de los Iluminados está inundando el planeta. Debemos reducir su número."
+        },
+        {
+            "Key": 2413997357,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2415134279,
+            "Value": "TERRITORIO RECLAMADO"
+        },
+        {
+            "Key": 2415162749,
+            "Value": "La experiencia que obtienen todos los Helldivers aumenta temporalmente un #V_ONE %."
+        },
+        {
+            "Key": 2416591458,
+            "Value": "El tiempo de recuperación de la estratagema <i=1>#V_ONE</i> se reduce en #V_TWO."
+        },
+        {
+            "Key": 2417525045,
+            "Value": "MISIÓN"
+        },
+        {
+            "Key": 2422343601,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2431191520,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2435973138,
+            "Value": "¿Desastre ecológico o bendición económica? Accidente de nave cisterna "
+        },
+        {
+            "Key": 2444029825,
+            "Value": "NOTICIAS EN DIRECTO"
+        },
+        {
+            "Key": 2449061412,
+            "Value": "<i=1>#V_ONE</i> disponible para todos los Helldivers."
+        },
+        {
+            "Key": 2459288933,
+            "Value": "de"
+        },
+        {
+            "Key": 2459634787,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2460265460,
+            "Value": "Las campañas prioritarias contienen misiones únicas relacionadas con la orden suprema actual. Supertierra liberará los planetas prioritarios de la campaña, como en las campañas de liberación."
+        },
+        {
+            "Key": 2463363546,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2466622891,
+            "Value": "<c=FF4EE077>MEDIA</c>"
+        },
+        {
+            "Key": 2471906713,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2474213151,
+            "Value": "La estratagema del cañón de riel orbital está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 2479997013,
+            "Value": "La estratagema del rifle de francotirador SAR-1 está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 2480987539,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2481539336,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2481837058,
+            "Value": "Repeler"
+        },
+        {
+            "Key": 2489679843,
+            "Value": "DIFICULTAD"
+        },
+        {
+            "Key": 2490822601,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2495155753,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2495253146,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2500643197,
+            "Value": "LUGAR DE LA MISIÓN"
+        },
+        {
+            "Key": 2501573715,
+            "Value": "Se detona en:"
+        },
+        {
+            "Key": 2504204569,
+            "Value": "La universidad de Supertierra adopta nuevo examen de patriotismo estandarizado para admisiones"
+        },
+        {
+            "Key": 2510020937,
+            "Value": "IMPACTO DE LA OPERACIÓN"
+        },
+        {
+            "Key": 2512194864,
+            "Value": "ESTADO DE DEFENSA DE LA CIUDAD"
+        },
+        {
+            "Key": 2517836643,
+            "Value": "Estamos recuperando terreno de forma pasiva en el planeta #V_ONE."
+        },
+        {
+            "Key": 2519645656,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2520638833,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2526165328,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2528469051,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2533196689,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2537322567,
+            "Value": "La estratagema de las cápsulas de cohetes de 110 mm del Águila está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 2539164536,
+            "Value": "PROGRESO DE CAMPAÑA PRIORITARIA"
+        },
+        {
+            "Key": 2542905200,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2544350923,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2547716136,
+            "Value": "en"
+        },
+        {
+            "Key": 2552962615,
+            "Value": "Más concursantes de \"En qué planeta estoy o te enviamos "
+        },
+        {
+            "Key": 2553646586,
+            "Value": "La estratagema del Stinger ST-1 está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 2555770549,
+            "Value": "DEFENSAS ORBITALES"
+        },
+        {
+            "Key": 2568918320,
+            "Value": "El tiempo de recuperación de la estratagema <i=1>#V_ONE</i> aumenta temporalmente en #V_TWO."
+        },
+        {
+            "Key": 2569598906,
+            "Value": "La estratagema del rifle sin retroceso AT-48 está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 2570684122,
+            "Value": "TORMENTAS DE METEORITOS"
+        },
+        {
+            "Key": 2574842690,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2577515503,
+            "Value": "ESTADO DE LA CAMPAÑA"
+        },
+        {
+            "Key": 2579047542,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2592792787,
+            "Value": "#GRADE (#PERCENT %)"
+        },
+        {
+            "Key": 2604396474,
+            "Value": "ACTUALIZACIÓN SOBRE LA GUERRA GALÁCTICA"
+        },
+        {
+            "Key": 2606603087,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2608634901,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2611035692,
+            "Value": "La reducción del tiempo de recuperación de la estratagema <i=1>#V_ONE</i> ya no surte efecto."
+        },
+        {
+            "Key": 2615229268,
+            "Value": "La estratagema del emplazamiento de ametralladora pesada está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 2616020441,
+            "Value": "Ver: Un Helldiver vuelve con su compañero robocanino tras 4 años movilizado."
+        },
+        {
+            "Key": 2618604845,
+            "Value": "Un mundo congelado cubierto de hielo, interrumpido solo por rocas rojizas y musgo esponjoso."
+        },
+        {
+            "Key": 2621267569,
+            "Value": "PLANETA"
+        },
+        {
+            "Key": 2633483286,
+            "Value": "La estratagema <i=1>#V_ONE</i> vuelve a estar disponible (si se compra)."
+        },
+        {
+            "Key": 2634188326,
+            "Value": "Desbloquea nuevos tipos de enemigos y muestras que se pueden descubrir."
+        },
+        {
+            "Key": 2635572434,
+            "Value": "El número de usos de la estratagema <i=1>#V_ONE</i> aumenta en #V_TWO."
+        },
+        {
+            "Key": 2635626170,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2637750421,
+            "Value": "La estratagema de la ametralladora MG-43 está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 2640264077,
+            "Value": "ESPACIO VACÍO"
+        },
+        {
+            "Key": 2645020198,
+            "Value": "Las densas tormentas de arena <i=1>reducen la visibilidad</i>."
+        },
+        {
+            "Key": 2648438993,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2650537364,
+            "Value": "Funcionarios del Ministerio de Ciencia identifican una tecnología de producción en serie sin precedentes utilizada por los autómatas."
+        },
+        {
+            "Key": 2652834629,
+            "Value": "Estudiando fluctuaciones inexplicables del espacio-tiempo"
+        },
+        {
+            "Key": 2654681255,
+            "Value": "EXCESO DE MUNICIÓN"
+        },
+        {
+            "Key": 2662096373,
+            "Value": "OPERACIÓN FALLIDA"
+        },
+        {
+            "Key": 2665279633,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2668736157,
+            "Value": "La estratagema del cañón automático AC-8 está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 2674681081,
+            "Value": "La estratagema del ataque con EMS orbital está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 2679897061,
+            "Value": "La capacidad de estims de todos los Helldivers aumenta en #V_ONE."
+        },
+        {
+            "Key": 2683120236,
+            "Value": "Nuevo estudio descubre que el patriotismo es el principal factor de felicidad, longevidad y pérdida de peso."
+        },
+        {
+            "Key": 2690990992,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2703264067,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2704077047,
+            "Value": "Las densas emanaciones tóxicas procedentes de las profundidades de la corteza de este planeta se filtran por las grietas del suelo y lo cubren de una neblina enfermiza."
+        },
+        {
+            "Key": 2706258613,
+            "Value": "\"¡Participa para tener la oportunidad de ganar billetes de primera fila para la Copa Galáctica de liberbol!\"."
+        },
+        {
+            "Key": 2707183486,
+            "Value": "CYBERSTAN"
+        },
+        {
+            "Key": 2709724928,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2715016726,
+            "Value": "El daño cuerpo a cuerpo aumenta temporalmente un #V_ONE %."
+        },
+        {
+            "Key": 2718162576,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 2720395566,
+            "Value": "CIVILES Y S.E.A.F. EN EL ÁREA"
+        },
+        {
+            "Key": 2724329671,
+            "Value": "REFUERZOS S.E.A.F."
+        },
+        {
+            "Key": 2727007226,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2730564149,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2731662120,
+            "Value": "CIUDADES DE #PLANET"
+        },
+        {
+            "Key": 2731796619,
+            "Value": "Objetivos principales"
+        },
+        {
+            "Key": 2733602713,
+            "Value": "Los autómatas \"no tienen nada que hacer\" contra los Helldivers, afirma un funcionario del Ministerio de Defensa."
+        },
+        {
+            "Key": 2749628958,
+            "Value": "La estratagema de la torre tesla ya no está disponible."
+        },
+        {
+            "Key": 2750396089,
+            "Value": "Los Helldivers completan las <i=1>órdenes personales</i> a nivel individual, y estas cambian a diario en respuesta a los cambios de la situación en el campo de batalla."
+        },
+        {
+            "Key": 2752298661,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2754737465,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2756304220,
+            "Value": "La estratagema de la lanza FAF-14 está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 2760552626,
+            "Value": "MANTENER PULSADO PARA TRANSITAR ENTRE PLANETAS"
+        },
+        {
+            "Key": 2761003916,
+            "Value": "REMOLINOS DE ARENA"
+        },
+        {
+            "Key": 2761612032,
+            "Value": "El tiempo de recuperación de la estratagema <i=1>#V_ONE</i> aumenta en #V_TWO."
+        },
+        {
+            "Key": 2763456608,
+            "Value": "El número de medallas por misión de todos los Helldivers aumenta en #V_ONE."
+        },
+        {
+            "Key": 2769011681,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2772833762,
+            "Value": "Esta operación, una vez completada, nos ayudará a conservar la ciudad. La conservación de las ciudades contribuye en gran medida a la defensa del planeta."
+        },
+        {
+            "Key": 2777160708,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2777631244,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2777830035,
+            "Value": "OPERACIÓN EXITOSA"
+        },
+        {
+            "Key": 2778843793,
+            "Value": "<c=FFFF3939>MUY ALTA</c>"
+        },
+        {
+            "Key": 2782937074,
+            "Value": "Simpatizantes de los autómatas eliminados en una impresionante incursión; daños colaterales minimizados heroicamente."
+        },
+        {
+            "Key": 2784761516,
+            "Value": "ESCASEZ DE MUNICIÓN"
+        },
+        {
+            "Key": 2788352405,
+            "Value": "El E-711 solo se encuentra en Mundos colmena. La sustancia exótica es esencial para mantener la seguridad galáctica. Hay que hacerse con ella cueste lo que cueste. "
+        },
+        {
+            "Key": 2794581015,
+            "Value": "La arena que cae <i=1>reduce la visibilidad</i>."
+        },
+        {
+            "Key": 2795043115,
+            "Value": "VENTAJA OFENSIVA"
+        },
+        {
+            "Key": 2795807034,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2798593236,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2801833803,
+            "Value": "A cualquier ciudadano que haya perdido su casa por la actividad enemiga, le decimos:"
+        },
+        {
+            "Key": 2805628145,
+            "Value": "TORMENTAS DE ÁCIDO"
+        },
+        {
+            "Key": 2807101694,
+            "Value": "El mapa táctico se ve <i=1>alterado</i>."
+        },
+        {
+            "Key": 2807326037,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2809865391,
+            "Value": "MEDIO"
+        },
+        {
+            "Key": 2810548766,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2811783031,
+            "Value": "BLOQUEO LEVIATÁN"
+        },
+        {
+            "Key": 2812548386,
+            "Value": "APARICIÓN REPENTINA"
+        },
+        {
+            "Key": 2820793322,
+            "Value": "COMPLICADO"
+        },
+        {
+            "Key": 2822310909,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2825040173,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2826211131,
+            "Value": "Fortalezas enemigas"
+        },
+        {
+            "Key": 2829208561,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2835334755,
+            "Value": "La estratagema del relevo generador de escudo está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 2839861759,
+            "Value": "La defensa del planeta #V_ONE, que estaba a punto de caer en manos enemigas, ha tenido éxito."
+        },
+        {
+            "Key": 2842185114,
+            "Value": "Supertierra no liberará planetas de la campaña de reconocimiento, pero estos permanecerán disponibles mientras el sector esté activo."
+        },
+        {
+            "Key": 2845922418,
+            "Value": "La estratagema de la mochila de escudo balístico está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 2846958731,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2852239993,
+            "Value": "CIUDAD"
+        },
+        {
+            "Key": 2855846799,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2859517006,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 2866122630,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2866225573,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2870476391,
+            "Value": "ESCASEZ DE SUMINISTROS MÉDICOS"
+        },
+        {
+            "Key": 2873462989,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2875263080,
+            "Value": "una breve pero totalmente inocua invasión cerebral por los iluminados"
+        },
+        {
+            "Key": 2876468059,
+            "Value": "El tiempo para completar todas las misiones aumenta un #V_ONE %."
+        },
+        {
+            "Key": 2876478471,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2879703857,
+            "Value": "La estratagema del bombardeo de gatling orbital está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 2883316736,
+            "Value": "La operación Cercado Valiente avanza \"según lo previsto\", según un informe del Ministerio de Defensa."
+        },
+        {
+            "Key": 2883743751,
+            "Value": "<c=FF336666>AMIGOS: #VALUE</c>"
+        },
+        {
+            "Key": 2887369089,
+            "Value": "Aumento de los objetivos tácticos"
+        },
+        {
+            "Key": 2888129135,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2888682480,
+            "Value": "¡Supertierra está liberando un nuevo planeta! Si la comunidad completa suficientes misiones en los eventos especiales del planeta antes de que se agote el plazo, ampliaremos el territorio de Supertierra."
+        },
+        {
+            "Key": 2893255745,
+            "Value": "Nombre desconocido"
+        },
+        {
+            "Key": 2895551820,
+            "Value": "El aumento del daño cuerpo a cuerpo ya no surte efecto."
+        },
+        {
+            "Key": 2902232420,
+            "Value": "Nuevo estudio muestra que el terror de los iluminados acecha en cada esquina y los ciudadanos deben estar atentos."
+        },
+        {
+            "Key": 2907327826,
+            "Value": "La estratagema de la mochila de salto está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 2908633975,
+            "Value": "INFORME"
+        },
+        {
+            "Key": 2912407889,
+            "Value": "<i=1>#V_ONE</i> El potenciador se activa automáticamente en todas las misiones."
+        },
+        {
+            "Key": 2914005300,
+            "Value": "El número de estims con los que se despliega cada Helldiver se reduce en #V_ONE."
+        },
+        {
+            "Key": 2916359955,
+            "Value": "DIFÍCIL"
+        },
+        {
+            "Key": 2923344480,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 2925450467,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2931881971,
+            "Value": "PRUEBAS CON EL EQUIPO"
+        },
+        {
+            "Key": 2933045560,
+            "Value": "INVASIÓN DE LOS ILUMINADOS"
+        },
+        {
+            "Key": 2937033102,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2939461461,
+            "Value": "OCULTAR HÉROES DE SUPERTIERRA"
+        },
+        {
+            "Key": 2944563374,
+            "Value": "Los inesperados refuerzos de S.E.A.F. han ganado mucho terreno en el planeta #V_ONE."
+        },
+        {
+            "Key": 2956467301,
+            "Value": "La estratagema <i=1>#V_ONE</i> no está disponible temporalmente para ningún Helldiver."
+        },
+        {
+            "Key": 2958892596,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 2962065378,
+            "Value": "La reducción del tiempo de extracción ya no surte efecto."
+        },
+        {
+            "Key": 2969104525,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 2970341781,
+            "Value": "El planeta #V_ONE, que parecía a punto de culminar con éxito su defensa, ha caído en manos enemigas."
+        },
+        {
+            "Key": 2975979471,
+            "Value": "<c=FF5F96FF>BAJA</c>"
+        },
+        {
+            "Key": 2977252622,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 2978562338,
+            "Value": "INICIATIVA EXPERIMENTAL"
+        },
+        {
+            "Key": 2980169751,
+            "Value": "La estratagema del ataque de explosión aérea orbital ya no está disponible."
+        },
+        {
+            "Key": 2986036167,
+            "Value": "La estratagema del ataque aéreo del Águila está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 2987454492,
+            "Value": "La extraña subversión de la fotosíntesis que sustenta la flora de extraños colores que florece en este planeta sigue siendo un intrigante misterio para los mejores exobiólogos de Supertierra."
+        },
+        {
+            "Key": 2989731610,
+            "Value": "hace que llueva Elemento 710 sobre HydroFall Prime"
+        },
+        {
+            "Key": 2992258348,
+            "Value": "MENSAJE DEL ALTO MANDO DE SUPERTIERRA"
+        },
+        {
+            "Key": 2992438367,
+            "Value": "Se moviliza en:"
+        },
+        {
+            "Key": 2994723165,
+            "Value": "El aumento de efectividad de <i=1>#V_ONE</i> ya no surte efecto."
+        },
+        {
+            "Key": 2996003713,
+            "Value": "La estratagema del ataque aéreo con napalm del Águila está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 2997344754,
+            "Value": "#SECTOR"
+        },
+        {
+            "Key": 2998873950,
+            "Value": "CONSEGUIDO"
+        },
+        {
+            "Key": 3001978230,
+            "Value": "Los periodos de altas temperaturas <i=1>aumentan el consumo de aguante</i> y <i=1>aceleran el calentamiento de las armas</i>."
+        },
+        {
+            "Key": 3013802117,
+            "Value": "AVANCES EN LA INVESTIGACIÓN DE LA LOBREGUEZ"
+        },
+        {
+            "Key": 3018577702,
+            "Value": "Legión"
+        },
+        {
+            "Key": 3021947593,
+            "Value": "La estratagema de reabastecimiento está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 3022153599,
+            "Value": "El número de refuerzos disponibles por misión aumenta temporalmente en #V_ONE."
+        },
+        {
+            "Key": 3022209575,
+            "Value": "E-711 EXTRAÍDO"
+        },
+        {
+            "Key": 3023260311,
+            "Value": "La estratagema del ataque aéreo del Águila ya no está disponible."
+        },
+        {
+            "Key": 3029166506,
+            "Value": "La estratagema del centinela con cañón automático está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 3030000168,
+            "Value": "Destruir"
+        },
+        {
+            "Key": 3033475065,
+            "Value": "ESTERILIZACIÓN ATMOSFÉRICA"
+        },
+        {
+            "Key": 3036081418,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 3041244548,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3049338773,
+            "Value": "La estratagema de la ametralladora MG-43 está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 3058519513,
+            "Value": "POTENCIA DE LA FLOTA DE LOS ILUMINADOS"
+        },
+        {
+            "Key": 3067367692,
+            "Value": "UNIDADES S.E.A.F. EN EL ÁREA"
+        },
+        {
+            "Key": 3071335446,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3080761082,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3082330525,
+            "Value": "La estratagema del lanzagranadas GL-6 está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 3085453425,
+            "Value": "EXCESO DE EXPLOSIVOS"
+        },
+        {
+            "Key": 3087338564,
+            "Value": "CONDICIONES AMBIENTALES"
+        },
+        {
+            "Key": 3088565990,
+            "Value": "4"
+        },
+        {
+            "Key": 3089283956,
+            "Value": "Este planeta solía ser hermoso, hasta que los termínidos y su voraz expansión lo convirtieron en un hervidero de tiranía, en un lugar irreconocible por culpa de su corrupción."
+        },
+        {
+            "Key": 3091226237,
+            "Value": "SE ESTIMA QUE CAERÁ DENTRO DE"
+        },
+        {
+            "Key": 3091609804,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3093738873,
+            "Value": "El tiempo para completar todas las misiones se reduce temporalmente un #V_ONE %."
+        },
+        {
+            "Key": 3097330934,
+            "Value": "La defensa del planeta #V_ONE, que estaba a punto de caer en manos enemigas, ha tenido éxito."
+        },
+        {
+            "Key": 3099561362,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 3103904605,
+            "Value": "La reducción de refuerzos ya no surte efecto."
+        },
+        {
+            "Key": 3110277580,
+            "Value": "FÁBRICAS DAÑADAS"
+        },
+        {
+            "Key": 3112086663,
+            "Value": "Indicador de fluctuaciones del espacio-tiempo"
+        },
+        {
+            "Key": 3112970015,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3113572060,
+            "Value": "El aumento de las granadas ya no surte efecto."
+        },
+        {
+            "Key": 3115257147,
+            "Value": "El temerario Felix Bressler realiza un salto en caída libre de 2800 millones de kilómetros, de Neptuno a Supertierra"
+        },
+        {
+            "Key": 3130602394,
+            "Value": "<c=FF336666>SEGUIMIENTO:</c> <c=FFcd6801>ESCUADRONES HELLDIVER ACTIVOS</c>"
+        },
+        {
+            "Key": 3131923926,
+            "Value": "Los picos helados de este mundo, sumido en un invierno eterno, brillan a la luz de su estrella, demasiado lejana."
+        },
+        {
+            "Key": 3134031991,
+            "Value": "APOYO OPERATIVO"
+        },
+        {
+            "Key": 3135493657,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3140249806,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3141182007,
+            "Value": "Puestos de avanzada ligeros"
+        },
+        {
+            "Key": 3142675334,
+            "Value": "IMPACTO DE LA OPERACIÓN"
+        },
+        {
+            "Key": 3143498604,
+            "Value": "La reducción de la obtención de experiencia ya no surte efecto."
+        },
+        {
+            "Key": 3145861536,
+            "Value": "La estratagema del cañón de riel orbital ya no está disponible."
+        },
+        {
+            "Key": 3155398956,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3169807818,
+            "Value": "El número de cargadores de todas las armas con los que se despliegan los Helldivers aumenta en #V_ONE."
+        },
+        {
+            "Key": 3171440668,
+            "Value": "ADQUIRIR E-711"
+        },
+        {
+            "Key": 3174686750,
+            "Value": "MOSTRAR ÓRDENES"
+        },
+        {
+            "Key": 3178802138,
+            "Value": "La estratagema del centinela con mortero está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 3184460045,
+            "Value": "POTENCIADOR EXPERIMENTAL"
+        },
+        {
+            "Key": 3192569703,
+            "Value": "PROGRESO DE LA CAMPAÑA PRIORITARIA"
+        },
+        {
+            "Key": 3198058331,
+            "Value": "Evacuado a:"
+        },
+        {
+            "Key": 3205119654,
+            "Value": "La presencia de la E.E.D. en las inmediaciones de este planeta proporciona una reducción de tiempo de recuperación del 35 % a todas las estratagemas del exotraje."
+        },
+        {
+            "Key": 3207971879,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3208135968,
+            "Value": "La estratagema del bombardeo orbital ME de 380 mm está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 3209106735,
+            "Value": "La estratagema del cañón láser LAS-98 está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 3215105768,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3219545753,
+            "Value": "La estratagema del perro guardián está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 3224337239,
+            "Value": "<c=FF336666>PERÍODO DE REV.:</c> <c=FF66cc99>#VALUE AÑOS</c>"
+        },
+        {
+            "Key": 3224513262,
+            "Value": "AMENAZA ENEMIGA DETECTADA"
+        },
+        {
+            "Key": 3226304447,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 3235946435,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3245996303,
+            "Value": "La estratagema del cañón láser LAS-98 está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 3247523256,
+            "Value": "PROGRESO DE LA CAMPAÑA DE RECONOCIMIENTO"
+        },
+        {
+            "Key": 3247730854,
+            "Value": "HONRA A LOS CAÍDOS"
+        },
+        {
+            "Key": 3254570404,
+            "Value": "PROGRESO DEL EVENTO DE LIBERACIÓN"
+        },
+        {
+            "Key": 3257677184,
+            "Value": "Enemigos eliminados"
+        },
+        {
+            "Key": 3258667075,
+            "Value": "La fuente de la que manan las aguas puras de la democracia gestionada. Debe defenderse cueste lo que cueste."
+        },
+        {
+            "Key": 3260412817,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3262302717,
+            "Value": "Supervisor local de la mina 306.7D encontrado muerto en incidente de contrabando de peces chisporroteantes."
+        },
+        {
+            "Key": 3262651298,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3267185606,
+            "Value": "INTERFERENCIAS ATMOSFÉRICAS"
+        },
+        {
+            "Key": 3271778464,
+            "Value": "Las naves leviatán patrullan por el campo de batalla."
+        },
+        {
+            "Key": 3279518460,
+            "Value": "Sabotaje disidente culpado por aumento de precios del aluminio"
+        },
+        {
+            "Key": 3284998754,
+            "Value": "<c=FF336666>ENEMIGOS ELIMINADOS: #VALUE</c>"
+        },
+        {
+            "Key": 3285131061,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3293632592,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 3294732250,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3300297336,
+            "Value": "La estratagema del rifle de francotirador SAR-1 ya no está disponible."
+        },
+        {
+            "Key": 3308761296,
+            "Value": "ORDEN PERSONAL"
+        },
+        {
+            "Key": 3321373642,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3323477698,
+            "Value": "El <i=1>tiempo de recuperación</i> de las estratagemas ha aumentado en un <i=1>#V_ONE %</i>."
+        },
+        {
+            "Key": 3323676179,
+            "Value": "Nuevo estudio concluye que la tendencia a la calvicie masculina es un signo patriótico de la libertad del pelo para abandonar la cabeza."
+        },
+        {
+            "Key": 3327005717,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3329970575,
+            "Value": "El estreno de la temporada de \"Supervivencia galáctica\" abandona a 18 ciudadanos en la luna helada de Kryx durante 39 días"
+        },
+        {
+            "Key": 3339644534,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3347550390,
+            "Value": "Los oasis que salpican este planeta desértico son lo más cercano a la tranquilidad que se puede encontrar tan lejos de Supertierra."
+        },
+        {
+            "Key": 3351044875,
+            "Value": "Las <i=1>ubicaciones de los objetivos</i> están ocultas."
+        },
+        {
+            "Key": 3351717482,
+            "Value": "Los <i=1>espacios de estratagema</i> se reducen en <i=1>#V_ONE</i>."
+        },
+        {
+            "Key": 3354493846,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3355650295,
+            "Value": "EXCESO DE SUMINISTROS MÉDICOS"
+        },
+        {
+            "Key": 3356696792,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3358511735,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3363201044,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3364434386,
+            "Value": "AGUACEROS"
+        },
+        {
+            "Key": 3370187171,
+            "Value": "Esta operación, una vez completada, afectará a la fuerza de la flota Iluminada."
+        },
+        {
+            "Key": 3371885955,
+            "Value": "ESCASEZ DE EXPLOSIVOS"
+        },
+        {
+            "Key": 3372276277,
+            "Value": "Completa operaciones en #SECTOR"
+        },
+        {
+            "Key": 3376195384,
+            "Value": "Una <i=1>operación</i> está formada por varias misiones. Complétalas todas para tener éxito en la misión y conseguir recompensas adicionales. Si fallas en una misión, el resto de la operación también fracasará."
+        },
+        {
+            "Key": 3379144539,
+            "Value": "CAMPAÑA PRIORITARIA"
+        },
+        {
+            "Key": 3381496091,
+            "Value": "La estratagema del lanzallamas FLAM-40 está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 3398823357,
+            "Value": "Hasta nuevo aviso, todos los Helldivers regeneran salud de forma pasiva a una velocidad del #V_ONE % por segundo."
+        },
+        {
+            "Key": 3401809146,
+            "Value": "MISIÓN SUICIDA"
+        },
+        {
+            "Key": 3409725421,
+            "Value": "RECLUTAMIENTO BAJO"
+        },
+        {
+            "Key": 3411407988,
+            "Value": "Las fuerzas invasoras autómatas constituyen una \"grave amenaza\" para Supertierra."
+        },
+        {
+            "Key": 3412098611,
+            "Value": "Nueva encuesta sitúa Erson sands como el mejor lugar para criar hijos defensores de la libertad."
+        },
+        {
+            "Key": 3413020356,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3414366619,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3418968587,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3420120836,
+            "Value": "Durante un tiempo, todas las misiones completadas con éxito contribuyen más a la liberación planetaria."
+        },
+        {
+            "Key": 3425904814,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3438649121,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3453882851,
+            "Value": "La estratagema del láser orbital está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 3455993788,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3468937862,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3469341397,
+            "Value": "Durante un tiempo, se recuperará terreno de forma pasiva en el planeta #V_ONE."
+        },
+        {
+            "Key": 3472158635,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3474023215,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3478073223,
+            "Value": "para"
+        },
+        {
+            "Key": 3478602676,
+            "Value": "La invasión autómata no da señales de perder fuerza."
+        },
+        {
+            "Key": 3483139454,
+            "Value": "PROGRESO DE LA INVASIÓN DE LOS ILUMINADOS"
+        },
+        {
+            "Key": 3486805749,
+            "Value": "Proteger"
+        },
+        {
+            "Key": 3487732002,
+            "Value": "La estratagema del bombardeo orbital caminante ya no está disponible."
+        },
+        {
+            "Key": 3489533456,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3490555416,
+            "Value": "Las <i=1>campañas de defensa</i> no se pueden originar en este planeta."
+        },
+        {
+            "Key": 3491418699,
+            "Value": "<c=FFFE881F>ALTA</c>"
+        },
+        {
+            "Key": 3493908691,
+            "Value": "La estratagema de la mochila de escudo balístico está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 3494550326,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3494856217,
+            "Value": "Este planeta húmedo repleto de vida está cubierto de profundos océanos, densos bosques y hierba alta."
+        },
+        {
+            "Key": 3505533461,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3508750577,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3515520839,
+            "Value": "¡GLARBLE GARB GORK! Escritor de encabezados de noticias sufre "
+        },
+        {
+            "Key": 3517530400,
+            "Value": "ORDEN SUPREMA"
+        },
+        {
+            "Key": 3517848091,
+            "Value": "La capacidad de granadas de todos los Helldivers se reduce temporalmente en #V_ONE."
+        },
+        {
+            "Key": 3521674760,
+            "Value": "La estratagema del ataque de precisión orbital ya no está disponible."
+        },
+        {
+            "Key": 3523340692,
+            "Value": "<c=FF336666>PERIODO DE ROT.:</c> <c=FF66cc99>#VALUE DÍAS</c>"
+        },
+        {
+            "Key": 3526613987,
+            "Value": "VITAMINAS EXPERIMENTALES"
+        },
+        {
+            "Key": 3527094628,
+            "Value": "La estratagema del centinela con gatling está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 3527331608,
+            "Value": "Los Helldivers continúan con su valiente lucha para contener a los termínidos."
+        },
+        {
+            "Key": 3533673621,
+            "Value": "PROGRESO DE LA INSTALACIÓN DEL SCT"
+        },
+        {
+            "Key": 3534334954,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3539536174,
+            "Value": "El planeta está siendo atacado. Los Helldivers deben defenderlo contra las fuerzas de la tiranía. "
+        },
+        {
+            "Key": 3541023337,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3544318250,
+            "Value": "Los Helldivers reciben órdenes de preparar los planetas del cordón termínido para la \"purga\"."
+        },
+        {
+            "Key": 3547528638,
+            "Value": "Nueva encuesta sitúa a los termínidos como los \"más insectoides\" de los enemigos de Supertierra."
+        },
+        {
+            "Key": 3552412487,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3552972191,
+            "Value": "Las partículas de la lobreguez interfieren con los Pelícanos que aterrizan, lo que aumenta los tiempos de extracción en <i=1>20 segundos.</i>"
+        },
+        {
+            "Key": 3554256659,
+            "Value": "BOLSILLOS DE CARGA EXPERIMENTALES"
+        },
+        {
+            "Key": 3559900755,
+            "Value": "CAMPAÑA DE INVASIÓN"
+        },
+        {
+            "Key": 3564181953,
+            "Value": "INCREMENTO DE LA PRODUCCIÓN"
+        },
+        {
+            "Key": 3567262339,
+            "Value": "Las intensas ventiscas <i=1>reducen la visibilidad</i>."
+        },
+        {
+            "Key": 3575339405,
+            "Value": "Las intensas ventiscas <i=1>reducen la movilidad</i> y <i=1>disminuyen un poco la visibilidad</i> tanto de las unidades enemigas como aliadas."
+        },
+        {
+            "Key": 3578568891,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3579090922,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3580449947,
+            "Value": "CUCADRAGONES"
+        },
+        {
+            "Key": 3589166843,
+            "Value": "CAMPAÑA DE DEFENSA"
+        },
+        {
+            "Key": 3603056465,
+            "Value": "ACTIVIDAD VOLCÁNICA"
+        },
+        {
+            "Key": 3612924764,
+            "Value": "ÓRBITA DISPUTADA"
+        },
+        {
+            "Key": 3613667837,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3614743432,
+            "Value": "LIBERACIÓN EN CURSO"
+        },
+        {
+            "Key": 3614892168,
+            "Value": "DESCRIPCIÓN DE LA ORDEN"
+        },
+        {
+            "Key": 3625902892,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3626549577,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3627786736,
+            "Value": "En función del progreso de la guerra, habrá diferentes planetas disponibles. Selecciona un <i=1>planeta</i> para ver qué operaciones están activas en él."
+        },
+        {
+            "Key": 3629407012,
+            "Value": "ASCENSOS DE CAMPO"
+        },
+        {
+            "Key": 3630364424,
+            "Value": "Democratizar"
+        },
+        {
+            "Key": 3632158433,
+            "Value": "La E.D.D. activa su autoclave atmosférica altamente experimental, lo que mata 50 km³ de esporas de lobreguez por minuto. La cubierta de esporas reducida expone a las variantes de termínidos fotosensibles a la radiación UV atmosférica."
+        },
+        {
+            "Key": 3633071572,
+            "Value": "La estratagema del lanzaarcos TS-4 está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 3637004657,
+            "Value": "Los inesperados refuerzos de S.E.A.F. están ganando mucho terreno en el planeta #V_ONE."
+        },
+        {
+            "Key": 3637171496,
+            "Value": "BATALLA CAMPAL: Bichos contra autómatas "
+        },
+        {
+            "Key": 3641252510,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3648328316,
+            "Value": "Hay unidades S.E.A.F. aliadas operando en el campo de batalla."
+        },
+        {
+            "Key": 3649078966,
+            "Value": "ESCASEZ DE PROTEÍNAS"
+        },
+        {
+            "Key": 3662013215,
+            "Value": "BAJO CONTROL ILUMINADO"
+        },
+        {
+            "Key": 3662335600,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3665609909,
+            "Value": "TRAMA COMPLEJA DE ESTRATAGEMAS"
+        },
+        {
+            "Key": 3666873906,
+            "Value": "El aumento temporal de estims ya no surte efecto."
+        },
+        {
+            "Key": 3667104994,
+            "Value": "Nuevo estudio descubre que la superáguila es el ave más democrática."
+        },
+        {
+            "Key": 3670045382,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3671853690,
+            "Value": "BAJO CONTROL TERMÍNIDO"
+        },
+        {
+            "Key": 3671889012,
+            "Value": "La estratagema del cañón láser LAS-98 ya no está disponible."
+        },
+        {
+            "Key": 3672735503,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3673381184,
+            "Value": "El número de usos de la estratagema <i=1>#V_ONE</i> se reduce temporalmente en #V_TWO."
+        },
+        {
+            "Key": 3680923929,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3689153387,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3689262198,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3689672148,
+            "Value": "El tiempo de extracción se reduce temporalmente #V_TWO segundos."
+        },
+        {
+            "Key": 3690459614,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3694006643,
+            "Value": "Las misiones completadas con éxito contribuyen más a la liberación planetaria."
+        },
+        {
+            "Key": 3695557077,
+            "Value": "La niebla densa <i=1>reduce la visibilidad</i>."
+        },
+        {
+            "Key": 3699173130,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3699613863,
+            "Value": "Niña encuentra nave de combate de juguete que perdió en un agujero negro dentro de 6 años."
+        },
+        {
+            "Key": 3701975858,
+            "Value": "Objetivos secundarios"
+        },
+        {
+            "Key": 3708765037,
+            "Value": "Identifican Cyberstan como centro de mando autómata."
+        },
+        {
+            "Key": 3709494312,
+            "Value": "SEÑORES DE LA COLMENA"
+        },
+        {
+            "Key": 3710378294,
+            "Value": "#SHORT - #LONG"
+        },
+        {
+            "Key": 3714868912,
+            "Value": "CARGA FINAL"
+        },
+        {
+            "Key": 3719011487,
+            "Value": "Se aprueba la ley de seguridad en las escuelas, que proporciona a los estudiantes granadas personales K-12"
+        },
+        {
+            "Key": 3726538024,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 3726974502,
+            "Value": "RECOMPENSA DE LA OPERACIÓN DE LA COLONIA"
+        },
+        {
+            "Key": 3732635510,
+            "Value": "La capacidad de granadas de todos los Helldivers se reduce en #V_ONE."
+        },
+        {
+            "Key": 3741917828,
+            "Value": "La estratagema del cañón de riel RS-422 está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 3744612820,
+            "Value": "Ejecución por espaguetización en agujero negro decretada constitucional"
+        },
+        {
+            "Key": 3753359961,
+            "Value": "La estratagema del lanzallamas FLAM-40 está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 3762112087,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3765717289,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3770521993,
+            "Value": "EVENTOS PLANETARIOS"
+        },
+        {
+            "Key": 3772486163,
+            "Value": "Hay enjambres voladores de chillones atravesando el campo de batalla."
+        },
+        {
+            "Key": 3774133754,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3777103266,
+            "Value": "RECOMPENSA DE LA OPERACIÓN"
+        },
+        {
+            "Key": 3781056562,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3786402002,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3798161962,
+            "Value": "La reducción de las granadas ya no surte efecto."
+        },
+        {
+            "Key": 3798493358,
+            "Value": "Se acelera el progreso en las <i=1>campañas de liberación</i>."
+        },
+        {
+            "Key": 3801573631,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3802611417,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 3804225068,
+            "Value": "Las <i=1>órdenes supremas</i> representan los objetivos de la comunidad de Helldivers."
+        },
+        {
+            "Key": 3810233876,
+            "Value": "Exterminar"
+        },
+        {
+            "Key": 3811000733,
+            "Value": "La estratagema de la torre tesla está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 3811178773,
+            "Value": "Un incremento inesperado de termínidos ha ganado mucho terreno en el planeta #V_ONE."
+        },
+        {
+            "Key": 3820781527,
+            "Value": "PRUEBAS CON EL EQUIPO"
+        },
+        {
+            "Key": 3821064877,
+            "Value": "Grupo de estudiantes lleva a cabo la eliminación pública de libros electrónicos antidemocráticos"
+        },
+        {
+            "Key": 3822540736,
+            "Value": "La estratagema del ataque aéreo del Águila está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 3833236254,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 3842398028,
+            "Value": "FRÍO EXTREMO"
+        },
+        {
+            "Key": 3846241460,
+            "Value": "CÁPSULAS HELL ACTIVAS: DIRÍGETE A LAS CÁPSULAS HELL"
+        },
+        {
+            "Key": 3853638486,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3853707815,
+            "Value": "La estratagema <i=1>#V_ONE</i> ya no está disponible."
+        },
+        {
+            "Key": 3859378194,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3859521726,
+            "Value": "BAJO CONTROL DE SUPERTIERRA"
+        },
+        {
+            "Key": 3862338222,
+            "Value": "La estratagema del rifle sin retroceso AT-48 ya no está disponible."
+        },
+        {
+            "Key": 3864025069,
+            "Value": "Una luna rocosa y solitaria que alberga valiosísimos depósitos de minerales bajo su superficie."
+        },
+        {
+            "Key": 3866756371,
+            "Value": "La estratagema del muro defensivo ya no está disponible."
+        },
+        {
+            "Key": 3870546934,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3875363401,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3883771315,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3885662626,
+            "Value": "La experiencia que obtienen todos los Helldivers se reduce un #V_ONE %."
+        },
+        {
+            "Key": 3888729957,
+            "Value": "El tiempo de recuperación de la estratagema <i=1>#V_ONE</i> se reduce temporalmente en #V_TWO."
+        },
+        {
+            "Key": 3888872278,
+            "Value": "Los <i=1>efectos</i> son alteraciones temporales de las condiciones del campo de batalla. Cambian conforme avanza la guerra y pueden obligar a los Helldivers a adaptar sus tácticas."
+        },
+        {
+            "Key": 3897481459,
+            "Value": "La estratagema del antitanque desechable EAT-17 está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 3900413013,
+            "Value": "Ya no se recuperará terreno de forma pasiva en el planeta #V_ONE."
+        },
+        {
+            "Key": 3903115201,
+            "Value": "La estratagema del láser orbital ya no está disponible."
+        },
+        {
+            "Key": 3910555043,
+            "Value": "MEGACIUDAD"
+        },
+        {
+            "Key": 3920132753,
+            "Value": "<c=FF336666>CEC: #VALUE</c>"
+        },
+        {
+            "Key": 3921291543,
+            "Value": "OPERACIÓN DE LA COLONIA"
+        },
+        {
+            "Key": 3922111694,
+            "Value": "FUERZA ENEMIGA"
+        },
+        {
+            "Key": 3929288014,
+            "Value": "El daño cuerpo a cuerpo aumenta un #V_ONE %."
+        },
+        {
+            "Key": 3933634258,
+            "Value": "Genetista asesinado en casa por híbrido pollo-vaca-cerdo."
+        },
+        {
+            "Key": 3952083751,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3957075233,
+            "Value": "CUBIERTA DE LOBREGUEZ DENSA"
+        },
+        {
+            "Key": 3957297661,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 3963333572,
+            "Value": "El aumento de la obtención de experiencia ya no surte efecto."
+        },
+        {
+            "Key": 3979430036,
+            "Value": "Los frecuentes terremotos <i=1>aturden a jugadores y enemigos</i> por igual."
+        },
+        {
+            "Key": 3983056343,
+            "Value": "La estratagema del ataque de precisión orbital está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 3983592335,
+            "Value": "La estratagema Lanzagranadas GL-6 ya no está disponible."
+        },
+        {
+            "Key": 3987183872,
+            "Value": "IMPACTO DE LA OPERACIÓN"
+        },
+        {
+            "Key": 3991486518,
+            "Value": "Este mundo rebosa de una vida vegetal etérea, inagotable y peculiar que se extiende silenciosa e ininterrumpida por toda su superficie."
+        },
+        {
+            "Key": 3994324289,
+            "Value": "contra Tortugas gigantes modificadas genéticamente. ¡Entradas a la venta!"
+        },
+        {
+            "Key": 4002694918,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 4005066509,
+            "Value": "Se pierde terreno en el planeta #V_ONE más rápido que antes."
+        },
+        {
+            "Key": 4009717880,
+            "Value": "CONDECORACIONES POR MÉRITOS"
+        },
+        {
+            "Key": 4010359064,
+            "Value": "Genetistas crean el primer híbrido pollo-vaca-cerdo, apodado \"fiambre perfecto\"."
+        },
+        {
+            "Key": 4013240943,
+            "Value": "La estratagema del ataque de explosión aérea orbital está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 4013599258,
+            "Value": "La efectividad de <i=1>#V_ONE</i> aumenta un #V_TWO %."
+        },
+        {
+            "Key": 4014396602,
+            "Value": "Las unidades S.E.A.F. y los leales civiles se encuentran ambos en el campo de batalla."
+        },
+        {
+            "Key": 4014468095,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 4021456882,
+            "Value": "EFECTOS"
+        },
+        {
+            "Key": 4026104845,
+            "Value": "el"
+        },
+        {
+            "Key": 4029307286,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 4030497262,
+            "Value": "LIBERACIÓN EN CURSO"
+        },
+        {
+            "Key": 4032160005,
+            "Value": "La estratagema del centinela con cohete ya no está disponible."
+        },
+        {
+            "Key": 4036526020,
+            "Value": "NIVEL DE DIFICULTAD BLOQUEADO"
+        },
+        {
+            "Key": 4038600486,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 4045585038,
+            "Value": "MÚLTIPLES AMENAZAS DETECTADAS"
+        },
+        {
+            "Key": 4048072361,
+            "Value": "VOLVER AL MAPA DE LA GALAXIA"
+        },
+        {
+            "Key": 4051101358,
+            "Value": "Detener"
+        },
+        {
+            "Key": 4052077326,
+            "Value": "<c=FF336666>LAT.:</c> <c=FF66cc99>#VALUE</c>"
+        },
+        {
+            "Key": 4061126716,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 4064243582,
+            "Value": "Los Iluminados están desplazando la singularidad de Meridia hacia Supertierra. Destruirá todo lo que se cruce en su camino."
+        },
+        {
+            "Key": 4074421269,
+            "Value": "El tiempo para completar todas las misiones se reduce un #V_ONE %."
+        },
+        {
+            "Key": 4077571604,
+            "Value": "TORMENTAS DE IONES"
+        },
+        {
+            "Key": 4082794250,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 4089075400,
+            "Value": "TORMENTA DE ÁGUILA"
+        },
+        {
+            "Key": 4089347326,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 4091665372,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 4093368079,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 4099756016,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 4103555409,
+            "Value": "PLANETA PERDIDO: ORDEN DE RETIRADA EMITIDA"
+        },
+        {
+            "Key": 4109477478,
+            "Value": "La estratagema del dispensador de minas antipersona ya no está disponible."
+        },
+        {
+            "Key": 4117380630,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 4121140021,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 4125819870,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 4129291016,
+            "Value": "POBLADO"
+        },
+        {
+            "Key": 4130639501,
+            "Value": "Nueva ley sufraga la formación para la identificación de disidentes para profesores"
+        },
+        {
+            "Key": 4131334693,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 4134510414,
+            "Value": "El número de refuerzos disponibles por misión aumenta en #V_ONE."
+        },
+        {
+            "Key": 4136698015,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 4137589588,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 4138268575,
+            "Value": "La estratagema de reabastecimiento ya no está disponible."
+        },
+        {
+            "Key": 4141672169,
+            "Value": "Nuevo estudio demuestra que el 100 % de los estudios de Supertierra son precisos."
+        },
+        {
+            "Key": 4146967339,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 4149219876,
+            "Value": "Se determina que el gato de Schrödinger está muerto sin duda "
+        },
+        {
+            "Key": 4149383367,
+            "Value": "ACTUALIZANDO ESTADO DEL PLANETA"
+        },
+        {
+            "Key": 4152680051,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 4153717289,
+            "Value": "Completar esta operación contribuye a la defensa del planeta."
+        },
+        {
+            "Key": 4155114762,
+            "Value": "#A / <i=1>#B</i>"
+        },
+        {
+            "Key": 4160556404,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 4160586354,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 4162825007,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 4163415863,
+            "Value": "SALIR DEL HOLOGRAMA"
+        },
+        {
+            "Key": 4168458073,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 4169143112,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 4170693832,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 4171075538,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 4189958024,
+            "Value": "Se han detectado señores de la colmena termínidos en este planeta."
+        },
+        {
+            "Key": 4192344096,
+            "Value": "Durante un tiempo, se perderá terreno en el planeta #V_ONE más rápido que antes."
+        },
+        {
+            "Key": 4198200621,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 4204853773,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 4204986708,
+            "Value": "Conquistar #PLANET en el #SECTOR"
+        },
+        {
+            "Key": 4207523721,
+            "Value": "Los termínidos amenazan con romper el cordón."
+        },
+        {
+            "Key": 4211030149,
+            "Value": "El planeta está siendo asolado por <i=1>letales tornados de fuego</i>."
+        },
+        {
+            "Key": 4212371007,
+            "Value": "ÚLTIMAS NOTICIAS"
+        },
+        {
+            "Key": 4215606859,
+            "Value": "La instalación de la red de disuasión de termínidos experimenta grandes retrasos debido a la plaga termínida."
+        },
+        {
+            "Key": 4217315838,
+            "Value": "Nuevo estudio descubre que los bots son el doble de autoritarios de lo que se creía."
+        },
+        {
+            "Key": 4217970983,
+            "Value": "La sustancia conocida como E-711 es la clave para sintetizar fluido oscuro, un material exótico increíblemente potente. Adquirirla es de vital importancia."
+        },
+        {
+            "Key": 4219308386,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 4226477129,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 4229317978,
+            "Value": "La estratagema del centinela con mortero está disponible temporalmente para todos los Helldivers."
+        },
+        {
+            "Key": 4232658408,
+            "Value": "MEDIDAS DEFENSIVAS ELECTRÓNICAS"
+        },
+        {
+            "Key": 4240023177,
+            "Value": "ESCASEZ DE BOLSAS PARA GRANADAS"
+        },
+        {
+            "Key": 4240196127,
+            "Value": "La regeneración de salud ya no surte efecto."
+        },
+        {
+            "Key": 4240961977,
+            "Value": "Un alga carmesí se ha propagado sin control por todo este planeta. Sus colinas rocosas están cubiertas de un rojo constante que oculta la sangre derramada de los héroes que lo defienden de la tiranía."
+        },
+        {
+            "Key": 4243009745,
+            "Value": "TRABAJADORES INSPIRADOS"
+        },
+        {
+            "Key": 4247313880,
+            "Value": "5"
+        },
+        {
+            "Key": 4250663430,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 4252439335,
+            "Value": "INFERNAL"
+        },
+        {
+            "Key": 4256936100,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 4260257322,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 4262661334,
+            "Value": "El número de refuerzos disponibles por misión se reduce en #V_ONE."
+        },
+        {
+            "Key": 4267041493,
+            "Value": "INSTRUCCIONES"
+        },
+        {
+            "Key": 4271615407,
+            "Value": "El calor abrasador, los fuertes vientos y las escasas precipitaciones generan un ciclo casi interminable de incendios que arrasa el planeta, salpicado por pequeñas manchas de exuberante vegetación entre el infierno de llamas."
+        },
+        {
+            "Key": 4274339261,
+            "Value": "MOSTRAR HÉROES DE SUPERTIERRA"
+        },
+        {
+            "Key": 4276858195,
+            "Value": "CONTRAOFENSIVA S.E.A.F."
+        },
+        {
+            "Key": 4277436083,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 4280421164,
+            "Value": "Explosión en hospital infantil vinculada al grupo de simpatizantes de autómatas \"Innominado\"."
+        },
+        {
+            "Key": 4281386727,
+            "Value": "EXPERIMENTACIÓN CON ARMAS"
+        },
+        {
+            "Key": 4283177289,
+            "Value": "Desconocido"
+        },
+        {
+            "Key": 4287360836,
+            "Value": "La esperada Batalla de Malavax Prime será retransmitida en directo. Compra las entradas aquí."
+        }
+    ]
+}

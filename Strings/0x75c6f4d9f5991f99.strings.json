@@ -1,0 +1,386 @@
+{
+    "Version": 1,
+    "Language": {
+        "Hash": "0xba39c3ec",
+        "KnownName": "de",
+        "KnownFriendlyName": "German"
+    },
+    "Items": [
+        {
+            "Key": 7350021,
+            "Value": "Der lange Arm der Gerechtigkeit"
+        },
+        {
+            "Key": 28572979,
+            "Value": "Schließe eine Mission auf Schwer oder höher ohne Einsatz von Primär- oder Unterstützungswaffen ab."
+        },
+        {
+            "Key": 74724350,
+            "Value": "Schließe das Basistraining ab."
+        },
+        {
+            "Key": 235196461,
+            "Value": "Erledige im Laufe einer Mission 100 Feinde mit Feuerschaden."
+        },
+        {
+            "Key": 240084251,
+            "Value": "Die Macht der Demokratie"
+        },
+        {
+            "Key": 243360535,
+            "Value": "Biete einem Teammitglied Nachladeunterstützung."
+        },
+        {
+            "Key": 254510718,
+            "Value": "Pass auf meine Primärwaffe auf, ich gehe rein!"
+        },
+        {
+            "Key": 279570205,
+            "Value": "Sammle alle Trophäen in HELLDIVERS™ 2."
+        },
+        {
+            "Key": 331887065,
+            "Value": "Es geht doch nichts über Proben"
+        },
+        {
+            "Key": 421687485,
+            "Value": "Voll einsatzfähig"
+        },
+        {
+            "Key": 432134967,
+            "Value": "Es kommt alles auf die Taktik an"
+        },
+        {
+            "Key": 442059879,
+            "Value": "Individualisiere deinen Helldiver mit einem neuen Umhang, einer Panzerung und einem Helm."
+        },
+        {
+            "Key": 472312330,
+            "Value": "Wissenschaft erfordert Quantität"
+        },
+        {
+            "Key": 490276034,
+            "Value": "Evakuiere, nachdem der Timer bei null angekommen ist."
+        },
+        {
+            "Key": 552362711,
+            "Value": "Evakuiere mit mindestens 15 gewöhnlichen Proben."
+        },
+        {
+            "Key": 752968066,
+            "Value": "Paket mit 1.000 (750 + 250 als Bonus) Über-Credits"
+        },
+        {
+            "Key": 788445221,
+            "Value": "Paket mit 2.100 (1.500 + 600 als Bonus) Über-Credits"
+        },
+        {
+            "Key": 854221043,
+            "Value": "Evakuiere als Team mit mindestens 15 seltenen Proben aus einer Mission."
+        },
+        {
+            "Key": 911872437,
+            "Value": "Paket mit 150 Über-Credits"
+        },
+        {
+            "Key": 921854660,
+            "Value": "Je größer sie sind ..."
+        },
+        {
+            "Key": 1031312853,
+            "Value": "Vom Vorräter erwischt!"
+        },
+        {
+            "Key": 1071140672,
+            "Value": "Evakuierung auf dem Land"
+        },
+        {
+            "Key": 1104401796,
+            "Value": "Einigen wir uns auf unentschieden"
+        },
+        {
+            "Key": 1144600268,
+            "Value": "Verschifft"
+        },
+        {
+            "Key": 1256112630,
+            "Value": "Schnelles Spiel"
+        },
+        {
+            "Key": 1266360816,
+            "Value": "Schieße einem Hulk beide Arme ab und evakuiere, während er noch lebt."
+        },
+        {
+            "Key": 1280579303,
+            "Value": "Nur so kann man sicher sein ..."
+        },
+        {
+            "Key": 1328589529,
+            "Value": "Platziere 6 Orbitalsperrfeuer-Taktikausrüstungen zur gleichen Zeit am gleichen Ort."
+        },
+        {
+            "Key": 1332152835,
+            "Value": "Es kommt alles auf die Taktik an"
+        },
+        {
+            "Key": 1427976274,
+            "Value": "Spiele 1 Bug-Mission."
+        },
+        {
+            "Key": 1456717076,
+            "Value": "Paket mit 375 Über-Credits"
+        },
+        {
+            "Key": 1476181576,
+            "Value": "Schließe eine Mission ab, ohne zu evakuieren."
+        },
+        {
+            "Key": 1478360991,
+            "Value": "Schalte alle Verbesserungen in einem Schiffsmodul frei."
+        },
+        {
+            "Key": 1488816523,
+            "Value": "Coole Leute schauen nicht auf – AHHH!"
+        },
+        {
+            "Key": 1495807816,
+            "Value": "Stalking ist illegal"
+        },
+        {
+            "Key": 1538898674,
+            "Value": "Besiege einen Säuretitan."
+        },
+        {
+            "Key": 1647024014,
+            "Value": "Heile einen anderen Spieler mit Spritzen."
+        },
+        {
+            "Key": 1741663299,
+            "Value": "Heiße Kartoffel!"
+        },
+        {
+            "Key": 1841056965,
+            "Value": "Nimm das!"
+        },
+        {
+            "Key": 1842016181,
+            "Value": "Schließe mindestens 100 Missionen ab."
+        },
+        {
+            "Key": 1874589215,
+            "Value": "Es geht doch nichts über Proben"
+        },
+        {
+            "Key": 1954310570,
+            "Value": "Tod durch Feuer"
+        },
+        {
+            "Key": 1956109868,
+            "Value": "Verbreitung der gelenkten Demokratie"
+        },
+        {
+            "Key": 2020130716,
+            "Value": "Halte kurz mal meine Primärwaffe!"
+        },
+        {
+            "Key": 2049351693,
+            "Value": "Erleide Verletzungen an allen Gliedmaßen gleichzeitig."
+        },
+        {
+            "Key": 2258743961,
+            "Value": "Bug-Zerstampfer"
+        },
+        {
+            "Key": 2311231392,
+            "Value": "Über-Bürger"
+        },
+        {
+            "Key": 2346618264,
+            "Value": "Feuere mindestens 150 Mal in einer Salve ab und erledige mindestens 10 Feinde."
+        },
+        {
+            "Key": 2367885192,
+            "Value": "Evakuiere bei einer Mission auf der Schwierigkeit Schwer oder höher mit einem vollständigen Trupp."
+        },
+        {
+            "Key": 2474948923,
+            "Value": "Die Demokratie ist noch nicht fertig mit dir"
+        },
+        {
+            "Key": 2480962503,
+            "Value": "Job erledigt!"
+        },
+        {
+            "Key": 2502670206,
+            "Value": "Synergien fördern"
+        },
+        {
+            "Key": 2537357154,
+            "Value": "Bring dich mit einem Sprungpaket in einen unkontrollierten Ragdoll-Zustand."
+        },
+        {
+            "Key": 2538735225,
+            "Value": "Erledige einen Stürmer mit einem Nachschub-Pod."
+        },
+        {
+            "Key": 2570980737,
+            "Value": "Die Verkörperung von Über-Erde"
+        },
+        {
+            "Key": 2599416825,
+            "Value": "Spiele mindestens 50 Missionen."
+        },
+        {
+            "Key": 2664916455,
+            "Value": "Schnelles Spiel mit Freunden"
+        },
+        {
+            "Key": 2692147882,
+            "Value": "Schalte mindestens eine Verbesserung in jedem Schiffsmodul frei."
+        },
+        {
+            "Key": 2700797469,
+            "Value": "Deinen Teil machen"
+        },
+        {
+            "Key": 2715791332,
+            "Value": "Schließe 10 Taktikziele ab."
+        },
+        {
+            "Key": 2742712394,
+            "Value": "Evakuiere als Team mit mindestens 15 seltenen Proben aus einer Mission."
+        },
+        {
+            "Key": 2764315601,
+            "Value": "Helldiver"
+        },
+        {
+            "Key": 2771110748,
+            "Value": "Starte eine „Schnelles Spiel“-Sitzung nur mit Freunden."
+        },
+        {
+            "Key": 2816087179,
+            "Value": "Schließe ein Pirscher-Versteck-Taktikziel ab."
+        },
+        {
+            "Key": 2817236126,
+            "Value": "Was uns nicht umbringt ..."
+        },
+        {
+            "Key": 2877533264,
+            "Value": "Nichts ist größer als Freiheit"
+        },
+        {
+            "Key": 2932688770,
+            "Value": "Halt mal kurz meine Freiheit!"
+        },
+        {
+            "Key": 2943934930,
+            "Value": "Patriot"
+        },
+        {
+            "Key": 2964567034,
+            "Value": "Starte eine „Schnelles Spiel“-Sitzung."
+        },
+        {
+            "Key": 3045882396,
+            "Value": "Erledige im Laufe einer Mission 150 Feinde."
+        },
+        {
+            "Key": 3086803146,
+            "Value": "Spiele 1 Bot-Mission."
+        },
+        {
+            "Key": 3143868727,
+            "Value": "Reibungslose Evakuierung"
+        },
+        {
+            "Key": 3164004999,
+            "Value": "Erledige 25 Feinde mit einer Taktikausrüstung."
+        },
+        {
+            "Key": 3167134455,
+            "Value": "Spiele eine planetare Verteidigungsmission."
+        },
+        {
+            "Key": 3175499143,
+            "Value": "Sie kommen meistens nachts heraus ..."
+        },
+        {
+            "Key": 3211646015,
+            "Value": "Schließe eine Blitzmission auf der Schwierigkeit Extrem ab und evakuiere in unter 6 Minuten."
+        },
+        {
+            "Key": 3215974987,
+            "Value": "Bot-Verschrotter"
+        },
+        {
+            "Key": 3328163412,
+            "Value": "Nur noch 360 Sekunden!"
+        },
+        {
+            "Key": 3377781636,
+            "Value": "Schließe eine Mission auf der Schwierigkeit Schwer oder höher ab, ohne dass jemand seine Primär- oder Unterstützungswaffe abfeuert."
+        },
+        {
+            "Key": 3383073796,
+            "Value": "Wirf eine scharfe Granate zurück."
+        },
+        {
+            "Key": 3385453702,
+            "Value": "Das einzig Wahre"
+        },
+        {
+            "Key": 3508298212,
+            "Value": "Evakuiere aus einer Mission bei Nacht."
+        },
+        {
+            "Key": 3525879475,
+            "Value": "Für die gute Sache!"
+        },
+        {
+            "Key": 3546336164,
+            "Value": "Evakuiere bei einer Mission auf der Schwierigkeit Schwer oder höher mit einem vollständigen Trupp."
+        },
+        {
+            "Key": 3552395834,
+            "Value": "Erledige 5.000 Feinde."
+        },
+        {
+            "Key": 3606813900,
+            "Value": "Gerade rechtzeitig"
+        },
+        {
+            "Key": 3625397401,
+            "Value": "Schließe eine Mission auf der Schwierigkeit Extrem oder höher ab, ohne dass jemand stirbt."
+        },
+        {
+            "Key": 3655668821,
+            "Value": "Lass dich von der Schockwelle einer Explosion mindestens 25 Meter katapultieren."
+        },
+        {
+            "Key": 3679744062,
+            "Value": "Friss das!"
+        },
+        {
+            "Key": 3690650666,
+            "Value": "Erledige ein Ziel aus über 100 Metern Entfernung."
+        },
+        {
+            "Key": 3884685493,
+            "Value": "Schließe eine vollständige Blitzmission auf der Schwierigkeit Extrem ab und evakuiere in unter 6 Minuten."
+        },
+        {
+            "Key": 3959584611,
+            "Value": "Stattlicher Bursche"
+        },
+        {
+            "Key": 3982625721,
+            "Value": "Besiege einen Hulk."
+        },
+        {
+            "Key": 4011519829,
+            "Value": "Erledige einen Bug-Krieger aus 1 Meter Entfernung mit einer Schrotflinte."
+        }
+    ]
+}

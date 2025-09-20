@@ -1,0 +1,386 @@
+{
+    "Version": 1,
+    "Language": {
+        "Hash": "0x0f8857aa",
+        "KnownName": "pl",
+        "KnownFriendlyName": "Polish"
+    },
+    "Items": [
+        {
+            "Key": 7350021,
+            "Value": "Długie ramię sprawiedliwości"
+        },
+        {
+            "Key": 28572979,
+            "Value": "Ukończ misję na poziomie min. trudnym tak, aby nikt nie wystrzelił z broni podstawowej ani wsparcia."
+        },
+        {
+            "Key": 74724350,
+            "Value": "Ukończ szkolenie podstawowe."
+        },
+        {
+            "Key": 235196461,
+            "Value": "Zlikwiduj 100 wrogów, używając obrażeń od ognia, w jednej misji."
+        },
+        {
+            "Key": 240084251,
+            "Value": "Potęga demokracji"
+        },
+        {
+            "Key": 243360535,
+            "Value": "Dokonaj asystowanego przeładowania z towarzyszem."
+        },
+        {
+            "Key": 254510718,
+            "Value": "Potrzymaj mi broń, wchodzę!"
+        },
+        {
+            "Key": 279570205,
+            "Value": "Zdobądź wszystkie trofea w grze HELLDIVERS™ 2."
+        },
+        {
+            "Key": 331887065,
+            "Value": "Próbki są najlepszym przyjacielem helldiversa"
+        },
+        {
+            "Key": 421687485,
+            "Value": "W pełni sprawny"
+        },
+        {
+            "Key": 432134967,
+            "Value": "Nie bez powodu nazywają to taktyką"
+        },
+        {
+            "Key": 442059879,
+            "Value": "Spersonalizuj pelerynę, pancerz i hełm helldiversa."
+        },
+        {
+            "Key": 472312330,
+            "Value": "Ilość to też jakość"
+        },
+        {
+            "Key": 490276034,
+            "Value": "Odleć z planety po tym, jak stoper osiągnie zero."
+        },
+        {
+            "Key": 552362711,
+            "Value": "Odleć z powierzchni planety z co najmniej 15 zwykłymi próbkami."
+        },
+        {
+            "Key": 752968066,
+            "Value": "Pakiet 1000 (750 + 250 premii) super kredytów"
+        },
+        {
+            "Key": 788445221,
+            "Value": "Pakiet 2100 (1500 + 600 premii) super kredytów"
+        },
+        {
+            "Key": 854221043,
+            "Value": "Odleć z planety z co najmniej 15 rzadkimi próbkami w ramach jednej misji rozegranej z drużyną."
+        },
+        {
+            "Key": 911872437,
+            "Value": "Pakiet 150 super kredytów"
+        },
+        {
+            "Key": 921854660,
+            "Value": "Im są wyżsi..."
+        },
+        {
+            "Key": 1031312853,
+            "Value": "Złapani przy zaopatrzeniu!"
+        },
+        {
+            "Key": 1071140672,
+            "Value": "Kto ma wieś..."
+        },
+        {
+            "Key": 1104401796,
+            "Value": "Powiedzmy, że jest remis"
+        },
+        {
+            "Key": 1144600268,
+            "Value": "Człowiek jest jak statek"
+        },
+        {
+            "Key": 1256112630,
+            "Value": "Szybka gra"
+        },
+        {
+            "Key": 1266360816,
+            "Value": "Odstrzel oba ramiona kolosowi, a następnie opuść planetę, gdy ten wciąż żyje."
+        },
+        {
+            "Key": 1280579303,
+            "Value": "Tylko tak można mieć pewność..."
+        },
+        {
+            "Key": 1328589529,
+            "Value": "Wezwij 6 manewrów ostrzału orbitalnego jednocześnie w to samo miejsce."
+        },
+        {
+            "Key": 1332152835,
+            "Value": "Nie bez powodu nazywają to taktyką"
+        },
+        {
+            "Key": 1427976274,
+            "Value": "Rozegraj 1 misję przeciwko robalom."
+        },
+        {
+            "Key": 1456717076,
+            "Value": "Pakiet 375 super kredytów"
+        },
+        {
+            "Key": 1476181576,
+            "Value": "Zalicz misję, ale nie odleć z powierzchni planety."
+        },
+        {
+            "Key": 1478360991,
+            "Value": "Osiągnij maksymalny poziom jednego modułu statku."
+        },
+        {
+            "Key": 1488816523,
+            "Value": "Spoko goście nie pat- AAAAA!"
+        },
+        {
+            "Key": 1495807816,
+            "Value": "Stalking jest nielegalny"
+        },
+        {
+            "Key": 1538898674,
+            "Value": "Pokonaj tytana żółci."
+        },
+        {
+            "Key": 1647024014,
+            "Value": "Ulecz innego gracza, używając stymulantów."
+        },
+        {
+            "Key": 1741663299,
+            "Value": "Gorący ziemniak!"
+        },
+        {
+            "Key": 1841056965,
+            "Value": "A masz!"
+        },
+        {
+            "Key": 1842016181,
+            "Value": "Zalicz co najmniej 100 misji."
+        },
+        {
+            "Key": 1874589215,
+            "Value": "Próbki najlepszym przyjacielem helldiversa"
+        },
+        {
+            "Key": 1954310570,
+            "Value": "Zabić ogniem!"
+        },
+        {
+            "Key": 1956109868,
+            "Value": "Szerzenie zarządzanej demokracji"
+        },
+        {
+            "Key": 2020130716,
+            "Value": "Potrzymaj mi broń, wchodzę!"
+        },
+        {
+            "Key": 2049351693,
+            "Value": "Odnieś rany we wszystkie kończyny jednocześnie."
+        },
+        {
+            "Key": 2258743961,
+            "Value": "Rozdeptywacz robali"
+        },
+        {
+            "Key": 2311231392,
+            "Value": "Super obywatel"
+        },
+        {
+            "Key": 2346618264,
+            "Value": "Wystrzel co najmniej 150 pocisków w jednej serii i zlikwiduj co najmniej 10 wrogów."
+        },
+        {
+            "Key": 2367885192,
+            "Value": "Odleć z planety z pełnym oddziałem w misji na poziomie trudności trudnym lub wyższym."
+        },
+        {
+            "Key": 2474948923,
+            "Value": "Demokracja jeszcze z tobą nie skończyła"
+        },
+        {
+            "Key": 2480962503,
+            "Value": "Robota skończona!"
+        },
+        {
+            "Key": 2502670206,
+            "Value": "Promujemy synergię"
+        },
+        {
+            "Key": 2537357154,
+            "Value": "Używając plecaka skoku, wejdź w stan szmacianej lalki."
+        },
+        {
+            "Key": 2538735225,
+            "Value": "Zabij szturmowca podem zaopatrzeniowym."
+        },
+        {
+            "Key": 2570980737,
+            "Value": "Ucieleśnienie Super Ziemi"
+        },
+        {
+            "Key": 2599416825,
+            "Value": "Rozegraj co najmniej 50 misji."
+        },
+        {
+            "Key": 2664916455,
+            "Value": "Szybka gra ze znajomymi"
+        },
+        {
+            "Key": 2692147882,
+            "Value": "Ulepsz wszystkie moduły statku o co najmniej 1 poziom."
+        },
+        {
+            "Key": 2700797469,
+            "Value": "W służbie wolności"
+        },
+        {
+            "Key": 2715791332,
+            "Value": "Zalicz 10 celów taktycznych."
+        },
+        {
+            "Key": 2742712394,
+            "Value": "Odleć z planety z co najmniej 15 rzadkimi próbkami w ramach jednej misji rozegranej z drużyną."
+        },
+        {
+            "Key": 2764315601,
+            "Value": "Piekielne nurkowanie"
+        },
+        {
+            "Key": 2771110748,
+            "Value": "Rozpocznij szybką sesję gry wyłącznie ze znajomymi"
+        },
+        {
+            "Key": 2816087179,
+            "Value": "Zalicz cel taktyczny: Leże tropicieli."
+        },
+        {
+            "Key": 2817236126,
+            "Value": "Co cię nie zabije..."
+        },
+        {
+            "Key": 2877533264,
+            "Value": "Nie ma nic większego od wolności"
+        },
+        {
+            "Key": 2932688770,
+            "Value": "Potrzymaj mi herbatkę wolności!"
+        },
+        {
+            "Key": 2943934930,
+            "Value": "Patriota"
+        },
+        {
+            "Key": 2964567034,
+            "Value": "Rozpocznij szybką sesję gry"
+        },
+        {
+            "Key": 3045882396,
+            "Value": "Zlikwiduj 150 wrogów w jednej misji."
+        },
+        {
+            "Key": 3086803146,
+            "Value": "Rozegraj 1 misję przeciwko botom."
+        },
+        {
+            "Key": 3143868727,
+            "Value": "Czas na odbiór!"
+        },
+        {
+            "Key": 3164004999,
+            "Value": "Zlikwiduj 25 wrogów jednym manewrem."
+        },
+        {
+            "Key": 3167134455,
+            "Value": "Rozegraj misję obrony planety."
+        },
+        {
+            "Key": 3175499143,
+            "Value": "Zwykle wychodzą nocą..."
+        },
+        {
+            "Key": 3211646015,
+            "Value": "Ukończ błyskawiczną misję na poziomie trudności ekstremalnym i opuść planetę w mniej niż 6 minut."
+        },
+        {
+            "Key": 3215974987,
+            "Value": "Botowy złomiarz"
+        },
+        {
+            "Key": 3328163412,
+            "Value": "W zaledwie 360 sekund!"
+        },
+        {
+            "Key": 3377781636,
+            "Value": "Ukończ misję na poziomie trudności trudnym lub wyższym tak, aby nikt nie wystrzelił z broni podstawowej ani wsparcia."
+        },
+        {
+            "Key": 3383073796,
+            "Value": "Odrzuć odbezpieczony granat."
+        },
+        {
+            "Key": 3385453702,
+            "Value": "Prawdziwa akcja"
+        },
+        {
+            "Key": 3508298212,
+            "Value": "Odleć z powierzchni planety nocą."
+        },
+        {
+            "Key": 3525879475,
+            "Value": "Dla wyższego dobra!"
+        },
+        {
+            "Key": 3546336164,
+            "Value": "Odleć z planety z pełnym oddziałem w misji na poziomie trudności trudnym lub wyższym."
+        },
+        {
+            "Key": 3552395834,
+            "Value": "Zlikwiduj 5000 wrogów."
+        },
+        {
+            "Key": 3606813900,
+            "Value": "W okamgnieniu"
+        },
+        {
+            "Key": 3625397401,
+            "Value": "Ukończ misję na poziomie trudności ekstremalnym lub wyższym tak, aby nikt nie zginął."
+        },
+        {
+            "Key": 3655668821,
+            "Value": "Odleć na co najmniej 25 metrów w wyniku działania fali uderzeniowej po eksplozji."
+        },
+        {
+            "Key": 3679744062,
+            "Value": "Żryj to!"
+        },
+        {
+            "Key": 3690650666,
+            "Value": "Zlikwiduj cel z odległości ponad 100 m."
+        },
+        {
+            "Key": 3884685493,
+            "Value": "Ukończ pełną błyskawiczną misję na poziomie trudności ekstremalnym i opuść planetę w mniej niż 6 minut."
+        },
+        {
+            "Key": 3959584611,
+            "Value": "Odstawiony"
+        },
+        {
+            "Key": 3982625721,
+            "Value": "Pokonaj kolosa."
+        },
+        {
+            "Key": 4011519829,
+            "Value": "Zabij wojownika robali strzelbą z odległości 1 metra."
+        }
+    ]
+}

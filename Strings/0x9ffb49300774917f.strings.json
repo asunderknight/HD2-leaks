@@ -1,0 +1,738 @@
+{
+    "Version": 1,
+    "Language": {
+        "Hash": "0xe5c65a36",
+        "KnownName": "ms",
+        "KnownFriendlyName": "Spanish (Mexico)"
+    },
+    "Items": [
+        {
+            "Key": 22554536,
+            "Value": "ÁRTICO"
+        },
+        {
+            "Key": 66334679,
+            "Value": "La iluminación siniestra que emite la lámpara mancilla los alrededores con su tiranía. "
+        },
+        {
+            "Key": 68016543,
+            "Value": "Desde la tipografía distinguida hasta el uso elegante del espacio, este cartel es una obra maestra de la manufactura patriótica."
+        },
+        {
+            "Key": 119363641,
+            "Value": "\"Felicitaciones por la aprobación de procreación de [1] niño. Que tu amor por la democracia se multiplique durante generaciones\"."
+        },
+        {
+            "Key": 122742932,
+            "Value": "RESTOS DE AUTÓMATA"
+        },
+        {
+            "Key": 189073958,
+            "Value": "Hay un mensaje grabado en la superficie: \"En eterno agradecimiento a los fieles soldados que dieron la vida en defensa de la Democracia tutelada\"."
+        },
+        {
+            "Key": 203787011,
+            "Value": "Sin energía, esta expendedora de bebidas no es más que una carcasa sin vida. Otra víctima inocente de la tiranía."
+        },
+        {
+            "Key": 208239710,
+            "Value": "PASTURA"
+        },
+        {
+            "Key": 291289431,
+            "Value": "DISPOSITIVO DE COMUNICACIONES"
+        },
+        {
+            "Key": 315220150,
+            "Value": "\"Inventario de paquete:\n-300 balas de Liberador\n-14 estimulantes\n-12 galones de agua\n-3 granadas de fragmentación\"."
+        },
+        {
+            "Key": 348575717,
+            "Value": "\"COMPLEJO DE ENTRENAMIENTO DE HELLDIVERS\nBienvenido al entrenamiento para Helldivers\nOBTÉN TU CAPA\nCONSULTA EL MAPA PARA BUSCAR EL COMPLEJO DE HELLDIVERS\""
+        },
+        {
+            "Key": 361417381,
+            "Value": "INVERNADERO - TIPO 203"
+        },
+        {
+            "Key": 377777281,
+            "Value": "El brillo carmesí, sin duda cargado de intenciones nefastas, ahora está siendo investigado por Helldivers competentes como indicador de la capacidad explosiva de este dispositivo."
+        },
+        {
+            "Key": 390649935,
+            "Value": "\"Para la basura alienígena\"."
+        },
+        {
+            "Key": 398354838,
+            "Value": "MÁQUINA EXPENDEDORA"
+        },
+        {
+            "Key": 399898153,
+            "Value": "Falta una herramienta aquí. Probablemente fue robada por el enemigo para algún uso impío."
+        },
+        {
+            "Key": 417920220,
+            "Value": "El voltaje de estas baterías se ha salvado temporalmente de un destino nefasto, atado a la expansión de la amenaza autómata."
+        },
+        {
+            "Key": 425538989,
+            "Value": "\"¡Bienvenidos! Recuerden: si no se sienten lo suficientemente bienvenidos, deben denunciarlo de inmediato\"."
+        },
+        {
+            "Key": 467457185,
+            "Value": "\"Por favor, presenta este certificado para demostrar se te ha autorizado a realizar el saludo con la mano izquierda durante el transcurso de tu lesión\"."
+        },
+        {
+            "Key": 472562261,
+            "Value": "El invernadero mantiene una atmósfera casi idéntica a la de la Supertierra."
+        },
+        {
+            "Key": 476382944,
+            "Value": "La cascada de chispas es como una celebración patriótica del triunfo contra esta amenaza a la democracia."
+        },
+        {
+            "Key": 501371246,
+            "Value": "No está claro si este autómata aún puede percibir los estímulos externos. Es imposible determinar cuánto tiempo durará en este estado antes de que la batería se agote."
+        },
+        {
+            "Key": 515860602,
+            "Value": "\"¡Feliz Día de la Libertad, bichos!\"."
+        },
+        {
+            "Key": 518966165,
+            "Value": "Parece que no quedan más de las deliciosas y refrescantes bebidas en la máquina."
+        },
+        {
+            "Key": 550229856,
+            "Value": "El pálido resplandor de la lámpara es siniestro y extraño, sin duda debido a su diseño antidemocrático."
+        },
+        {
+            "Key": 575509922,
+            "Value": "Los Portales de Giza. Una vida moderna con un encanto de otra época. Unidades disponibles."
+        },
+        {
+            "Key": 599823837,
+            "Value": "\"Plantilla de obituario: Soldado, variante 016 de fuego amigo: [Nombre] dedicó muchas horas a la prosperidad de la Supertierra. Que descanse en paz sabiendo que [las balas/la metralla/el impacto] que le arrebató la vida fue de origen democrático y disparado en servicio de la libertad\"."
+        },
+        {
+            "Key": 641985862,
+            "Value": "La pantalla está congelada en un recordatorio alentador sobre el valor del trabajo arduo."
+        },
+        {
+            "Key": 651948458,
+            "Value": "Solo hace falta UN TRAIDOR para destruir la Utopía.\n\nEl Ministerio de Unidad."
+        },
+        {
+            "Key": 658237782,
+            "Value": "Un soporte con todas las herramientas que se necesitan para construir un mejor mañana."
+        },
+        {
+            "Key": 667736962,
+            "Value": "\"El embestidor sigue exhibiendo un aumento de agitación cuando se le presentan imágenes de Helldivers. ¿Posible respuesta evolutiva?\"."
+        },
+        {
+            "Key": 668500134,
+            "Value": "No en mi patio trasero.\n\nEnlístate."
+        },
+        {
+            "Key": 683910113,
+            "Value": "\"Manual del supervisor colonial. Una guía para la terraformación planetaria, extracción de recursos y gestión colonial. Aprobado por el Ministerio de Expansión\"."
+        },
+        {
+            "Key": 730295732,
+            "Value": "\"¡Siguiente!\n\nCompra bonos de guerra.\""
+        },
+        {
+            "Key": 738463181,
+            "Value": "PLANETA PANTANOSO"
+        },
+        {
+            "Key": 867635046,
+            "Value": "AFICHE DE SERVICIO PÚBLICO"
+        },
+        {
+            "Key": 880394900,
+            "Value": "EXPLOSIVO DESPÓTICO"
+        },
+        {
+            "Key": 880679518,
+            "Value": "\"El Ministerio de Ciencia recuerda a todos los ciudadanos los numerosos beneficios de ciudadanía que pueden obtener si participan en estudios médicos con toda su familia. ¿Te has preguntado qué más puede hacer tu cuerpo por la libertad?\"."
+        },
+        {
+            "Key": 885191753,
+            "Value": "\"Entrega de la próxima semana:\n-4 Liberadores\n-2 cajas de comidas prefabricadas\n-Barril de combustible\"."
+        },
+        {
+            "Key": 927788013,
+            "Value": "Estas baterías alimentan la maquinaria de guerra de los autómatas."
+        },
+        {
+            "Key": 945439925,
+            "Value": "ROCOSO"
+        },
+        {
+            "Key": 952870686,
+            "Value": "\"Todas las preocupaciones vinculadas a la seguridad en minas, como la extensión de los turnos, la oscuridad de los túneles, la falta de apoyos suficientes, la fragilidad de las escaleras, etc., ya han sido apuntadas, consideradas y tratadas. Por favor, continúa tu trabajo con confianza renovada en tu seguridad\"."
+        },
+        {
+            "Key": 976163900,
+            "Value": "NOTA ESCRITA PRESUROSAMENTE"
+        },
+        {
+            "Key": 1003978479,
+            "Value": "La lámpara interior está apagada, por lo que el arte de marca es una pálida sombra de su pasada gloria."
+        },
+        {
+            "Key": 1018033629,
+            "Value": "AFICHE PATRIÓTICO"
+        },
+        {
+            "Key": 1028349052,
+            "Value": "Este cartel, el 11.° de la serie \"Lealtad\", es un regreso a las formas después de la extravagancia de la versión 10."
+        },
+        {
+            "Key": 1034277673,
+            "Value": "¿Quién sabe qué clase de actos horrendos quería perpetrar esta máquina?"
+        },
+        {
+            "Key": 1036715918,
+            "Value": "\"ADVERTENCIA DE EMERGENCIA: Fuerzas hostiles en camino. Evacúen de inmediato. ADVERTENCIA DE EMERGENCIA: Fuerzas hostiles en camino. Evacúen de inmediato\"."
+        },
+        {
+            "Key": 1056267452,
+            "Value": "NOTA ESCRITA A MANO"
+        },
+        {
+            "Key": 1057866065,
+            "Value": "MONTACARGAS"
+        },
+        {
+            "Key": 1072626935,
+            "Value": "\"El Ministerio de Humanidad lamenta la noticia de la trágica pérdida del miembro de tu familia. Por favor, sigue las instrucciones adjuntas para realizar una adecuada eliminación patriótica y completar los formularios impositivos\"."
+        },
+        {
+            "Key": 1076885230,
+            "Value": "MÁQUINA OPRESORA"
+        },
+        {
+            "Key": 1111578990,
+            "Value": "AFICHE PATRIÓTICO"
+        },
+        {
+            "Key": 1175196149,
+            "Value": "\"Alerta colonial: debido a limitaciones presupuestarias, la temperatura de los hogares se reducirá un [13 %]\"."
+        },
+        {
+            "Key": 1186162679,
+            "Value": "CARNET DE BIBLIOTECA ENSANGRENTADO"
+        },
+        {
+            "Key": 1201290169,
+            "Value": "LUZ AUTORITARIA"
+        },
+        {
+            "Key": 1234533814,
+            "Value": "PLANETA ARENOSO"
+        },
+        {
+            "Key": 1246250826,
+            "Value": "PLANETA ROCOSO"
+        },
+        {
+            "Key": 1289883582,
+            "Value": "AFICHE PATRIÓTICO"
+        },
+        {
+            "Key": 1290317954,
+            "Value": "\"Felicitaciones por tu aceptación en la Universidad Vanguardista, la mejor institución educativa en línea para los líderes coloniales del mañana\"."
+        },
+        {
+            "Key": 1294782553,
+            "Value": "PLANETA DE SABANA"
+        },
+        {
+            "Key": 1309000342,
+            "Value": "Hay un mensaje grabado en la superficie: \"En eterna conmemoración de los innumerables Helldivers que dieron la vida en la Primera Guerra Galáctica\"."
+        },
+        {
+            "Key": 1366620121,
+            "Value": "El propósito de esta máquina es desconocido. Como sus creadores, ya no tiene salvación."
+        },
+        {
+            "Key": 1373264655,
+            "Value": "PALABRAS GARABATEADAS EN BOMBA"
+        },
+        {
+            "Key": 1391731473,
+            "Value": "Verdad: la columna vertebral de la democracia.\n\nEl Ministerio de la Verdad."
+        },
+        {
+            "Key": 1396651258,
+            "Value": "Sirve para transportar minerales, moradas modulares y jaulas para disidentes."
+        },
+        {
+            "Key": 1436263504,
+            "Value": "Tiranía contenida en una matriz de ánodos y cátodos."
+        },
+        {
+            "Key": 1439694785,
+            "Value": "AFICHE PATRIÓTICO"
+        },
+        {
+            "Key": 1449081236,
+            "Value": "Hay un mensaje escrito a medias en esta tablet manchada con sangre: \"Solicito apoyo ofensivo inmediato. Estamos sufriendo muchas ba-\"."
+        },
+        {
+            "Key": 1455663094,
+            "Value": "\"Entregar a los termínidos cuanto antes\"."
+        },
+        {
+            "Key": 1457793035,
+            "Value": "PUBLICIDAD"
+        },
+        {
+            "Key": 1476637725,
+            "Value": "Hay glifos de los autómatas en el exterior, amenazantes y sedientos de poder en sus trazos."
+        },
+        {
+            "Key": 1477469637,
+            "Value": "RE: SEGURIDAD EN MINAS"
+        },
+        {
+            "Key": 1504996095,
+            "Value": "\"Recuerda: cuando no devuelves algo a tiempo, nos robas a todos\"."
+        },
+        {
+            "Key": 1554836788,
+            "Value": "\"¡No olvides votar para el Patriota del mes de TU colonia!\"."
+        },
+        {
+            "Key": 1565025413,
+            "Value": "Una distorsión corrupta de una de las más grandes invenciones de la humanidad."
+        },
+        {
+            "Key": 1588759936,
+            "Value": "PLANETA FRONDOSO"
+        },
+        {
+            "Key": 1687119863,
+            "Value": "AFICHE DE SERVICIO PÚBLICO"
+        },
+        {
+            "Key": 1778996632,
+            "Value": "\"Manipular con cuidado\"."
+        },
+        {
+            "Key": 1813328760,
+            "Value": "\"Plantilla de obituario: Soldado, variante 004: El/La [Rango] [Nombre] se unió al servicio a los [edad]. Sirvió [adverbio de nobleza] y falleció heroicamente mientras combatía a [enemigo]. Nunca olvidaremos su [rasgo distintivo]\"."
+        },
+        {
+            "Key": 1840545502,
+            "Value": "Estas plantas comienzan a marchitarse en ausencia del amoroso cuidado de la democracia."
+        },
+        {
+            "Key": 1850831891,
+            "Value": "Todo lo que necesitas saber.\n\nEl Ministerio de la Verdad."
+        },
+        {
+            "Key": 1888359229,
+            "Value": "\"Democracia Diet. Libérate\"."
+        },
+        {
+            "Key": 1933276130,
+            "Value": "AFICHE DE SERVICIO PÚBLICO"
+        },
+        {
+            "Key": 1954555863,
+            "Value": "Nos INFORMAMOS para informarte.\n\nEl Ministerio de la Verdad."
+        },
+        {
+            "Key": 1983790063,
+            "Value": "Las herramientas cuelgan ordenadamente, de acuerdo a las pautas gubernamentales."
+        },
+        {
+            "Key": 1987986869,
+            "Value": "\"No operar sin guía terrestre\"."
+        },
+        {
+            "Key": 2004112673,
+            "Value": "Separado de su programación tiránica, el metal de este otrora autómata recupera su libertad."
+        },
+        {
+            "Key": 2024515668,
+            "Value": "\"Alerta: debido a la creciente actividad hostil local, todos los funerales deben usar Procedimientos de Confinamiento Expeditivos hasta nuevo aviso\"."
+        },
+        {
+            "Key": 2050982497,
+            "Value": "\"¡No lo olvides! Asiste al anuncio quincenal del Estado de la Federación a las 8 p.m. (la ausencia requiere preaprobación)\"."
+        },
+        {
+            "Key": 2053947121,
+            "Value": "¡Mantén sus tentáculos lejos de nuestros hijos!"
+        },
+        {
+            "Key": 2082344782,
+            "Value": "\"Las ofertas incluyen: Dr. Democracia, Sr. Sabor, Prof. Delicia y Justiciero Ñammm\""
+        },
+        {
+            "Key": 2151041792,
+            "Value": "BOSQUE"
+        },
+        {
+            "Key": 2256936138,
+            "Value": "Un soporte estándar para herramientas estándar."
+        },
+        {
+            "Key": 2318053846,
+            "Value": "\"Por favor, absténgase de operar maquinaria pesada cuando consuma esta bebida\"."
+        },
+        {
+            "Key": 2383760178,
+            "Value": "ANOTACIÓN ##64"
+        },
+        {
+            "Key": 2398394710,
+            "Value": "\"Recordatorio: ¡Falta poco para las elecciones para supervisor planetario!\"."
+        },
+        {
+            "Key": 2411766708,
+            "Value": "Hay un mensaje grabado en la superficie: \"En recuerdo de los servidores de la libertad que murieron heroicamente en incidentes de fuego amigo inevitables\"."
+        },
+        {
+            "Key": 2436288325,
+            "Value": "\"¡Tomen esto!\"."
+        },
+        {
+            "Key": 2453875425,
+            "Value": "\"Plantilla de obituario: Soldado, servicio ejemplar 121: El heroísmo del [Rango] [Nombre] es imposible de ignorar. No perdió la vida en defensa de la Supertierra. La entregó voluntariamente\"."
+        },
+        {
+            "Key": 2459063269,
+            "Value": "\"Memorándum para todas las fuerzas de las SEAF: En adelante, solo los soldados que hayan demostrado un servicio democrático excepcional podrán usar el correo\"."
+        },
+        {
+            "Key": 2494575413,
+            "Value": "Un montón de chatarra humeante. Recibió su merecido."
+        },
+        {
+            "Key": 2504313014,
+            "Value": "PÁRAMO"
+        },
+        {
+            "Key": 2540993890,
+            "Value": "PLANETA BOSCOSO"
+        },
+        {
+            "Key": 2572052001,
+            "Value": "\"Nota para el especialista en preparación de tumbas: debido a la elevada actividad hostil en el área, es posible que las tumbas deban almacenar más personal de lo habitual\"."
+        },
+        {
+            "Key": 2616113535,
+            "Value": "AFICHE DE SERVICIO PÚBLICO"
+        },
+        {
+            "Key": 2627013640,
+            "Value": "Aumenta la prioridad de la misión para todos los demás Helldivers, lo que aumenta la probabilidad de que otros se unan a tu escuadrón."
+        },
+        {
+            "Key": 2631473995,
+            "Value": "\"Por favor, preséntate de inmediato ante tu oficial de Lealtad para una investigación. Motivo: [Denuncia ciudadana de discursos disidentes]\"."
+        },
+        {
+            "Key": 2643234841,
+            "Value": "PLANETA PRIMORDIAL"
+        },
+        {
+            "Key": 2649909856,
+            "Value": "Los manipuladores robóticos en el extremo del brazo no pueden aferrarse a nada, excepto la opresión."
+        },
+        {
+            "Key": 2654073100,
+            "Value": "\"Actualmente, la actividad hostil local está clasificada como BAJA AMENAZA. Todos los ciudadanos deben continuar con sus obligaciones hasta nuevo aviso\"."
+        },
+        {
+            "Key": 2656947245,
+            "Value": "\"El Ministerio de Humanidad ha procesado tu informe de personas desaparecidas. Resultado: [CERRADO.] Conclusión: [Accidente en mina.]\"."
+        },
+        {
+            "Key": 2658730238,
+            "Value": "\"No recomendada para traidores a la democracia\"."
+        },
+        {
+            "Key": 2662913543,
+            "Value": "\"Por favor, elige qué delicioso sabor te gustaría ver incluido en las próximas raciones de temporada de nuestra colonia: arándanos, chocolate, canela, pastel de cumpleaños\". La selección es \"pastel de cumpleaños\"."
+        },
+        {
+            "Key": 2683508963,
+            "Value": "SOPORTE DE HERRAMIENTAS"
+        },
+        {
+            "Key": 2683971696,
+            "Value": "CERVEZA \"ESPUMA DE LA DEMOCRACIA\""
+        },
+        {
+            "Key": 2688155711,
+            "Value": "MONUMENTO A LA LIBERTAD"
+        },
+        {
+            "Key": 2693768507,
+            "Value": "La pantalla está congelada con un último mensaje: \"Resistan\"."
+        },
+        {
+            "Key": 2716080683,
+            "Value": "Baliza de S.O.S."
+        },
+        {
+            "Key": 2719222461,
+            "Value": "\"Memorándum para el supervisor colonial: Recuerde calibrar la productividad de sus trabajadores de acuerdo al Índice de cumplimiento\"."
+        },
+        {
+            "Key": 2724107978,
+            "Value": "\"El Ministerio de Humanidad desea felicitarte por tu aprobación de matrimonio. Se adjuntan instrucciones para la consolidación de domicilios\"."
+        },
+        {
+            "Key": 2752474601,
+            "Value": "DISPOSITIVO DE COMUNICACIONES DE SEAF"
+        },
+        {
+            "Key": 2808721942,
+            "Value": "En este jardín rebosante de flora nativa de la Supertierra, la libertad ha echado raíces en un planeta alienígena."
+        },
+        {
+            "Key": 2848746371,
+            "Value": "\"Debido a los riesgos excepcionales de la asignación actual, todos los soldados de las SEAF y sus unidades familiares domésticas aprobadas recibirán la ciudadanía clase C después de completar la misión o tras su muerte\"."
+        },
+        {
+            "Key": 2893623201,
+            "Value": "\"Memorándum para el supervisor colonial: A fin de brindar un mejor servicio a la libertad, el presupuesto de seguridad de su colonia se reducirá un [23,7 %] durante el siguiente período fiscal\"."
+        },
+        {
+            "Key": 2901963580,
+            "Value": "PRIMORDIAL"
+        },
+        {
+            "Key": 2937633613,
+            "Value": "\"Me llevé el contenido. Lo necesitaba. Perdón. \n P. D.: Este hombre ya estaba muerto cuando llegué. \n-D\"."
+        },
+        {
+            "Key": 2946371041,
+            "Value": "La pantalla muestra una imagen de lo que debe ser la familia de un soldado de las SEAF, sujetando una bandera que dice \"Defiendan nuestra libertad\"."
+        },
+        {
+            "Key": 2956446175,
+            "Value": "AFICHE PATRIÓTICO"
+        },
+        {
+            "Key": 2985529596,
+            "Value": "SABANA"
+        },
+        {
+            "Key": 2988205947,
+            "Value": "\"Tenía pocos suministros. Me llevé municiones. Dejé avena. Buena suerte -D\"."
+        },
+        {
+            "Key": 3066659304,
+            "Value": "CARTEL DE BIENVENIDA - VARIANTE 02"
+        },
+        {
+            "Key": 3121815003,
+            "Value": "ARENOSO"
+        },
+        {
+            "Key": 3172306278,
+            "Value": "Este montacargas es el glóbulo rojo de la Democracia tutelada, a cargo de llevar recursos vitales a donde sea que sean necesarios."
+        },
+        {
+            "Key": 3238307974,
+            "Value": "Hay un par de gafas de seguridad colgadas de una correa, cuyo marco está salpicado con sangre. Parece que no han cumplido con su propósito."
+        },
+        {
+            "Key": 3255839399,
+            "Value": "\"Ministerio de la Verdad: División de bibliotecas 301C\"."
+        },
+        {
+            "Key": 3268782755,
+            "Value": "OUTLETS DE LIBERTAD\n\nEl centro comercial más grande del mundo"
+        },
+        {
+            "Key": 3278267572,
+            "Value": "Miles de millones de estrellas. Una Federación.\n\nEl Ministerio de Expansión."
+        },
+        {
+            "Key": 3284598023,
+            "Value": "Determinar si realmente puede decirse que este autómata alguna vez estuvo vivo es una pregunta para los filósofos. Sea como sea, ahora no hay duda de que está muerto."
+        },
+        {
+            "Key": 3323987103,
+            "Value": "Una herramienta de tiranía."
+        },
+        {
+            "Key": 3346567964,
+            "Value": "\"Aviso para los colonos: Se está ejecutando una operación militar cerca de su posición. No hay por qué alarmarse. Por favor, quédense en sus casas hasta nuevo aviso\"."
+        },
+        {
+            "Key": 3348449738,
+            "Value": "AFICHE DE SERVICIO PÚBLICO"
+        },
+        {
+            "Key": 3350686635,
+            "Value": "\"¡Prueben un poco de libertad!\"."
+        },
+        {
+            "Key": 3367142121,
+            "Value": "El dispositivo tiene una rajadura y muestra una fotografía de una niña sonriente que carga un pico sobre el hombro."
+        },
+        {
+            "Key": 3384238125,
+            "Value": "BITÁCORA DEL CAPITÁN"
+        },
+        {
+            "Key": 3434031175,
+            "Value": "PANTANO"
+        },
+        {
+            "Key": 3515658116,
+            "Value": "PUBLICIDAD"
+        },
+        {
+            "Key": 3561698279,
+            "Value": "Defendemos el futuro de la democracia.\n\nEl Ministerio de Defensa."
+        },
+        {
+            "Key": 3573408908,
+            "Value": "Mantente alerta a la TRAICIÓN."
+        },
+        {
+            "Key": 3637654068,
+            "Value": "\"De la Supertierra con amor\"."
+        },
+        {
+            "Key": 3639189188,
+            "Value": "La figura de mármol sintético transmite un mensaje de orgullosa libertad que cruza todos los límites de la especie y la sapiencia."
+        },
+        {
+            "Key": 3653989852,
+            "Value": "El Ministerio de Prosperidad se ocupa de que todas las colonias tengan acceso a las bebidas más novedosas para que ningún ciudadano de la Supertierra deje de disfrutar tamaña inventiva libacional."
+        },
+        {
+            "Key": 3665189065,
+            "Value": "AFICHE PATRIÓTICO"
+        },
+        {
+            "Key": 3671633165,
+            "Value": "Una abominación construida por abominaciones, con intenciones abominables."
+        },
+        {
+            "Key": 3698614321,
+            "Value": "La lealtad tiene recompensa. Denuncia toda actividad disidente.\n\nEl Ministerio de Unidad."
+        },
+        {
+            "Key": 3713896677,
+            "Value": "Inspeccionar"
+        },
+        {
+            "Key": 3730334434,
+            "Value": "\"Atención: Tu solicitud de compañía animal para [1] [hámster] ha sido rechazada en esta oportunidad\"."
+        },
+        {
+            "Key": 3762269985,
+            "Value": "Recuerda la Avanzada 32"
+        },
+        {
+            "Key": 3812730735,
+            "Value": "En apariencia, es solo una lámpara, pero todo patriota de ley reconoce lo que es en verdad: una abominación."
+        },
+        {
+            "Key": 3833198954,
+            "Value": "CENTRO DE ENTRENAMIENTO DE HELLDIVERS"
+        },
+        {
+            "Key": 3837189790,
+            "Value": "PLANETA DESOLADO"
+        },
+        {
+            "Key": 3846306529,
+            "Value": "PLANETA ÁRTICO"
+        },
+        {
+            "Key": 3849701791,
+            "Value": "Escrito con rayones en el pedestal: \"Ellos nos salvarán\"."
+        },
+        {
+            "Key": 3859177696,
+            "Value": "Parece que intentaron realizar una última cosecha precipitada durante la evacuación."
+        },
+        {
+            "Key": 3859574095,
+            "Value": "Transportamos un gran cargamento de lanzallamas. La presencia enemiga es intensa, estimamos que la entrega llevará todo el día. Derek olvidó el extintor, pero estoy seguro de que estaremos bi-"
+        },
+        {
+            "Key": 3875504792,
+            "Value": "Un dispositivo usado para comunicaciones entre el Departamento de Expansión y los supervisores coloniales."
+        },
+        {
+            "Key": 3908624458,
+            "Value": "\"Para los termínidos que corresponda\"."
+        },
+        {
+            "Key": 3940634112,
+            "Value": "\"Pesticida\"."
+        },
+        {
+            "Key": 3947210492,
+            "Value": "Esta máquina no da señal de sapiencia, pero es imposible estar seguro."
+        },
+        {
+            "Key": 3978598201,
+            "Value": "DISPOSITIVO PERSONAL"
+        },
+        {
+            "Key": 3978938678,
+            "Value": "\"¡Tienes la obligación legal de denunciar todo ataque de termínidos a las autoridades!\"."
+        },
+        {
+            "Key": 4054366495,
+            "Value": "\"ORDEN: No se retiren. Defiendan la libertad a toda costa\"."
+        },
+        {
+            "Key": 4072697637,
+            "Value": "Cuando estaba en funcionamiento, la máquina emitía un zumbido suave, pero ahora está abandonada y en silencio."
+        },
+        {
+            "Key": 4088732588,
+            "Value": "AFICHE PATRIÓTICO"
+        },
+        {
+            "Key": 4118649839,
+            "Value": "\"Un estudio del Ministerio de Defensa indica que la moral enemiga ha caído a nuevos niveles sin precedentes\"."
+        },
+        {
+            "Key": 4145325589,
+            "Value": "La inquietante calma del exterior oculta la energía autocrática potencial que contiene."
+        },
+        {
+            "Key": 4162633951,
+            "Value": "\"Recuerda: las quejas son la puerta de entrada de la disidencia\"."
+        },
+        {
+            "Key": 4197052020,
+            "Value": "\"Dr. Democracia: Con 17 saborizantes y aditivos\""
+        },
+        {
+            "Key": 4218706212,
+            "Value": "¿Qué estás esperando?"
+        },
+        {
+            "Key": 4237357784,
+            "Value": "Los colores patrióticos siempre logran inflamar el corazón de todo patriota de ley."
+        },
+        {
+            "Key": 4249190617,
+            "Value": "\"El Ministerio de la Verdad quiere recordar a todos los ciudadanos que el material de lectura antidemocrático debe ser denunciado de inmediato\"."
+        },
+        {
+            "Key": 4279615051,
+            "Value": "¡Detén la infestación!"
+        }
+    ]
+}

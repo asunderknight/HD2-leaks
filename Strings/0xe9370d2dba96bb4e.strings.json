@@ -1,0 +1,34 @@
+{
+    "Version": 1,
+    "Language": {
+        "Hash": "0xfea0f61f",
+        "KnownName": "fr",
+        "KnownFriendlyName": "French"
+    },
+    "Items": [
+        {
+            "Key": 636332646,
+            "Value": "CAUCHEMARDESQUE"
+        },
+        {
+            "Key": 1653518103,
+            "Value": "Stratagème"
+        },
+        {
+            "Key": 2006772999,
+            "Value": "FACILE"
+        },
+        {
+            "Key": 2873087446,
+            "Value": "INFERNALE"
+        },
+        {
+            "Key": 3348405905,
+            "Value": "MOYENNE"
+        },
+        {
+            "Key": 3876836908,
+            "Value": "DIFFICILE"
+        }
+    ]
+}

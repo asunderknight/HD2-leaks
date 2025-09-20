@@ -1,0 +1,5078 @@
+{
+    "Version": 1,
+    "Language": {
+        "Hash": "0x31806842",
+        "KnownName": "es",
+        "KnownFriendlyName": "Spanish (Spain)"
+    },
+    "Items": [
+        {
+            "Key": 1667436,
+            "Value": "NAVE DE DESPLIEGUE AUTÓMATA"
+        },
+        {
+            "Key": 7134963,
+            "Value": "#ERROR!"
+        },
+        {
+            "Key": 10195202,
+            "Value": "<c=#NAME_COLOR>MUERTES CAUSADAS POR EL EQUIPO</c> <c=#COUNT_COLOR>#COUNT</c>"
+        },
+        {
+            "Key": 10440620,
+            "Value": "LIBERA EL MUNDO COLMENA"
+        },
+        {
+            "Key": 14029376,
+            "Value": "Bonus por objetivos: #AMOUNT M"
+        },
+        {
+            "Key": 16135344,
+            "Value": "COORDENADAS DEL OBJETIVO:"
+        },
+        {
+            "Key": 16489650,
+            "Value": "La sonda sísmica de esta zona puede usarse para confirmar la posible ubicación de características geológicas del subsuelo."
+        },
+        {
+            "Key": 18895859,
+            "Value": "Utilizad sondas sísmicas para trazar las redes de túneles termínidos de esta región."
+        },
+        {
+            "Key": 19075861,
+            "Value": "Erradicad el número indicado de termínidos adultos y preadultos (a veces llamados huevos)."
+        },
+        {
+            "Key": 22117695,
+            "Value": "AUTORIZAR LANZAMIENTO NUCLEAR"
+        },
+        {
+            "Key": 23663294,
+            "Value": "Aquí está la plataforma de perforación modular veloz."
+        },
+        {
+            "Key": 28055569,
+            "Value": "Las imágenes por satélite han demostrado que en este distrito hay rascacielos enteros infestados de termínidos. Estos bonitos hogares y prósperas oficinas ya solo son criaderos de chillones.\n\nDestruye los viejos iconos de Prosperidad que se han llenado de parásitos de manera despiadada."
+        },
+        {
+            "Key": 32367396,
+            "Value": "DESACTIVAR LA ARTILLERÍA ORBITAL"
+        },
+        {
+            "Key": 33739635,
+            "Value": "DEBEN COMPLETARSE PRIMERO TODOS LOS OBJETIVOS SECUNDARIOS."
+        },
+        {
+            "Key": 35026167,
+            "Value": "ASEGURAR EL CAMIÓN ARTICULADO TODOTERRENO DE EXTRACCIÓN TERRESTRE"
+        },
+        {
+            "Key": 36035323,
+            "Value": "En los planetas plagados de lobreguez, el E-710 exhibe diferencias estadísticamente significativas en varias de sus propiedades, incluyendo la densidad, la viscosidad, la oxidación y la estabilidad.\n\nReactivad las bombas de E-710 en desuso de este planeta para reunir líquido imbuido de lobreguez que pueda investigarse."
+        },
+        {
+            "Key": 42057101,
+            "Value": "Gira las palancas situadas a un lado del cañón para rotarlo"
+        },
+        {
+            "Key": 45150644,
+            "Value": "DESTRUIR DEPÓSITOS DE COMBUSTIBLE"
+        },
+        {
+            "Key": 45657933,
+            "Value": "#COUNT bajas confirmadas"
+        },
+        {
+            "Key": 50882734,
+            "Value": "INFORMES EXTRAÍDOS:"
+        },
+        {
+            "Key": 51779241,
+            "Value": "Las naves de teletransporte de los Iluminados han ocupado intersecciones clave en la ciudad. Esas naves son clave para los viles esfuerzos de invasión del enemigo: se usan para desplegar unidades, secuestrar ciudadanos y amenazar los índices de calidad del aire de los que tanto nos enorgullecemos.\n \n Buscad y destruid todas las naves de teletransporte de los Iluminados en la zona."
+        },
+        {
+            "Key": 56432069,
+            "Value": "Nave enemiga acercándose"
+        },
+        {
+            "Key": 58119577,
+            "Value": "Área bajo el control de Supertierra:"
+        },
+        {
+            "Key": 59567021,
+            "Value": "Usar terminal para reactivar las bombas"
+        },
+        {
+            "Key": 60201391,
+            "Value": "AJUSTAR MANUALMENTE LAS VÁLVULAS"
+        },
+        {
+            "Key": 61509627,
+            "Value": "ESTADO DE LA OPERACIÓN"
+        },
+        {
+            "Key": 62312315,
+            "Value": "Camión de carga"
+        },
+        {
+            "Key": 65635277,
+            "Value": "ERRADICA LOS NIDOS MUTADOS"
+        },
+        {
+            "Key": 81814212,
+            "Value": "Un disco duro SSSD con datos valiosos se perdió en esta ubicación tras la emboscada a un escuadrón S.E.A.F. Hay que recuperarlo."
+        },
+        {
+            "Key": 85322608,
+            "Value": "Espera a que se inicie el sistema de artillería"
+        },
+        {
+            "Key": 91078680,
+            "Value": "Alimentación"
+        },
+        {
+            "Key": 102997286,
+            "Value": "Clase de enemigos"
+        },
+        {
+            "Key": 106414693,
+            "Value": "Campamento iluminado medio despejado"
+        },
+        {
+            "Key": 109231288,
+            "Value": "RESCATAR A LOS EQUIPOS DE CIENTÍFICOS"
+        },
+        {
+            "Key": 114886262,
+            "Value": "CAPTURAR TERRITORIO AUTOMATÓN"
+        },
+        {
+            "Key": 119095182,
+            "Value": "Localiza al objetivo"
+        },
+        {
+            "Key": 120771889,
+            "Value": "Encontrad el punto de perforación de la cámara del criadero"
+        },
+        {
+            "Key": 120796772,
+            "Value": "RECOGE MUESTRAS"
+        },
+        {
+            "Key": 124201287,
+            "Value": "Liberar planeta"
+        },
+        {
+            "Key": 129905506,
+            "Value": "Temperatura"
+        },
+        {
+            "Key": 135130779,
+            "Value": "ACTIVA EL TRANSFORMADOR"
+        },
+        {
+            "Key": 144546756,
+            "Value": "EVACUACIÓN DE EMERGENCIA"
+        },
+        {
+            "Key": 147835329,
+            "Value": "#ERROR!"
+        },
+        {
+            "Key": 161452983,
+            "Value": "Los autómatas se han hecho con el control de una estación de investigación de los S.E.A.F. y han masacrado a los valientes científicos que allí trabajaban.\n\nVe a la estación, descarga la base de datos de investigación y súbela al ordenador central de Supertierra usando la estación de enlace ascendente por satélite cercana."
+        },
+        {
+            "Key": 172073450,
+            "Value": "Localiza y elimina a los devastadores autómatas."
+        },
+        {
+            "Key": 173821335,
+            "Value": "Los termínidos han transformado este mundo en un bastión de la opresión fascista. Pero aún puede volver a la luz de la Libertad.\n\nDesplegaos al mundo colmena e izad la bandera de Supertierra."
+        },
+        {
+            "Key": 183799415,
+            "Value": "Iniciad la evacuación de los artefactos valiosos del planeta y defended el lugar hasta que se complete la evacuación."
+        },
+        {
+            "Key": 185689788,
+            "Value": "Fortaleza destruida"
+        },
+        {
+            "Key": 186926806,
+            "Value": "Una cápsula de escape se ha estrellado en la región y contiene datos valiosos."
+        },
+        {
+            "Key": 188118679,
+            "Value": "Alimenta el enlace de recolección de datos"
+        },
+        {
+            "Key": 194624872,
+            "Value": "Defender el sistema generador hasta que todos los cohetes se hayan lanzado.\n\nCohetes lanzados: #CURRENT/#TARGET"
+        },
+        {
+            "Key": 195806008,
+            "Value": "Ajusta todas las válvulas indicadas"
+        },
+        {
+            "Key": 199397308,
+            "Value": "ELIMINACIÓN DE EMPALADORES"
+        },
+        {
+            "Key": 207489081,
+            "Value": "Elimina de forma táctica todos los obstáculos que se interponen en el camino de la paz."
+        },
+        {
+            "Key": 210707637,
+            "Value": "<c=#NAME_COLOR>MUERTES SUFRIDAS POR EL EQUIPO</c> <c=#COUNT_COLOR>#COUNT</c>"
+        },
+        {
+            "Key": 215976645,
+            "Value": "OPERACIÓN DE PAZ"
+        },
+        {
+            "Key": 225478926,
+            "Value": "DESTRUIR LAS NAVES DE TELETRANSPORTE DE LOS ILUMINADOS"
+        },
+        {
+            "Key": 227711647,
+            "Value": "LIBERA EL MUNDO COLMENA"
+        },
+        {
+            "Key": 232695806,
+            "Value": "INFORME RECUPERADO - OPORTUNIDADES DESCUBIERTAS"
+        },
+        {
+            "Key": 235479654,
+            "Value": "Defiende el silo de batería 02"
+        },
+        {
+            "Key": 236587135,
+            "Value": "Las alteraciones tectónicas indican la presencia de un empalador en esta zona."
+        },
+        {
+            "Key": 240482645,
+            "Value": "DESTRUIR FABRICANTES AUTÓMATAS"
+        },
+        {
+            "Key": 242831539,
+            "Value": "Sistema de artillería S.E.A.F."
+        },
+        {
+            "Key": 246145121,
+            "Value": "Recoger munición"
+        },
+        {
+            "Key": 259641832,
+            "Value": "Disparar artillería"
+        },
+        {
+            "Key": 259851759,
+            "Value": "CALIBRANDO VOLTAJE"
+        },
+        {
+            "Key": 270478576,
+            "Value": "DESACTIVA EL SISTEMA DE CONTROL DE TERMÍNIDOS"
+        },
+        {
+            "Key": 277583446,
+            "Value": "Eliminad los nidos de termínidos de la zona y dejadla preparada para los investigadores de la lobreguez."
+        },
+        {
+            "Key": 278687057,
+            "Value": "Destrozad todos los criaderos de termínidos y derribad el número de nidos indicado."
+        },
+        {
+            "Key": 278936848,
+            "Value": "Reinicia las bombas ubicadas en esta región."
+        },
+        {
+            "Key": 285652382,
+            "Value": "ELIMINAR AL TITÁN DE BILIS"
+        },
+        {
+            "Key": 297304399,
+            "Value": "Inicia sesión"
+        },
+        {
+            "Key": 298949484,
+            "Value": "Los equipos de intervención científica (formados por un xenobiólogo, un físico teórico, un astrometeorólogo y un psicólogo) realizarán expediciones a la superficie del planeta en lugares clave.\n\nEliminad los nidos de termínidos de la zona para asegurar el lugar de la investigación. "
+        },
+        {
+            "Key": 301581254,
+            "Value": "MISIÓN FALLIDA"
+        },
+        {
+            "Key": 301829205,
+            "Value": "Continuar hacia la puerta de la instalación"
+        },
+        {
+            "Key": 303008397,
+            "Value": "Elevando cañón de defensa planetaria…"
+        },
+        {
+            "Key": 308165448,
+            "Value": "Entrega los SSSD"
+        },
+        {
+            "Key": 308546301,
+            "Value": "Usar los controles de la puerta para dejar salir a los civiles de los búnkeres de emergencia"
+        },
+        {
+            "Key": 315350949,
+            "Value": "DEFENDER LA ZONA DE EVACUACIÓN"
+        },
+        {
+            "Key": 315647061,
+            "Value": "Mantén las llamas alejadas del misil"
+        },
+        {
+            "Key": 316971668,
+            "Value": "ABRIENDO ESCOTILLA…"
+        },
+        {
+            "Key": 321401577,
+            "Value": "DESTRUIR LAS COSECHADORAS"
+        },
+        {
+            "Key": 321917691,
+            "Value": "Activar terminal"
+        },
+        {
+            "Key": 328518441,
+            "Value": "Todos los objetivos completados"
+        },
+        {
+            "Key": 338409938,
+            "Value": "EXP"
+        },
+        {
+            "Key": 344720878,
+            "Value": "#FOUND encontradas (#TOTAL en la nave)"
+        },
+        {
+            "Key": 347564326,
+            "Value": "Utilizar un estim para curar la herida"
+        },
+        {
+            "Key": 349962696,
+            "Value": "CONFIRMANDO COORDENADAS"
+        },
+        {
+            "Key": 357436400,
+            "Value": "RECUENTO DE BONUS POR POCAS MUERTES"
+        },
+        {
+            "Key": 357585113,
+            "Value": "2.º"
+        },
+        {
+            "Key": 358046681,
+            "Value": "Este dispositivo autómata evita el uso de estratagemas en la zona."
+        },
+        {
+            "Key": 359581454,
+            "Value": "Destruid los bioprocesadores."
+        },
+        {
+            "Key": 360320316,
+            "Value": "Restablecer energía de la torre satélite"
+        },
+        {
+            "Key": 363904388,
+            "Value": "Defiende el silo de batería 01"
+        },
+        {
+            "Key": 369469234,
+            "Value": "Encontrar al tanque aniquilador"
+        },
+        {
+            "Key": 378151711,
+            "Value": "Sacrifico inútil"
+        },
+        {
+            "Key": 378247061,
+            "Value": "Las cosechadoras Iluminadas patrullan esta colonia, imponiendo el ferviente mandato de sus dueños. Hay que destruir esos constructos antinaturales y delgaduchos para que la libertad pueda regresar."
+        },
+        {
+            "Key": 383096607,
+            "Value": "CALCULANDO RUTA DE VUELO DE LA LANZADERA"
+        },
+        {
+            "Key": 384655321,
+            "Value": "Destruir los emplazamientos de morteros autómatas"
+        },
+        {
+            "Key": 384675702,
+            "Value": "Depósito inestable. Cancelando la activación."
+        },
+        {
+            "Key": 388131220,
+            "Value": "EXTERMINAR BICHOS CERCA DEL GOLPEADOR"
+        },
+        {
+            "Key": 390605646,
+            "Value": "ERRADICAR A LAS FUERZAS AUTÓMATAS"
+        },
+        {
+            "Key": 393933864,
+            "Value": "Usar terminal para abrir la escotilla y entregar los discos SSSD"
+        },
+        {
+            "Key": 395775944,
+            "Value": "Los termínidos de este planeta están mutando a causa del Termicida. A cada minuto que pasa, amenazan con convertir este mundo en otra supercolonia.\n\nAcaba con los huevos de termínidos mutados y desactiva el Sistema de Control de Termínidos corrupto antes de que sea demasiado tarde."
+        },
+        {
+            "Key": 396353427,
+            "Value": "Meganido erradicado"
+        },
+        {
+            "Key": 406958566,
+            "Value": "Esta es la zona donde se vio por última vez la variante termínida."
+        },
+        {
+            "Key": 407444091,
+            "Value": "PANEL DE CONTROL DE LA TORRE"
+        },
+        {
+            "Key": 411369073,
+            "Value": "Eliminar al titán de bilis"
+        },
+        {
+            "Key": 411572063,
+            "Value": "DESCARTAR"
+        },
+        {
+            "Key": 414629921,
+            "Value": "Continuar hacia el campo de estratagemas"
+        },
+        {
+            "Key": 417512741,
+            "Value": "Esta ciudad está bajo control enemigo. Debemos reclamarla en nombre de la libertad."
+        },
+        {
+            "Key": 417698738,
+            "Value": "Ya se ha recibido el pago"
+        },
+        {
+            "Key": 429291484,
+            "Value": "Apuntando al sistema de comunicación"
+        },
+        {
+            "Key": 431499258,
+            "Value": "RECOMPENSAS"
+        },
+        {
+            "Key": 439775170,
+            "Value": "Este sector ha sido ocupado por los invasores Iluminados. Debemos liberarlo."
+        },
+        {
+            "Key": 448085263,
+            "Value": "Elogiar a jugador"
+        },
+        {
+            "Key": 459832108,
+            "Value": "Perforación completada"
+        },
+        {
+            "Key": 460213010,
+            "Value": "Coloca la caja negra en la bandeja de entrada"
+        },
+        {
+            "Key": 468077385,
+            "Value": "PISTAS"
+        },
+        {
+            "Key": 470267116,
+            "Value": "Estado del depósito: críticamente inestable"
+        },
+        {
+            "Key": 470760097,
+            "Value": "MUESTRA 01"
+        },
+        {
+            "Key": 472754469,
+            "Value": "Solicitar SSSD e insertarlos en la escotilla"
+        },
+        {
+            "Key": 473650171,
+            "Value": "Usar la estratagema Refuerzo para revivir a un compañero de escuadrón caído"
+        },
+        {
+            "Key": 474072156,
+            "Value": "RECOGER PETRÓLEO CONTAMINADO POR LA LOBREGUEZ"
+        },
+        {
+            "Key": 477199191,
+            "Value": "Destruid todas las naves de teletransporte de los Iluminados en las inmediaciones"
+        },
+        {
+            "Key": 477874659,
+            "Value": "Busca el objetivo en la rejilla"
+        },
+        {
+            "Key": 481422540,
+            "Value": "ESCOTILLA DEL BÚNKER ABIERTA"
+        },
+        {
+            "Key": 484612549,
+            "Value": "Extraed muestras de petróleo que hayan estado en contacto con la lobreguez."
+        },
+        {
+            "Key": 486596800,
+            "Value": "Los bots están descomponiendo materia orgánica para usarla de alguna forma malévola y antidemocrática."
+        },
+        {
+            "Key": 489511134,
+            "Value": "REARMANDO CAÑÓN…"
+        },
+        {
+            "Key": 493427676,
+            "Value": "Las labores de reconocimiento han localizado gran cantidad de almacenes de combustible y munición autómatas esenciales en el interior de la ciudad.\n \nInfíltrate rápidamente y destruye sus bases de suministros antes de que puedan organizar una defensa."
+        },
+        {
+            "Key": 494018960,
+            "Value": "TORRE DE RAYOS"
+        },
+        {
+            "Key": 503902376,
+            "Value": "ALINEAR SEÑAL"
+        },
+        {
+            "Key": 507275113,
+            "Value": "LIBERAR LA COLONIA"
+        },
+        {
+            "Key": 507362504,
+            "Value": "Entrar en la cápsula de transporte"
+        },
+        {
+            "Key": 513800652,
+            "Value": "DESCARGANDO; ESPERA"
+        },
+        {
+            "Key": 513860111,
+            "Value": "Eliminar al tanque aniquilador"
+        },
+        {
+            "Key": 520221179,
+            "Value": "Inestable"
+        },
+        {
+            "Key": 528213554,
+            "Value": "Recuperad la información secreta de un avión S.E.A.F. de reconocimiento derribado."
+        },
+        {
+            "Key": 530098536,
+            "Value": "DESTRUIR PULMÓN DE ESPORAS"
+        },
+        {
+            "Key": 532889341,
+            "Value": "El sistema está cargando; espera"
+        },
+        {
+            "Key": 532930205,
+            "Value": "Extracción fallida"
+        },
+        {
+            "Key": 533059049,
+            "Value": "Confirmar coordenadas de evacuación"
+        },
+        {
+            "Key": 534222165,
+            "Value": "Recoger suministros y cargar el Liberador"
+        },
+        {
+            "Key": 536616162,
+            "Value": "#MISSION_TYPE: #MISSION_NAME"
+        },
+        {
+            "Key": 537651110,
+            "Value": "Destruid el convoy antes de que llegue a su destino"
+        },
+        {
+            "Key": 546537153,
+            "Value": "IMPACTO COMUNITARIO\n"
+        },
+        {
+            "Key": 548495078,
+            "Value": "IMPACTO PLANETARIO\n"
+        },
+        {
+            "Key": 549040800,
+            "Value": "El control de los termínidos sobre este planeta se ha debilitado. Debemos atacar ahora, antes de que tengan la oportunidad de regenerarse.\n\nComo Helldivers, podéis llevar la lucha a los núcleos de colmenas termínidas que aún quedan y erradicar esa plaga para siempre."
+        },
+        {
+            "Key": 549189300,
+            "Value": "Sintonizar la frecuencia de Supertierra"
+        },
+        {
+            "Key": 552388957,
+            "Value": "Los grotescos monolitos inundan la ciudad proporcionando poder a los Iluminados por medios desconocidos. Su inescrutabilidad es una afrenta a la libertad. Debemos destruirlos."
+        },
+        {
+            "Key": 556769669,
+            "Value": "Ajusta la instalación de almacenamiento objetivo"
+        },
+        {
+            "Key": 557216270,
+            "Value": "Rastrea y elimina al titán de bilis."
+        },
+        {
+            "Key": 562487815,
+            "Value": "Influencia (máx)"
+        },
+        {
+            "Key": 566245999,
+            "Value": "Atención: Los datos borrados no se pueden recuperar"
+        },
+        {
+            "Key": 573619187,
+            "Value": "La última vez que vieron a un cargador fue en esta zona."
+        },
+        {
+            "Key": 574273170,
+            "Value": "Confirma la zona de escaneo con la interfaz de la sonda"
+        },
+        {
+            "Key": 577217099,
+            "Value": "Introducir el código en el terminal"
+        },
+        {
+            "Key": 577739165,
+            "Value": "DEFENDER LA CIUDAD"
+        },
+        {
+            "Key": 579011766,
+            "Value": "DESTRUIR DISCOS DUROS"
+        },
+        {
+            "Key": 581608860,
+            "Value": "Camión de carga"
+        },
+        {
+            "Key": 583831193,
+            "Value": "Comportamiento honorable"
+        },
+        {
+            "Key": 593930033,
+            "Value": "3.º"
+        },
+        {
+            "Key": 598604235,
+            "Value": "Deshabilitar bloqueador de estratagemas"
+        },
+        {
+            "Key": 602067977,
+            "Value": "Utiliza la perforadora de explotación minera para recuperar la segunda muestra"
+        },
+        {
+            "Key": 604043691,
+            "Value": "Destruir reservas de munición"
+        },
+        {
+            "Key": 607964299,
+            "Value": "PRECISIÓN:"
+        },
+        {
+            "Key": 608341943,
+            "Value": "Repele al enjambre de termínidos que amenaza con infestar este planeta."
+        },
+        {
+            "Key": 611789294,
+            "Value": "Bonos concedidos"
+        },
+        {
+            "Key": 613667684,
+            "Value": "ELIMINAR AL DEVASTADOR"
+        },
+        {
+            "Key": 615400082,
+            "Value": "Iniciar sesión en el terminal"
+        },
+        {
+            "Key": 623056882,
+            "Value": "Busca y destruye los fabricantes de aviones de combate autómatas"
+        },
+        {
+            "Key": 623985071,
+            "Value": "Este nódulo de colmena termínido emite una niebla densa que reduce la visibilidad."
+        },
+        {
+            "Key": 637689560,
+            "Value": "NIVEL #COUNT"
+        },
+        {
+            "Key": 641748280,
+            "Value": "Los lanzadores de misiles antiaéreos abandonados de los S.E.A.F. disparan a los objetivos aéreos enemigos cuando se activan."
+        },
+        {
+            "Key": 643241865,
+            "Value": "Usar terminal para activar torre de comunicaciones"
+        },
+        {
+            "Key": 644090152,
+            "Value": "LANZAR MBIC"
+        },
+        {
+            "Key": 646892390,
+            "Value": "Sistema de artillería S.E.A.F."
+        },
+        {
+            "Key": 649111536,
+            "Value": "Usar terminal para activar subsistemas de lanzadera de misiles tierra-aire"
+        },
+        {
+            "Key": 653025412,
+            "Value": "#ENTITY ESTÁ FUERA DEL ALCANCE"
+        },
+        {
+            "Key": 653331449,
+            "Value": "PREPARANDO ENVÍO"
+        },
+        {
+            "Key": 653591926,
+            "Value": "ACTIVAR ESCANEO DE TERRENO"
+        },
+        {
+            "Key": 655389263,
+            "Value": "Se ha encontrado un grupo de entradas a colmenas en esta región."
+        },
+        {
+            "Key": 657852966,
+            "Value": "Calibrando el generador"
+        },
+        {
+            "Key": 660251208,
+            "Value": "ELEVANDO TORRE; ESPERA"
+        },
+        {
+            "Key": 660349586,
+            "Value": "IRRUMPIENDO EN LA COLONIA TERMÍNIDA"
+        },
+        {
+            "Key": 662459402,
+            "Value": "PROPULSIÓN"
+        },
+        {
+            "Key": 667693308,
+            "Value": "Comunidad reforzada"
+        },
+        {
+            "Key": 669774230,
+            "Value": "Chillones: #CURRENT / #TOTAL muertes"
+        },
+        {
+            "Key": 672372755,
+            "Value": "Protege #ENTITY durante la subida"
+        },
+        {
+            "Key": 684104261,
+            "Value": "Los Iluminados intentan arrebatarles este planeta a nuestros ciudadanos. \n\n¡Tenemos que detenerlos antes de que sea demasiado tarde!"
+        },
+        {
+            "Key": 690489551,
+            "Value": "Gracias por tu paciencia"
+        },
+        {
+            "Key": 691698893,
+            "Value": "Los termínidos están mutando. Desactiva el SCT antes de que sea demasiado tarde."
+        },
+        {
+            "Key": 694379891,
+            "Value": "Protege la libertad"
+        },
+        {
+            "Key": 694756517,
+            "Value": "ELIMINAR A LOS DEVASTADORES"
+        },
+        {
+            "Key": 700299634,
+            "Value": "Torres de rayos"
+        },
+        {
+            "Key": 704813543,
+            "Value": "RECUPERAR LAS ÓRDENES DEL GENERAL"
+        },
+        {
+            "Key": 713672151,
+            "Value": "Bonus de extracción: #AMOUNT M"
+        },
+        {
+            "Key": 714952129,
+            "Value": "Disco duro SSSD"
+        },
+        {
+            "Key": 717591301,
+            "Value": "Informe recuperado"
+        },
+        {
+            "Key": 725836760,
+            "Value": "Iniciar evacuación"
+        },
+        {
+            "Key": 727251212,
+            "Value": "Estado del depósito: estable"
+        },
+        {
+            "Key": 728454869,
+            "Value": "Activa el silo de batería 02"
+        },
+        {
+            "Key": 735021036,
+            "Value": "Los Iluminados han invadido esta colonia y han convertido a sus ciudadanos en hordas de sin voto. Han levantado unos malevolentes e inquietantes monolitos que generan una especie de campos de energía extraña. No conocemos ni su función ni su verdadera naturaleza, por eso debemos acabar con ellos.\n\nDebemos poner fin a su ocupación. Desplegaos por la colonia, destruid las construcciones de los invasores e izad la bandera de Supertierra una vez más."
+        },
+        {
+            "Key": 737422099,
+            "Value": "INICIAR SECUENCIA DE PERFORACIÓN"
+        },
+        {
+            "Key": 741863023,
+            "Value": "Volver a la bandera de Supertierra"
+        },
+        {
+            "Key": 743640675,
+            "Value": "Activa el terminal de la base de la torre central"
+        },
+        {
+            "Key": 751661238,
+            "Value": "Sistema de terminal"
+        },
+        {
+            "Key": 752565445,
+            "Value": "RECUPERAR CÓDIGOS DE LANZAMIENTO"
+        },
+        {
+            "Key": 752992579,
+            "Value": "La sonda puede causar una pérdida de audición significativa"
+        },
+        {
+            "Key": 753673852,
+            "Value": "Activar todas las válvulas indicadas por el terminal"
+        },
+        {
+            "Key": 759173569,
+            "Value": "Gracias por tu paciencia"
+        },
+        {
+            "Key": 759965318,
+            "Value": "Ajusta las válvulas de tubería"
+        },
+        {
+            "Key": 760871862,
+            "Value": "Una gran base aérea autómata situada de esta región está llevando a cabo frecuentes despliegues de tropas en naves de despliegue, una ventaja táctica que no podemos permitir.\n\nDespliégate tras las líneas enemigas y destruye sus naves de despliegue y la infraestructura de la base aérea."
+        },
+        {
+            "Key": 761201047,
+            "Value": "Influencia (uno mismo)"
+        },
+        {
+            "Key": 763481946,
+            "Value": "Influencia (comunidad)"
+        },
+        {
+            "Key": 766592482,
+            "Value": "ASEGURAR LA CAJA NEGRA"
+        },
+        {
+            "Key": 767789391,
+            "Value": "Códigos de lanzamiento"
+        },
+        {
+            "Key": 768540070,
+            "Value": "ACTIVAR BOMBAS DE COMBUSTIBLE"
+        },
+        {
+            "Key": 776586177,
+            "Value": "VERIFICAR SUMA DE COMPROBACIÓN DE TRANSFERENCIA"
+        },
+        {
+            "Key": 782436802,
+            "Value": "RECOMPENSAS DE MISIÓN"
+        },
+        {
+            "Key": 785844264,
+            "Value": "OPERACIÓN FALLIDA"
+        },
+        {
+            "Key": 786618189,
+            "Value": "ESTACIÓN DE REPOSTAJE"
+        },
+        {
+            "Key": 793095850,
+            "Value": "DESPLEGAR SONDA SÍSMICA"
+        },
+        {
+            "Key": 802464482,
+            "Value": "Hay una red de torres listas para dispersar Termicida letal para los bichos por todo el planeta. Cuando estén activas, el planeta quedará libre de termínidos para siempre.\n\nActiva la torre de dispersión del Termicida en esta región y esparce una nube purificadora de Termicida."
+        },
+        {
+            "Key": 803352399,
+            "Value": "Utilizad las torres LiDAR para recopilar datos sobre las esporas de la lobreguez y enviadlos mediante una estación de retransmisión de comunicaciones."
+        },
+        {
+            "Key": 804180263,
+            "Value": "Activar terminal del área de lanzadera"
+        },
+        {
+            "Key": 806400175,
+            "Value": "#TYPE: +#AMOUNT/#POTENTIAL"
+        },
+        {
+            "Key": 810653429,
+            "Value": "Usar terminal para restablecer los fusibles"
+        },
+        {
+            "Key": 814806505,
+            "Value": "Destruir los emplazamientos antiaéreos de los autómatas"
+        },
+        {
+            "Key": 815219129,
+            "Value": "CABEZA EXPLOSIVA"
+        },
+        {
+            "Key": 819011526,
+            "Value": "Datos de investigación disponibles y listos para su envío"
+        },
+        {
+            "Key": 823115776,
+            "Value": "Datos de ubicación listos"
+        },
+        {
+            "Key": 825026804,
+            "Value": "Saludar a la bandera de Supertierra"
+        },
+        {
+            "Key": 826568436,
+            "Value": "EXTRAER SUSTANCIA MISTERIOSA"
+        },
+        {
+            "Key": 836203038,
+            "Value": "Estado de la perforadora: estable"
+        },
+        {
+            "Key": 841369837,
+            "Value": "Módulo de alimentación del silo"
+        },
+        {
+            "Key": 845126010,
+            "Value": "TRASMITIENDO DATOS"
+        },
+        {
+            "Key": 848244517,
+            "Value": "Las unidades S.E.A.F. han encontrado empaladores en esta región. No son capaces de lidiar con esta amenaza.\n\nComo Helldivers de élite, debéis dar caza y matar a todos los empaladores de la zona."
+        },
+        {
+            "Key": 851882018,
+            "Value": "Se ha detectado una emisión de propaganda ilegal en esta ubicación."
+        },
+        {
+            "Key": 856398682,
+            "Value": "La perforadora podría molestar a las criaturas subterráneas"
+        },
+        {
+            "Key": 858415206,
+            "Value": "ESCOTILLA DEL SILO BLOQUEADA"
+        },
+        {
+            "Key": 865432226,
+            "Value": "Naves enemigas desplegadas: #COUNT"
+        },
+        {
+            "Key": 872189308,
+            "Value": "ERROR: QUITAR PERNOS DE LAS ESCOTILLAS"
+        },
+        {
+            "Key": 877488575,
+            "Value": "Destruye las torres infestadas de chillones para limpiar este distrito de sus parásitos potenciales."
+        },
+        {
+            "Key": 877839842,
+            "Value": "Erradicar huevos de termínidos"
+        },
+        {
+            "Key": 878121724,
+            "Value": "Se ha informado de la presencia de un gran número de tropas autómatas en la región."
+        },
+        {
+            "Key": 893045708,
+            "Value": "Matar a los termínidos"
+        },
+        {
+            "Key": 897258492,
+            "Value": "Activar escaneo sísmico"
+        },
+        {
+            "Key": 906353481,
+            "Value": "Silo de batería 03 desactivado"
+        },
+        {
+            "Key": 910809576,
+            "Value": "Destruir las naves de despliegue autómatas"
+        },
+        {
+            "Key": 919046200,
+            "Value": "Encontrad las sondas que se enviaron hacia la lobreguez y extraed los datos de investigación que hayan recopilado."
+        },
+        {
+            "Key": 923261140,
+            "Value": "Una vez que se haya recuperado la caja negra, deberá transportarse a un punto de enlace ascendente interplanetario para subir los datos a la red secreta del Ministerio de Defensa."
+        },
+        {
+            "Key": 924843531,
+            "Value": "Silo de b. 03"
+        },
+        {
+            "Key": 926567821,
+            "Value": "La perforadora podría molestar a las criaturas subterráneas"
+        },
+        {
+            "Key": 927042336,
+            "Value": "ALERTA: TRANSMISIÓN CIFRADA RECIBIDA\n\nDESCIFRANDO…\n.\n.\n.\nCLASIFICACIÓN: ULTRASECRETO\n\nMINISTERIO DE DEFENSA\nDIRECCIÓN DE PREPARACIÓN DE HELLDIVERS\nESTACIÓN DE ORIGEN: MARTE\n\nCIRCULAR PARA: Comando de Preparación de Helldivers\nASUNTO: Informe diario de reclutamiento\n\nTotal de nuevos reclutas en fase de entrenamiento: 48 736\n Media de edad (años): 18,7 \n Tasa promedio de preparación para el combate: 27,1 %\n Tasa promedio de patriotismo: 97,4 %\n\nTasa de supervivencia esperada: 21,3 % \nProducción de Helldivers proyectada: DENTRO DE LA CUOTA\n\nFIN DE LA TRANSMISIÓN"
+        },
+        {
+            "Key": 928577212,
+            "Value": "ESCAPE"
+        },
+        {
+            "Key": 929233412,
+            "Value": "Usar terminal para alinear la señal de comunicaciones"
+        },
+        {
+            "Key": 930644385,
+            "Value": "Nuevas misiones disponibles"
+        },
+        {
+            "Key": 932130225,
+            "Value": "El servicio de inteligencia secreta ha identificado, mediante procedimientos altamente clasificados y muy heroicos, una cepa mutada de larvas en esta colmena. Encontrad las larvas mutadas y recuperadlas para que nuestros valerosos especialistas en Anatomía de Bichos y Desarrollo de Armas (ABDA) puedan estudiarlas."
+        },
+        {
+            "Key": 935493230,
+            "Value": "EVACUAR A LOS COLONIZADORES"
+        },
+        {
+            "Key": 935971687,
+            "Value": "ASEGURAR LA ZONA DE INVESTIGACIÓN"
+        },
+        {
+            "Key": 939787527,
+            "Value": "Oportunidad completada"
+        },
+        {
+            "Key": 944677035,
+            "Value": "RECOMPENSA DE OPORTUNIDAD"
+        },
+        {
+            "Key": 945997508,
+            "Value": "PROTOCOLO DE EVACUACIÓN ACTIVADO"
+        },
+        {
+            "Key": 946587294,
+            "Value": "Continuar hacia la zona de entrenamiento de la estratagema Apoyo"
+        },
+        {
+            "Key": 948824005,
+            "Value": "FUSIBLE 5"
+        },
+        {
+            "Key": 950693245,
+            "Value": "Defiende el silo de batería hasta que se complete la activación"
+        },
+        {
+            "Key": 952027228,
+            "Value": "Misión de oportunidad"
+        },
+        {
+            "Key": 952667345,
+            "Value": "Un número inmenso de militantes autómatas está concentrado en esta ciudad infestada. Hay que ejecutar acciones decisivas para reducir su número. \n \nDespliégate al centro de la zona de combate y mata a todos los bots que puedas."
+        },
+        {
+            "Key": 955217368,
+            "Value": "Confirma la profundidad con la interfaz de la perforadora"
+        },
+        {
+            "Key": 959618138,
+            "Value": "Tirar de la palanca del transformador"
+        },
+        {
+            "Key": 962666211,
+            "Value": "Eliminar al comandante del nido"
+        },
+        {
+            "Key": 971650047,
+            "Value": "Escoltar civiles al área de lanzadera"
+        },
+        {
+            "Key": 976542272,
+            "Value": "Despeja la zona de lanzamiento"
+        },
+        {
+            "Key": 979606697,
+            "Value": "MODIFICADOR DE OPERACIÓN AÑADIDO"
+        },
+        {
+            "Key": 981754863,
+            "Value": "Acabad con las crías termínidas lanzando una carga nuclear en todas las cámaras del criadero."
+        },
+        {
+            "Key": 981825449,
+            "Value": "SECUENCIA DE LANZAMIENTO INICIADA"
+        },
+        {
+            "Key": 988370961,
+            "Value": "Busca y destruye los fabricantes de autómatas activos"
+        },
+        {
+            "Key": 1002982797,
+            "Value": "DOS"
+        },
+        {
+            "Key": 1004048437,
+            "Value": "En esta región, el bombardeo orbital ha dejado al descubierto vetas de lo que parecen ser minerales raros y valiosos. \n\nNo podemos permitir que los autómatas las exploten antes de que liberemos el planeta. Baja ahí y recopila datos a partir de muestras de suelo para confirmar si merece la pena extraer los materiales."
+        },
+        {
+            "Key": 1007294856,
+            "Value": "Victoria gloriosa"
+        },
+        {
+            "Key": 1009070099,
+            "Value": "Alerta: críticamente inestable"
+        },
+        {
+            "Key": 1009126933,
+            "Value": "Protege nuestro modo de vida frente a los autómatas como sea."
+        },
+        {
+            "Key": 1013604829,
+            "Value": "RECUPERAR DATOS VALIOSOS"
+        },
+        {
+            "Key": 1015910248,
+            "Value": "EVACUACIÓN DE EMERGENCIA"
+        },
+        {
+            "Key": 1026152227,
+            "Value": "CARGAR PROYECTILES DE ARTILLERÍA"
+        },
+        {
+            "Key": 1029340711,
+            "Value": "Bombeo en curso..."
+        },
+        {
+            "Key": 1029683930,
+            "Value": "Un Camión Articulado Todoterreno de Extracción Terrestre (CATET) se ha desplegado a esta zona en la que se han localizado múltiples reservas de sustancia de alto valor.\n\nSe os ha certificado sumariamente como Operativos Expertos de Vehículos Grandes. Desplegaos a la zona y usad el CATET para extraer la sustancia misteriosa de todas las ubicaciones identificadas."
+        },
+        {
+            "Key": 1029794728,
+            "Value": "Según las medidas atmosféricas, la densidad de esporas aéreas en esta zona está alcanzando niveles críticos. Es cuestión de horas que este distrito se vuelva inhabitable.\n\nDestruye las bioarmas termínidas que producen estas esporas para que nuestros ciudadanos puedan volver a respirar con libertad."
+        },
+        {
+            "Key": 1029868551,
+            "Value": "INSTALACIÓN DE AVIONES DE COMBATE"
+        },
+        {
+            "Key": 1039398966,
+            "Value": "RECUPERAR LOS COMPUESTOS QUÍMICOS"
+        },
+        {
+            "Key": 1048553999,
+            "Value": "Usar terminal para sabotear torre de control"
+        },
+        {
+            "Key": 1063103250,
+            "Value": "Abrir válvula"
+        },
+        {
+            "Key": 1063513747,
+            "Value": "Restablece todos los fusibles fundidos"
+        },
+        {
+            "Key": 1065335399,
+            "Value": "Escoltar al personal a la lanzadera de evacuación"
+        },
+        {
+            "Key": 1065661022,
+            "Value": "<c=#NAME_COLOR>TIEMPO DE LA MISIÓN</c> <c=#COUNT_COLOR>#HOURS:#MINUTES:#SECONDS</c>"
+        },
+        {
+            "Key": 1065955238,
+            "Value": "ACTIVAR SUBSISTEMAS DE LANZADORA"
+        },
+        {
+            "Key": 1070161154,
+            "Value": "CAÑÓN DE DEFENSA PLANETARIA ARMADO"
+        },
+        {
+            "Key": 1079258265,
+            "Value": "GÁNATE LA CAPA DE HELLDIVER"
+        },
+        {
+            "Key": 1084788693,
+            "Value": "IZAR LA BANDERA DE SUPERTIERRA"
+        },
+        {
+            "Key": 1087423356,
+            "Value": "Confirmar que el lugar de perforación es seguro para la operación"
+        },
+        {
+            "Key": 1093694372,
+            "Value": "Defended la perforadora durante el despliegue"
+        },
+        {
+            "Key": 1094134469,
+            "Value": "Acceder al CATET"
+        },
+        {
+            "Key": 1095612653,
+            "Value": "INTRODUCIR SECUENCIA DE ACTIVACIÓN"
+        },
+        {
+            "Key": 1104170543,
+            "Value": "CONFIRMAR POSICIÓN DE LA PERFORADORA"
+        },
+        {
+            "Key": 1107536245,
+            "Value": "Desconecta a los bots de su red de información destruyendo sus búnkeres de mando."
+        },
+        {
+            "Key": 1111436140,
+            "Value": "Apagar"
+        },
+        {
+            "Key": 1115518260,
+            "Value": "El enemigo ha localizado un depósito de recursos defensivos clasificados, guardados desde hace tiempo para la defensa de la ciudad. Para evitar que el depósito que tanto nos ha costado obtener caiga en sus garras totalitarias, debemos evacuarlo del planeta cuanto antes.\n \nAl comenzar la evacuación, vuestra posición le será revelada a los invasores. Defended el lugar hasta que se haya completado el transporte."
+        },
+        {
+            "Key": 1117477617,
+            "Value": "Un gigantesco enjambre de termínidos se ha reunido en esta zona. No podemos quedarnos ociosos ante esta amenaza si queremos recuperar la ciudad.\n\nMata a todos los termínidos posibles para mermar sus fuerzas."
+        },
+        {
+            "Key": 1117755848,
+            "Value": "Este planeta está tan infestado que parece ser una sola colmena de termínidos interconectada. Las esporas de la lobreguez se originan en alguna parte del interior de este planeta.\n\nEs complicado predecir las amenazas que habrá en este planeta. Los Helldivers tienen que adentrarse en las cuevas del enemigo para eliminar sus secretos. Reclama el Mundo colmena y libera a nuestros ciudadanos del horror de la lobreguez."
+        },
+        {
+            "Key": 1121413222,
+            "Value": "Recuperar #ENTITY"
+        },
+        {
+            "Key": 1123050000,
+            "Value": "¿ACTIVAR LA PERFORADORA 1?"
+        },
+        {
+            "Key": 1128785210,
+            "Value": "DEFENDER CIUDAD"
+        },
+        {
+            "Key": 1129593185,
+            "Value": "OBJETOS VALIOSOS"
+        },
+        {
+            "Key": 1134842368,
+            "Value": "INICIO DE SISTEMA..."
+        },
+        {
+            "Key": 1139125063,
+            "Value": "Alzando MBIC a la posición de lanzamiento"
+        },
+        {
+            "Key": 1139955559,
+            "Value": "ELIMINA AL CAMINANTE DE FÁBRICA"
+        },
+        {
+            "Key": 1141843610,
+            "Value": "TRES"
+        },
+        {
+            "Key": 1150338544,
+            "Value": "Debemos aprovechar esta oportunidad para destruir la supercolonia termínida. Los Helldivers de todo el planeta se desplegarán con un suministro limitado de la materia exótica que conocemos como fluido oscuro y la insertarán en puntos clave de la corteza del planeta. \n\nUna vez alcanzada la masa crítica, el planeta colapsará en un agujero negro. Así acabaremos de una vez por todas con esta amenaza para la libertad."
+        },
+        {
+            "Key": 1150782017,
+            "Value": "Nido de bichos ligero erradicado"
+        },
+        {
+            "Key": 1153925056,
+            "Value": "Los informes indican que esta es la ubicación en la que se vio a un titán de bilis por última vez."
+        },
+        {
+            "Key": 1154328682,
+            "Value": "Utiliza la perforadora de explotación minera para recuperar la última muestra"
+        },
+        {
+            "Key": 1157625947,
+            "Value": "El enjambre de termínidos avanza sin descanso por la región y tiene rodeada una de nuestras estaciones de investigación secretas de la zona.\n\nUsa tu autorización para desbloquear las puertas de los búnkeres de emergencia y protege al personal del centro mientras se traslada a la lanzadera de evacuación."
+        },
+        {
+            "Key": 1158604736,
+            "Value": "Clavar la bandera en la zona indicada"
+        },
+        {
+            "Key": 1158974024,
+            "Value": "Las naves de reconocimiento meteorológico que estaban activas cuando la lobreguez llegó a este planeta podrían contener datos relevantes sobre la atmósfera afectada por esta neblina. \n\nEncontrad las cajas negras y utilizad una estación de retransmisión local para descifrar y transferir los datos de investigación al servidor principal del Ministerio de Ciencia."
+        },
+        {
+            "Key": 1162026773,
+            "Value": "POR FAVOR, ESPERA"
+        },
+        {
+            "Key": 1166766769,
+            "Value": "Restablecer alineación de la torre"
+        },
+        {
+            "Key": 1166849866,
+            "Value": "SECUENCIA DE DISPAROS INICIADA"
+        },
+        {
+            "Key": 1168390666,
+            "Value": "ACTIVAR"
+        },
+        {
+            "Key": 1170483735,
+            "Value": "MUESTRA 03"
+        },
+        {
+            "Key": 1174286117,
+            "Value": "La Legión Autómata se sustenta en su estricta jerarquía. Si eliminas a los líderes, sus filas caerán fácilmente.\n\nCreemos que hay devastadores en la región. Encuéntralos y destrúyelos."
+        },
+        {
+            "Key": 1178268125,
+            "Value": "Bombas de hace décadas se han vuelto inutilizables por la infestación descontrolada de los termínidos. Sin embargo, las bombas siguen intactas en su estructura y las reservas que otrora bombeaban se encuentran llenas de E-711 extremadamente valioso.\n\nDespeja los restos de termínidos que bloquean la tubería y haz que vuelva a funcionar."
+        },
+        {
+            "Key": 1184433395,
+            "Value": "Módulo de Acceso del Sistema"
+        },
+        {
+            "Key": 1190235804,
+            "Value": "Haz lo que sea necesario para reducir la población de bichos."
+        },
+        {
+            "Key": 1190377439,
+            "Value": "LISTO"
+        },
+        {
+            "Key": 1190975309,
+            "Value": "RECLAMAD LA CIUDAD"
+        },
+        {
+            "Key": 1195041927,
+            "Value": "Conducta deshonrosa"
+        },
+        {
+            "Key": 1199560702,
+            "Value": "PURGAR CRIADEROS"
+        },
+        {
+            "Key": 1200094261,
+            "Value": "Lanzamisiles MTA"
+        },
+        {
+            "Key": 1210569969,
+            "Value": "Espera"
+        },
+        {
+            "Key": 1212788409,
+            "Value": "Influencia (inicio)"
+        },
+        {
+            "Key": 1225832087,
+            "Value": "Activar terminal"
+        },
+        {
+            "Key": 1229741624,
+            "Value": "EXTRAER SUSTANCIA MISTERIOSA"
+        },
+        {
+            "Key": 1234386790,
+            "Value": "Esperando jugadores 00:#MINS"
+        },
+        {
+            "Key": 1236304419,
+            "Value": "Destruye todos los huevos de termínidos mutados de la zona."
+        },
+        {
+            "Key": 1236457519,
+            "Value": "Repeled las fuerzas enemigas que intentan quedarse con la ciudad."
+        },
+        {
+            "Key": 1236536730,
+            "Value": "Victoria lastimosa"
+        },
+        {
+            "Key": 1239195132,
+            "Value": "Erradica el pulmón que produce esporas de la lobreguez en el interior de la colmena."
+        },
+        {
+            "Key": 1247038911,
+            "Value": "Iza la bandera de Supertierra como una inexpugnable baliza de libertad."
+        },
+        {
+            "Key": 1248557823,
+            "Value": "Transferencia de combustible en curso"
+        },
+        {
+            "Key": 1248949050,
+            "Value": "+#COUNT MUESTRAS"
+        },
+        {
+            "Key": 1255258576,
+            "Value": "SABOTEAR LA BASE AÉREA"
+        },
+        {
+            "Key": 1255637022,
+            "Value": "Insertar SSSD en el receptáculo"
+        },
+        {
+            "Key": 1255707028,
+            "Value": "Inserta los SSSD en la escotilla"
+        },
+        {
+            "Key": 1259256715,
+            "Value": "Es necesario ajustar la válvula manualmente"
+        },
+        {
+            "Key": 1263564083,
+            "Value": "Bombas de hace décadas se han vuelto inutilizables por la infestación descontrolada de los termínidos. Sin embargo, las bombas siguen intactas en su estructura y las reservas que otrora bombeaban se encuentran llenas de una sustancia nueva y extraña parecida al E-710. \n\nDespeja los restos de termínidos que bloquean la tubería y haz que vuelva a funcionar."
+        },
+        {
+            "Key": 1265668144,
+            "Value": "Bastión despejado"
+        },
+        {
+            "Key": 1268370994,
+            "Value": "ABRIR ESCOTILLA DE SILO"
+        },
+        {
+            "Key": 1271321738,
+            "Value": "Torre de rayos"
+        },
+        {
+            "Key": 1272669911,
+            "Value": "Nave enemiga desplegada"
+        },
+        {
+            "Key": 1274597484,
+            "Value": "Silo de b. 02"
+        },
+        {
+            "Key": 1275834881,
+            "Value": "Los termínidos de esta zona se están multiplicando exponencialmente. Si no hacemos algo pronto, esta plaga se nos irá de las manos.\n\nDestruye los nidos y mata tantos bichos como puedas."
+        },
+        {
+            "Key": 1276323300,
+            "Value": "Debemos mostrarle a la galaxia que, incluso ante la opresión, la libertad se mantiene desafiante. \n \nInfíltrate en esta región infestada de termínidos e iza nuestra bandera como una inexpugnable baliza de libertad."
+        },
+        {
+            "Key": 1280777009,
+            "Value": "ELEVANDO LANZADERA"
+        },
+        {
+            "Key": 1281099157,
+            "Value": "ACTIVAR TORRE"
+        },
+        {
+            "Key": 1288868496,
+            "Value": "Cantidad de fortificaciones"
+        },
+        {
+            "Key": 1290033850,
+            "Value": "Lanzad una bomba Hell para destruir el cañón"
+        },
+        {
+            "Key": 1290845980,
+            "Value": "Progreso de equipación"
+        },
+        {
+            "Key": 1294020786,
+            "Value": "RECUPERAR AL PERSONAL ESENCIAL"
+        },
+        {
+            "Key": 1295360129,
+            "Value": "FALLO DE ACTIVACIÓN: VÁLVULAS BLOQUEADAS"
+        },
+        {
+            "Key": 1305039869,
+            "Value": "Inf misión com. (uno mismo)"
+        },
+        {
+            "Key": 1313086161,
+            "Value": "Inicia para descargar los datos en un disco SSSD cifrado"
+        },
+        {
+            "Key": 1319105446,
+            "Value": "Transportad el recipiente al punto de carga"
+        },
+        {
+            "Key": 1319122806,
+            "Value": "Lanzadera de transferencia de combustible aproximándose"
+        },
+        {
+            "Key": 1321978814,
+            "Value": "¡Subes de nivel!"
+        },
+        {
+            "Key": 1323381177,
+            "Value": "Silo de batería 02 desactivado"
+        },
+        {
+            "Key": 1328813780,
+            "Value": "Activar terminal"
+        },
+        {
+            "Key": 1330906044,
+            "Value": "Usa el CATET para extraer E-711 de todos los puntos identificados."
+        },
+        {
+            "Key": 1332022394,
+            "Value": "Estuche de especímenes"
+        },
+        {
+            "Key": 1336016081,
+            "Value": "UNO"
+        },
+        {
+            "Key": 1339087588,
+            "Value": "Entregar discos duros SSSD"
+        },
+        {
+            "Key": 1342077885,
+            "Value": "RECOMPENSA DIARIA"
+        },
+        {
+            "Key": 1344755793,
+            "Value": "Evacúa a los civiles atrapados tras las filas de los autómatas."
+        },
+        {
+            "Key": 1345231973,
+            "Value": "Los autómatas han construido una base aérea donde antes se erguían las casas de nuestros ciudadanos, lo que les permite dominar el espacio aéreo de la ciudad. \n\nPenetra en la base y demoledla. No dejes ni una nave de despliegue intacta."
+        },
+        {
+            "Key": 1345618657,
+            "Value": "Buscar empalador"
+        },
+        {
+            "Key": 1346729511,
+            "Value": "El Ministerio de Ciencia ha lanzado cientos de miles de sondas espaciales robóticas a la lobreguez. La lobreguez interfiere con la retransmisión de la señal. Una se ha estrellado en esta zona.\n\nEncontrad la sonda y potenciad su señal para que los datos puedan atravesar la lobreguez atmosférica y llegar al Superdestructor."
+        },
+        {
+            "Key": 1349342142,
+            "Value": "INICIAR ESCANEO DE LA ZONA"
+        },
+        {
+            "Key": 1350042216,
+            "Value": "ACTIVAR"
+        },
+        {
+            "Key": 1354134375,
+            "Value": "Usa la terminal para abrir escotilla del búnker"
+        },
+        {
+            "Key": 1354835711,
+            "Value": "Acabad con los invasores que se atrevan a mancillar nuestra bandera. Alzad con orgullo el inmortal símbolo de nuestra democracia gestionada y reclamad esta ciudad en el nombre de la libertad."
+        },
+        {
+            "Key": 1356373844,
+            "Value": "Las tropas de los S.E.A.F. informan de avistamientos de un devastador en esta zona."
+        },
+        {
+            "Key": 1357339998,
+            "Value": "Subiendo datos al ordenador central de Supertierra"
+        },
+        {
+            "Key": 1360343155,
+            "Value": "Redirigir combustible a un nuevo objetivo"
+        },
+        {
+            "Key": 1363933163,
+            "Value": "Lucharás contra los #RACE."
+        },
+        {
+            "Key": 1364087615,
+            "Value": "IMPACTO BÉLICO"
+        },
+        {
+            "Key": 1367202795,
+            "Value": "Operando al 100 % de eficiencia"
+        },
+        {
+            "Key": 1372441245,
+            "Value": "Victoria"
+        },
+        {
+            "Key": 1375464804,
+            "Value": "Escolta y protege a los investigadores mientras se dirigen a la zona de evacuación."
+        },
+        {
+            "Key": 1377858079,
+            "Value": "Abriendo escotilla. Gracias por tu paciencia."
+        },
+        {
+            "Key": 1379114142,
+            "Value": "Ajusta el protocolo de redirección"
+        },
+        {
+            "Key": 1380527507,
+            "Value": "RECOGIDA DE MUESTRAS EN CURSO"
+        },
+        {
+            "Key": 1387716743,
+            "Value": "INFORME EXTRAÍDO POR"
+        },
+        {
+            "Key": 1390962095,
+            "Value": "Eliminar variante"
+        },
+        {
+            "Key": 1392270027,
+            "Value": "SACRIFICAR A LAS CRÍAS"
+        },
+        {
+            "Key": 1400993941,
+            "Value": "Ha ocurrido un error desconocido e inesperado en el sistema"
+        },
+        {
+            "Key": 1401129762,
+            "Value": "Combustible"
+        },
+        {
+            "Key": 1404839977,
+            "Value": "Destruye los cañones orbitales autómatas de la zona."
+        },
+        {
+            "Key": 1405381893,
+            "Value": "OPERACIÓN COMPLETADA"
+        },
+        {
+            "Key": 1409573597,
+            "Value": "Eliminar a los devastadores"
+        },
+        {
+            "Key": 1409974189,
+            "Value": "Continuar hacia la prueba final"
+        },
+        {
+            "Key": 1420875237,
+            "Value": "Usar terminal para activar la transferencia de combustible"
+        },
+        {
+            "Key": 1428161101,
+            "Value": "SERVIDOR DE LA TORRE DE CONTROL AÉREO"
+        },
+        {
+            "Key": 1428945026,
+            "Value": "DEFENDER PLANETA"
+        },
+        {
+            "Key": 1436046545,
+            "Value": "Liberad a los colonizadores atrapados y escoltadlos hasta un lugar seguro."
+        },
+        {
+            "Key": 1449175215,
+            "Value": "ABRIR ESCOTILLA DE DISCOS SSSD"
+        },
+        {
+            "Key": 1450979115,
+            "Value": "LLEVAR A CABO EXTRACCIÓN DE E-711 MÓVIL"
+        },
+        {
+            "Key": 1455983201,
+            "Value": "Encender"
+        },
+        {
+            "Key": 1457853290,
+            "Value": "Tirar la granada en el agujero de bichos artificial"
+        },
+        {
+            "Key": 1461885605,
+            "Value": "EXTRAER E-711"
+        },
+        {
+            "Key": 1462457090,
+            "Value": "Desactiva los silos de batería corruptos"
+        },
+        {
+            "Key": 1462909407,
+            "Value": "Destruid a todas las cosechadoras en el área."
+        },
+        {
+            "Key": 1465083245,
+            "Value": "Recursos evacuados. Id al punto de extracción."
+        },
+        {
+            "Key": 1467471677,
+            "Value": "Las naves de teletransporte de los Iluminados están atracadas aquí. Destruidlas mientras estén vulnerables."
+        },
+        {
+            "Key": 1468160281,
+            "Value": "PROTEGER LANZAMISILES"
+        },
+        {
+            "Key": 1471387497,
+            "Value": "Nuestros enemigos han creado un conflicto en esta región. No habrá paz hasta que los derrotemos."
+        },
+        {
+            "Key": 1471869982,
+            "Value": "Activar terminal"
+        },
+        {
+            "Key": 1472930399,
+            "Value": "MONEDA"
+        },
+        {
+            "Key": 1479552987,
+            "Value": "Quita manualmente todos los cierres de las esclusas."
+        },
+        {
+            "Key": 1483079969,
+            "Value": "Localiza y elimina al bruto autómata."
+        },
+        {
+            "Key": 1485224906,
+            "Value": "Nave de despliegue autómata"
+        },
+        {
+            "Key": 1486066125,
+            "Value": "Los termínidos han tomado una estación de investigación de los S.E.A.F. en la región. Debemos recuperar su importantísimo trabajo.\n\nVe a la estación, descarga la base de datos de investigación y súbela al ordenador central de Supertierra usando la estación de enlace ascendente por satélite cercana."
+        },
+        {
+            "Key": 1492050893,
+            "Value": "Contenedor de larva"
+        },
+        {
+            "Key": 1496010243,
+            "Value": "Alzar el símbolo de la democracia gestionada enviará un mensaje innegable de que la libertad vuelve a reinar en esta colonia."
+        },
+        {
+            "Key": 1497655096,
+            "Value": "Nido de bichos medio erradicado"
+        },
+        {
+            "Key": 1512949433,
+            "Value": "MISIÓN COMPLETADA"
+        },
+        {
+            "Key": 1518873863,
+            "Value": "Los códigos de acceso del cañón de defensa planetaria se encuentran en esta ubicación."
+        },
+        {
+            "Key": 1521574653,
+            "Value": "INICIAR COPIA DE SEGURIDAD DE EMERGENCIA"
+        },
+        {
+            "Key": 1522495655,
+            "Value": "Usar la estratagema Ataque de precisión orbital para matar enemigos"
+        },
+        {
+            "Key": 1523476421,
+            "Value": "Usar terminal para iniciar la copia de seguridad de la base de datos de emergencia"
+        },
+        {
+            "Key": 1525000887,
+            "Value": "HELLDIVERS EXTRAÍDOS"
+        },
+        {
+            "Key": 1526876604,
+            "Value": "Punto de investigación"
+        },
+        {
+            "Key": 1527626864,
+            "Value": "INICIAR ELIMINACIÓN DE DATOS"
+        },
+        {
+            "Key": 1539464482,
+            "Value": "Desplazándose a la ubicación de perforación..."
+        },
+        {
+            "Key": 1547141993,
+            "Value": "ESTIMS USADOS:"
+        },
+        {
+            "Key": 1549126177,
+            "Value": "Torre de repetidor"
+        },
+        {
+            "Key": 1549706842,
+            "Value": "IZAR LA BANDERA DE SUPERTIERRA"
+        },
+        {
+            "Key": 1549756075,
+            "Value": "La perforadora de explotación minera de esta ubicación puede extraer testigos de sedimentos, analizar su composición y subir los datos generados."
+        },
+        {
+            "Key": 1557419619,
+            "Value": "Permite que las lanzaderas recojan el combustible almacenado en las reservas."
+        },
+        {
+            "Key": 1561295478,
+            "Value": "La caja negra debe entregarse en el punto de enlace ascendente interplanetario de esta posición para subir los datos encriptados a la red del Ministerio de Defensa."
+        },
+        {
+            "Key": 1562356454,
+            "Value": "HORDA DE BICHOS"
+        },
+        {
+            "Key": 1563965062,
+            "Value": "Lanzamisiles MTA"
+        },
+        {
+            "Key": 1566238134,
+            "Value": "MATA BICHOS"
+        },
+        {
+            "Key": 1574046645,
+            "Value": "Destruir los silos de combustible"
+        },
+        {
+            "Key": 1576177655,
+            "Value": "Depósito activo"
+        },
+        {
+            "Key": 1578281421,
+            "Value": "ERROR: Torre de comunicaciones desconectada"
+        },
+        {
+            "Key": 1579516697,
+            "Value": "Por favor, accede a la estación de transmisión cercana para continuar"
+        },
+        {
+            "Key": 1584528805,
+            "Value": "Usar estratagema: <i=1>#ENTITY</i>"
+        },
+        {
+            "Key": 1589424449,
+            "Value": "Activar terminal"
+        },
+        {
+            "Key": 1591269562,
+            "Value": "CAPTURAR LAS TORRES DE SATÉLITES CIVILES"
+        },
+        {
+            "Key": 1592613774,
+            "Value": "RECUPERAR SSSD"
+        },
+        {
+            "Key": 1595355818,
+            "Value": "Investiga y envía tus descubrimientos"
+        },
+        {
+            "Key": 1595769879,
+            "Value": "Destacamento de automatones ligero destruido"
+        },
+        {
+            "Key": 1603613106,
+            "Value": "PAGO ESPERADO"
+        },
+        {
+            "Key": 1609303434,
+            "Value": "Eliminad la cosechadora"
+        },
+        {
+            "Key": 1614411709,
+            "Value": "Investigar la estación de investigación renegada"
+        },
+        {
+            "Key": 1616173269,
+            "Value": "Sacrificio glorioso"
+        },
+        {
+            "Key": 1621984480,
+            "Value": "Sistema de terminal del área de espera de emergencia"
+        },
+        {
+            "Key": 1622894175,
+            "Value": "Un recipiente experimental que contiene 40 gramos de fluido oscuro para uso armamentístico suspendido en un campo magnético."
+        },
+        {
+            "Key": 1624189459,
+            "Value": "Descargando datos de investigación en disco SSSD"
+        },
+        {
+            "Key": 1624799956,
+            "Value": "Extracción lograda"
+        },
+        {
+            "Key": 1624905625,
+            "Value": "REDIRIGIR FLUJO DE COMBUSTIBLE"
+        },
+        {
+            "Key": 1628088293,
+            "Value": "Espera un momento."
+        },
+        {
+            "Key": 1630466920,
+            "Value": "Aunque la mayoría de termínidos murieron por el Termicida, algunos consiguieron sobrevivir y se adaptaron. Ahora, amenazan con evolucionar aún más y hacerse con el planeta entero. Hay que desactivar todas las torres de dispersión del Termicida lo antes posible."
+        },
+        {
+            "Key": 1632926029,
+            "Value": "Abriendo escotilla…"
+        },
+        {
+            "Key": 1633175426,
+            "Value": "Insertad el recipiente en la perforadora"
+        },
+        {
+            "Key": 1635143847,
+            "Value": "TIEMPO RESTANTE DE LA MISIÓN"
+        },
+        {
+            "Key": 1638385704,
+            "Value": "Destruye la infraestructura de los autómatas para mermar su capacidad de producción de tropas."
+        },
+        {
+            "Key": 1642197796,
+            "Value": "Códigos de acceso"
+        },
+        {
+            "Key": 1648015410,
+            "Value": "La libertad nos guía"
+        },
+        {
+            "Key": 1648689263,
+            "Value": "DESTRUIR LA TORRE DE CONTROL DE LA BASE AÉREA"
+        },
+        {
+            "Key": 1649782566,
+            "Value": "Inf misión com. (comunidad)"
+        },
+        {
+            "Key": 1651671499,
+            "Value": "RECUPERAR LOS CÓDIGOS DE ACCESO"
+        },
+        {
+            "Key": 1653375691,
+            "Value": "MUESTRAS EXTRAÍDAS:"
+        },
+        {
+            "Key": 1659516311,
+            "Value": "Naves enemigas en reserva: #COUNT"
+        },
+        {
+            "Key": 1659902457,
+            "Value": "EVACUAR LA ZONA"
+        },
+        {
+            "Key": 1660115203,
+            "Value": "Lanzamiento del cohete en curso"
+        },
+        {
+            "Key": 1673130948,
+            "Value": "Localiza el lugar de bombeo"
+        },
+        {
+            "Key": 1673870250,
+            "Value": "Nuestros informes sugieren que los autómatas están acumulando munición en esta zona."
+        },
+        {
+            "Key": 1673923679,
+            "Value": "FUSIBLE 2"
+        },
+        {
+            "Key": 1691572204,
+            "Value": "IMPACTO DE LA MISIÓN"
+        },
+        {
+            "Key": 1696158145,
+            "Value": "Transportar disco duro SSSD al transmisor de comunicaciones"
+        },
+        {
+            "Key": 1697648178,
+            "Value": "Matar a todos los termínidos"
+        },
+        {
+            "Key": 1700425528,
+            "Value": "<c=#NAME_COLOR>MUESTRAS EXTRAÍDAS</c> <c=#COUNT_COLOR>#COUNT</c>"
+        },
+        {
+            "Key": 1700860878,
+            "Value": "Recoge el arma secundaria"
+        },
+        {
+            "Key": 1702066642,
+            "Value": "Diaria completada"
+        },
+        {
+            "Key": 1705537422,
+            "Value": "Listo para iniciar secuencia de recarga para el proyectil orbital Slag M723"
+        },
+        {
+            "Key": 1706024967,
+            "Value": "Las torres de comunicación de la zona deben localizarse y activarse para poder realizar retransmisiones a la población civil."
+        },
+        {
+            "Key": 1713443279,
+            "Value": "Iniciar secuencia de disparo"
+        },
+        {
+            "Key": 1713492572,
+            "Value": "x#VALUE"
+        },
+        {
+            "Key": 1719703463,
+            "Value": "Inicia sesión"
+        },
+        {
+            "Key": 1722699279,
+            "Value": "DETENER LA EMISIÓN ILEGAL"
+        },
+        {
+            "Key": 1726641594,
+            "Value": "Desactivando..."
+        },
+        {
+            "Key": 1732619482,
+            "Value": "REDIRIGIR COMBUSTIBLE A UN NUEVO OBJETIVO"
+        },
+        {
+            "Key": 1734927926,
+            "Value": "Campo de alteración cognitiva detectado"
+        },
+        {
+            "Key": 1735277762,
+            "Value": "Realiza un estudio geológico para identificar vetas de mineral valiosas."
+        },
+        {
+            "Key": 1737162772,
+            "Value": "Hemos recibido informes sobre la presencia de titanes de bilis en la zona que suponen una amenaza considerable para nuestras operaciones.\n\nHay que eliminar a los especímenes antes de que se reproduzcan."
+        },
+        {
+            "Key": 1740363653,
+            "Value": "DESTRUIR HUEVOS"
+        },
+        {
+            "Key": 1740852089,
+            "Value": "Activa el terminal"
+        },
+        {
+            "Key": 1745697805,
+            "Value": "PROPAGAR LA DEMOCRACIA"
+        },
+        {
+            "Key": 1746702421,
+            "Value": "En esta región hay una base aérea autómata. Las naves de despliegue están en mantenimiento en esta instalación, lo cual las deja vulnerables."
+        },
+        {
+            "Key": 1751374118,
+            "Value": "ELIMINAR A LOS BRUTOS AUTÓMATAS"
+        },
+        {
+            "Key": 1751768302,
+            "Value": "ALTERADOR COGNITIVO"
+        },
+        {
+            "Key": 1752226463,
+            "Value": "Desactiva el silo de batería 03"
+        },
+        {
+            "Key": 1754035950,
+            "Value": "Usar los controles de la puerta para dejar salir al personal de los búnkeres de emergencia"
+        },
+        {
+            "Key": 1755054833,
+            "Value": "Usa el CATET para extraer la sustancia misteriosa de todos los puntos identificados."
+        },
+        {
+            "Key": 1756463788,
+            "Value": "Un avión de reconocimiento de S.E.A.F. ha sido derribado sobre esta colonia ocupada. Debemos recuperar inmediatamente la información secreta que contenía, antes de que el enemigo la destruya."
+        },
+        {
+            "Key": 1763202421,
+            "Value": "REPELER LA INVASIÓN"
+        },
+        {
+            "Key": 1767301278,
+            "Value": "Iniciar transmisión de datos"
+        },
+        {
+            "Key": 1770769441,
+            "Value": "Todas las comunicaciones de las naves de despliegue se dirigen a través de esta torre de control. Si la destruimos, inhabilitaremos cualquier despliegue de naves de largo alcance."
+        },
+        {
+            "Key": 1773921075,
+            "Value": "Un avión de reconocimiento S.E.A.F. ha sido derribado por los invasores en el trascurso de una misión. Recuperad los discos de datos antes de que sean destruidos."
+        },
+        {
+            "Key": 1776187287,
+            "Value": "Introducir código de lanzamiento: #OTHER"
+        },
+        {
+            "Key": 1777619219,
+            "Value": "ALERTA: TRANSMISIÓN CIFRADA RECIBIDA\n\nDESCIFRANDO…\n.\n.\n.\nCLASIFICACIÓN: ALTO SECRETO\n\nMINISTERIO DE DEFENSA\nDIRECCIÓN DE PREPARACIÓN DE LOS HELLDIVERS\nESTACIÓN DE ORIGEN: UBICACIÓN NO REVELADA\n\nCIRCULAR PARA: Comando de preparación de los Helldivers\nSUJETO: Informe diario de reclutas entrantes\n\nReclutas entrantes en total: 48 736\nProm. Edad (años): 18,7 \nProm. Tasa de preparación para combate: 27,1 %\nProm. Tasa de patriotismo: 97,4 %\n\nTasa de supervivencia esperada: 21,3 % \nProducción de Helldivers esperada: DENTRO DE LA CUOTA\n\nFIN DE LA TRANSMISIÓN"
+        },
+        {
+            "Key": 1778488497,
+            "Value": "RECLAMAD LA CIUDAD"
+        },
+        {
+            "Key": 1780333244,
+            "Value": "Se ha localizado un criadero de termínidos bajo la superficie en esta ubicación. Millones de larvas de termínidos se gestan en las cámaras subterráneas.\n\nLos criaderos de termínidos están formados por una o más cámaras. Usa la perforadora rompecolmenas para lanzar un dispositivo de exterminio nuclear a cada una de ellas."
+        },
+        {
+            "Key": 1786062800,
+            "Value": "Recoger el Liberador AR-23"
+        },
+        {
+            "Key": 1787625357,
+            "Value": "Inf misión com. (máx)"
+        },
+        {
+            "Key": 1787745812,
+            "Value": "ACTIVAR PERFORADORA"
+        },
+        {
+            "Key": 1790503876,
+            "Value": "¿Desactivar perturbador de estratagemas?"
+        },
+        {
+            "Key": 1794897449,
+            "Value": "Aquí hay un radar móvil S.E.A.F. abandonado. Puede proporcionar información crucial sobre la zona."
+        },
+        {
+            "Key": 1799389348,
+            "Value": "Prepara los MBIC y lánzalos."
+        },
+        {
+            "Key": 1799635206,
+            "Value": "RADAR"
+        },
+        {
+            "Key": 1800386877,
+            "Value": "Las naves de teletransporte de los Iluminados han atracado en esta localización. ¡Aplastadlos!"
+        },
+        {
+            "Key": 1801819105,
+            "Value": "Para descargar el fluido oscuro"
+        },
+        {
+            "Key": 1802135572,
+            "Value": "Espera a que se complete la secuencia de diagnóstico del generador"
+        },
+        {
+            "Key": 1804508227,
+            "Value": "Usar terminal para elevar lanzadera de misiles tierra-aire"
+        },
+        {
+            "Key": 1805815248,
+            "Value": "Listo para disparar cañón orbital. Busca el objetivo usando la terminal de control adyacente"
+        },
+        {
+            "Key": 1813416016,
+            "Value": "Repeled el contingente de los Iluminados que ataca este planeta."
+        },
+        {
+            "Key": 1813849392,
+            "Value": "RETRIBUCIÓN DEL ESCUADRÓN"
+        },
+        {
+            "Key": 1817771230,
+            "Value": "Inicia sesión"
+        },
+        {
+            "Key": 1819981985,
+            "Value": "Los escaneos aéreos han detectado altos niveles de producción autómata en esta zona."
+        },
+        {
+            "Key": 1823884758,
+            "Value": "EMPLAZAMIENTO DE MORTERO"
+        },
+        {
+            "Key": 1828283522,
+            "Value": "Activar terminal de artillería"
+        },
+        {
+            "Key": 1828683420,
+            "Value": "Activando bombas de petróleo"
+        },
+        {
+            "Key": 1828776547,
+            "Value": "Para limitar el crecimiento de la población de termínidos, debemos atacar sus colmenas maduras.\n\nActiva un silo de misiles balísticos intercontinentales en el planeta para aniquilar de una enormes concentraciones de bichos."
+        },
+        {
+            "Key": 1839599612,
+            "Value": "Los termínidos han tomado este edificio, que ahora es un criadero de chillones."
+        },
+        {
+            "Key": 1841093792,
+            "Value": "Una cosechadora Iluminada se encuentra en esta área. Encontradla y destruidla."
+        },
+        {
+            "Key": 1843083936,
+            "Value": "Activación de la artillería requerida"
+        },
+        {
+            "Key": 1845692258,
+            "Value": "EVACUAD A LOS CIUDADANOS"
+        },
+        {
+            "Key": 1845748710,
+            "Value": "OBJETIVOS DE GRAN VALOR"
+        },
+        {
+            "Key": 1852142797,
+            "Value": "Estado de la perforadora: dañada"
+        },
+        {
+            "Key": 1858881662,
+            "Value": "Torre LiDAR bajada en este momento."
+        },
+        {
+            "Key": 1860230325,
+            "Value": "50 % de los objetivos completados"
+        },
+        {
+            "Key": 1865115085,
+            "Value": "Erradicad el número indicado de termínidos y de nidos."
+        },
+        {
+            "Key": 1865206544,
+            "Value": "DESPLEGAD EL FLUIDO OSCURO"
+        },
+        {
+            "Key": 1873750698,
+            "Value": "Combustible insuficiente"
+        },
+        {
+            "Key": 1880335159,
+            "Value": "El SCT está listo. Protege este planeta de los bichos para siempre."
+        },
+        {
+            "Key": 1893695190,
+            "Value": "INSTALACIONES INACTIVAS"
+        },
+        {
+            "Key": 1895124532,
+            "Value": "PERFORACIÓN EN CURSO"
+        },
+        {
+            "Key": 1897839356,
+            "Value": "#COUNT [CE]"
+        },
+        {
+            "Key": 1898283179,
+            "Value": "Los autómatas han ganado terreno en esta ciudad y han construido una amplia red de fabricantes que les permite replicarse a una velocidad endiablada.\n \nSe han identificado sus ubicaciones. Tenemos que atacar ya, antes de que se repliquen descontroladamente."
+        },
+        {
+            "Key": 1899611438,
+            "Value": "Perturbador de estratagemas inactivo"
+        },
+        {
+            "Key": 1899754973,
+            "Value": "ERRADICAR A FUERZAS AUTÓMATAS"
+        },
+        {
+            "Key": 1902302378,
+            "Value": "Esta estación de carga de repostaje está desconectada. Debe reactivarse para iniciar la distribución de combustible."
+        },
+        {
+            "Key": 1913688337,
+            "Value": "Liberad a los ciudadanos atrapados y escoltadlos hasta un lugar seguro."
+        },
+        {
+            "Key": 1913949765,
+            "Value": "Aléjate de las partes que se están elevando"
+        },
+        {
+            "Key": 1914208299,
+            "Value": "DESPLEGAR EL EMISOR SUBTERRÁNEO"
+        },
+        {
+            "Key": 1914672627,
+            "Value": "Las operaciones con el cañón podrían dañar los oídos."
+        },
+        {
+            "Key": 1914950146,
+            "Value": "ELIMINAR AL BRUTO"
+        },
+        {
+            "Key": 1921818882,
+            "Value": "Ajusta todas las válvulas indicadas."
+        },
+        {
+            "Key": 1922833675,
+            "Value": "Los aviones de combate autómatas se fabrican en esta zona."
+        },
+        {
+            "Key": 1925353026,
+            "Value": "Los colonizadores que escaparon de la abducción y el control mental de los Iluminados, probablemente los más patriotas e inalterables de su sector demográfico, están atrapados en refugios de emergencia. El enemigo se aproxima; si no los rescatamos, estarán perdidos.\n\nLas naves de transporte se acercan, pero la zona de evacuación está bajo control enemigo. Los Helldivers son la única esperanza de los colonizadores."
+        },
+        {
+            "Key": 1935531511,
+            "Value": "MUERTES:"
+        },
+        {
+            "Key": 1938834551,
+            "Value": "Fuerzas incomprensibles"
+        },
+        {
+            "Key": 1951270070,
+            "Value": "Motores"
+        },
+        {
+            "Key": 1958433982,
+            "Value": "Inicia la secuencia de disparos"
+        },
+        {
+            "Key": 1962369016,
+            "Value": "Activa el silo de batería 03"
+        },
+        {
+            "Key": 1964072812,
+            "Value": "Utiliza la perforadora de explotación minera para recuperar la primera muestra"
+        },
+        {
+            "Key": 1965810182,
+            "Value": "OBTENER LOS DATOS DE LA SONDA DE INVESTIGACIÓN"
+        },
+        {
+            "Key": 1968906060,
+            "Value": "El escaneo del terreno revelará los lugares cercanos"
+        },
+        {
+            "Key": 1977308076,
+            "Value": "ADVERTENCIA: ESTACIÓN INOPERATIVA"
+        },
+        {
+            "Key": 1979930256,
+            "Value": "EXTRAER E-711"
+        },
+        {
+            "Key": 1983239401,
+            "Value": "REPELER LA FLOTA INVASORA"
+        },
+        {
+            "Key": 1984443237,
+            "Value": "Liberar planeta"
+        },
+        {
+            "Key": 1988242305,
+            "Value": "Esta ciudad está bajo control enemigo. Debemos reclamarla en nombre de la libertad."
+        },
+        {
+            "Key": 1989698991,
+            "Value": "REACTIVAR EL GENERADOR"
+        },
+        {
+            "Key": 1990429936,
+            "Value": "ACTIVAR TERMINAL DE DATOS"
+        },
+        {
+            "Key": 1991803739,
+            "Value": "Apuntar cañón orbital"
+        },
+        {
+            "Key": 1996039132,
+            "Value": "Silo de b. 03"
+        },
+        {
+            "Key": 1996703633,
+            "Value": "BOMBARDEAR LA CÁMARA DEL CRIADERO"
+        },
+        {
+            "Key": 2003933905,
+            "Value": "Iniciar sesión en la interfaz de la sonda"
+        },
+        {
+            "Key": 2004909665,
+            "Value": "MALETÍN"
+        },
+        {
+            "Key": 2009521352,
+            "Value": "ARTEFACTO ILUMINADO"
+        },
+        {
+            "Key": 2017155486,
+            "Value": "PX concedidos"
+        },
+        {
+            "Key": 2025791024,
+            "Value": "Los Iluminados están invadiendo nuestra pacífica, leal y próspera colonia con la intención de transformar a nuestros ciudadanos en abominaciones sin voto y de crear campos de energía extraña con algún oscuro propósito antidemocrático. Hay que detenerlos."
+        },
+        {
+            "Key": 2029045988,
+            "Value": "DISCO DURO SSSD"
+        },
+        {
+            "Key": 2032931639,
+            "Value": "Realiza un estudio geológico para identificar vetas de mineral valiosas."
+        },
+        {
+            "Key": 2039095996,
+            "Value": "Este nódulo de colmena termínido emite una niebla densa que reduce la visibilidad."
+        },
+        {
+            "Key": 2045888767,
+            "Value": "Reponer munición"
+        },
+        {
+            "Key": 2053793640,
+            "Value": "No toques las partes en movimiento"
+        },
+        {
+            "Key": 2054415072,
+            "Value": "Las cosechadoras de los Iluminados patrullan esta parte de la ciudad. Buscad y destruid la amenaza ambulante."
+        },
+        {
+            "Key": 2063895312,
+            "Value": "Clase de fortificación"
+        },
+        {
+            "Key": 2067123077,
+            "Value": "Deposita los discos duros SSSD en el puerto de recepción"
+        },
+        {
+            "Key": 2067205943,
+            "Value": "Destruir a regurgitador de esporas termínido"
+        },
+        {
+            "Key": 2069716682,
+            "Value": "Activar terminal liberado"
+        },
+        {
+            "Key": 2070314061,
+            "Value": "Destruye el nido de chillones"
+        },
+        {
+            "Key": 2073441684,
+            "Value": "¿SUBIR LOS DATOS DE LAS MUESTRAS?"
+        },
+        {
+            "Key": 2079096779,
+            "Value": "Iniciar sesión en terminal del área de lanzadera"
+        },
+        {
+            "Key": 2080857789,
+            "Value": "LEVANTAR PLATO"
+        },
+        {
+            "Key": 2081692256,
+            "Value": "Activar terminal"
+        },
+        {
+            "Key": 2090959963,
+            "Value": "Se espera que un convoy de autómatas sumamente reforzado atraviese esta región. Interceptad y destruid el convoy antes de que abandone la zona de la misión."
+        },
+        {
+            "Key": 2095994991,
+            "Value": "Localizar torre de transmisión"
+        },
+        {
+            "Key": 2098994313,
+            "Value": "Destruye los regurgitadores de esporas para que nuestros ciudadanos puedan respirar con libertad."
+        },
+        {
+            "Key": 2101115961,
+            "Value": "CAJA NEGRA"
+        },
+        {
+            "Key": 2101446058,
+            "Value": "Repeled a los invasores Iluminados antes de que lleven a cabo lo que sea que estén haciendo."
+        },
+        {
+            "Key": 2102569661,
+            "Value": "Recupera los datos clave de la investigación y transmítelos."
+        },
+        {
+            "Key": 2116361915,
+            "Value": "Gracias por tu paciencia"
+        },
+        {
+            "Key": 2118518394,
+            "Value": "Una flota invasora de autómatas está atacando este planeta.\n\n¡Debemos repeler a las fuerzas invasoras antes de que sea demasiado tarde!"
+        },
+        {
+            "Key": 2119525640,
+            "Value": "ELIMINAR AL COMANDANTE DEL NIDO"
+        },
+        {
+            "Key": 2124411631,
+            "Value": "Rearmando cañón de defensa planetaria…"
+        },
+        {
+            "Key": 2126726749,
+            "Value": "Inf misión com. (inicio)"
+        },
+        {
+            "Key": 2136737967,
+            "Value": "EXPLORAR LA LOBREGUEZ"
+        },
+        {
+            "Key": 2141540131,
+            "Value": "Localiza y destruye a fabricantes autómatas."
+        },
+        {
+            "Key": 2144732626,
+            "Value": "Debemos mostrarle a la galaxia que, incluso ante la opresión, la libertad se mantiene desafiante. \n \nInfíltrate entre las filas autómatas e iza nuestra bandera como una inexpugnable baliza de libertad."
+        },
+        {
+            "Key": 2146788206,
+            "Value": "Aquí hay un enjambre denso de termínidos. Erradícalo."
+        },
+        {
+            "Key": 2147390723,
+            "Value": "Encontrad caminantes de fábrica"
+        },
+        {
+            "Key": 2151944345,
+            "Value": "Volver a cargar"
+        },
+        {
+            "Key": 2152357750,
+            "Value": "DESPLEGAR CARGA NUCLEAR"
+        },
+        {
+            "Key": 2154001434,
+            "Value": "Selecciona sistemas que sabotear"
+        },
+        {
+            "Key": 2161574821,
+            "Value": "Recuperar la bandera de Supertierra"
+        },
+        {
+            "Key": 2165457603,
+            "Value": "Electricidad"
+        },
+        {
+            "Key": 2169316289,
+            "Value": "Transmisión interplanetaria de datos lista"
+        },
+        {
+            "Key": 2171378463,
+            "Value": "Se cree que este planeta contiene valiosas vetas de mineral, pero la intensa actividad termínida (y los elevados índices de mortalidad de los geólogos civiles) han obstaculizado hasta ahora las exploraciones.\n\nActiva la perforadora de exploración minera para recoger datos a partir de muestras de suelo y verifica la composición planetaria."
+        },
+        {
+            "Key": 2173519201,
+            "Value": ">> BLOQUEADO <<"
+        },
+        {
+            "Key": 2178175578,
+            "Value": "RECOMPENSA POR SUBIR DE NIVEL"
+        },
+        {
+            "Key": 2181388342,
+            "Value": "Cerrar puerta"
+        },
+        {
+            "Key": 2182563833,
+            "Value": "Se ha descubierto un gigantesco criadero termínido infestado de millones de larvas recién eclosionadas, a pocas semanas de convertirse en voraces adultas. Deben ser exterminadas antes de que alcancen la madurez y asesinen a niños humanos inocentes.\n\nLos criaderos termínidos están formados por una o más cámaras. Usad la perforadora rompecolmenas para lanzar un dispositivo de exterminación nuclear a cada una de ellas."
+        },
+        {
+            "Key": 2185143619,
+            "Value": "CREAR COPIA DE SEGURIDAD DE LA BASE DE DATOS DE EMERGENCIA"
+        },
+        {
+            "Key": 2186859217,
+            "Value": "Preparad vuestras defensas. \n\nInicio automático: #TIME"
+        },
+        {
+            "Key": 2190481941,
+            "Value": "Seleccionar coordenadas indicadas en la cuadrícula"
+        },
+        {
+            "Key": 2191483918,
+            "Value": "Usar terminal para iniciar el lanzamiento"
+        },
+        {
+            "Key": 2194002616,
+            "Value": "ALERTA: ENTRADA DE COMBUSTIBLE BLOQUEADA"
+        },
+        {
+            "Key": 2194282969,
+            "Value": "RECLAMAD LA CIUDAD"
+        },
+        {
+            "Key": 2195387101,
+            "Value": "Al activar este generador, los dispositivos de los S.E.A.F. de la región recibirán la energía que necesitan."
+        },
+        {
+            "Key": 2204289064,
+            "Value": "Lanzadera de evacuación en camino"
+        },
+        {
+            "Key": 2206768360,
+            "Value": "El cañón orbital se encuentra aquí. Infiltraos en el lugar y utilizad una bomba Hell para destruirlo."
+        },
+        {
+            "Key": 2207832920,
+            "Value": "PREPARANDO ESCANEO DE LA ZONA"
+        },
+        {
+            "Key": 2210337971,
+            "Value": "PELIGRO - PRESENCIA ENEMIGA"
+        },
+        {
+            "Key": 2212526227,
+            "Value": "Protege nuestro modo de vida frente a los termínidos como sea."
+        },
+        {
+            "Key": 2216916513,
+            "Value": "Tiempo transcurrido en la superficie"
+        },
+        {
+            "Key": 2232151788,
+            "Value": "BOMBARDEAR EL CRIADERO"
+        },
+        {
+            "Key": 2234330983,
+            "Value": "GUÍA"
+        },
+        {
+            "Key": 2237064223,
+            "Value": "Esta colonia está ocupada por los invasores Iluminados. Debemos liberarla."
+        },
+        {
+            "Key": 2238702792,
+            "Value": "Recoger estims del simulador de lesiones"
+        },
+        {
+            "Key": 2241576450,
+            "Value": "NEUTRALIZAR LAS DEFENSAS ORBITALES"
+        },
+        {
+            "Key": 2245869430,
+            "Value": "DESTRUIR EL BÚNKER DE MANDO AUTÓMATA"
+        },
+        {
+            "Key": 2246173906,
+            "Value": "Hay millones de kilómetros de túneles de termínidos bajo la superficie de este planeta. Es necesario realizar un mapeo subterráneo detallado para identificar objetivos críticos.\n\nUsa una perforadora de explotación minera readaptada para recoger muestras del manto infestado. Los análisis identificarán propiedades de estructuras termínidas locales."
+        },
+        {
+            "Key": 2250960762,
+            "Value": "Este Mundo colmena produce esporas de la lobreguez en el interior de la extensa red de cuevas de los termínidos. También son la única fuente conocida del valioso E-711.\n\nNo hay nada más importante que liberar a nuestros ciudadanos de la amenaza de la lobreguez. Adquirir E-711 también es prioritario para la seguridad galáctica. Tus órdenes están claras. "
+        },
+        {
+            "Key": 2252283152,
+            "Value": "Destruye los huevos de termínidos mutados"
+        },
+        {
+            "Key": 2252673352,
+            "Value": "Recuperad la ciudad de manos de sus ocupantes ilegales."
+        },
+        {
+            "Key": 2254050036,
+            "Value": "Perfora la colmena de termínidos para analizar su composición."
+        },
+        {
+            "Key": 2257237107,
+            "Value": "Perforación en curso..."
+        },
+        {
+            "Key": 2257698922,
+            "Value": "Aniquilad a la estirpe repugnante de los termínidos y a sus odiosos progenitores."
+        },
+        {
+            "Key": 2259728881,
+            "Value": "¿ELEVAR TORRE LIDAR?"
+        },
+        {
+            "Key": 2261840423,
+            "Value": "DESTRUIR LOS BÚNKERES DE MANDO"
+        },
+        {
+            "Key": 2262072624,
+            "Value": "DESBLOQ."
+        },
+        {
+            "Key": 2262724740,
+            "Value": "Infíltrate en territorio autómata y destruye sus reservas de combustible y munición."
+        },
+        {
+            "Key": 2266578497,
+            "Value": "Realinear torre satélite de forma manual"
+        },
+        {
+            "Key": 2267878169,
+            "Value": "RESTABLECER LA CALIDAD DEL AIRE"
+        },
+        {
+            "Key": 2268441657,
+            "Value": "Destruye automatones"
+        },
+        {
+            "Key": 2268700696,
+            "Value": "Cargar arma"
+        },
+        {
+            "Key": 2271594322,
+            "Value": "ACTIVAR BOMBAS DE PETRÓLEO"
+        },
+        {
+            "Key": 2272579577,
+            "Value": "Un avión de reconocimiento derribado se ha estrellado aquí. Su información se encuentra almacenada en una caja negra, en algún lugar entre los escombros."
+        },
+        {
+            "Key": 2284698652,
+            "Value": "TRAZAR LOS TÚNELES DE LOS TERMÍNIDOS"
+        },
+        {
+            "Key": 2290530748,
+            "Value": "LLEVA EL VEHÍCULO HASTA LA UBICACIÓN DE ENTREGA"
+        },
+        {
+            "Key": 2290550427,
+            "Value": "RESCATAR AL PERSONAL ESENCIAL"
+        },
+        {
+            "Key": 2293397614,
+            "Value": "Usar la estratagema de subida de datos para comenzar la subida"
+        },
+        {
+            "Key": 2296159403,
+            "Value": "Golpeador"
+        },
+        {
+            "Key": 2298091595,
+            "Value": "ELEVAR LANZADOR"
+        },
+        {
+            "Key": 2302497810,
+            "Value": "EXTRACCIÓN FALLIDA"
+        },
+        {
+            "Key": 2304136058,
+            "Value": "Esta instalación contiene datos de investigación producidos de forma antipatriótica. Hay que arrasarla por completo."
+        },
+        {
+            "Key": 2308523261,
+            "Value": "PRESENCIA DE #RACE"
+        },
+        {
+            "Key": 2312292744,
+            "Value": "Activar la perforadora de explotación minera"
+        },
+        {
+            "Key": 2313924635,
+            "Value": "Defender área"
+        },
+        {
+            "Key": 2314593523,
+            "Value": "Recupera los datos clave de la investigación y transmítelos."
+        },
+        {
+            "Key": 2315290736,
+            "Value": "Mochila química"
+        },
+        {
+            "Key": 2316288590,
+            "Value": "La ofensiva autómata ha tomado la zona y tiene rodeada una de nuestras estaciones de investigación secretas.\n\nUsa tu autorización para desbloquear las puertas de los búnkeres de emergencia y protege al personal del centro mientras se traslada a la lanzadera de evacuación."
+        },
+        {
+            "Key": 2318515204,
+            "Value": "Escotilla lista para abrirse"
+        },
+        {
+            "Key": 2322933964,
+            "Value": "Destruye autómatas"
+        },
+        {
+            "Key": 2323084938,
+            "Value": "ELEVAR EL CAÑÓN DE DEFENSA PLANETARIA"
+        },
+        {
+            "Key": 2324676534,
+            "Value": "Usar la estratagema Refuerzo para revivir a un compañero de escuadrón caído"
+        },
+        {
+            "Key": 2328705886,
+            "Value": "Los termínidos de esta zona amenazan la libertad de diversas formas, a cuál más abominable. Hay que detenerlo."
+        },
+        {
+            "Key": 2330533729,
+            "Value": "Mata a termínidos para reducir su número."
+        },
+        {
+            "Key": 2330806174,
+            "Value": "Defiende la libertad"
+        },
+        {
+            "Key": 2333813626,
+            "Value": "Recogiendo muestra"
+        },
+        {
+            "Key": 2333834422,
+            "Value": "El disco con el código de lanzamiento del misil se dejó en una base de esta región."
+        },
+        {
+            "Key": 2336243886,
+            "Value": "INICIAR ENVÍO EN LA ESTACIÓN DE TRANSMISIÓN"
+        },
+        {
+            "Key": 2338099950,
+            "Value": "SUBIR DATOS DE CÁPSULA DE ESCAPE"
+        },
+        {
+            "Key": 2340015848,
+            "Value": "Desactiva los silos de batería para detener la dispersión del Termicida."
+        },
+        {
+            "Key": 2340823345,
+            "Value": "IMPACTO"
+        },
+        {
+            "Key": 2349064975,
+            "Value": "Recuperad la información secreta de un avión de reconocimiento S.E.A.F. derribado."
+        },
+        {
+            "Key": 2349442677,
+            "Value": "Las esporas de la lobreguez impregnan la atmósfera del planeta desde la superficie hasta la exosfera. Las torres LiDAR dispersas por la zona pueden utilizarse para medir la densidad y la composición de las esporas de la lobreguez.\n\nActivad las torres, descargad sus datos y transmitidlos fuera del planeta a través de la estación de retransmisión local."
+        },
+        {
+            "Key": 2354025483,
+            "Value": "SONDA SÍSMICA"
+        },
+        {
+            "Key": 2356532435,
+            "Value": "Abrir puerta"
+        },
+        {
+            "Key": 2357412450,
+            "Value": "Evacuad la zona"
+        },
+        {
+            "Key": 2359399777,
+            "Value": "Exterminio de bichos"
+        },
+        {
+            "Key": 2365423054,
+            "Value": "Muestras"
+        },
+        {
+            "Key": 2366202284,
+            "Value": "Los extractores situados sobre este enorme depósito de crudo han dejado de funcionar y deben reactivarse."
+        },
+        {
+            "Key": 2370408778,
+            "Value": "Cuidado con las ventiscas cegadoras y la nieve profunda."
+        },
+        {
+            "Key": 2370772246,
+            "Value": "RECIPIENTE DE FLUIDO OSCURO"
+        },
+        {
+            "Key": 2379580646,
+            "Value": "Iniciar sesión en el terminal"
+        },
+        {
+            "Key": 2380544313,
+            "Value": "Activa la plataforma de perforación y garantiza la extracción exitosa de E-711."
+        },
+        {
+            "Key": 2383338337,
+            "Value": "Rendimiento normal"
+        },
+        {
+            "Key": 2385167251,
+            "Value": "Servicio decepcionante"
+        },
+        {
+            "Key": 2391925668,
+            "Value": "MISIÓN DE OPORTUNIDAD"
+        },
+        {
+            "Key": 2392465944,
+            "Value": "EXTERMINAR A TERMÍNIDOS"
+        },
+        {
+            "Key": 2393454283,
+            "Value": "Introduce la secuencia de activación"
+        },
+        {
+            "Key": 2398211331,
+            "Value": "APUNTADO"
+        },
+        {
+            "Key": 2401299203,
+            "Value": "DESPLEGAD EL FLUIDO OSCURO"
+        },
+        {
+            "Key": 2402923326,
+            "Value": "AJUSTAR LAS VÁLVULAS MANUALMENTE"
+        },
+        {
+            "Key": 2406392610,
+            "Value": "Destruye la torre detectora autómata"
+        },
+        {
+            "Key": 2424425968,
+            "Value": "LANZAMISILES ACTIVOS"
+        },
+        {
+            "Key": 2424481257,
+            "Value": "Lugar de lanzamiento inoperativo. Id al punto de extracción."
+        },
+        {
+            "Key": 2428511542,
+            "Value": "Activad el cañón de defensa planetaria y utilizadlo para derribar la nave nodriza de los Iluminados."
+        },
+        {
+            "Key": 2429169727,
+            "Value": "Quitar manualmente todos los pernos de las escotillas de los silos"
+        },
+        {
+            "Key": 2439699512,
+            "Value": "Recupera la funcionalidad del lugar de bombeo."
+        },
+        {
+            "Key": 2442819854,
+            "Value": "MODIFICADOR DE OPERACIÓN ELIMINADO"
+        },
+        {
+            "Key": 2443881283,
+            "Value": "Cantidad de enemigos"
+        },
+        {
+            "Key": 2444304889,
+            "Value": "Los escaneos planetarios han revelado una serie de bases de suministro autómatas ocultas tras sus líneas defensivas.\n\nInfíltrate rápidamente y destruye sus reservas antes de que puedan organizar una defensa conjunta."
+        },
+        {
+            "Key": 2452694656,
+            "Value": "Fijar la manguera de combustible a la bomba de transferencia"
+        },
+        {
+            "Key": 2453551750,
+            "Value": "Elevar la fuerza de la señal al 100 %"
+        },
+        {
+            "Key": 2455424748,
+            "Value": "ELIMINACIONES:"
+        },
+        {
+            "Key": 2457510246,
+            "Value": "Los Iluminados pretenden apoderarse de esta ciudad e inundar nuestras calles con sus despóticos monolitos. \n \nDesplegaos por ellas, demoled los totalitarios monumentos del enemigo y alzad la bandera de Supertierra para restaurar la esperanza de nuestros ciudadanos."
+        },
+        {
+            "Key": 2466808441,
+            "Value": "Análisis de minerales completado"
+        },
+        {
+            "Key": 2467146338,
+            "Value": "Valor superior"
+        },
+        {
+            "Key": 2468140080,
+            "Value": "ELIMINAR A LOS COMANDANTES DEL NIDO"
+        },
+        {
+            "Key": 2468339199,
+            "Value": "EMPLAZAMIENTOS ANTIAÉREO"
+        },
+        {
+            "Key": 2470414457,
+            "Value": "Eliminad a los supervisores Iluminados"
+        },
+        {
+            "Key": 2471034422,
+            "Value": "COMPROBANDO LOS SISTEMAS…"
+        },
+        {
+            "Key": 2473476479,
+            "Value": "IMPACTO DEL ESCUADRÓN <i=1>#INFLUENCE</i>"
+        },
+        {
+            "Key": 2483028481,
+            "Value": "En esta zona existen importantes reservas de petróleo necesarias para alimentar nuestros incesantes esfuerzos de guerra.\n\nRecorred el enjambre termínido, reactivad las bombas y transferid el combustible a las lanzaderas de transporte que esperan."
+        },
+        {
+            "Key": 2483189490,
+            "Value": "RECUPERAR DATOS VALIOSOS"
+        },
+        {
+            "Key": 2485591796,
+            "Value": "Preparando sonda sísmica"
+        },
+        {
+            "Key": 2488533786,
+            "Value": "Activa los tres silos de batería e inicia la dispersión del Termicida."
+        },
+        {
+            "Key": 2493471413,
+            "Value": "La vigilancia sugiere que un comandante del nido se encuentra en esta ubicación."
+        },
+        {
+            "Key": 2496593312,
+            "Value": "Un Camión Articulado Todoterreno de Extracción Terrestre (CATET) se ha desplegado a esta zona, en la que se han localizado múltiples reservas de E-711.\n\nSe os ha certificado sumariamente como Operativos Expertos de Vehículos Grandes. Desplegaos a la zona y usad el CATET para extraer E-711 de todas las ubicaciones identificadas."
+        },
+        {
+            "Key": 2503033309,
+            "Value": "Hemos identificado una serie de búnkeres bien vigilados en esta región. Sospechamos que contienen nodos de mando que constituyen la clave para conectar con el flujo de transmisiones autómata.\n\nDestruye los búnkeres y corta el flujo de información de los bots."
+        },
+        {
+            "Key": 2507454049,
+            "Value": "Mantén las extremidades alejadas de las partes en movimiento de la perforadora"
+        },
+        {
+            "Key": 2509196198,
+            "Value": "Una nueva variante termínida muy peligrosa ha diezmado las unidades S.E.A.F. en esta zona. Debemos limitar la propagación de esta cepa mutante. \n\nBuscad y erradicad la variante. Actuad con la mayor precaución posible."
+        },
+        {
+            "Key": 2510614687,
+            "Value": "ERROR DEL SISTEMA"
+        },
+        {
+            "Key": 2525564346,
+            "Value": "Activa la plataforma de perforación y garantiza la extracción exitosa de la sustancia parecida al E-710."
+        },
+        {
+            "Key": 2526243565,
+            "Value": "Introduce el código para autorizar la expulsión"
+        },
+        {
+            "Key": 2527498143,
+            "Value": "Repele la flota invasora de autómatas que ataca este planeta."
+        },
+        {
+            "Key": 2530061352,
+            "Value": "Para frenar el crecimiento de la población de termínidos, debemos atacar sus repulsivos criaderos.\n\nEncuentra y destruye todos los huevos de termínidos de la zona antes de que el enemigo pueda reaccionar."
+        },
+        {
+            "Key": 2537601495,
+            "Value": "Carga los silos de batería"
+        },
+        {
+            "Key": 2538301274,
+            "Value": "PUNTO DE CARGA"
+        },
+        {
+            "Key": 2538343677,
+            "Value": "Expulsa a los autómatas de este planeta."
+        },
+        {
+            "Key": 2540642156,
+            "Value": "VOLVER A LA ZONA"
+        },
+        {
+            "Key": 2543277293,
+            "Value": "BAJAS CUERPO A CUERPO:"
+        },
+        {
+            "Key": 2547152065,
+            "Value": "Los autómatas han ganado terreno en esta región y han construido una amplia red de fabricantes que les permite replicarse a una velocidad endiablada.\n\nHemos detectado un breve período de mantenimiento que nos da la oportunidad de atacar sus instalaciones. Destruye todo lo que puedas."
+        },
+        {
+            "Key": 2554621228,
+            "Value": "Sistema de Control de Termínidos"
+        },
+        {
+            "Key": 2555575705,
+            "Value": "Encontrar al cargador termínido"
+        },
+        {
+            "Key": 2569398198,
+            "Value": "Desactiva el silo de batería 02"
+        },
+        {
+            "Key": 2570056183,
+            "Value": "BLITZ"
+        },
+        {
+            "Key": 2572958008,
+            "Value": "Soltar la manguera de combustible"
+        },
+        {
+            "Key": 2573125048,
+            "Value": "RECUPERAR DATOS VALIOSOS"
+        },
+        {
+            "Key": 2575685330,
+            "Value": "ACTIVA EL SISTEMA DE CONTROL DE TERMÍNIDOS"
+        },
+        {
+            "Key": 2577581064,
+            "Value": "BUSCAR Y DESTRUIR"
+        },
+        {
+            "Key": 2582160374,
+            "Value": "Perturbador desactivado"
+        },
+        {
+            "Key": 2582672300,
+            "Value": "ALINEAMIENTO MANUAL REQUERIDO"
+        },
+        {
+            "Key": 2586556407,
+            "Value": "Recuperad la caja negra de una nave de reconocimiento meteorológico que se haya estrellado y enviad los datos fuera del planeta."
+        },
+        {
+            "Key": 2587020879,
+            "Value": "CALIBRAR VOLTAJE"
+        },
+        {
+            "Key": 2591249663,
+            "Value": "UBICACIÓN NO REVELADA"
+        },
+        {
+            "Key": 2591631933,
+            "Value": "ARTILLERÍA S.E.A.F."
+        },
+        {
+            "Key": 2591985951,
+            "Value": "Eliminar al bruto"
+        },
+        {
+            "Key": 2595318786,
+            "Value": "Encontrar a los devastadores autómatas"
+        },
+        {
+            "Key": 2595831478,
+            "Value": "Silo de b. 01"
+        },
+        {
+            "Key": 2596970518,
+            "Value": "Patriotismo excepcional"
+        },
+        {
+            "Key": 2597423876,
+            "Value": "SELLAR AGUJEROS DE BICHOS"
+        },
+        {
+            "Key": 2598690750,
+            "Value": "Buscad y erradicad la variante termínida."
+        },
+        {
+            "Key": 2606323274,
+            "Value": "Los termínidos han robado especímenes de larvas y huevos enemigos de gran valor. Recuperadlos."
+        },
+        {
+            "Key": 2608388352,
+            "Value": "Recargar artillería"
+        },
+        {
+            "Key": 2608438244,
+            "Value": "Repeled las fuerzas enemigas que intentan quedarse con la ciudad."
+        },
+        {
+            "Key": 2610886589,
+            "Value": "REALIZAR ESTUDIOS GEOLÓGICOS"
+        },
+        {
+            "Key": 2613524189,
+            "Value": "Encontrar al bruto autómata"
+        },
+        {
+            "Key": 2616030087,
+            "Value": "Fracaso costoso"
+        },
+        {
+            "Key": 2618333657,
+            "Value": "DESTRUIR LA NAVE DE TELETRANSPORTE DE LOS ILUMINADOS"
+        },
+        {
+            "Key": 2621362674,
+            "Value": "Estableced conexión con la red S.E.A.F"
+        },
+        {
+            "Key": 2624781890,
+            "Value": "DESACTIVA EL SISTEMA DE CONTROL DE TERMÍNIDOS"
+        },
+        {
+            "Key": 2628201221,
+            "Value": "Extraer con SSSD"
+        },
+        {
+            "Key": 2634629103,
+            "Value": "Descargando base de datos"
+        },
+        {
+            "Key": 2645065579,
+            "Value": "Usar la interfaz para desplegar la carga nuclear"
+        },
+        {
+            "Key": 2648549122,
+            "Value": "Continuar hacia la Cámara de Graduación y convertirse en Helldiver"
+        },
+        {
+            "Key": 2655487228,
+            "Value": "MUESTRAS"
+        },
+        {
+            "Key": 2658584822,
+            "Value": "Activa el silo de batería 01"
+        },
+        {
+            "Key": 2662320096,
+            "Value": "PURIFICAR EL DISTRITO INFESTADO"
+        },
+        {
+            "Key": 2663400912,
+            "Value": "ACTIVA EL SISTEMA DE CONTROL DE TERMÍNIDOS"
+        },
+        {
+            "Key": 2665110557,
+            "Value": "Estado de la perforadora: críticamente dañada"
+        },
+        {
+            "Key": 2669057553,
+            "Value": "MUESTRA 02"
+        },
+        {
+            "Key": 2674283529,
+            "Value": "INFORME DE INTELIGENCIA"
+        },
+        {
+            "Key": 2674421567,
+            "Value": "PAQUETES DE DATOS TRANSMITIDOS (#COUNT / #TARGET)"
+        },
+        {
+            "Key": 2684746728,
+            "Value": "Los autómatas están utilizando cañones orbitales en esta zona para bombardear nuestros Superdestructores.\n\nNo podemos permitir que se cuestione nuestra superioridad aeroespacial. Desplegaos en la zona y destruid cualquier cañón orbital activo."
+        },
+        {
+            "Key": 2691266839,
+            "Value": "Extraer con los especímenes"
+        },
+        {
+            "Key": 2692899190,
+            "Value": "En esta región se erigen enormes fabricas autómatas que alimentan su avance. Hay que destruirlas.\n\nEste silo de MBIC inactivo está fuera de su rango de detección; lanza un devastador ataque antes de que puedan organizar sus defensas."
+        },
+        {
+            "Key": 2696192217,
+            "Value": "Usar terminal para establecer comunicación con el Superdestructor"
+        },
+        {
+            "Key": 2696957758,
+            "Value": "Calibrar la alineación de la torre LiDAR"
+        },
+        {
+            "Key": 2700887323,
+            "Value": "OBJETIVOS PRINCIPALES"
+        },
+        {
+            "Key": 2701252726,
+            "Value": "Destacamento de automatones medio destruido"
+        },
+        {
+            "Key": 2701663299,
+            "Value": "Un dispositivo arcano de los Iluminados está creando un campo de disrupción mental en esta ubicación. Invade la mente con pensamientos antidemocráticos que dificultan el razonamiento claro o la correcta introducción de códigos de estratagema."
+        },
+        {
+            "Key": 2707159010,
+            "Value": "Se están llevando a cabo los esfuerzos para expandirnos por la lobreguez. Los Helldivers tienen que apoyar estos esfuerzos recopilando datos y extrayendo recursos."
+        },
+        {
+            "Key": 2712777207,
+            "Value": "RECUPERAD LAS LARVAS MUTADAS"
+        },
+        {
+            "Key": 2714055298,
+            "Value": "Redirigir combustible a la estación de transferencia"
+        },
+        {
+            "Key": 2715793094,
+            "Value": "TORRE MAL ALINEADA"
+        },
+        {
+            "Key": 2719619016,
+            "Value": "INTERCEPTAR CONVOY"
+        },
+        {
+            "Key": 2728206271,
+            "Value": "Bandera"
+        },
+        {
+            "Key": 2733300016,
+            "Value": "DISTANCIA:"
+        },
+        {
+            "Key": 2738932960,
+            "Value": "Presión"
+        },
+        {
+            "Key": 2740703266,
+            "Value": "Desvía la ruta de comandos para anular el control automatón."
+        },
+        {
+            "Key": 2742439966,
+            "Value": "#CURRENT / #TARGET cohetes"
+        },
+        {
+            "Key": 2742807186,
+            "Value": "Despeja la parte delantera de la lanzadora tierra-aire"
+        },
+        {
+            "Key": 2745536240,
+            "Value": "TORRE DETECTORA"
+        },
+        {
+            "Key": 2747465545,
+            "Value": "#COUNT/#TOTAL objetivos completados"
+        },
+        {
+            "Key": 2749032513,
+            "Value": "Esta ubicación se ha elegido estratégicamente para aprovechar al máximo el potencial inspirador de la bandera."
+        },
+        {
+            "Key": 2756412499,
+            "Value": "Los ciudadanos están a salvo por ahora, atrapados en los búnkeres de emergencia. Hay que liberarlos y escoltarlos hasta el área de la lanzadera para su extracción."
+        },
+        {
+            "Key": 2759938366,
+            "Value": "RECUPERAR LA CAJA NEGRA"
+        },
+        {
+            "Key": 2760899332,
+            "Value": "FIJAR COORDENADAS DEL OBJETIVO"
+        },
+        {
+            "Key": 2768917302,
+            "Value": "Defended la evacuación de los recursos militares secretos."
+        },
+        {
+            "Key": 2769515979,
+            "Value": "DESTRUIR LA COSECHADORA"
+        },
+        {
+            "Key": 2779601448,
+            "Value": "ERROR: AJUSTE LAS VÁLVULAS BLOQUEADAS"
+        },
+        {
+            "Key": 2782217639,
+            "Value": "¡QUEDAN #SECONDS SEGUNDOS PARA LA EQUIPACIÓN!"
+        },
+        {
+            "Key": 2782525585,
+            "Value": "Abrir puerta del área de lanzadera"
+        },
+        {
+            "Key": 2782615518,
+            "Value": "El enemigo se está acercando a un depósito de recursos valiosos que ha estado oculto desde la Primera Guerra Galáctica. No podemos permitir que lo capturen.\n\nEl enemigo sabrá de vuestra posición tan pronto como se inicie el proceso de evacuación. Defended la zona hasta que todos los recursos hayan sido transportados de forma segura fuera del planeta."
+        },
+        {
+            "Key": 2790627524,
+            "Value": "Destruye los huevos de termínidos mutados y desactiva la torre de dispersión del Termicida para evitar que haya más mutaciones."
+        },
+        {
+            "Key": 2790972812,
+            "Value": "Calibra el voltaje para maximizar la producción"
+        },
+        {
+            "Key": 2802985877,
+            "Value": "MUNDO LIBERADO"
+        },
+        {
+            "Key": 2803832294,
+            "Value": "ELIMINAR AL TANQUE ANIQUILADOR"
+        },
+        {
+            "Key": 2804993025,
+            "Value": "#COUNT muestras <c=FFFFF0CC>extraídas</c>"
+        },
+        {
+            "Key": 2810431090,
+            "Value": "ERRADICACIÓN DE VARIANTE"
+        },
+        {
+            "Key": 2812025640,
+            "Value": "Elimina a todos los enemigos de la zona (quedan #REMAINING)"
+        },
+        {
+            "Key": 2814058652,
+            "Value": "Sistema del área de lanzadera"
+        },
+        {
+            "Key": 2820688680,
+            "Value": "Completar la pista de obstáculos de los Helldivers"
+        },
+        {
+            "Key": 2831246151,
+            "Value": "DESTRUIR EL REGURGITADOR DE ESPORAS"
+        },
+        {
+            "Key": 2831289147,
+            "Value": "Registra las cuevas para dar con el pulmón de esporas"
+        },
+        {
+            "Key": 2833945694,
+            "Value": "Activar terminal de perturbación"
+        },
+        {
+            "Key": 2836167700,
+            "Value": "Los extraños monolitos de los Iluminados parecen crear campos de energía negativa. No comprendemos su propósito ni su verdadera naturaleza. Por eso debemos destruirlos."
+        },
+        {
+            "Key": 2837331439,
+            "Value": "Bajas #CURRENT / #TOTAL"
+        },
+        {
+            "Key": 2840909738,
+            "Value": "LANZAR MBIC"
+        },
+        {
+            "Key": 2841000285,
+            "Value": "Aléjate de la plataforma."
+        },
+        {
+            "Key": 2841817963,
+            "Value": "El radar SSA ha identificado una flota de naves invasoras de los Iluminados que desciende hacia este sector desde una órbita cercana. Quieren tomar el control del área con una ofensiva aérea fulminante.\n\nSois la última línea de defensa. Destruid todas las naves enemigas tan rápido como sea posible antes de que conquisten el sector."
+        },
+        {
+            "Key": 2844225527,
+            "Value": "Quitar manualmente todos los pernos de las esclusas"
+        },
+        {
+            "Key": 2845539153,
+            "Value": "DISPAROS IMPACTADOS:"
+        },
+        {
+            "Key": 2848580533,
+            "Value": "Destruid el monolito de los Iluminados"
+        },
+        {
+            "Key": 2850657241,
+            "Value": "ACTIVANDO SILO DE BATERÍA"
+        },
+        {
+            "Key": 2854257115,
+            "Value": "TRANSFERIR PETRÓLEO A LA LANZADERA"
+        },
+        {
+            "Key": 2856343176,
+            "Value": "ACCIDENTES:"
+        },
+        {
+            "Key": 2859604785,
+            "Value": "Inicia sesión"
+        },
+        {
+            "Key": 2865718745,
+            "Value": "EXPULSAR DISCO DURO"
+        },
+        {
+            "Key": 2876745143,
+            "Value": "Desviando control de torreta..."
+        },
+        {
+            "Key": 2893569738,
+            "Value": "Usar la estratagema Ametralladora para solicitar un arma de apoyo"
+        },
+        {
+            "Key": 2893930481,
+            "Value": "Objetivos secundarios completados"
+        },
+        {
+            "Key": 2894401479,
+            "Value": "#NAME LIBERADO"
+        },
+        {
+            "Key": 2894763526,
+            "Value": "¡LANZAMIENTO DE CÁPSULA HELL INMINENTE!"
+        },
+        {
+            "Key": 2900030328,
+            "Value": "Localiza y elimina al caminante de fábrica autómata."
+        },
+        {
+            "Key": 2909063579,
+            "Value": "Estable"
+        },
+        {
+            "Key": 2911136799,
+            "Value": "Transmisión al ordenador central de Supertierra en curso"
+        },
+        {
+            "Key": 2912184878,
+            "Value": "DESPLEGAD EL FLUIDO OSCURO"
+        },
+        {
+            "Key": 2916977728,
+            "Value": "Has matado al señor de colmena"
+        },
+        {
+            "Key": 2918259917,
+            "Value": "Utiliza el cañón para disparar a la nave nodriza"
+        },
+        {
+            "Key": 2920986948,
+            "Value": "Apoyos de la torre destruidos"
+        },
+        {
+            "Key": 2923422500,
+            "Value": "LLEVAR A CABO EXTRACCIÓN DE SUSTANCIA MÓVIL"
+        },
+        {
+            "Key": 2924561359,
+            "Value": "Activar el simulador de lesiones del campo de batalla"
+        },
+        {
+            "Key": 2926213020,
+            "Value": "Aquí se encuentra una de las cámaras del criadero, infestada de millones de larvas que excavaron hasta aquí tras eclosionar en la superficie. Usad la perforadora rompecolmenas para lanzar una carga nuclear y acabar con ellas."
+        },
+        {
+            "Key": 2926773604,
+            "Value": "Esta ciudad está siendo atacada. No podemos permitir que caiga ante las fuerzas de la opresión."
+        },
+        {
+            "Key": 2927224225,
+            "Value": "Activar radar móvil"
+        },
+        {
+            "Key": 2931876529,
+            "Value": "REINICIAR LAS BOMBAS"
+        },
+        {
+            "Key": 2932445209,
+            "Value": "INFORME EXTRAÍDO"
+        },
+        {
+            "Key": 2939559118,
+            "Value": "Espera un momento"
+        },
+        {
+            "Key": 2940681543,
+            "Value": "INICIANDO SISTEMA DE ARTILLERÍA"
+        },
+        {
+            "Key": 2945096755,
+            "Value": "Mata a autómatas para reducir su número."
+        },
+        {
+            "Key": 2948338180,
+            "Value": "Estado del depósito: inestable"
+        },
+        {
+            "Key": 2950948763,
+            "Value": "Activar todas las válvulas indicadas por el terminal"
+        },
+        {
+            "Key": 2952330711,
+            "Value": "Recargar proyectil orbital"
+        },
+        {
+            "Key": 2954428361,
+            "Value": "ALINEAMIENTO DE FRECUENCIA"
+        },
+        {
+            "Key": 2956984981,
+            "Value": "EMPLAZAMIENTO AA"
+        },
+        {
+            "Key": 2960174241,
+            "Value": "Encontrar y destruir estructuras termínidas."
+        },
+        {
+            "Key": 2961322270,
+            "Value": "Horda automatón"
+        },
+        {
+            "Key": 2962041444,
+            "Value": "ENTREGAR DISCOS DUROS SSSD"
+        },
+        {
+            "Key": 2969720127,
+            "Value": "La lobreguez podría verse agravada por la escoria termínida que infesta la superficie del planeta.\n\nLimpiad la región de toda presencia termínida, incluidos sus fétidos nidos."
+        },
+        {
+            "Key": 2972872019,
+            "Value": "CONFIRMAR ZONA DE ESCANEO"
+        },
+        {
+            "Key": 2982138088,
+            "Value": "Las imágenes de satélite confirman que los autómatas cuentan con un depósito de combustible en esta zona."
+        },
+        {
+            "Key": 2984854125,
+            "Value": "Campamento iluminado ligero despejado"
+        },
+        {
+            "Key": 2986604961,
+            "Value": "Las tormentas de arena periódicas suponen una importante amenaza a la visibilidad."
+        },
+        {
+            "Key": 2989497144,
+            "Value": "Despliégate en el Mundo colmena desconocido y reclámalo en nombre de Supertierra."
+        },
+        {
+            "Key": 2994133320,
+            "Value": "Destruid la extraña y antinatural nave espacial de los Iluminados."
+        },
+        {
+            "Key": 2996595955,
+            "Value": "OBJETIVOS OPCIONALES"
+        },
+        {
+            "Key": 2998417804,
+            "Value": "EXTRACCIÓN EXITOSA"
+        },
+        {
+            "Key": 3004132658,
+            "Value": "ESTACIÓN LiDAR"
+        },
+        {
+            "Key": 3007747450,
+            "Value": "LLEVAR A CABO EXTRACCIÓN MÓVIL"
+        },
+        {
+            "Key": 3008445168,
+            "Value": "[ DATOS ENCONTRADOS ]"
+        },
+        {
+            "Key": 3017194838,
+            "Value": "Recoge el disco de datos"
+        },
+        {
+            "Key": 3017295425,
+            "Value": "ACTIVAR ENLACE"
+        },
+        {
+            "Key": 3023900891,
+            "Value": "ASEGURAR EL CAMIÓN ARTICULADO TODOTERRENO DE EXTRACCIÓN TERRESTRE"
+        },
+        {
+            "Key": 3026199176,
+            "Value": "Acércate al objetivo"
+        },
+        {
+            "Key": 3030170787,
+            "Value": "Inicio de sesión requerido"
+        },
+        {
+            "Key": 3042714175,
+            "Value": "EVACUAR A CIUDADANOS PRIORITARIOS"
+        },
+        {
+            "Key": 3054644200,
+            "Value": "Mochila química"
+        },
+        {
+            "Key": 3055226511,
+            "Value": "CONTROLES DE LA PUERTA"
+        },
+        {
+            "Key": 3056397440,
+            "Value": "Buscando problemas. Espera un momento."
+        },
+        {
+            "Key": 3058010335,
+            "Value": "Eliminar al cargador"
+        },
+        {
+            "Key": 3062607332,
+            "Value": "Las fuerzas invasoras de los Iluminados han soltado cosechadoras por la ciudad. Esas máquinas intolerantes patrullan por las calles de la zona devastando barrios antiguamente pacíficos y asesinando civiles inocentes. Destruidlas y recuperad el control de este sector."
+        },
+        {
+            "Key": 3063562552,
+            "Value": "Operación conjunta"
+        },
+        {
+            "Key": 3066936216,
+            "Value": "INICIAR SESIÓN"
+        },
+        {
+            "Key": 3067058685,
+            "Value": "Introducir código de acceso: #OTHER"
+        },
+        {
+            "Key": 3071613578,
+            "Value": "DESTRUIR LA TORRE INFESTADA"
+        },
+        {
+            "Key": 3075043955,
+            "Value": "En esta zona hay grandes cantidades de huevos. Usa todos los medios necesarios para destruirlos."
+        },
+        {
+            "Key": 3079966101,
+            "Value": "Calibrando matriz de los sensores sísmicos"
+        },
+        {
+            "Key": 3089029877,
+            "Value": "La nave de reconocimiento se encuentra aquí. Debemos recuperar su valiosa caja negra."
+        },
+        {
+            "Key": 3102562666,
+            "Value": "Comando de fuego de artillería"
+        },
+        {
+            "Key": 3106377947,
+            "Value": "En esta región se han identificado varias oportunidades para desbaratar los opacos y siniestros planes del enemigo. Las fuerzas de los Iluminados se han concentrado aquí. Cabe esperar una gran resistencia. \n \nFrustrad sus planes y restaurad la paz en esta zona."
+        },
+        {
+            "Key": 3107900985,
+            "Value": "Destruir todos los edificios de la instalación"
+        },
+        {
+            "Key": 3109124270,
+            "Value": "RECOPILAR INFORMACIÓN SOBRE LAS ESPORAS DE LA LOBREGUEZ"
+        },
+        {
+            "Key": 3111481652,
+            "Value": "Iniciad la evacuación de los recursos valiosos fuera del planeta y defended el lugar hasta que se complete la evacuación."
+        },
+        {
+            "Key": 3124706693,
+            "Value": "COMPROBAR TODOS LOS SUBSISTEMAS"
+        },
+        {
+            "Key": 3124835968,
+            "Value": "Introduce el código para elevar la torre satélite"
+        },
+        {
+            "Key": 3125033657,
+            "Value": "REALIZAR ESTUDIOS GEOLÓGICOS"
+        },
+        {
+            "Key": 3125862690,
+            "Value": "TODOS LOS SISTEMAS OPERATIVOS"
+        },
+        {
+            "Key": 3127851830,
+            "Value": "DESTRUIR EL MONOLITO"
+        },
+        {
+            "Key": 3128801766,
+            "Value": "ENTREGAR CARGAMENTO EN EL PUNTO DE RECOGIDA"
+        },
+        {
+            "Key": 3131746521,
+            "Value": "PUNTO DE ATERRIZAJE NO VÁLIDO"
+        },
+        {
+            "Key": 3132517406,
+            "Value": "ELIMINAR A LOS CARGADORES"
+        },
+        {
+            "Key": 3135826091,
+            "Value": "OPERACIÓN CONJUNTA"
+        },
+        {
+            "Key": 3137933119,
+            "Value": "Llevad la caja negra al transmisor de comunicaciones"
+        },
+        {
+            "Key": 3139947901,
+            "Value": "REGURGITADOR DE ESPORAS"
+        },
+        {
+            "Key": 3152259079,
+            "Value": "Carga manualmente todos los proyectiles"
+        },
+        {
+            "Key": 3152455243,
+            "Value": "OPERACIÓN DE PAZ"
+        },
+        {
+            "Key": 3152484562,
+            "Value": "Esta ciudad está bajo control enemigo. Debemos reclamarla en nombre de la libertad."
+        },
+        {
+            "Key": 3157013588,
+            "Value": "Secuencia de recarga de torreta iniciada..."
+        },
+        {
+            "Key": 3165219370,
+            "Value": "BIOPROCESADORES ENEMIGOS"
+        },
+        {
+            "Key": 3166041053,
+            "Value": "ELIMINAR VARIANTE"
+        },
+        {
+            "Key": 3168547122,
+            "Value": "Prueba con esta configuración"
+        },
+        {
+            "Key": 3169288052,
+            "Value": "Se ha acumulado un enjambre denso de termínidos en esta región."
+        },
+        {
+            "Key": 3173746046,
+            "Value": "INTRODUCIR CÓDIGO DE ACCESO"
+        },
+        {
+            "Key": 3177142887,
+            "Value": "PERFORADORA TECTÓNICA"
+        },
+        {
+            "Key": 3181431801,
+            "Value": "Abre la escotilla para entregar los SSSD"
+        },
+        {
+            "Key": 3183464015,
+            "Value": "Iniciar sesión en el terminal"
+        },
+        {
+            "Key": 3185110553,
+            "Value": "Buscar variante"
+        },
+        {
+            "Key": 3194163033,
+            "Value": "OBJETIVOS PRINCIPALES"
+        },
+        {
+            "Key": 3199974650,
+            "Value": "Inicia sesión"
+        },
+        {
+            "Key": 3209764160,
+            "Value": "Los planetas infestados por la lobreguez parecen tener patrones de colmena más extensos de lo habitual.\n\nDesplegad sondas sísmicas para escanear las redes de túneles. Después, utilizad una estación de retransmisión local para transferir los datos a un centro del Ministerio de Ciencia."
+        },
+        {
+            "Key": 3213943293,
+            "Value": "Secuencia de disparos iniciada"
+        },
+        {
+            "Key": 3215956270,
+            "Value": "BONIFICACIONES POR COMPLETAR MISIONES"
+        },
+        {
+            "Key": 3220598181,
+            "Value": "Continuar hacia la zona de entrenamiento de refuerzo"
+        },
+        {
+            "Key": 3220926236,
+            "Value": "El SCT abrió varias fisuras en la corteza del planeta de esta zona. Se puede utilizar una estratagema de perforación para desplegar cargas de fluido oscuro en estos lugares."
+        },
+        {
+            "Key": 3223307005,
+            "Value": "Activar terminal"
+        },
+        {
+            "Key": 3226057673,
+            "Value": "Activar terminal"
+        },
+        {
+            "Key": 3228101244,
+            "Value": "E-711"
+        },
+        {
+            "Key": 3229535766,
+            "Value": "Iniciar sesión en el terminal perturbador"
+        },
+        {
+            "Key": 3235089805,
+            "Value": "Encontrar al titán de bilis termínido"
+        },
+        {
+            "Key": 3242249721,
+            "Value": "Confirmar"
+        },
+        {
+            "Key": 3247307197,
+            "Value": "LANZADERA DESPEGANDO CON VEHÍCULO"
+        },
+        {
+            "Key": 3250980093,
+            "Value": "Se cree que este búnker fuertemente vigilado contiene un nodo de mando que resulta clave para el flujo de transmisiones autómata."
+        },
+        {
+            "Key": 3253580867,
+            "Value": "REUNIR LOS DISCOS DUROS CIFRADOS"
+        },
+        {
+            "Key": 3255152215,
+            "Value": "ESTACIÓN INOPERATIVA"
+        },
+        {
+            "Key": 3264096004,
+            "Value": "Los discos duros cifrados quedaron abandonados en estas coordenadas."
+        },
+        {
+            "Key": 3264320310,
+            "Value": "Se ha informado de la presencia de un nido de chillones voladores en esta zona."
+        },
+        {
+            "Key": 3265967288,
+            "Value": "El pulmón de esporas se encuentra en el interior de este complejo de túneles de termínidos."
+        },
+        {
+            "Key": 3267783984,
+            "Value": "#COUNT PX PARA EL SIGUIENTE NIVEL"
+        },
+        {
+            "Key": 3270977612,
+            "Value": "LIBERAD LA CIUDAD"
+        },
+        {
+            "Key": 3272915477,
+            "Value": "Usar terminal para eliminar datos confidenciales"
+        },
+        {
+            "Key": 3274698570,
+            "Value": "Desbaratad los opacos y siniestros planes de los Iluminados en esta región."
+        },
+        {
+            "Key": 3275101465,
+            "Value": "Anular control de torreta"
+        },
+        {
+            "Key": 3283335602,
+            "Value": "El Sistema de Control de Termínidos está terminado. Las torres de dispersión del Termicida aguardan a ser activadas por todo el planeta. Este planeta no estará completamente inmunizado contra los termínidos a menos que se activen todas y cada una de las torres."
+        },
+        {
+            "Key": 3288991505,
+            "Value": "¿ACTIVAR LA PERFORADORA 2?"
+        },
+        {
+            "Key": 3289665011,
+            "Value": "Hola, <NEW SE USER>. Te damos la bienvenida al Terminal militar genérico de Voragon Systems."
+        },
+        {
+            "Key": 3296534684,
+            "Value": "Inicia sesión"
+        },
+        {
+            "Key": 3297441256,
+            "Value": "Aviso: Aléjate de los lanzamisiles"
+        },
+        {
+            "Key": 3300532350,
+            "Value": "VECES REFORZANDO:"
+        },
+        {
+            "Key": 3301571959,
+            "Value": "Termínidos exterminados bajo tierra:"
+        },
+        {
+            "Key": 3302521801,
+            "Value": "ELIMINAR EMPALADOR"
+        },
+        {
+            "Key": 3304043117,
+            "Value": "ESCOTILLA DEL BÚNKER BLOQUEADA"
+        },
+        {
+            "Key": 3306914533,
+            "Value": "Hemos recibido informes fiables que advierten de la presencia de brutos autómatas despiadados en la región. Destruirlos debilitaría la estructura de mando de los autómatas.\n\nLocaliza a los brutos y elimínalos."
+        },
+        {
+            "Key": 3310360401,
+            "Value": "Los escaneos planetarios han detectado una gran concentración de tropas autómatas en esta región. Es posible que se estén preparando para una ofensiva a las instalaciones cercanas de Supertierra.\n\nHay que reducir su número. Mata a todos los bots que puedas."
+        },
+        {
+            "Key": 3310433830,
+            "Value": "SISTEMA DE CONTROL DE LA BOMBA DE PETRÓLEO"
+        },
+        {
+            "Key": 3313460170,
+            "Value": "Usad la perforadora rompecolmenas para destruir todas las estructuras subterráneas termínidas de la zona."
+        },
+        {
+            "Key": 3317286805,
+            "Value": "Recompensas de la comunidad"
+        },
+        {
+            "Key": 3318819568,
+            "Value": "VERIFICAR TRANSFERENCIA EN TERMINAL"
+        },
+        {
+            "Key": 3319315263,
+            "Value": "PROPAGAR LA DEMOCRACIA"
+        },
+        {
+            "Key": 3320340883,
+            "Value": "Repostaje de misiles en curso"
+        },
+        {
+            "Key": 3326816535,
+            "Value": "Purga la materia termínida del lugar"
+        },
+        {
+            "Key": 3328841511,
+            "Value": "Activar terminal"
+        },
+        {
+            "Key": 3329345530,
+            "Value": "El depósito de recursos valiosos se encuentra aquí. Fortaleced vuestras defensas, iniciad la evacuación y defended el lugar hasta que se complete la evacuación."
+        },
+        {
+            "Key": 3330228555,
+            "Value": "ÁREA DE LANZADERA"
+        },
+        {
+            "Key": 3331866376,
+            "Value": "ELEVAR TORRE"
+        },
+        {
+            "Key": 3332479490,
+            "Value": "DEFENDER PLANETA"
+        },
+        {
+            "Key": 3334285492,
+            "Value": "TORRETA ANTIAÉREA DE LOS S.E.A.F."
+        },
+        {
+            "Key": 3334983283,
+            "Value": "Este misil nuclear recorre largas distancias a gran velocidad para atacar antes de que el enemigo tenga tiempo de retirarse o contraatacar."
+        },
+        {
+            "Key": 3335887011,
+            "Value": "Artefacto iluminado"
+        },
+        {
+            "Key": 3336821542,
+            "Value": "FUSIBLE 4"
+        },
+        {
+            "Key": 3339054218,
+            "Value": "PURGAR A LOS ILUMINADOS"
+        },
+        {
+            "Key": 3340732873,
+            "Value": "Recuperad la ciudad de manos de sus ocupantes ilegales."
+        },
+        {
+            "Key": 3341604045,
+            "Value": "Nuestros escáneres orbitales infrarrojos han detectado el calor residual de un caminante de fábrica autómata en esta zona. Si se le permite seguir con vida, es cuestión de tiempo que el planeta acabe infestado de monstruosidades mecánicas.\n\nAcaba con él."
+        },
+        {
+            "Key": 3347495776,
+            "Value": "BUSCAR Y DESTRUIR"
+        },
+        {
+            "Key": 3349635337,
+            "Value": "Interactúa con el terminal principal"
+        },
+        {
+            "Key": 3357331302,
+            "Value": "ELIMINAR A LOS TITANES DE BILIS"
+        },
+        {
+            "Key": 3358724507,
+            "Value": "Eliminar empalador"
+        },
+        {
+            "Key": 3359442388,
+            "Value": "RECIBIR DATOS DE ESCANEO"
+        },
+        {
+            "Key": 3360278549,
+            "Value": "Usar la estratagema Reabastecimiento para solicitar suministros"
+        },
+        {
+            "Key": 3364339856,
+            "Value": "Los S.E.A.F. de esta región han informado de varios avistamientos de cargadores que muestran mutaciones nuevas muy peligrosas.\n\nHay que eliminar a los especímenes antes de que la cepa mutante se extienda."
+        },
+        {
+            "Key": 3366451506,
+            "Value": "Silo de b. 02"
+        },
+        {
+            "Key": 3385979084,
+            "Value": "Elimina al caminante de fábrica"
+        },
+        {
+            "Key": 3391266100,
+            "Value": "Erradica la plaga de termínidos de este planeta."
+        },
+        {
+            "Key": 3391960841,
+            "Value": "Recoger #ENTITY"
+        },
+        {
+            "Key": 3393971913,
+            "Value": "Por favor, inicia sesión"
+        },
+        {
+            "Key": 3394262305,
+            "Value": "Progreso del paquete"
+        },
+        {
+            "Key": 3395090182,
+            "Value": "Procesando sistema…"
+        },
+        {
+            "Key": 3399935348,
+            "Value": "Los escaneos orbitales infrarrojos han detectado a un caminante de fábrica en esta zona."
+        },
+        {
+            "Key": 3401560691,
+            "Value": "Usar terminal para expulsar el disco duro SSSD"
+        },
+        {
+            "Key": 3402031851,
+            "Value": "EVITAR EL CRECIMIENTO DE LA TORRE"
+        },
+        {
+            "Key": 3402720361,
+            "Value": "La niebla densa y las lluvias torrenciales pueden afectar al rango de visión."
+        },
+        {
+            "Key": 3404502543,
+            "Value": "ALZANDO MISIL - UN MOMENTO"
+        },
+        {
+            "Key": 3407772937,
+            "Value": "COMPROBAR DIRECCIÓN DE MEMORIA"
+        },
+        {
+            "Key": 3409498073,
+            "Value": "Usa la terminal para elevar el cañón de defensa planetaria"
+        },
+        {
+            "Key": 3410342490,
+            "Value": "Gira todas las válvulas indicadas por el terminal"
+        },
+        {
+            "Key": 3410939179,
+            "Value": "DESTRUIR RESERVAS DE MUNICIÓN"
+        },
+        {
+            "Key": 3412826211,
+            "Value": "Campamento iluminado pesado despejado"
+        },
+        {
+            "Key": 3414478064,
+            "Value": ""
+        },
+        {
+            "Key": 3419620263,
+            "Value": "ESCOTILLA ABIERTA"
+        },
+        {
+            "Key": 3425708434,
+            "Value": "Repeled la flota de naves invasora de los Iluminados antes de que tomen el control del área."
+        },
+        {
+            "Key": 3427455294,
+            "Value": "FUSIBLE 3"
+        },
+        {
+            "Key": 3431988577,
+            "Value": "Creemos que la antena responsable del flujo de transmisiones autómata local se encuentra aquí."
+        },
+        {
+            "Key": 3433639232,
+            "Value": "SUBIR DATOS POR TRANSMISIÓN LOCAL"
+        },
+        {
+            "Key": 3436208849,
+            "Value": "Destruye los transmisores de antena"
+        },
+        {
+            "Key": 3441049493,
+            "Value": "Desplegaos en la supercolonia, solicitad el envío del recipiente de fluido oscuro e insertadlo en todos los puntos de carga para ayudar a destruir el planeta."
+        },
+        {
+            "Key": 3443030867,
+            "Value": "Cañón de defensa planetaria en posición baja."
+        },
+        {
+            "Key": 3443951726,
+            "Value": "El control de los autómatas sobre este planeta se ha debilitado mucho. Debemos avanzar ahora, antes de que tengan oportunidad de reforzar su ejército.\n\nComo Helldivers, podéis llegar a sus últimos reductos y asestarles el golpe de gracia para expulsarlos definitivamente de este planeta."
+        },
+        {
+            "Key": 3445857369,
+            "Value": "Ten en cuenta que, si estás leyendo esto, fallecerás pronto"
+        },
+        {
+            "Key": 3460898800,
+            "Value": "1.º"
+        },
+        {
+            "Key": 3460953410,
+            "Value": "Destruir guarida del acechador"
+        },
+        {
+            "Key": 3461580098,
+            "Value": "Izamiento de bandera"
+        },
+        {
+            "Key": 3461934406,
+            "Value": "Activa el repetidor de comunicaciones"
+        },
+        {
+            "Key": 3462362020,
+            "Value": "ESTRATAGEMAS USADAS:"
+        },
+        {
+            "Key": 3464528044,
+            "Value": "Valida la suma de comprobación de datos para comprobar la integridad de los mismos."
+        },
+        {
+            "Key": 3471435505,
+            "Value": "Victoria casi absoluta"
+        },
+        {
+            "Key": 3471972786,
+            "Value": "Busca proyectiles y cárgalos en el cañón de artillería"
+        },
+        {
+            "Key": 3476536437,
+            "Value": "RADAR MÓVIL"
+        },
+        {
+            "Key": 3477060221,
+            "Value": "Iza la bandera de Supertierra como una inexpugnable baliza de libertad."
+        },
+        {
+            "Key": 3477736393,
+            "Value": "Extractor de petróleo"
+        },
+        {
+            "Key": 3479204370,
+            "Value": "CAPTURAR TERRITORIO DE BICHOS"
+        },
+        {
+            "Key": 3481173040,
+            "Value": "Elimina de forma táctica todos los obstáculos que se interponen en el camino de la paz."
+        },
+        {
+            "Key": 3484875339,
+            "Value": "LANZAR MBIC"
+        },
+        {
+            "Key": 3486506679,
+            "Value": "PERTURBADOR DE ESTRATAGEMA"
+        },
+        {
+            "Key": 3488275447,
+            "Value": "Quita manualmente los cierres de las esclusas"
+        },
+        {
+            "Key": 3490648312,
+            "Value": "Esta torre llamará a las naves de despliegue de bots si detecta intrusos."
+        },
+        {
+            "Key": 3495029008,
+            "Value": "Solicitad una bomba Hell y utilizadla para destruir el monolito"
+        },
+        {
+            "Key": 3496147451,
+            "Value": "ACTIVANDO EXTRACTORES DE PETRÓLEO"
+        },
+        {
+            "Key": 3497544006,
+            "Value": "Usar terminal para iniciar sesión en la base de datos de investigación"
+        },
+        {
+            "Key": 3510888353,
+            "Value": "MANTÉN"
+        },
+        {
+            "Key": 3512798506,
+            "Value": "Evacúa a los civiles atrapados en las profundidades del enjambre termínido."
+        },
+        {
+            "Key": 3519461357,
+            "Value": "SISTEMA DE CONTROL DE MISILES"
+        },
+        {
+            "Key": 3527940356,
+            "Value": "ESCOTILLA DEL SILO DESBLOQUEADA"
+        },
+        {
+            "Key": 3533302151,
+            "Value": "Esta ciudad está siendo atacada. No podemos permitir que caiga ante las fuerzas de la opresión."
+        },
+        {
+            "Key": 3537061153,
+            "Value": "Avanzar por el simulador de combate altamente realista"
+        },
+        {
+            "Key": 3541336633,
+            "Value": "Nuestros enemigos han creado un conflicto en esta región. No habrá paz hasta que los derrotemos."
+        },
+        {
+            "Key": 3546516457,
+            "Value": "Recoger granadas"
+        },
+        {
+            "Key": 3563930713,
+            "Value": "ACÉRCATE A LA ZONA OBJETIVO"
+        },
+        {
+            "Key": 3564642884,
+            "Value": "Encuentra el disco duro que contiene los <c=FFFFE900>códigos de lanzamiento</c>."
+        },
+        {
+            "Key": 3570977272,
+            "Value": "Sacrifico digno"
+        },
+        {
+            "Key": 3576100908,
+            "Value": "Sistema de Control de Termínidos"
+        },
+        {
+            "Key": 3576715076,
+            "Value": "TRANSMISIÓN DE DATOS"
+        },
+        {
+            "Key": 3577376556,
+            "Value": "Extracción lograda"
+        },
+        {
+            "Key": 3578122536,
+            "Value": "ESTUCHE DE ESPECÍMENES"
+        },
+        {
+            "Key": 3580562284,
+            "Value": "LIMPIAR LA SUPERFICIE"
+        },
+        {
+            "Key": 3585387682,
+            "Value": "Buscad y erradicad a todos los empaladores de la región."
+        },
+        {
+            "Key": 3588704735,
+            "Value": "Activando torre LiDAR"
+        },
+        {
+            "Key": 3592212003,
+            "Value": "LOCALIZACIÓN DEL OBJETIVO DESCONOCIDA"
+        },
+        {
+            "Key": 3609805218,
+            "Value": "SUBIR DATOS DE LA CAJA NEGRA"
+        },
+        {
+            "Key": 3617271490,
+            "Value": "OPERACIÓN CONJUNTA DISPONIBLE"
+        },
+        {
+            "Key": 3618398449,
+            "Value": "Desactiva el silo de batería 01"
+        },
+        {
+            "Key": 3623688689,
+            "Value": "ACTIVAR"
+        },
+        {
+            "Key": 3631705424,
+            "Value": "Aquí se encuentra el Camión Articulado Todoterreno de Extracción Terrestre (CATET)."
+        },
+        {
+            "Key": 3642923213,
+            "Value": "Se ha tomado el control del sistema"
+        },
+        {
+            "Key": 3644855652,
+            "Value": "RECUPERAR LA INFORMACIÓN DE LA NAVE DE RECONOCIMIENTO"
+        },
+        {
+            "Key": 3645281821,
+            "Value": "Rastrea y elimina al cargador."
+        },
+        {
+            "Key": 3654963471,
+            "Value": "El enjambre de termínidos ha descendido sobre este planeta y amenaza con infestarlo.\n\n¡Debemos repeler esta repugnante incursión antes de que sea demasiado tarde!"
+        },
+        {
+            "Key": 3657147869,
+            "Value": "SABOTEAR LAS BASES DE SUMINISTRO"
+        },
+        {
+            "Key": 3657744474,
+            "Value": "DERRIBAR LA NAVE NODRIZA"
+        },
+        {
+            "Key": 3657966445,
+            "Value": "Sabotea la potencia aérea autómata en la región."
+        },
+        {
+            "Key": 3658735782,
+            "Value": "Usar terminal para calibrar voltaje del generador"
+        },
+        {
+            "Key": 3661789117,
+            "Value": "Eleva la fuerza de la señal al 100 %"
+        },
+        {
+            "Key": 3662324321,
+            "Value": "ERRADICAR AL ENJAMBRE DE TERMÍNIDOS"
+        },
+        {
+            "Key": 3667133920,
+            "Value": "SELECCIONAR MÓDULO DE DATOS PARA ENVIAR"
+        },
+        {
+            "Key": 3668162822,
+            "Value": "DAÑO POR FUEGO AMIGO:"
+        },
+        {
+            "Key": 3670353506,
+            "Value": "Recargando"
+        },
+        {
+            "Key": 3672690944,
+            "Value": "GUARIDA DE ACECHADORES"
+        },
+        {
+            "Key": 3673328843,
+            "Value": "Se ha descubierto un gigantesco criadero termínido infestado de millones de larvas recién eclosionadas a las que apenas les quedan unas semanas para convertirse en voraces adultas. Hay que exterminarlas antes de que alcancen la madurez aunque tengamos que sacrificar la ciudad para ello.\n\nLos criaderos termínidos están formados por una o más cámaras. Usa la perforadora rompecolmenas para lanzar un dispositivo de exterminio nuclear a cada una de ellas."
+        },
+        {
+            "Key": 3680203702,
+            "Value": "Os desplegaréis en la superficie de la supercolonia, cerca de los antiguos nodos SCT, donde la corteza se ha debilitado. Cuando ya estéis en la superficie, solicitad el envío del recipiente de fluido oscuro e insertadlo en todos los puntos de carga.\n\nLa supercolonia no se parece en nada a ningún otro sitio que hayáis pisado antes. Esperad una resistencia extrema. Toda Supertierra cuenta con vosotros."
+        },
+        {
+            "Key": 3680660782,
+            "Value": "Recompensa por subir de nivel"
+        },
+        {
+            "Key": 3680874974,
+            "Value": "Un grupo de ciudadanos de clase A se han quedado varados en un puerto de evacuación prioritario. No podemos permitir que los termínidos asesinen a esos patriotas.\n \nVe al puerto y evacúa a tantos civiles como quepan a bordo de la lanzadera de transporte habilitada para tal fin."
+        },
+        {
+            "Key": 3682003740,
+            "Value": "Transmite los datos"
+        },
+        {
+            "Key": 3683690394,
+            "Value": "RECUPERAR ESPECÍMENES CIENTÍFICOS"
+        },
+        {
+            "Key": 3691097214,
+            "Value": "Liberar planeta"
+        },
+        {
+            "Key": 3699768441,
+            "Value": "HABILITAR LA EXTRACCIÓN DE PETRÓLEO"
+        },
+        {
+            "Key": 3702651477,
+            "Value": "REALIZA UNA EXTRACCIÓN CON #ENTITY"
+        },
+        {
+            "Key": 3706310389,
+            "Value": "Se ha avistado un nido denso de acechadores en esta zona."
+        },
+        {
+            "Key": 3707106438,
+            "Value": "DISPAROS REALIZADOS:"
+        },
+        {
+            "Key": 3711809192,
+            "Value": "DESTRUIR NAVES DE DESPLIEGUE"
+        },
+        {
+            "Key": 3711914546,
+            "Value": "ELEVANDO LANZADERA DE MISILES TIERRA-AIRE"
+        },
+        {
+            "Key": 3714755758,
+            "Value": "Los ingenieros de combate S.E.A.F. han desplegado una plataforma de perforación modular veloz sobre un estanque de E-711 en las profundidades de las cuevas de termínidos. La alta actividad de termínidos de la zona la ha vuelto extremadamente peligrosa y ha imposibilitado la extracción.\n\nDespliégate al Mundo colmena y activa manualmente la torre de perforación. Protege el proceso de extracción hasta que el E-711 se saque de allí de forma aérea con seguridad."
+        },
+        {
+            "Key": 3715490140,
+            "Value": "Destruye el perturbador de estratagemas"
+        },
+        {
+            "Key": 3716410937,
+            "Value": "INICIO DEL SISTEMA"
+        },
+        {
+            "Key": 3724716379,
+            "Value": "EVACUAR RECURSOS VALIOSOS"
+        },
+        {
+            "Key": 3725770996,
+            "Value": "Sin muertes"
+        },
+        {
+            "Key": 3732427795,
+            "Value": "REALIZAR ESTUDIOS GEOLÓGICOS"
+        },
+        {
+            "Key": 3734930328,
+            "Value": "TOCAR"
+        },
+        {
+            "Key": 3736515091,
+            "Value": "Las naves de teletransporte de los Iluminados están atracadas en esta área. Estas naves son clave para la invasión de los Iluminados, ya que se emplean en todas las funciones militares terrestres, incluyendo la abducción de personal y el despliegue de combatientes.\n\nMientras las naves se encuentren en tierra, son vulnerables. Encontradlas y destruidlas."
+        },
+        {
+            "Key": 3736660687,
+            "Value": "Esta instalación de combustible puede usarse para transferir reservas cruciales a las lanzaderas de la zona."
+        },
+        {
+            "Key": 3738507221,
+            "Value": "ACTIVAR"
+        },
+        {
+            "Key": 3739334762,
+            "Value": "REINICIAR LAS BOMBAS"
+        },
+        {
+            "Key": 3743248579,
+            "Value": "Accede a los controles del repetidor"
+        },
+        {
+            "Key": 3764267998,
+            "Value": "#WAVES oleadas completadas"
+        },
+        {
+            "Key": 3771000953,
+            "Value": "Preparar y lanzar los MBIC locales."
+        },
+        {
+            "Key": 3772123343,
+            "Value": "AUMENTAR FUERZA DE LA SEÑAL"
+        },
+        {
+            "Key": 3780961573,
+            "Value": "EVACUAR RECURSOS VALIOSOS"
+        },
+        {
+            "Key": 3787456298,
+            "Value": "Reactivar estas torres LiDAR abandonadas de S.E.A.F. proporcionará valiosísimos datos geográficos de la zona."
+        },
+        {
+            "Key": 3787792250,
+            "Value": "Usar el mapa para ir a la instalación de entrenamiento de los Helldivers"
+        },
+        {
+            "Key": 3791375433,
+            "Value": "ENVÍO DE LA ESTACIÓN DE TRANSMISIÓN LISTO"
+        },
+        {
+            "Key": 3795512643,
+            "Value": "Iniciar sesión en el sistema de control de misiles"
+        },
+        {
+            "Key": 3795917234,
+            "Value": "Inyectad el fluido oscuro en la corteza de la supercolonia para destruirla de una vez por todas."
+        },
+        {
+            "Key": 3799001491,
+            "Value": "Progreso de irrupción en la colonia"
+        },
+        {
+            "Key": 3801054157,
+            "Value": "La perforadora podría molestar a las criaturas subterráneas"
+        },
+        {
+            "Key": 3814801462,
+            "Value": "Cerrar válvula"
+        },
+        {
+            "Key": 3815040364,
+            "Value": "Entrada de munición requerida"
+        },
+        {
+            "Key": 3815568685,
+            "Value": "Encontrar al comandante del nido termínido"
+        },
+        {
+            "Key": 3816742262,
+            "Value": "Abrir"
+        },
+        {
+            "Key": 3829262661,
+            "Value": "DEFENDER PLANETA"
+        },
+        {
+            "Key": 3835920908,
+            "Value": "ELEVANDO CAÑÓN DE DEFENSA PLANETARIA…"
+        },
+        {
+            "Key": 3837285953,
+            "Value": "INTRODUCIR CÓDIGO DE INICIO DE SESIÓN DEL SISTEMA"
+        },
+        {
+            "Key": 3839515680,
+            "Value": "TERMINAL DE CONTROL DE LA TORRE"
+        },
+        {
+            "Key": 3841851005,
+            "Value": "Sube los datos de las muestras con la interfaz de la perforadora"
+        },
+        {
+            "Key": 3842949158,
+            "Value": "Encontrar y destruir todos los huevos de termínidos."
+        },
+        {
+            "Key": 3843851595,
+            "Value": "Inicia sesión"
+        },
+        {
+            "Key": 3848177901,
+            "Value": "LANZADERA EN CAMINO"
+        },
+        {
+            "Key": 3853228634,
+            "Value": "Esta transmisión de comunicación de los S.E.A.F. puede utilizarse para enviar información a las naves que se encuentren en la órbita planetaria."
+        },
+        {
+            "Key": 3854725346,
+            "Value": "Hemos identificado el origen de la lobreguez: cuerpos subterráneos enormes conocidos como pulmones de esporas. Las larvas de termínidos que se encuentran en el interior de los pulmones parecen estar produciendo esporas de la lobreguez que el propio pulmón bombea a la exosfera.\n\nLa biología exacta es irrelevante. Adéntrate en la colmena y detona una bomba Hell en el interior para erradicar el pulmón de esporas."
+        },
+        {
+            "Key": 3858220824,
+            "Value": "Aléjate de todas las partes en movimiento"
+        },
+        {
+            "Key": 3860979267,
+            "Value": "Un grupo de científicos que constituyen un elemento clave para nuestros esfuerzos de guerra trabajaban en este centro de investigación secreto cuando se produjo la invasión. \n\nAhora mismo, están a salvo en búnkeres de emergencia que deben abrirse desde el exterior para llevar a cabo una evacuación autorizada."
+        },
+        {
+            "Key": 3863667165,
+            "Value": "Los informes indican que esta es la ubicación en la que se vio al tanque aniquilador por última vez."
+        },
+        {
+            "Key": 3867962983,
+            "Value": "Un grupo de ciudadanos de clase A se han quedado varados en un puerto de evacuación de emergencia. No podemos permitir que los autómatas masacren a esos patriotas.\n \nVe al puerto y evacúa a tantos civiles como quepan a bordo de la lanzadera de transporte habilitada para tal fin."
+        },
+        {
+            "Key": 3869794299,
+            "Value": "Esta ciudad está siendo atacada. No podemos permitir que caiga ante las fuerzas de la opresión."
+        },
+        {
+            "Key": 3871612166,
+            "Value": "Iniciar sesión en el panel de control de la torre"
+        },
+        {
+            "Key": 3874453496,
+            "Value": "Mantén a los termínidos alejados del silo de batería"
+        },
+        {
+            "Key": 3876322295,
+            "Value": "Activa el mecanismo de elevación del plato repetidor"
+        },
+        {
+            "Key": 3882332237,
+            "Value": "PROPAGAR LA DEMOCRACIA"
+        },
+        {
+            "Key": 3887767126,
+            "Value": "Activar terminal"
+        },
+        {
+            "Key": 3892322195,
+            "Value": "Debe ajustarse la antena manualmente"
+        },
+        {
+            "Key": 3900259080,
+            "Value": "Facilitad nuestro conocimiento creciente de la lobreguez para que podamos destruirla. "
+        },
+        {
+            "Key": 3900407341,
+            "Value": "Nido de bichos pesado erradicado"
+        },
+        {
+            "Key": 3908101367,
+            "Value": "Conseguid el SSSD que contiene los <c=FFFFE900>códigos de acceso al cañón</c> de alta seguridad."
+        },
+        {
+            "Key": 3909101812,
+            "Value": "Recupera la funcionalidad del lugar de bombeo de E-711."
+        },
+        {
+            "Key": 3911419457,
+            "Value": "Busca agujeros de termínidos activos y ciérralos"
+        },
+        {
+            "Key": 3921356755,
+            "Value": "DESACTIVA LA TORRE DE TERMICIDA"
+        },
+        {
+            "Key": 3922644143,
+            "Value": "Silo de batería desconectado"
+        },
+        {
+            "Key": 3927933937,
+            "Value": "Activa la torre de dispersión del Termicida para inmunizar esta zona frente a los termínidos."
+        },
+        {
+            "Key": 3930949980,
+            "Value": "ACTIVAR TRANSFERENCIA"
+        },
+        {
+            "Key": 3933708104,
+            "Value": "EVACÚA LOS ARTEFACTOS VALIOSOS"
+        },
+        {
+            "Key": 3946672309,
+            "Value": "RECOPILAR DATOS METEOROLÓGICOS"
+        },
+        {
+            "Key": 3951398977,
+            "Value": "Todos los objetivos completados"
+        },
+        {
+            "Key": 3951948862,
+            "Value": "DERROTAD A LOS ILUMINADOS"
+        },
+        {
+            "Key": 3953023005,
+            "Value": "INTRODUCE CÓDIGO DE LANZAMIENTO"
+        },
+        {
+            "Key": 3965369850,
+            "Value": "#NAME"
+        },
+        {
+            "Key": 3967915737,
+            "Value": "ACTIVA LA TORRE DE TERMICIDA"
+        },
+        {
+            "Key": 3968858894,
+            "Value": "Conecta los silos de batería con la torre central"
+        },
+        {
+            "Key": 3969586049,
+            "Value": "Completada: #AMOUNT M"
+        },
+        {
+            "Key": 3969726549,
+            "Value": "SONDA SÍSMICA"
+        },
+        {
+            "Key": 3971507478,
+            "Value": "Silo de batería 01 desactivado"
+        },
+        {
+            "Key": 3971712790,
+            "Value": "ACTIVAR BOMBAS"
+        },
+        {
+            "Key": 3974077508,
+            "Value": "Alimentación no disponible"
+        },
+        {
+            "Key": 3976434132,
+            "Value": "Usar la interfaz para cambiar de perforadora"
+        },
+        {
+            "Key": 3979455691,
+            "Value": "La nave nodriza es el nexo de las órdenes y control de las fuerzas de los Iluminados en este sector. Su opresiva presencia debe ser eliminada.\n\nUn cañón de defensa planetaria en esta zona podría penetrar sus escudos. Activad el cañón y utilizadlo para derribar la nave nodriza."
+        },
+        {
+            "Key": 3983103464,
+            "Value": "REPOSTANDO MISIL - UN MOMENTO"
+        },
+        {
+            "Key": 3984183628,
+            "Value": "Iniciar sesión en el terminal"
+        },
+        {
+            "Key": 3987795066,
+            "Value": "COLOCAR EL DISCO DE DATOS EN LA BANDEJA DE ENTRADA"
+        },
+        {
+            "Key": 3989096872,
+            "Value": "Recuperad la ciudad de manos de sus ocupantes ilegales."
+        },
+        {
+            "Key": 3991282791,
+            "Value": "FUSIBLE 1"
+        },
+        {
+            "Key": 3992186674,
+            "Value": "¿ACTIVAR LA PERFORADORA 3?"
+        },
+        {
+            "Key": 3997391343,
+            "Value": "Silo de b. 01"
+        },
+        {
+            "Key": 3998299206,
+            "Value": "DESTRUIR PULMÓN DE ESPORAS"
+        },
+        {
+            "Key": 4003000692,
+            "Value": "Activar terminal"
+        },
+        {
+            "Key": 4004026431,
+            "Value": "INTERFAZ DE SISTEMAS CRÍTICOS"
+        },
+        {
+            "Key": 4010007762,
+            "Value": "EJECUTAR SOFTWARE DE SABOTAJE"
+        },
+        {
+            "Key": 4015580041,
+            "Value": "#COUNT% PX POR CALIFICACIÓN"
+        },
+        {
+            "Key": 4016667935,
+            "Value": "BANDERA"
+        },
+        {
+            "Key": 4022988243,
+            "Value": "Filtro"
+        },
+        {
+            "Key": 4027814450,
+            "Value": "Bonus por pocas muertes: #AMOUNT M"
+        },
+        {
+            "Key": 4035486382,
+            "Value": "Gracias por tu cooperación"
+        },
+        {
+            "Key": 4035563768,
+            "Value": "Escolta y protege a los investigadores mientras se dirigen a la zona de evacuación."
+        },
+        {
+            "Key": 4042981686,
+            "Value": "Emplazamiento AA"
+        },
+        {
+            "Key": 4044970926,
+            "Value": "Actualización de botín"
+        },
+        {
+            "Key": 4046999266,
+            "Value": "Caja negra"
+        },
+        {
+            "Key": 4051337572,
+            "Value": "DESTRUIR PROTOTORRE"
+        },
+        {
+            "Key": 4053501475,
+            "Value": "#TYPE: +#AMOUNT/#POTENTIAL M"
+        },
+        {
+            "Key": 4057328297,
+            "Value": "DESHABILITANDO SISTEMAS CRÍTICOS..."
+        },
+        {
+            "Key": 4057995659,
+            "Value": "Destruid la fuente de energía del campo de alteración cognitiva."
+        },
+        {
+            "Key": 4069339786,
+            "Value": "Los autómatas han industrializado esta zona y están fabricando un suministro continuo de nuevas tropas. \n\nDestruye su infraestructura y elimina tantos bots como puedas."
+        },
+        {
+            "Key": 4070404232,
+            "Value": "Usar terminal para elevar torre satélite"
+        },
+        {
+            "Key": 4070705890,
+            "Value": "DESTRUIR LA ESTACIÓN DE INVESTIGACIÓN RENEGADA"
+        },
+        {
+            "Key": 4073866658,
+            "Value": "NIDO DE CHILLONES"
+        },
+        {
+            "Key": 4073958185,
+            "Value": "DEFENDED LA CIUDAD"
+        },
+        {
+            "Key": 4080344030,
+            "Value": "Destruir el búnker de mando"
+        },
+        {
+            "Key": 4081827893,
+            "Value": "Activar artillería"
+        },
+        {
+            "Key": 4083735584,
+            "Value": "DESTRUYE EL CAÑÓN"
+        },
+        {
+            "Key": 4089331914,
+            "Value": "Los autómatas de esta zona suponen una amenaza innegable para la libertad, a diferentes niveles. Haz lo que sea para defender nuestro modo de vida."
+        },
+        {
+            "Key": 4097714902,
+            "Value": "Muestras encontradas"
+        },
+        {
+            "Key": 4097729569,
+            "Value": "Mantén las manos lejos de los extractores"
+        },
+        {
+            "Key": 4098194979,
+            "Value": "Los invasores Iluminados han localizado los búnkeres de emergencia prioritarios (disponibles para los ciudadanos de clase B y superior). Están atacando sin piedad a los no combatientes, en lo que constituye una flagrante violación de la ley galáctica. \n \nHemos enviado naves de transporte para evacuar a los ciudadanos. Los Helldivers deben asegurar que los patrióticos y leales ciudadanos llegan al puerto sanos y salvos."
+        },
+        {
+            "Key": 4106526805,
+            "Value": "Esta es la ubicación donde se vio a un bruto autómata por última vez."
+        },
+        {
+            "Key": 4114740790,
+            "Value": "PUESTOS DE AVANZADA DESTRUIDOS"
+        },
+        {
+            "Key": 4129187251,
+            "Value": "ELEVAR TORRE SATÉLITE"
+        },
+        {
+            "Key": 4130195386,
+            "Value": "Continuar hacia el campo de tiro en directo"
+        },
+        {
+            "Key": 4130287931,
+            "Value": "Un enorme enjambre de termínidos se está reuniendo en esta región. Si no lo controlamos, podría multiplicarse sin control.\n\nMata a todos los termínidos que puedas para reducir su número."
+        },
+        {
+            "Key": 4139471255,
+            "Value": "CONTROLES DE LA PUERTA"
+        },
+        {
+            "Key": 4142990363,
+            "Value": "Cuando el CATET esté asegurado, usadlo para extraer los recursos de esta zona."
+        },
+        {
+            "Key": 4150738687,
+            "Value": "Lanzando MBIC"
+        },
+        {
+            "Key": 4152596005,
+            "Value": "LISTO PARA EL LANZAMIENTO"
+        },
+        {
+            "Key": 4154677153,
+            "Value": "Los Iluminados han descubierto un antiguo alijo aislado de recursos secretos de altísimo valor, congelado en criostasis desde la Primera Guerra Galáctica. No podemos permitir que los Iluminados se hagan con estos recursos.\n\nDefended la zona el tiempo suficiente para que los cohetes de evacuación puedan despegar. "
+        },
+        {
+            "Key": 4154982938,
+            "Value": "ERROR: TORRE MAL ALINEADA"
+        },
+        {
+            "Key": 4159608762,
+            "Value": "Regreso bochornoso"
+        },
+        {
+            "Key": 4162284233,
+            "Value": "ERRADICAR LAS COLMENAS"
+        },
+        {
+            "Key": 4164999888,
+            "Value": "Mapa de cuadrícula geológico a escala 1:100"
+        },
+        {
+            "Key": 4166707680,
+            "Value": "La artillería abandonada de los S.E.A.F. puede reactivarse para obtener apoyo terrestre."
+        },
+        {
+            "Key": 4167754760,
+            "Value": "¿QUIERES ACTIVAR EL ESCANEO SÍSMICO?"
+        },
+        {
+            "Key": 4168553130,
+            "Value": "NEUTRALIZAR CAÑÓN ORBITAL"
+        },
+        {
+            "Key": 4169747191,
+            "Value": "TRANSMITIR PAQUETE DE DATOS"
+        },
+        {
+            "Key": 4171468053,
+            "Value": "Libera el Mundo colmena para evitar que la lobreguez se extienda y extrae tanto E-711 como puedas."
+        },
+        {
+            "Key": 4176568594,
+            "Value": "Repeled las fuerzas enemigas que intentan quedarse con la ciudad."
+        },
+        {
+            "Key": 4176745187,
+            "Value": "INICIAR TRANSFERENCIA DE POTENCIA"
+        },
+        {
+            "Key": 4183229977,
+            "Value": "Ve al lugar de extracción e inicia la dispersión del Termicida"
+        },
+        {
+            "Key": 4184186012,
+            "Value": "Refuerzos Helldiver"
+        },
+        {
+            "Key": 4192316357,
+            "Value": "Introduce el código para iniciar el proceso de activación"
+        },
+        {
+            "Key": 4193304862,
+            "Value": "TIEMPO DE MISIÓN: #MINUTES:#SECONDS"
+        },
+        {
+            "Key": 4194145910,
+            "Value": "Maletín"
+        },
+        {
+            "Key": 4195621337,
+            "Value": "PRUEBA FINAL EN CURSO"
+        },
+        {
+            "Key": 4199732194,
+            "Value": "Activar perforadora rompecolmenas"
+        },
+        {
+            "Key": 4202494871,
+            "Value": "ADQUIRIR DATOS DE ESCANEO DEL SUELO"
+        },
+        {
+            "Key": 4206114036,
+            "Value": "Elevando torre satélite"
+        },
+        {
+            "Key": 4206715437,
+            "Value": "Los ingenieros de combate S.E.A.F. han desplegado una plataforma de perforación modular veloz sobre un estanque de una sustancia misteriosa similar al E-710 en las profundidades de las cuevas de termínidos. La alta actividad de termínidos de la zona la ha vuelto extremadamente peligrosa y ha imposibilitado la extracción.\n\nDespliégate al Mundo colmena y activa manualmente la torre de perforación. Protege el proceso de extracción hasta que la sustancia se saque de allí de forma aérea con seguridad."
+        },
+        {
+            "Key": 4211765665,
+            "Value": "Usa la bomba Hell portátil para destruir el pulmón de la colmena"
+        },
+        {
+            "Key": 4214767359,
+            "Value": "Hemos recibido informes de esta región sobre la presencia de comandantes del nido que muestran nuevas mutaciones peligrosas.\n\nEncuentra y elimina a los especímenes antes de que se reproduzcan."
+        },
+        {
+            "Key": 4215067358,
+            "Value": "ELIMINAR AL CARGADOR"
+        },
+        {
+            "Key": 4218405003,
+            "Value": "Sistema de terminal del área de lanzadera"
+        },
+        {
+            "Key": 4220528586,
+            "Value": "DESTRUIR RED DE TRANSMISIÓN"
+        },
+        {
+            "Key": 4229860194,
+            "Value": "Rastrea y elimina al comandante del nido."
+        },
+        {
+            "Key": 4234884333,
+            "Value": "Terminal"
+        },
+        {
+            "Key": 4237091623,
+            "Value": "SE HAN DETECTADO FUSIBLES FUNDIDOS"
+        },
+        {
+            "Key": 4240780626,
+            "Value": "UNIDAD DE CONTROL DEL GENERADOR"
+        },
+        {
+            "Key": 4243103919,
+            "Value": "Usar terminal para fijar coordenadas del objetivo"
+        },
+        {
+            "Key": 4246890330,
+            "Value": "Una extensa red de colmenas subterráneas ha permitido a los termínidos de esta región atrincherarse, reproducirse y aumentar sus números.\n\nPor suerte, esta colmena acaba de entrar en una breve fase de hibernación. Infíltrate y destruye todo lo posible antes de que los termínidos recuperen su máximo poder."
+        },
+        {
+            "Key": 4254765959,
+            "Value": "Gracias por tu servicio"
+        },
+        {
+            "Key": 4268641564,
+            "Value": "ESTABLECER ENLACE ASCENDENTE DE COMUNICACIÓN"
+        },
+        {
+            "Key": 4271378695,
+            "Value": "Usar terminal para abrir escotilla del silo"
+        },
+        {
+            "Key": 4272049039,
+            "Value": "TOTAL: +#AMOUNT M"
+        },
+        {
+            "Key": 4280970126,
+            "Value": "Misil nuclear"
+        },
+        {
+            "Key": 4283980414,
+            "Value": "Destacamento de automatones pesado destruido"
+        },
+        {
+            "Key": 4285890418,
+            "Value": "Se ha perdido la conexión"
+        },
+        {
+            "Key": 4286421936,
+            "Value": "ELIMINA AL CAMINANTE DE FÁBRICA AUTÓMATA"
+        },
+        {
+            "Key": 4287527265,
+            "Value": "Defiende el silo de batería 03"
+        },
+        {
+            "Key": 4290448000,
+            "Value": "Estación inoperativa en este momento"
+        }
+    ]
+}

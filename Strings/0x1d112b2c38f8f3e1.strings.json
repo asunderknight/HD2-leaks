@@ -1,0 +1,798 @@
+{
+    "Version": 1,
+    "Language": {
+        "Hash": "0xbbd7b5d1",
+        "KnownName": "ko",
+        "KnownFriendlyName": "Korean"
+    },
+    "Items": [
+        {
+            "Key": 5488478,
+            "Value": "간접 사격 훈련"
+        },
+        {
+            "Key": 36156336,
+            "Value": "#TEXT"
+        },
+        {
+            "Key": 64650471,
+            "Value": "<i=1>#SECTOR</i>에서 공격 <i=1>#COUNT</i>회 방어"
+        },
+        {
+            "Key": 85066976,
+            "Value": " <i=1>"
+        },
+        {
+            "Key": 97437033,
+            "Value": "샘플"
+        },
+        {
+            "Key": 100428428,
+            "Value": "솎아내기"
+        },
+        {
+            "Key": 117817201,
+            "Value": "유형: <c=FFFFE900>멀티플레이</c>"
+        },
+        {
+            "Key": 142315455,
+            "Value": " <c=FFFFE900>"
+        },
+        {
+            "Key": 154117770,
+            "Value": "무기 자격요건"
+        },
+        {
+            "Key": 166062674,
+            "Value": "<i=1>#COUNT</i>회 처치(포탑 스트라타젬 사용)"
+        },
+        {
+            "Key": 177293649,
+            "Value": "<i=1>#SPEAKER</i>   #TEXT"
+        },
+        {
+            "Key": 184178740,
+            "Value": "무기 자격요건"
+        },
+        {
+            "Key": 227667415,
+            "Value": "치사율 검토 "
+        },
+        {
+            "Key": 238397465,
+            "Value": "</c>"
+        },
+        {
+            "Key": 251200848,
+            "Value": "임무"
+        },
+        {
+            "Key": 304838764,
+            "Value": "전쟁 - #HOURS:#MINUTES:#SECONDS"
+        },
+        {
+            "Key": 331197937,
+            "Value": "파일럿 무기 훈련"
+        },
+        {
+            "Key": 352883173,
+            "Value": "전초기지"
+        },
+        {
+            "Key": 392137679,
+            "Value": "경력: 적 <i=1>#COUNT</i>마리 처치"
+        },
+        {
+            "Key": 451773215,
+            "Value": "</i>회"
+        },
+        {
+            "Key": 471656001,
+            "Value": "#NAME 랭크 #COUNT "
+        },
+        {
+            "Key": 496808468,
+            "Value": "</c>회"
+        },
+        {
+            "Key": 527016410,
+            "Value": "<i=1>#PLANET</i> 행성을 <i=1>#RACE</i>의 공격으로부터 <i=1>#COUNT</i>회 방어하십시오."
+        },
+        {
+            "Key": 561614387,
+            "Value": "일일 명령"
+        },
+        {
+            "Key": 572741022,
+            "Value": "임무 중에 <i=1>#REF</i> 소모"
+        },
+        {
+            "Key": 606835900,
+            "Value": "<i=1>#RACE</i>의 공격을 <i=1>#COUNT</i>회 저지하십시오."
+        },
+        {
+            "Key": 638501850,
+            "Value": "<i=1>#PLANET</i> 행성에 대한 일루미닛 침략을 <i=1>#COUNT</i>회 격퇴하십시오."
+        },
+        {
+            "Key": 653919702,
+            "Value": "<i=1>#REF</i> 스트라타젬 <i=1>#COUNT</i>회 요청"
+        },
+        {
+            "Key": 662371574,
+            "Value": "상급 혹은 거대 적 <i=1>#COUNT</i>마리 처치"
+        },
+        {
+            "Key": 663690807,
+            "Value": "대상: 행성 <i=1>"
+        },
+        {
+            "Key": 680227134,
+            "Value": "집중 전략"
+        },
+        {
+            "Key": 701243066,
+            "Value": "<c=FFFFE900>#COUNT #OBJ</c> 플레이#RACE_PRE#RACE#RACE_POST#DIFF_PRE#DIFF#DIFF_POST#MULTI."
+        },
+        {
+            "Key": 713668384,
+            "Value": "적"
+        },
+        {
+            "Key": 753803428,
+            "Value": "커뮤니티 표적 임무"
+        },
+        {
+            "Key": 754898562,
+            "Value": "<i=1>#LOCATION</i> 해방"
+        },
+        {
+            "Key": 798917336,
+            "Value": "호드 임무에서 <i=1>#COUNT</i>성 등급 달성"
+        },
+        {
+            "Key": 815640498,
+            "Value": "오토마톤 준위 연료 탱크 <i=1>#COUNT</i>회 폭파"
+        },
+        {
+            "Key": 831568279,
+            "Value": "이상</c>으로 "
+        },
+        {
+            "Key": 834385422,
+            "Value": "한 번의 <i=1>#REF</i>(으)로 10킬을 <i=1>#COUNT</i>회 달성"
+        },
+        {
+            "Key": 846947020,
+            "Value": "레이더 웨건"
+        },
+        {
+            "Key": 873419093,
+            "Value": "버그 스트라이더 <i=1>#COUNT</i>마리 처치"
+        },
+        {
+            "Key": 888228522,
+            "Value": "대미지를 입지 않고 난이도 <i=1>#COUNT</i> 이상의 임무를 완료"
+        },
+        {
+            "Key": 992180888,
+            "Value": "연구 계획"
+        },
+        {
+            "Key": 1001285226,
+            "Value": "역량 방해"
+        },
+        {
+            "Key": 1001719296,
+            "Value": "<i=1>#COUNT</i>회 처치(궤도 스트라타젬 사용)"
+        },
+        {
+            "Key": 1007359996,
+            "Value": "대상: 행성 <i=1>"
+        },
+        {
+            "Key": 1021417441,
+            "Value": "주간"
+        },
+        {
+            "Key": 1029106029,
+            "Value": "</c>회"
+        },
+        {
+            "Key": 1032642173,
+            "Value": "위치: 행성, 장악 진영 - <c=FFFFE900>"
+        },
+        {
+            "Key": 1039710571,
+            "Value": "버그 알파 차저 <i=1>#COUNT</i>마리 처치"
+        },
+        {
+            "Key": 1079990460,
+            "Value": "스트라타젬 <i=1>#COUNT</i>회 사용"
+        },
+        {
+            "Key": 1139251439,
+            "Value": "난이도 6 이상 임무 <i=1>#COUNT</i>회 완료"
+        },
+        {
+            "Key": 1190000271,
+            "Value": "적"
+        },
+        {
+            "Key": 1200874512,
+            "Value": "긴급"
+        },
+        {
+            "Key": 1208786668,
+            "Value": "보급 스트라타젬 <i=1>#COUNT</i>회 사용"
+        },
+        {
+            "Key": 1218451548,
+            "Value": "아무 행성에서 공격 <i=1>#COUNT</i>회 방어"
+        },
+        {
+            "Key": 1233839833,
+            "Value": "#COUNT_PRE#COUNT#COUNT_POST#RACE_PRE#RACE#RACE_POST#DIFF_PRE#DIFF#DIFF_POST#MULTI<c=FFFFE900>#ITEM</c> 사용"
+        },
+        {
+            "Key": 1305262746,
+            "Value": "헬포드로 적 <i=1>#COUNT</i>회 처치"
+        },
+        {
+            "Key": 1318954455,
+            "Value": "명령 만료 시 <i=1>#LOCATION</i> 확보"
+        },
+        {
+            "Key": 1324082343,
+            "Value": "</i>"
+        },
+        {
+            "Key": 1343686329,
+            "Value": "위치: 행성 <c=FFFFE900>"
+        },
+        {
+            "Key": 1345055336,
+            "Value": "궤도 스트라타젬 <i=1>#COUNT</i>회 사용"
+        },
+        {
+            "Key": 1360527855,
+            "Value": "#RACE_PRE#RACE#RACE_POST#DIFF_PRE#DIFF#DIFF_POST#COUNT_PRE#COUNT#COUNT_POST#MULTI#LOCATION_PRE#LOCATION#LOCATION_POST <c=FFFFE900>작전</c> 완료"
+        },
+        {
+            "Key": 1372948410,
+            "Value": "강제 폐기"
+        },
+        {
+            "Key": 1373695715,
+            "Value": "방어 스트라타젬 <i=1>#COUNT</i>회 사용"
+        },
+        {
+            "Key": 1400878407,
+            "Value": "개인 명령"
+        },
+        {
+            "Key": 1403282299,
+            "Value": "</c>"
+        },
+        {
+            "Key": 1416498899,
+            "Value": "대상: 아무 <i=1>"
+        },
+        {
+            "Key": 1429330936,
+            "Value": "스트라타젬에 <i=1>#COUNT</i> 크레딧 소비"
+        },
+        {
+            "Key": 1465528842,
+            "Value": "아무 행성에서 공격 <i=1>#COUNT</i>회 방어"
+        },
+        {
+            "Key": 1491917287,
+            "Value": "품종 도태"
+        },
+        {
+            "Key": 1517786633,
+            "Value": "</c>"
+        },
+        {
+            "Key": 1534342021,
+            "Value": "슈퍼지구 하이 커맨드의 우선전문"
+        },
+        {
+            "Key": 1535290886,
+            "Value": "한 임무에서 적 <i=1>#COUNT</i>마리 처치"
+        },
+        {
+            "Key": 1566218727,
+            "Value": "이글 스트라타젬으로 적 <i=1>#COUNT</i>마리 처치"
+        },
+        {
+            "Key": 1596628873,
+            "Value": "<i=1>#COUNT</i>개 이상의 샘플을 가지고 임무에서 탈출"
+        },
+        {
+            "Key": 1666079179,
+            "Value": " 주요"
+        },
+        {
+            "Key": 1773377985,
+            "Value": "#LOCATION_PRE#LOCATION#LOCATION_POST\n#EQUIP_PRE#EQUIP#EQUIP_POST\n#DIFF_PRE#DIFF#DIFF_POST#MULTI<i=1>#ENEMY #COUNT</i>마리 처치"
+        },
+        {
+            "Key": 1778610710,
+            "Value": "간접 사격 훈련"
+        },
+        {
+            "Key": 1788537953,
+            "Value": "탄창 하나로 적 <i=1>#COUNT</i>마리 처치"
+        },
+        {
+            "Key": 1838305738,
+            "Value": "<i=1>#GOAL #GEAR</i> #GEARTYPE 기부"
+        },
+        {
+            "Key": 1846426649,
+            "Value": "진행"
+        },
+        {
+            "Key": 1847477750,
+            "Value": "<i=1>#RACE</i>의 공격 <i=1>#COUNT</i>회 방어"
+        },
+        {
+            "Key": 1854029696,
+            "Value": "목표"
+        },
+        {
+            "Key": 1881588906,
+            "Value": "한 번의 <i=1>#REF</i>(으)로 4킬을 <i=1>#COUNT</i>회 달성"
+        },
+        {
+            "Key": 1883870398,
+            "Value": "사망하지 않고 난이도 <i=1>#COUNT</i> 이상의 임무에서 완료"
+        },
+        {
+            "Key": 1907510616,
+            "Value": "무기 자격요건"
+        },
+        {
+            "Key": 1938562248,
+            "Value": " (<i=1>개인</i>)"
+        },
+        {
+            "Key": 1942991823,
+            "Value": "이글로 10미터 이내의 적 <i=1>#COUNT</i>마리 처치"
+        },
+        {
+            "Key": 1968949865,
+            "Value": "대상: 아무 <i=1>"
+        },
+        {
+            "Key": 2083214352,
+            "Value": "난이도 <i=1>#COUNT</i> 임무에서 '최우수' 등급 달성"
+        },
+        {
+            "Key": 2084035735,
+            "Value": "오토마톤 제조기 <i=1>#COUNT</i>개 파괴"
+        },
+        {
+            "Key": 2142785955,
+            "Value": "유형: <c=FFFFE900>멀티플레이어</c>"
+        },
+        {
+            "Key": 2152275488,
+            "Value": "유형: <i=1>멀티플레이</i>"
+        },
+        {
+            "Key": 2185441936,
+            "Value": "임무에서 목표 <i=1>#COUNT</i>개 성공적으로 완수"
+        },
+        {
+            "Key": 2224592258,
+            "Value": "장갑 파괴"
+        },
+        {
+            "Key": 2233178159,
+            "Value": "<i=1>#COUNT</i>회"
+        },
+        {
+            "Key": 2293727885,
+            "Value": "일반"
+        },
+        {
+            "Key": 2310572910,
+            "Value": "#EXT_PRE#EXT#EXT_POST#COUNT_PRE#COUNT#COUNT_POST#DIFF_PRE#DIFF#DIFF_POST#MULTI 탈출 성공"
+        },
+        {
+            "Key": 2347079025,
+            "Value": "오토마톤이 너무 오랫동안 말레벨론 크릭을 불법 점거하고 있습니다. 이제 이 행성을 되찾아야 할 때입니다."
+        },
+        {
+            "Key": 2351894543,
+            "Value": "오토마톤 건십 추진기 <i=1>#COUNT</i>회 파괴"
+        },
+        {
+            "Key": 2372506000,
+            "Value": "<c=FFFFE900>"
+        },
+        {
+            "Key": 2397886806,
+            "Value": "<i=1>"
+        },
+        {
+            "Key": 2410399265,
+            "Value": "전초기지"
+        },
+        {
+            "Key": 2411926627,
+            "Value": "#RACE_PRE#RACE#RACE_POST#DIFF_PRE#DIFF#DIFF_POST#MULTI<c=FFFFE900>#OBJ 목표</c>#COUNT_PRE#COUNT#COUNT_POST 완료"
+        },
+        {
+            "Key": 2432823045,
+            "Value": "#DIFF_PRE#DIFF#DIFF_POST#COUNT_PRE#COUNT#COUNT_POST#MULTI#LOCATION_PRE#LOCATION#LOCATION_POST <c=FFFFE900>작전</c> 완료"
+        },
+        {
+            "Key": 2438255294,
+            "Value": "행성 <i=1>#COUNT</i>개 해방"
+        },
+        {
+            "Key": 2505675202,
+            "Value": " <c=FFFFE900>"
+        },
+        {
+            "Key": 2542754603,
+            "Value": "파일럿 무기 훈련"
+        },
+        {
+            "Key": 2589774000,
+            "Value": "부스터"
+        },
+        {
+            "Key": 2634513795,
+            "Value": "대량 처치"
+        },
+        {
+            "Key": 2640642124,
+            "Value": "무기에 <i=1>#COUNT</i> 크레딧 소비"
+        },
+        {
+            "Key": 2652312908,
+            "Value": "지원 무기로 비행하는 적 <i=1>#COUNT</i>마리 처치"
+        },
+        {
+            "Key": 2668536287,
+            "Value": "총 <i=1>#COUNT</i>회 처치(수류탄 사용)"
+        },
+        {
+            "Key": 2671077924,
+            "Value": "한 임무에서 이글 스트라타젬으로 적 <i=1>#COUNT</i>마리 처치"
+        },
+        {
+            "Key": 2674288863,
+            "Value": "</c>"
+        },
+        {
+            "Key": 2687979927,
+            "Value": "임무"
+        },
+        {
+            "Key": 2697137884,
+            "Value": "정확도 <i=1>#COUNT</i>%로 임무 완료"
+        },
+        {
+            "Key": 2724000483,
+            "Value": "전리품 사냥"
+        },
+        {
+            "Key": 2732575818,
+            "Value": "일일 - #HOURS:#MINUTES:#SECONDS"
+        },
+        {
+            "Key": 2742665218,
+            "Value": "적 <i=1>#COUNT</i>마리를 <i=1>#REF</i> 사용하여 처치"
+        },
+        {
+            "Key": 2744233581,
+            "Value": "#RACE_PRE#RACE#RACE_POST#MULTI<c=FFFFE900>#COUNT#TYPE #OBJ</c> 완료"
+        },
+        {
+            "Key": 2782283100,
+            "Value": "치사율 검토 "
+        },
+        {
+            "Key": 2794990445,
+            "Value": "솎아내기"
+        },
+        {
+            "Key": 2845482851,
+            "Value": "#LOCATION_PRE#LOCATION#LOCATION_POST#DIFF_PRE#DIFF#DIFF_POST #MTYPE #COUNT_PRE#COUNT#COUNT_POST#MULTI 성공하여 탈출"
+        },
+        {
+            "Key": 2856343586,
+            "Value": "난이도 <c=FFFFE900>"
+        },
+        {
+            "Key": 2891368293,
+            "Value": "#RACE_PRE#RACE#RACE_POST#MULTI<c=FFFFE900>#OBJ #COUNT</c> 활성화"
+        },
+        {
+            "Key": 2901192254,
+            "Value": "<i=1>#PLANET</i>에서 공격 <i=1>#COUNT</i>회 방어"
+        },
+        {
+            "Key": 2904604187,
+            "Value": "오토마톤 병사 <i=1>#COUNT</i>회 무장 해제"
+        },
+        {
+            "Key": 2930240803,
+            "Value": "</i> 장악 행성"
+        },
+        {
+            "Key": 2930957344,
+            "Value": "</c>"
+        },
+        {
+            "Key": 3004775832,
+            "Value": "#EXT_PRE#EXT#EXT_POST#DIFF_PRE#DIFF#DIFF_POST#MULTI\n<i=1>#EQP_PRE#EQP#EQP_POST #COUNT</i>개 소지하여 탈출 성공"
+        },
+        {
+            "Key": 3016573332,
+            "Value": "지정된 행성을 해방하십시오."
+        },
+        {
+            "Key": 3025804585,
+            "Value": "진행도 트랙 진행"
+        },
+        {
+            "Key": 3027588906,
+            "Value": "지뢰 테스트"
+        },
+        {
+            "Key": 3051974986,
+            "Value": "<i=1>#SECTOR</i> 지역에 대한 일루미닛 침략을 <i=1>#COUNT</i>회 격퇴하십시오."
+        },
+        {
+            "Key": 3092107522,
+            "Value": "#RACE_PRE#RACE#RACE_POST#MULTI<c=FFFFE900>#OBJ #COUNT</c> 파괴"
+        },
+        {
+            "Key": 3110184672,
+            "Value": "#MTYPE#RACE_PRE#RACE#RACE_POST#DIFF_PRE#DIFF#DIFF_POST#COUNT_PRE#COUNT#COUNT_POST#MULTI#LOCATION_PRE#LOCATION#LOCATION_POST 성공하여 탈출"
+        },
+        {
+            "Key": 3161912129,
+            "Value": "<i=1>#RACE</i>에게서 행성 <i=1>#COUNT</i>개 해방"
+        },
+        {
+            "Key": 3193724295,
+            "Value": "일일"
+        },
+        {
+            "Key": 3197109771,
+            "Value": "이글로 오토마톤 대공 포탑 <i=1>#COUNT</i>회 파괴"
+        },
+        {
+            "Key": 3213718299,
+            "Value": "<i=1>#PLANET</i>에서 <i=1>#RACE</i>의 공격 <i=1>#COUNT</i>회 방어"
+        },
+        {
+            "Key": 3219286687,
+            "Value": "장갑 파괴"
+        },
+        {
+            "Key": 3253420627,
+            "Value": "수류탄 하나로 적 <i=1>#COUNT</i>마리 처치"
+        },
+        {
+            "Key": 3281577556,
+            "Value": "</c>"
+        },
+        {
+            "Key": 3289084565,
+            "Value": "궤도 스트라타젬 1회 사용으로 적 <i=1>#COUNT</i>마리 처치"
+        },
+        {
+            "Key": 3332462352,
+            "Value": "품종 도태"
+        },
+        {
+            "Key": 3334734628,
+            "Value": "한 임무에서 <i=1>#COUNT</i>발 발포"
+        },
+        {
+            "Key": 3343657947,
+            "Value": "10초 내에 <i=1>#COUNT</i>킬 달성"
+        },
+        {
+            "Key": 3353541931,
+            "Value": "위치: <i=1>"
+        },
+        {
+            "Key": 3360588677,
+            "Value": "</i> 장악 행성"
+        },
+        {
+            "Key": 3366721294,
+            "Value": "</i>"
+        },
+        {
+            "Key": 3410406414,
+            "Value": "</c> 사용 "
+        },
+        {
+            "Key": 3435282359,
+            "Value": "명령 만료 시 <i=1>#SECTOR</i>의 행성 <i=1>#COUNT</i>개 확보"
+        },
+        {
+            "Key": 3440423585,
+            "Value": "기회 임무"
+        },
+        {
+            "Key": 3470508852,
+            "Value": "무기 자격요건"
+        },
+        {
+            "Key": 3485732402,
+            "Value": "위치: 행성, 장악 진영 - <c=FFFFE900>"
+        },
+        {
+            "Key": 3486215587,
+            "Value": "대량 폐기"
+        },
+        {
+            "Key": 3508469820,
+            "Value": "지정된 행성을 해방하십시오."
+        },
+        {
+            "Key": 3509557030,
+            "Value": "버그 슈리커 <i=1>#COUNT</i>마리 처치"
+        },
+        {
+            "Key": 3517150810,
+            "Value": "서로 5초 이내에 <i=1>#COUNT</i>킬 달성"
+        },
+        {
+            "Key": 3538387383,
+            "Value": "위치: <i=1>"
+        },
+        {
+            "Key": 3554369778,
+            "Value": "대상: <c=FFFFE900>"
+        },
+        {
+            "Key": 3575338644,
+            "Value": "해충 구제"
+        },
+        {
+            "Key": 3636211799,
+            "Value": "위치: 행성 <c=FFFFE900>"
+        },
+        {
+            "Key": 3644146541,
+            "Value": "<i=1>#SECTOR</i>에서 <i=1>#RACE</i>의 공격 <i=1>#COUNT</i>회 방어"
+        },
+        {
+            "Key": 3652364732,
+            "Value": "이글에 <i=1>#COUNT</i> 크레딧 소비"
+        },
+        {
+            "Key": 3671353308,
+            "Value": "품종 도태"
+        },
+        {
+            "Key": 3703953913,
+            "Value": "치사율 검토 "
+        },
+        {
+            "Key": 3704135414,
+            "Value": "최첨단 연구"
+        },
+        {
+            "Key": 3748665524,
+            "Value": "총 <i=1>#COUNT</i>개의 샘플을 획득"
+        },
+        {
+            "Key": 3754139674,
+            "Value": "<c=#COLOR>#SPEAKER</c>   #TEXT"
+        },
+        {
+            "Key": 3764215285,
+            "Value": "총 <i=1>#COUNT</i>발 발포"
+        },
+        {
+            "Key": 3807044959,
+            "Value": "명령 기간 동안 잃은 행성 개수보다 더 많은 행성을 해방하십시오"
+        },
+        {
+            "Key": 3820515876,
+            "Value": "<i=1>#RACE</i>의 공격 <i=1>#COUNT</i>회 방어"
+        },
+        {
+            "Key": 3825732283,
+            "Value": "버그 차저 복부 <i=1>#COUNT</i>회 파괴"
+        },
+        {
+            "Key": 3874111423,
+            "Value": "오토마톤 병사 <i=1>#COUNT</i>회 헤드샷"
+        },
+        {
+            "Key": 3897456562,
+            "Value": "일루미닛 침략을 <i=1>#COUNT</i>회 격퇴하십시오."
+        },
+        {
+            "Key": 3900362086,
+            "Value": "<i=1>#SECTOR</i>에서 공격 <i=1>#COUNT</i>회 방어"
+        },
+        {
+            "Key": 3962239360,
+            "Value": "</i>"
+        },
+        {
+            "Key": 3967728374,
+            "Value": "임무"
+        },
+        {
+            "Key": 3994852662,
+            "Value": "<i=1>#PLANET</i> 행성에서 <i=1>#COUNT</i>의 공격 방어"
+        },
+        {
+            "Key": 3997737977,
+            "Value": "<i=1>랭크<i=1>#COUNT</i></i> 달성"
+        },
+        {
+            "Key": 3999261265,
+            "Value": "</i>"
+        },
+        {
+            "Key": 4046331084,
+            "Value": "명령 기간 동안 <i=1>#RACE</i>으로부터 잃은 행성 개수보다 더 많은 행성 해방"
+        },
+        {
+            "Key": 4065003249,
+            "Value": "지정된 행성은 임무 만료 시까지 슈퍼지구의 통제하에 있어야 합니다."
+        },
+        {
+            "Key": 4065182789,
+            "Value": " 부가"
+        },
+        {
+            "Key": 4100333583,
+            "Value": "목표"
+        },
+        {
+            "Key": 4107688522,
+            "Value": "오토마톤 전쟁광 <i=1>#COUNT</i>회 파괴"
+        },
+        {
+            "Key": 4128271980,
+            "Value": "버그 스캐빈저 <i=1>#COUNT</i>마리 터뜨리기"
+        },
+        {
+            "Key": 4182686892,
+            "Value": "유형: <i=1>멀티플레이</i>"
+        },
+        {
+            "Key": 4205069917,
+            "Value": "유형: <c=FFFFE900>멀티플레이어</c>"
+        },
+        {
+            "Key": 4208938528,
+            "Value": "정보"
+        },
+        {
+            "Key": 4242369091,
+            "Value": "레이더 웨건"
+        },
+        {
+            "Key": 4254162676,
+            "Value": "족적 증가"
+        },
+        {
+            "Key": 4257441747,
+            "Value": "한 임무에서 스트라타젬 <i=1>#COUNT</i>회 이상 사용"
+        },
+        {
+            "Key": 4285959407,
+            "Value": "말레벨론 크릭을 해방하십시오."
+        }
+    ]
+}

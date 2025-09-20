@@ -1,0 +1,4994 @@
+{
+    "Version": 1,
+    "Language": {
+        "Hash": "0x0f8857aa",
+        "KnownName": "pl",
+        "KnownFriendlyName": "Polish"
+    },
+    "Items": [
+        {
+            "Key": 525501,
+            "Value": "CYWILE NA OBSZARZE"
+        },
+        {
+            "Key": 3415334,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 9138940,
+            "Value": "Liczba stymulantów zabieranych przez każdego helldiversa na misję zostaje zwiększona o #V_ONE."
+        },
+        {
+            "Key": 12348112,
+            "Value": "Zwiększenie liczby stymulantów przestało obowiązywać."
+        },
+        {
+            "Key": 14881450,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 16829487,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 19757233,
+            "Value": "Anihiluj:"
+        },
+        {
+            "Key": 23818252,
+            "Value": "DOMINACJA W POWIETRZU"
+        },
+        {
+            "Key": 27832939,
+            "Value": "Manewr orbitalnego lasera jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 32304560,
+            "Value": "UKRYJ ROZKAZY"
+        },
+        {
+            "Key": 35452912,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 37894509,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 38424495,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 40790875,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 56725756,
+            "Value": "Gęste burze piaskowe <i=1>zmniejszają mobilność</i> i <i=1>znacznie zmniejszają widoczność</i> zarówno dla jednostek wroga, jak i sojuszniczych."
+        },
+        {
+            "Key": 61153676,
+            "Value": "Zaliczenie tej operacji pomoże odzyskać to miasto. Odzyskiwanie miast ma znaczący wkład w wyzwolenie planety."
+        },
+        {
+            "Key": 67045919,
+            "Value": "Manewr orbitalnego ataku pociskami odłamkowo-burzącymi 120 mm jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 70418734,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 72582816,
+            "Value": "Manewr nalotu napalmem Orła jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 75445877,
+            "Value": "Manewr miotacza łukowego ARC-3 jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 77038681,
+            "Value": "Manewr <i=1>#V_ONE</i> tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 77306762,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 79192892,
+            "Value": "WYKRYTO ANOMALIĘ GRAWITACYJNĄ"
+        },
+        {
+            "Key": 81388574,
+            "Value": "POBIERANIE E-711"
+        },
+        {
+            "Key": 81523500,
+            "Value": "Rodzice wpadają w szał, gdy ich dziecko przesyła swoją świadomość do serwera w chmurze."
+        },
+        {
+            "Key": 82371251,
+            "Value": "Zabici helldiversi"
+        },
+        {
+            "Key": 91998981,
+            "Value": "POSTĘPY W KAMPANII NAJAZDU"
+        },
+        {
+            "Key": 98611233,
+            "Value": "Ceny mieszkań rosną – kolejne pokolenie pra-pra-pradziadków przechodzi na emeryturę."
+        },
+        {
+            "Key": 100511399,
+            "Value": "Werbowani będą obywatele wszystkich klas."
+        },
+        {
+            "Key": 103735208,
+            "Value": "Dostępność manewru <i=1>#V_ONE</i> zakończyła się."
+        },
+        {
+            "Key": 104772162,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 107490755,
+            "Value": "PLANETA WYZWOLONA – PRZEJDŹ NA NOWĄ PLANETĘ"
+        },
+        {
+            "Key": 110359831,
+            "Value": "Firma Virydian Toys oczyszczona z zarzutów"
+        },
+        {
+            "Key": 114720360,
+            "Value": "Zwiększenie liczby użyć manewru <i=1>#V_ONE</i> przestało obowiązywać."
+        },
+        {
+            "Key": 122818609,
+            "Value": "Manewr gniazda ciężkiego karabinu maszynowego jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 125302513,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 129724100,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 136327622,
+            "Value": "Niespodziewane uzupełnienia automatów znacząco posunęły się naprzód na planecie #V_ONE."
+        },
+        {
+            "Key": 141087962,
+            "Value": "Liczba magazynków do wszystkich rodzajów broni zabieranych przez helldiversów na misję zostaje tymczasowo zmniejszona o #V_ONE."
+        },
+        {
+            "Key": 148778530,
+            "Value": "Manewr muru obronnego jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 149087144,
+            "Value": "PATROLE AUTOMATÓW LATAJĄCYCH"
+        },
+        {
+            "Key": 149945353,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 150895216,
+            "Value": "W najbliższym czasie będziemy szybciej tracić teren na planecie #V_ONE."
+        },
+        {
+            "Key": 157970715,
+            "Value": "Wydłużenie czasu zaliczenia misji przestało obowiązywać."
+        },
+        {
+            "Key": 159541688,
+            "Value": "Dołącza"
+        },
+        {
+            "Key": 159552540,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 161233440,
+            "Value": "Wszyscy helldiversi pasywnie regenerują zdrowie o #V_ONE% na sekundę."
+        },
+        {
+            "Key": 162355166,
+            "Value": "OSOBLIWOŚĆ MERIDIAŃSKA"
+        },
+        {
+            "Key": 163446619,
+            "Value": "Na tej surowej, zimnej, skalistej planecie nie ma żadnej rozpoznawalnej formy życia."
+        },
+        {
+            "Key": 163457594,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 169372105,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 170919653,
+            "Value": "Manewr M-105 Sojusznik jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 171607714,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 179861588,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 180403125,
+            "Value": "OPERACJA MIEJSKA"
+        },
+        {
+            "Key": 182613085,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 187286726,
+            "Value": "EFEKTY"
+        },
+        {
+            "Key": 196135185,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 199880516,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 199902803,
+            "Value": "legalizując 8 nowych, zaakceptowanych komentarzy w mediach."
+        },
+        {
+            "Key": 207159351,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 210713076,
+            "Value": "Ta czarna dziura to wszystko, co pozostało z nadziei i marzeń kolonistów, którzy mogliby zbudować tu własne domy. Nasi wrogowie woleliby, żeby cała galaktyka została wciągnięta w nieskończoną pustkę, byle tylko uniemożliwić nam życie według naszych zasad."
+        },
+        {
+            "Key": 216069095,
+            "Value": "DOSTĘPNA JEST NOWA OPERACJA"
+        },
+        {
+            "Key": 222371685,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 233657198,
+            "Value": "<c=FF336666>ŚLEDZENIE:</c> <c=FFcd6801>ŻĄDANIA MISJI</c>"
+        },
+        {
+            "Key": 234584469,
+            "Value": "Szaleństwo tańca „pulsar pop” ogarnia galaktykę."
+        },
+        {
+            "Key": 235670415,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 236488569,
+            "Value": "Dostępność manewru orbitalnego ataku gazowego zakończyła się."
+        },
+        {
+            "Key": 236643916,
+            "Value": "NAGŁY SZTURM"
+        },
+        {
+            "Key": 243191521,
+            "Value": "NADWYŻKA MANEWRÓW"
+        },
+        {
+            "Key": 246067354,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 249507806,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 254710586,
+            "Value": "Helldiversi przygotowują się do potężnej ofensywy na roje terminidów."
+        },
+        {
+            "Key": 257436714,
+            "Value": "Na planecie Okul VI odkryto ślady istot myślących; dokonano bezpiecznego oczyszczania powierzchni."
+        },
+        {
+            "Key": 265269866,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 269334634,
+            "Value": "Manewr orbitalnego ataku precyzyjnego jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 271258196,
+            "Value": "Liczba granatów zabieranych przez każdego helldiversa na misję zostaje zwiększona o #V_ONE."
+        },
+        {
+            "Key": 276825548,
+            "Value": "Na tej planecie zauważony został zmodyfikowany przez posępność szczep terminidów. Patrole SZSZ zostały zwabione w pułapki i wyeliminowane przez niewidocznych napastników. Aby zniszczyć to zagrożenie, potrzebne będą wszystkie wyostrzone zmysły helldiversów."
+        },
+        {
+            "Key": 280616943,
+            "Value": "<i=3>WAŻNY ROZKAZ WYKONANY</i>\n<i=1>Gaellivare</i> zostało utrzymane przez wyznaczony czas. Jednak planeta i sama SKD wciąż są zagrożone. Walka jeszcze się nie skończyła.\nSztab generalny będzie monitorował sytuację. Kiedy tylko rozstrzygnie się los <i=1>Gaellivare</i>, w ten czy inny sposób, udostępnione zostaną dalsze wskazówki."
+        },
+        {
+            "Key": 280740600,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 293424533,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 295786814,
+            "Value": "GRASUJĄCE WRZASKUNY"
+        },
+        {
+            "Key": 298108088,
+            "Value": "Liczba użyć manewru <i=1>#V_ONE</i> została tymczasowo zwiększona o #V_TWO."
+        },
+        {
+            "Key": 298138811,
+            "Value": "INWAZJA AUTOMATÓW"
+        },
+        {
+            "Key": 302770875,
+            "Value": "Kolejna kolonia zniszczona przez niespodziewany atak automatów."
+        },
+        {
+            "Key": 311608928,
+            "Value": "Superbroń odpala za <i=1>#TIME</i>"
+        },
+        {
+            "Key": 315140100,
+            "Value": "GIGAOKRĘT OŚWIECONYCH"
+        },
+        {
+            "Key": 318178055,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 322782799,
+            "Value": "Witamy na wojnie galaktycznej\n\nTutaj społeczność walczy ze wspólnym wrogiem."
+        },
+        {
+            "Key": 323825976,
+            "Value": "Dostępność manewru nalotu napalmem Orła zakończyła się."
+        },
+        {
+            "Key": 324886748,
+            "Value": "SEKTOR"
+        },
+        {
+            "Key": 329443307,
+            "Value": "Manewr orbitalnego ataku powietrznego jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 330847558,
+            "Value": "HIPERNAPĘD AUTOMATÓW"
+        },
+        {
+            "Key": 332478520,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 332764715,
+            "Value": "SIŁA FLOTY OŚWIECONYCH"
+        },
+        {
+            "Key": 336774918,
+            "Value": "Suchy, skalisty biom występujący na tej planecie sprawił, że wykształciły się tu różne organizmy niezwykle efektywnie korzystające z wody."
+        },
+        {
+            "Key": 337953497,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 341723394,
+            "Value": "Dostępność manewru plecaka skoku zakończyła się."
+        },
+        {
+            "Key": 342717574,
+            "Value": "Dostępność manewru 500 kg bomby Orła zakończyła się."
+        },
+        {
+            "Key": 346314042,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 346784578,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 352042548,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 352192220,
+            "Value": "Zwiększenie liczby granatów przestało obowiązywać."
+        },
+        {
+            "Key": 356236815,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 358548648,
+            "Value": "Czwórka uznana za „najbardziej demokratyczną cyfrę”."
+        },
+        {
+            "Key": 366648504,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 368572468,
+            "Value": "Topniejące czapy lodowe na Zwodniczych Klejnotach doprowadzają do podwyżki cen w hotelu na superłodzi."
+        },
+        {
+            "Key": 372178714,
+            "Value": "Dostępność manewru ST-1 Żądło zakończyła się."
+        },
+        {
+            "Key": 376917040,
+            "Value": "ZARODNIKI ATMOSFERYCZNE"
+        },
+        {
+            "Key": 379867334,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 380809060,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 381140667,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 390099180,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 394682596,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 399173704,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 399581668,
+            "Value": "Rozpoczęła się wstępna instalacja sieci odstraszania terminidów."
+        },
+        {
+            "Key": 405521417,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 407681137,
+            "Value": "PRÓBKI:"
+        },
+        {
+            "Key": 408492564,
+            "Value": "EKSPERYMENTALNE SAKWY NA BIODRACH"
+        },
+        {
+            "Key": 409186856,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 410498120,
+            "Value": "Manewr pakietu generatora tarczy jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 420079450,
+            "Value": "Liczba granatów zabieranych przez każdego helldiversa na misję zostaje zmniejszona o #V_ONE."
+        },
+        {
+            "Key": 421418845,
+            "Value": "Nowe dowody wskazują, że słynne zdjęcie „Zgładzenie bestii z Vog-Sojoth” jest fałszerstwem."
+        },
+        {
+            "Key": 422331606,
+            "Value": "Nowe badania wskazują, że 98% dzieci w wieku do 12 lat chce "
+        },
+        {
+            "Key": 423571628,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 425147060,
+            "Value": "BURZA ORŁA"
+        },
+        {
+            "Key": 428146136,
+            "Value": "Operacje na wyższym poziomie trudności stanowią większe wyzwanie i zawierają nowych wrogów oraz misje. \n\nWywierają też większy wpływ na wojnę i dają lepsze nagrody. Zalicz <i=1>operację</i> na najwyższym odblokowanym <i=1>poziomie trudności</i>, aby odblokować wyższy."
+        },
+        {
+            "Key": 430447578,
+            "Value": "Liczba granatów dla wszystkich helldiversów zostaje tymczasowo zwiększona o #V_ONE."
+        },
+        {
+            "Key": 435602687,
+            "Value": "ŹRÓDŁO POSĘPNOŚCI"
+        },
+        {
+            "Key": 435905688,
+            "Value": "Kończy się za:"
+        },
+        {
+            "Key": 436895486,
+            "Value": "Liczba użyć manewru <i=1>#V_ONE</i> została zmniejszona o #V_TWO."
+        },
+        {
+            "Key": 440415104,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 441886279,
+            "Value": "SZSZ dokonują ofensywy przeciwko strukturom obronnym automatów."
+        },
+        {
+            "Key": 446478236,
+            "Value": "Chlupoczące błoto, powykręcane korzenie. Smród zgnilizny i anarchii. Bulgocące, nieskończone grzęzawisko."
+        },
+        {
+            "Key": 450606106,
+            "Value": "Wpływ operacyjny"
+        },
+        {
+            "Key": 450787924,
+            "Value": "Nowa rasa bioluminescencyjnych kociaków zostaje wyprzedana w ciągu kilku minut!"
+        },
+        {
+            "Key": 456680010,
+            "Value": "Burze jonowe okresowo <i=1>wyłączają manewry</i>."
+        },
+        {
+            "Key": 459656999,
+            "Value": "Uwaga: na polu bitwy znajdują się lojalni cywile."
+        },
+        {
+            "Key": 467439839,
+            "Value": "EKSTREMALNY"
+        },
+        {
+            "Key": 476794755,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 476862046,
+            "Value": "Helldivers dołącza"
+        },
+        {
+            "Key": 477119209,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 478168078,
+            "Value": "Sztuczne światło słoneczne uznane za co najmniej tak dobre, jeśli nie lepsze, od naturalnego światła słonecznego."
+        },
+        {
+            "Key": 486634204,
+            "Value": "NIEMOŻLIWY"
+        },
+        {
+            "Key": 496937874,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 498333968,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 500293760,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 500598816,
+            "Value": "Oświeceni generują na tej planecie ciemną energię. Używają jej do przesuwania Osobliwości Meridiańskiej ku Super Ziemi. Trzeba ich zatrzymać za wszelką cenę. "
+        },
+        {
+            "Key": 501613549,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 502012056,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 506754096,
+            "Value": "PORAŻKA"
+        },
+        {
+            "Key": 510506755,
+            "Value": "SZCZEP PĘKNIĘĆ"
+        },
+        {
+            "Key": 511262727,
+            "Value": "INICJOWANIE SKOKU NADŚWIETLNEGO"
+        },
+        {
+            "Key": 513992565,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 515165111,
+            "Value": "Kiedy tylko polegnie helldivers, automatycznie odpalony zostanie atak orbitalny."
+        },
+        {
+            "Key": 519669347,
+            "Value": "Duże posterunki"
+        },
+        {
+            "Key": 528459454,
+            "Value": "Manewr jednorazowego ppanc. EAT-17 jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 530653442,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 534797284,
+            "Value": "Czekać na dalsze rozkazy ze sztabu generalnego Super Ziemi"
+        },
+        {
+            "Key": 536003898,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 540423199,
+            "Value": "Niespodziewane uzupełnienia automatów znacząco posuwają się naprzód na planecie #V_ONE."
+        },
+        {
+            "Key": 541236438,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 543070732,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 544784714,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 545364779,
+            "Value": "Wpływ każdej misji wraca do poziomu normalnego."
+        },
+        {
+            "Key": 552258063,
+            "Value": "Ciężko opancerzeni wrogowie"
+        },
+        {
+            "Key": 560244346,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 560314369,
+            "Value": "#DISTANCE km"
+        },
+        {
+            "Key": 563887562,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 565044815,
+            "Value": "OGNISTE TORNADA"
+        },
+        {
+            "Key": 574471121,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 574562412,
+            "Value": "„Snajper plazmowy z Super Ziemi” bije kinowe rekordy oglądalności."
+        },
+        {
+            "Key": 584424596,
+            "Value": "Manewr orbitalnego działa energetycznego jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 588515429,
+            "Value": "WYZWANIA ŁAŃCUCHA ZAOPATRZENIOWEGO"
+        },
+        {
+            "Key": 588827542,
+            "Value": "SKD przeprowadza <i=1>ostrzały Orła</i> w trakcie misji."
+        },
+        {
+            "Key": 591550370,
+            "Value": "<i=1>Stoper misji</i> skrócony do <i=1>30 minut</i>."
+        },
+        {
+            "Key": 592732242,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 593729951,
+            "Value": "Rój"
+        },
+        {
+            "Key": 597619832,
+            "Value": "Manewr automatycznego działka AC-8 jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 603021238,
+            "Value": "GENEROWANIE CIEMNEJ ENERGII"
+        },
+        {
+            "Key": 607081875,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 608133461,
+            "Value": "Dostępność orbitalnego ataku EMS zakończyła się."
+        },
+        {
+            "Key": 608996976,
+            "Value": "Wyzwól:"
+        },
+        {
+            "Key": 627359968,
+            "Value": "w przyszłości zostać helldiversami. Pozostałe 2% jest obecnie przesłuchiwane."
+        },
+        {
+            "Key": 636634761,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 638005199,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 638493401,
+            "Value": "Manewr azora jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 644692723,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 645988482,
+            "Value": "Dostępność manewru FAF-14 Włócznia zakończyła się."
+        },
+        {
+            "Key": 652439512,
+            "Value": "WIADOMOŚCI"
+        },
+        {
+            "Key": 658025856,
+            "Value": "DESZCZ PIASKU"
+        },
+        {
+            "Key": 659452616,
+            "Value": "Liczba granatów zabieranych przez każdego helldiversa na misję zostaje tymczasowo zwiększona o #V_ONE."
+        },
+        {
+            "Key": 666928538,
+            "Value": "Manewr stawiacza min przeciwpiechotnych jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 669023182,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 670070393,
+            "Value": "SKUTECZNY POBÓR"
+        },
+        {
+            "Key": 671564727,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 679349357,
+            "Value": "Gorąca, pustynna planeta, której skaliste płaskowyże są jedynymi przerwami w bezkresnym morzu wydm."
+        },
+        {
+            "Key": 681502033,
+            "Value": "Dostępność manewru orbitalnej salwy pociskami odłamkowo-burzącymi 380 mm zakończyła się."
+        },
+        {
+            "Key": 688744041,
+            "Value": "Planeta jest w zupełności pochłonięta przez posępność, co poważnie ogranicza wsparcie logistyczne.\nCzasy odbioru zostały wydłużone o <i=1>40 sekund</i>, czas przezbrojenia Orłów jest dłuższy o <i=1>30%</i>, a ilość zbieranej amunicji zostaje zmniejszona o <i=1>50%</i>."
+        },
+        {
+            "Key": 688917118,
+            "Value": "Tymczasowe zmniejszenie liczby stymulantów przestało obowiązywać."
+        },
+        {
+            "Key": 691816876,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 696616553,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 698845032,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 710821004,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 715841083,
+            "Value": "Liczba medali na misję dla wszystkich helldiversów zostaje tymczasowo zwiększona o #V_ONE."
+        },
+        {
+            "Key": 718238054,
+            "Value": "Wróg atakuje tę planetę. Jeśli nie odeprzemy go na czas, planeta zostanie stracona."
+        },
+        {
+            "Key": 721358359,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 723927417,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 733451672,
+            "Value": "PORAŻKA PLANETARNEJ OBRONY ZA: #TIME"
+        },
+        {
+            "Key": 734628521,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 735976853,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 740677481,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 747167917,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 747694778,
+            "Value": "Tutaj możesz przejrzeć wszystkie obecnie aktywne <i=1>rozkazy</i>."
+        },
+        {
+            "Key": 749051481,
+            "Value": "Niedawny geologicznie kataklizm zniszczył prawie całe życie na tej planecie. Wydaje się, że popiół i zastygła lawa to wszystko, co na niej zostało."
+        },
+        {
+            "Key": 759038053,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 761453557,
+            "Value": "W najbliższej przyszłości kiedy tylko polegnie helldivers, automatycznie odpalony zostanie atak orbitalny."
+        },
+        {
+            "Key": 761483845,
+            "Value": "Liczba magazynków do wszystkich rodzajów broni zabieranych przez helldiversów na misję zostaje zmniejszona o #V_ONE."
+        },
+        {
+            "Key": 765324963,
+            "Value": "Obecność SKD w pobliżu tej planety daje niewielką premię do postępów w <i=1>kampanii wyzwolenia</i>."
+        },
+        {
+            "Key": 765332655,
+            "Value": "<i=1>Mapa zasłonięta</i> przez zarodniki robali."
+        },
+        {
+            "Key": 768384977,
+            "Value": "Dostępność manewru jednorazowego ppanc. EAT-17 zakończyła się."
+        },
+        {
+            "Key": 772000433,
+            "Value": "OGNISKA CHMUR ZARODNIKÓW"
+        },
+        {
+            "Key": 775530628,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 781677224,
+            "Value": "Sąd Najwyższy Super Ziemi stwierdza, że poprawka "
+        },
+        {
+            "Key": 783681730,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 786290638,
+            "Value": "ROZKAZY OSOBISTE"
+        },
+        {
+            "Key": 786752156,
+            "Value": "Myśląca sieć komputerowa szybko usunięta przez czujnego pracownika IT."
+        },
+        {
+            "Key": 795291061,
+            "Value": "Góry piasku pieką się w niesłabnącym upale na tej całkowicie pustynnej planecie."
+        },
+        {
+            "Key": 796165462,
+            "Value": "Na tej planecie automaty używają nowej serii wyspecjalizowanych modeli. Te ulepszone boty korzystają ze skradzionej technologii plecaków skoku, bezdusznie złupionej z ciał poległych helldiversów i wypaczonej w coś, co jest niemal nie do poznania."
+        },
+        {
+            "Key": 796263081,
+            "Value": "Statek badawczy odkrył ponoć sygnaturę energetyczną zbieżną z oświeconymi."
+        },
+        {
+            "Key": 800984942,
+            "Value": "Dostępność manewru orbitalnej salwy z Gatlinga zakończyła się."
+        },
+        {
+            "Key": 808072914,
+            "Value": "Zaliczenie tej operacji ma wkład w wyzwolenie planety."
+        },
+        {
+            "Key": 815477269,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 823091821,
+            "Value": "TESTOWANIE SPRZĘTU"
+        },
+        {
+            "Key": 826900961,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 828430095,
+            "Value": "OPERACJA"
+        },
+        {
+            "Key": 828770804,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 830957581,
+            "Value": "Dostępność manewru pocisków powietrze-powietrze Orła zakończyła się."
+        },
+        {
+            "Key": 832453372,
+            "Value": "Kwitnąca Meridia została wypaczona i stała się superkolonią terminidów. Trzeba było ją zniszczyć z użyciem tajemniczego Ciemnego Płynu. Pozostała po niej tylko galaktyczna blizna. Uwaga: niestabilne wahania czasoprzestrzenne uniemożliwiają obecnie podróże nadświetlne do meridiańskiej czarnej dziury."
+        },
+        {
+            "Key": 832857255,
+            "Value": "Manewr plecaka zaopatrzeniowego jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 836288058,
+            "Value": "Nagromadzenie kosmicznych śmieci powoduje ukształtowanie się szybującego śmieciowego księżyca."
+        },
+        {
+            "Key": 837262895,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 838975314,
+            "Value": "Sojusznicze cele taktyczne"
+        },
+        {
+            "Key": 839605471,
+            "Value": "Wydarzenia na planetach mogą zajść, kiedy wrogowie atakują planety kontrolowane przez Super Ziemię – <i=1>Wydarzenie obrony</i> – albo gdy Super Ziemia dokonuje postępów w galaktyce – <i=1>Wydarzenia wyzwolenia</i>.\n\nKoniecznie spełnij swój obowiązek! "
+        },
+        {
+            "Key": 841627405,
+            "Value": "PRZEJMIJ"
+        },
+        {
+            "Key": 845365900,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 846661856,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 847861910,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 848932066,
+            "Value": "ORBITALNA BLOKADA"
+        },
+        {
+            "Key": 849379401,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 849502854,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 851158655,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 851413624,
+            "Value": "STREFA KWARANTANNY TERMINIDÓW"
+        },
+        {
+            "Key": 853684841,
+            "Value": "SZCZEP DRAPIEŻCÓW"
+        },
+        {
+            "Key": 853966900,
+            "Value": "Planeta #V_ONE była praktycznie obroniona, ale ostatecznie wpadła w ręce wroga."
+        },
+        {
+            "Key": 860616678,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 874072646,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 876330716,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 877078639,
+            "Value": "OPIS"
+        },
+        {
+            "Key": 878002307,
+            "Value": "W TRANZYCIE NA MIEJSCE MISJI"
+        },
+        {
+            "Key": 883460329,
+            "Value": "BURZE PIASKOWE"
+        },
+        {
+            "Key": 890036569,
+            "Value": "Helldiversi wycofani z operacji „Sektor Męstwa”, aby z pełnym zaangażowaniem zaatakować automaty."
+        },
+        {
+            "Key": 893408910,
+            "Value": "Senator Killjoy Jr. wygłasza wzruszającą przemowę: „Super Ziemia jest silniejsza niż kiedykolwiek!”"
+        },
+        {
+            "Key": 894064163,
+            "Value": "NAGRODA ZA OPERACJĘ MIEJSKĄ"
+        },
+        {
+            "Key": 898859057,
+            "Value": "Eksplozja za:"
+        },
+        {
+            "Key": 900097455,
+            "Value": "Badania wskazują, że ocieplenie galaktyczne ma podłoże naturalne."
+        },
+        {
+            "Key": 900452567,
+            "Value": "Manewr orbitalnego ataku gazowego jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 904306987,
+            "Value": "OSADA"
+        },
+        {
+            "Key": 905309513,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 906120598,
+            "Value": "W ekwipunku"
+        },
+        {
+            "Key": 912562356,
+            "Value": "Zdolności produkcji masowej automatów przekraczają oczekiwania."
+        },
+        {
+            "Key": 913638062,
+            "Value": "Dostępność manewru pakietu generatora tarczy zakończyła się."
+        },
+        {
+            "Key": 926375565,
+            "Value": "9"
+        },
+        {
+            "Key": 929394276,
+            "Value": "Manewr wieży Tesli jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 938578203,
+            "Value": "MISJA NIEUDANA"
+        },
+        {
+            "Key": 940530831,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 945213331,
+            "Value": "Na orbicie"
+        },
+        {
+            "Key": 946320087,
+            "Value": "Aktywni helldiversi"
+        },
+        {
+            "Key": 946808779,
+            "Value": "Meldunek z kolonii, z którą stracono kontakt, wspomina o „kalmarach”."
+        },
+        {
+            "Key": 954575608,
+            "Value": "Wybierz <i=1>misję</i> i przygotuj się do nurkowania"
+        },
+        {
+            "Key": 954976452,
+            "Value": "Gęsta mgła <i=1>nieznacznie zmniejsza widoczność</i> zarówno dla jednostek wroga, jak i sojuszniczych."
+        },
+        {
+            "Key": 959254541,
+            "Value": "Pustynna planeta podatna na nieprzewidywalne i niebezpieczne tornada."
+        },
+        {
+            "Key": 964957063,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 968713913,
+            "Value": "Aktywiści proterminidzcy skazani na 20 lat w kopalniach asteroidowych przez bohaterskiego sędziego."
+        },
+        {
+            "Key": 973323483,
+            "Value": "Aktywni znajomi"
+        },
+        {
+            "Key": 979668381,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 980743299,
+            "Value": "Zaginione dziecko-astronauta odnalezione w studni plutonowej przez robo-psa."
+        },
+        {
+            "Key": 981791852,
+            "Value": "WYZWÓL WSZYSTKIE SEKTORY"
+        },
+        {
+            "Key": 983707629,
+            "Value": "Gwiazda wolnościoballa, Rex Stribling, zdobywa megagola w dwunastym meczu pod rząd."
+        },
+        {
+            "Key": 986874313,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 989037070,
+            "Value": "Odbiór trwa o #V_TWO sek. krócej."
+        },
+        {
+            "Key": 989136222,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 990366181,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 990898661,
+            "Value": "Manewr 500 kg bomby Orła jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 991851783,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 994552698,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 994838962,
+            "Value": "Potężne diabły pyłowe <i=1>wyrzucają mniejszych żołnierzy w powietrze</i>, a <i=1>większych oszałamiają</i>."
+        },
+        {
+            "Key": 996991993,
+            "Value": "Liczba medali na misję dla wszystkich helldiversów zostaje zmniejszona o #V_ONE."
+        },
+        {
+            "Key": 1004277842,
+            "Value": "Na powierzchni tej planety znaleźć można głównie lód i pokryte mchem skały."
+        },
+        {
+            "Key": 1006242818,
+            "Value": "Zaginione dziecko znalezione na orbicie asteroidy po nieudanym rodzinnym spacerze kosmicznym."
+        },
+        {
+            "Key": 1007592719,
+            "Value": "Dostępność manewru orbitalnego ataku pociskami odłamkowo-burzącymi 120 mm zakończyła się."
+        },
+        {
+            "Key": 1016254138,
+            "Value": "MODYFIKATORY <i=1>[#COUNT]</i>"
+        },
+        {
+            "Key": 1017745296,
+            "Value": "Terminidzkie smokoluchy panoszą się na niebie nad tą planetą."
+        },
+        {
+            "Key": 1032974617,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 1036926398,
+            "Value": "PRZESTRZEŃ OKUPOWANA PRZEZ AUTOMATY"
+        },
+        {
+            "Key": 1039556110,
+            "Value": "Manewr M-105 Sojusznik jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 1042419338,
+            "Value": "Meteory uderzają w powierzchnię, <i=1>powodując ogromne zniszczenia</i>."
+        },
+        {
+            "Key": 1044524616,
+            "Value": "Obrażenia wręcz zostają tymczasowo zmniejszone o #V_ONE%."
+        },
+        {
+            "Key": 1048514854,
+            "Value": "ROZDARTA PLANETA"
+        },
+        {
+            "Key": 1052101257,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1055503030,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1057301920,
+            "Value": "WIELKIE ROJE"
+        },
+        {
+            "Key": 1057931616,
+            "Value": "Liczba medali na misję dla wszystkich helldiversów zostaje tymczasowo zmniejszona o #V_ONE."
+        },
+        {
+            "Key": 1064788115,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1070316424,
+            "Value": "Ukończ operacje na planecie #PLANET"
+        },
+        {
+            "Key": 1077822980,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 1081573383,
+            "Value": "PREMIA UKOŃCZONYCH MISJI"
+        },
+        {
+            "Key": 1081890590,
+            "Value": "Najeżdżając na sektor, zobaczysz, jaką jego część Super Ziemia już wyzwoliła. Wszystkie operacje mają swój wkład w odepchnięcie wrogów Super Ziemi.\nWybierz <i=1>sektor</i>, aby sprawdzić, które jego planety są obecnie grywalne."
+        },
+        {
+            "Key": 1085262938,
+            "Value": "Nagromadzenie ciemnej energii"
+        },
+        {
+            "Key": 1087117852,
+            "Value": "Dostępność manewru karabinu maszynowego MG-43 zakończyła się."
+        },
+        {
+            "Key": 1088538005,
+            "Value": "Dostępność manewru plecaka zaopatrzeniowego zakończyła się."
+        },
+        {
+            "Key": 1092949246,
+            "Value": "#RACE"
+        },
+        {
+            "Key": 1095630749,
+            "Value": "KRYTYCZNA BLISKOŚĆ MERIDII"
+        },
+        {
+            "Key": 1096582530,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1097082914,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1099893987,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1100838265,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1102455063,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1103811886,
+            "Value": "OBRONA PLOT"
+        },
+        {
+            "Key": 1105510156,
+            "Value": "Żrące burze kwasu <i=1>tymczasowo zmniejszają efektywność pancerzy</i> zarówno dla jednostek wroga, jak i sojuszniczych."
+        },
+        {
+            "Key": 1106899537,
+            "Value": "Manewr ST-1 Żądło jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 1108590970,
+            "Value": "STAN OPERACJI"
+        },
+        {
+            "Key": 1118917483,
+            "Value": "<c=FF336666>HELLDIVERSI: #VALUE</c>"
+        },
+        {
+            "Key": 1122786168,
+            "Value": "SZAŁ TERMINIDÓW"
+        },
+        {
+            "Key": 1127333130,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1128318835,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1132095991,
+            "Value": "<c=FF336666>PLUTON: #VALUE</c>"
+        },
+        {
+            "Key": 1133331067,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1142717293,
+            "Value": "STACJA KOSMICZNA „DEMOKRACJA”"
+        },
+        {
+            "Key": 1143206197,
+            "Value": "PORAŻKA"
+        },
+        {
+            "Key": 1148626776,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1153079351,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1154884549,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1155954398,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1175249090,
+            "Value": "WPŁYW OPERACYJNY"
+        },
+        {
+            "Key": 1175505148,
+            "Value": "Manewr orbitalnego ataku EMS jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 1181578023,
+            "Value": "BROŃCIE SUPER ZIEMI"
+        },
+        {
+            "Key": 1181673243,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 1185004327,
+            "Value": "Niezweryfikowane raporty mówiące o pojawieniu się oświeconych przypisywane są dysydentom."
+        },
+        {
+            "Key": 1188671070,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1192959313,
+            "Value": "Wydłużenie czasu regeneracji manewru <i=1>#V_ONE</i> przestało obowiązywać."
+        },
+        {
+            "Key": 1198280391,
+            "Value": "UTRZYMYWANE: #PERCENTAGE%"
+        },
+        {
+            "Key": 1198664072,
+            "Value": "SKD przeprowadza <i=1>ostrzały orbitalne</i> w trakcie misji."
+        },
+        {
+            "Key": 1199081198,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 1200775727,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1202503064,
+            "Value": "Liczebność terminidów bezprecedensowa. Eksperci nie potrafią jej wyjaśnić."
+        },
+        {
+            "Key": 1203435533,
+            "Value": "Manewr granatnika GL-6 jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 1212122769,
+            "Value": "Spowalnia postępy wroga w <i=1>kampaniach obronnych</i>."
+        },
+        {
+            "Key": 1214176856,
+            "Value": "82-letnia kobieta odkrywa spotkanie buntowników na swoim strychu."
+        },
+        {
+            "Key": 1220458627,
+            "Value": "Wysokie, poskręcane drzewa wyrastają bujnie na powierzchni tej zalesionej planety. Światło słoneczne mknie wśród zwisających pnączy ku bujnemu poszyciu poniżej."
+        },
+        {
+            "Key": 1220564275,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1221361339,
+            "Value": "Planeta ta uznawana jest za terytorium wroga. Helldiversi muszą ją wyzwolić spod okupacji. "
+        },
+        {
+            "Key": 1222861557,
+            "Value": "KAMPANIA ZWIADOWCZA"
+        },
+        {
+            "Key": 1227007866,
+            "Value": "Dostępność manewru działka elektromagnetycznego RS-422 zakończyła się."
+        },
+        {
+            "Key": 1233597562,
+            "Value": "Biogenetyczny startup wypełnia wulkan wielkimi, zmutowanymi ziarnami prażonej kukurydzy."
+        },
+        {
+            "Key": 1234134964,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1245451289,
+            "Value": "OBRONA"
+        },
+        {
+            "Key": 1248590461,
+            "Value": "OPÓR"
+        },
+        {
+            "Key": 1248749717,
+            "Value": "OGROMNE CIEPŁO"
+        },
+        {
+            "Key": 1248813848,
+            "Value": "Historycy uznają, że „gaslighting” to nie to, co myślicie."
+        },
+        {
+            "Key": 1250959666,
+            "Value": "SUKCES"
+        },
+        {
+            "Key": 1256670303,
+            "Value": "7"
+        },
+        {
+            "Key": 1259927622,
+            "Value": "Manewr FAF-14 Włócznia jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 1260781333,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1269775050,
+            "Value": "Liczba uzupełnień dostępna na misję zostaje tymczasowo zmniejszona o #V_ONE."
+        },
+        {
+            "Key": 1269865237,
+            "Value": "Początkowa faza ofensywy przeciwko terminidom jest „niekwestionowanym sukcesem”. "
+        },
+        {
+            "Key": 1274994819,
+            "Value": "Przyrost doświadczenia wszystkich helldiversów zostaje tymczasowo zmniejszony o #V_ONE%."
+        },
+        {
+            "Key": 1275097566,
+            "Value": "Ogromni wrogowie"
+        },
+        {
+            "Key": 1275858585,
+            "Value": "W trakcie misji"
+        },
+        {
+            "Key": 1281626413,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1286783998,
+            "Value": "POZIOM KRYTYCZNEGO ZAGROŻENIA"
+        },
+        {
+            "Key": 1287780346,
+            "Value": "gwarantuje prawo obywatela do posiadania gigantycznego zmechanizowanego robota."
+        },
+        {
+            "Key": 1288283817,
+            "Value": "Całkowicie nieprzewidywalne mutacje, będące wynikiem działania termicydu, doprowadziły do przyspieszonego wzrostu robali na tej planecie. Stała się ona superkolonią i nie można jej już uratować. Każdy centymetr jej powierzchni został splugawiony przez robale, a codziennie pojawiają się nowe biliony zarodników."
+        },
+        {
+            "Key": 1297927281,
+            "Value": "Dostępność manewru plecaka z tarczą balistyczną zakończyła się."
+        },
+        {
+            "Key": 1302721265,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1307362764,
+            "Value": "Mężczyzna wymienia wielki czerwony spinacz do papieru na asteroidę."
+        },
+        {
+            "Key": 1308260976,
+            "Value": "Dostępność manewru azora zakończyła się."
+        },
+        {
+            "Key": 1316641959,
+            "Value": "<i=1>Czas wezwania</i> manewrów wydłużony o <i=1>#V_ONE%</i>."
+        },
+        {
+            "Key": 1321624866,
+            "Value": "Niespodziewane hordy terminidów znacząco posuwają się naprzód na planecie #V_ONE."
+        },
+        {
+            "Key": 1327984623,
+            "Value": "Czas na zaliczenie wszystkich misji został tymczasowo wydłużony o #V_ONE%."
+        },
+        {
+            "Key": 1330527915,
+            "Value": "#PLANET"
+        },
+        {
+            "Key": 1333202479,
+            "Value": "BOMBARDOWANIE PLANETARNE"
+        },
+        {
+            "Key": 1333514364,
+            "Value": "Tak długo, jak choć jedno megamiasto trwa, trwa też Super Ziemia. Zanim ostatnie megamiasto padnie, należy przetrzebić flotę oświeconych."
+        },
+        {
+            "Key": 1334351473,
+            "Value": "Bohaterski przedszkolak identyfikuje dysydenta wśród swoich kolegów."
+        },
+        {
+            "Key": 1335028754,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 1337083243,
+            "Value": "Dostępność manewru miotacza płomieni FLAM-40 zakończyła się."
+        },
+        {
+            "Key": 1341626796,
+            "Value": "Uwaga: rozpoczęcie nowej operacji spowoduje opuszczenie obecnej"
+        },
+        {
+            "Key": 1351068056,
+            "Value": "Odbiór"
+        },
+        {
+            "Key": 1351573785,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1352658065,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1360171009,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1362615920,
+            "Value": "CIENKA POKRYWA POSĘPNOŚCI"
+        },
+        {
+            "Key": 1366592442,
+            "Value": "Manewr orbitalnej salwy postępującej jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 1368910238,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1369704001,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1370699443,
+            "Value": "Manewr orbitalnej salwy postępującej jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 1377558815,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1384800625,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1387189142,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1388682879,
+            "Value": "Liczba stymulantów zabieranych przez każdego helldiversa na misję zostaje tymczasowo zmniejszona o #V_ONE."
+        },
+        {
+            "Key": 1389118231,
+            "Value": "Dostępność manewru gniazda ciężkiego karabinu maszynowego zakończyła się."
+        },
+        {
+            "Key": 1391161752,
+            "Value": "Antydemokratyczni buntownicy aresztowani z niezwykłą skutecznością."
+        },
+        {
+            "Key": 1393788306,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1394082721,
+            "Value": "Skaliste formacje pojawiają się na polach porośniętych wysoką trawą na planecie zdominowanej przez mglisty górski teren."
+        },
+        {
+            "Key": 1394558076,
+            "Value": "Wulkany <i=1>rozrzucają po tej planecie płonące skały</i>."
+        },
+        {
+            "Key": 1395641588,
+            "Value": "POZIOM TRUDNOŚCI"
+        },
+        {
+            "Key": 1396646413,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1397951729,
+            "Value": "Manewr strażnika z wyrzutnią rakiet jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 1401075638,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1401708733,
+            "Value": "Naukowcy uznani za martwych po przeprowadzeniu eksperymentu mózgowej komunikacji z psami. "
+        },
+        {
+            "Key": 1402635182,
+            "Value": "Bohaterski pies ratuje chłopca z szybu kopalni plutonu."
+        },
+        {
+            "Key": 1411615216,
+            "Value": "Zwiększenie liczby uzupełnień przestało obowiązywać."
+        },
+        {
+            "Key": 1414808501,
+            "Value": "PRZEWAGA NA NISKIEJ ORBICIE"
+        },
+        {
+            "Key": 1427924894,
+            "Value": "Planeta ta nieustannie wytwarza gęstą pokrywę posępności na poziomie atmosfery, co niezmiernie utrudnia wsparcie logistyczne.\nCałkowite uzupełnienia zostały zredukowane o <i=1>20%</i>, czas przezbrojenia Orłów jest zwiększony o <i=1>30%</i>, a ilość zbieranej amunicji zostaje zmniejszona o <i=1>50%</i>."
+        },
+        {
+            "Key": 1428514248,
+            "Value": "Opuść operację"
+        },
+        {
+            "Key": 1428857865,
+            "Value": "Wystrzelone pociski"
+        },
+        {
+            "Key": 1430621983,
+            "Value": "Manewr orbitalnej salwy pociskami odłamkowo-burzącymi 380 mm jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 1432392942,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 1436541877,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1438391677,
+            "Value": "Zmniejszenie liczby medali przestało obowiązywać."
+        },
+        {
+            "Key": 1440367083,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1440732110,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1444097505,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1444453133,
+            "Value": "10"
+        },
+        {
+            "Key": 1448346078,
+            "Value": "<c=FF336666>USTAWIENIE CZASU LOKALNEGO:</c> <c=FF66cc99>#VALUE</c>"
+        },
+        {
+            "Key": 1448926797,
+            "Value": "Przybycie za:"
+        },
+        {
+            "Key": 1449862733,
+            "Value": "6"
+        },
+        {
+            "Key": 1455812852,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1460918234,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 1466494124,
+            "Value": "Liczba granatów dla wszystkich helldiversów zostaje zwiększona o #V_ONE."
+        },
+        {
+            "Key": 1467045295,
+            "Value": "TRYWIALNY"
+        },
+        {
+            "Key": 1469457772,
+            "Value": "Dostępność manewru M-105 Sojusznik zakończyła się."
+        },
+        {
+            "Key": 1469579845,
+            "Value": "Efektywność premii <i=1>#V_ONE</i> została tymczasowo zwiększona o #V_TWO%."
+        },
+        {
+            "Key": 1470428275,
+            "Value": "Kryzys w trakcie operacji „Sektor Męstwa”."
+        },
+        {
+            "Key": 1486726561,
+            "Value": "Sieć odstraszania terminidów gotowa do implementacji po założeniu kordonu."
+        },
+        {
+            "Key": 1495667994,
+            "Value": "Manewr pocisków powietrze-powietrze Orła jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 1500272076,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1509118015,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1511294332,
+            "Value": "Wiecznie chłodny klimat pozwolił na rozkwit krótkich, kolorowych krzewów na powierzchni tej planety."
+        },
+        {
+            "Key": 1511706843,
+            "Value": "Nowe badanie zakończone przedwcześnie przez tragiczny atak terminidów."
+        },
+        {
+            "Key": 1518361384,
+            "Value": "NAJAZD AUTOMATÓW"
+        },
+        {
+            "Key": 1519537554,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1523141570,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1541244759,
+            "Value": "Na tej planecie obecny jest zabójczy szczep terminidów wyskakujących spod ziemi."
+        },
+        {
+            "Key": 1542765264,
+            "Value": "albo cię tam wyślemy” utknęli za liniami wroga."
+        },
+        {
+            "Key": 1544020724,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1548482629,
+            "Value": "Pokłosie użycia Pogromców Planet: destrukcja."
+        },
+        {
+            "Key": 1549509767,
+            "Value": "POD KONTROLĄ AUTOMATÓW"
+        },
+        {
+            "Key": 1550801594,
+            "Value": "Zwiększenie liczby medali przestało obowiązywać."
+        },
+        {
+            "Key": 1552724045,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 1554224329,
+            "Value": "Posiadłość stracona za: <i=1>#TIME</i>"
+        },
+        {
+            "Key": 1555761967,
+            "Value": "ŁATWY"
+        },
+        {
+            "Key": 1562007656,
+            "Value": "PLANETY BLOKADY AUTOMATÓW"
+        },
+        {
+            "Key": 1563519737,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1571419000,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1574302876,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 1579975284,
+            "Value": "Oświeceni zaatakowali nasze kwitnące kolonie. Wznieśli dziwne obiekty i terroryzują naszych wiernych obywateli. Ich zamiarem najwyraźniej nie jest podbój planetarny, ale i tak trzeba ich odeprzeć, zanim zdołają osiągnąć swe tajemnicze, złowrogie cele."
+        },
+        {
+            "Key": 1581316934,
+            "Value": "WOJNA GALAKTYCZNA"
+        },
+        {
+            "Key": 1581728388,
+            "Value": "Manewr strażnika z automatycznym działkiem jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 1586771010,
+            "Value": "WYNISZCZENIE"
+        },
+        {
+            "Key": 1588699686,
+            "Value": "Latające automaty patrolują pole bitwy."
+        },
+        {
+            "Key": 1592659928,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1594223240,
+            "Value": "Dostępność manewru strażnika z działkiem Gatlinga zakończyła się."
+        },
+        {
+            "Key": 1600569559,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1601524508,
+            "Value": "ROZKAZY"
+        },
+        {
+            "Key": 1606297654,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1610686869,
+            "Value": "WYBIERZ KAMPANIĘ"
+        },
+        {
+            "Key": 1616831615,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1617408679,
+            "Value": "Okresy ujemnych temperatur <i=1>zmniejszają szybkostrzelność</i> i <i=1>opóźniają przegrzewanie się broni</i>."
+        },
+        {
+            "Key": 1619497901,
+            "Value": "Wedle Ministerstwa Obrony ostatecznym celem automatów wydaje się być sama Super Ziemia."
+        },
+        {
+            "Key": 1623115737,
+            "Value": "Manewr plecaka skoku jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 1624199958,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1624648166,
+            "Value": "Dostępność manewru automatycznego działka AC-8 zakończyła się."
+        },
+        {
+            "Key": 1628213888,
+            "Value": "KOC POSĘPNOŚCI O ŚREDNIEJ GĘSTOŚCI"
+        },
+        {
+            "Key": 1633278767,
+            "Value": "Manewr karabinu snajperskiego SAR-1 jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 1637889699,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1645271001,
+            "Value": "Problemy z komunikacją ze strefą kwarantanny terminidów."
+        },
+        {
+            "Key": 1649129897,
+            "Value": "WYDARZENIE WYZWOLENIA"
+        },
+        {
+            "Key": 1651478897,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1657318854,
+            "Value": "w miejscu:"
+        },
+        {
+            "Key": 1657727475,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1660724659,
+            "Value": "ROZPOCZNIJ MISJĘ"
+        },
+        {
+            "Key": 1673988944,
+            "Value": "Zmniejszenie liczby użyć manewru <i=1>#V_ONE</i> przestało obowiązywać."
+        },
+        {
+            "Key": 1679117955,
+            "Value": "POSTĘP W OBRONIE"
+        },
+        {
+            "Key": 1683637306,
+            "Value": "SPORY KOMPETENCYJNE"
+        },
+        {
+            "Key": 1695074190,
+            "Value": "Manewr pakietu generatora tarczy jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 1698977452,
+            "Value": "Pandy olbrzymie oficjalnie uznane za wymarłe. Wartość funduszy inwestycyjnych wielkiego panda-bota szybuje w górę."
+        },
+        {
+            "Key": 1703319218,
+            "Value": "ZALICZ #CR_NEWLINE<c=FFFFFFFF>#CR_DESC</c> POZIOM OPERACJI, ABY ODBLOKOWAĆ"
+        },
+        {
+            "Key": 1709336004,
+            "Value": "WYSZUKIWANIE MISJI W TOKU"
+        },
+        {
+            "Key": 1711370733,
+            "Value": "Zwiększona obecność wroga"
+        },
+        {
+            "Key": 1714339271,
+            "Value": "Obrażenia wręcz zostają zmniejszone o #V_ONE%."
+        },
+        {
+            "Key": 1715337177,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1728812511,
+            "Value": "GĘSTA MGŁA"
+        },
+        {
+            "Key": 1734037268,
+            "Value": "BROŃ"
+        },
+        {
+            "Key": 1739141267,
+            "Value": "po udanym teście broni jądrowej."
+        },
+        {
+            "Key": 1740259294,
+            "Value": "Manewr 500 kg bomby Orła jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 1741687388,
+            "Value": "MERIDIAŃSKA CZARNA DZIURA"
+        },
+        {
+            "Key": 1741704172,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1744150534,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1752849254,
+            "Value": "Statek kosmiczny Tezeusz zniszczony kawałek po kawałku."
+        },
+        {
+            "Key": 1753680151,
+            "Value": "Manewr plecaka zaopatrzeniowego jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 1760171012,
+            "Value": "BRYGADA ODRZUTOWA"
+        },
+        {
+            "Key": 1761921686,
+            "Value": "Tymczasowe zmniejszenie liczby magazynków przestało obowiązywać."
+        },
+        {
+            "Key": 1762114919,
+            "Value": "NIEDOBORY PILOTÓW"
+        },
+        {
+            "Key": 1766099987,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1766576141,
+            "Value": "Liczba magazynków do wszystkich rodzajów broni zabieranych przez helldiversów na misję zostaje tymczasowo zwiększona o #V_ONE."
+        },
+        {
+            "Key": 1766908181,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 1768195961,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1771161994,
+            "Value": "Oczekiwanie na ważny rozkaz"
+        },
+        {
+            "Key": 1773290147,
+            "Value": "Start za:"
+        },
+        {
+            "Key": 1775857616,
+            "Value": "Liczba granatów zabieranych przez każdego helldiversa na misję zostaje tymczasowo zmniejszona o #V_ONE."
+        },
+        {
+            "Key": 1775883134,
+            "Value": "Skrócenie czasu zaliczenia misji przestało obowiązywać."
+        },
+        {
+            "Key": 1776442652,
+            "Value": "Średnie posterunki"
+        },
+        {
+            "Key": 1776879455,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1784509355,
+            "Value": "Patriotyczny cud? Kobieta na Pionierze II zobaczyła flagę Super Ziemi na toście."
+        },
+        {
+            "Key": 1788938205,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1794880589,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1798420664,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1808133179,
+            "Value": "BITWA O SUPER ZIEMIĘ"
+        },
+        {
+            "Key": 1810147530,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1813268956,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1816240066,
+            "Value": "MAPA SEKTORA"
+        },
+        {
+            "Key": 1820072234,
+            "Value": "Burza słoneczna Edna przeklasyfikowana na słoneczny huragan Edna."
+        },
+        {
+            "Key": 1821642638,
+            "Value": "POTWIERDZONO PĘKNIĘCIE PLANETY"
+        },
+        {
+            "Key": 1832315388,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1834073347,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1834399666,
+            "Value": "Zniszcz superbroń automatów"
+        },
+        {
+            "Key": 1834813801,
+            "Value": "Atak orbitalny dla poległych przestał obowiązywać."
+        },
+        {
+            "Key": 1840983393,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1841826768,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1842722237,
+            "Value": "OSZCZĘDZANIE MANEWRÓW"
+        },
+        {
+            "Key": 1843987253,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1856257560,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1857535277,
+            "Value": "Liczba stymulantów dla wszystkich helldiversów zostaje zmniejszona o #V_ONE."
+        },
+        {
+            "Key": 1860113674,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1861781896,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1863900176,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1865943011,
+            "Value": "Ustawa o „wolności słowa” wchodzi w życie, "
+        },
+        {
+            "Key": 1867310690,
+            "Value": "Osobliwość Meridiańska przyspiesza wraz z gromadzeniem ciemnej energii"
+        },
+        {
+            "Key": 1869076182,
+            "Value": "NIEZNANA SYGNATURA"
+        },
+        {
+            "Key": 1869137776,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1876911081,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1877124884,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1881325251,
+            "Value": "NIEDOBORY OŁOWIU"
+        },
+        {
+            "Key": 1882056404,
+            "Value": "Nie będziemy dłużej szybciej tracić terenów na planecie #V_ONE."
+        },
+        {
+            "Key": 1898505845,
+            "Value": "C.O.B. Genetics przekaże zeszłoroczną kukurydzę głodnym krowom."
+        },
+        {
+            "Key": 1899890705,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1905746110,
+            "Value": "Obiecujące nowe badania wskazują na związek pomiędzy kinem 4D a przemocą w świecie rzeczywistym."
+        },
+        {
+            "Key": 1909834013,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1910438702,
+            "Value": "Manewr strażnika z wyrzutnią rakiet jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 1910935327,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1914480073,
+            "Value": "Dostępność manewru miotacza łukowego TS-4 zakończyła się."
+        },
+        {
+            "Key": 1916939864,
+            "Value": "Rip Gustafson wygrywa kolejny konkurs pana Multiverse."
+        },
+        {
+            "Key": 1918416101,
+            "Value": "Astronomowie odkrywają obiecującą, nową egzoplanetę, możliwą do zamieszkania."
+        },
+        {
+            "Key": 1920797433,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1922856298,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1926911363,
+            "Value": "Zdobądź sektor #SECTOR"
+        },
+        {
+            "Key": 1927541015,
+            "Value": "SKANOWANIE..."
+        },
+        {
+            "Key": 1939963888,
+            "Value": "Helldiversi wycofani ze strefy walk z automatami, aby zająć się ponownie terminidami."
+        },
+        {
+            "Key": 1941457820,
+            "Value": "SZCZEP ROZSIEWAJĄCY"
+        },
+        {
+            "Key": 1942440765,
+            "Value": "Tylko to pozostało po planecie rozdartej przez Osobliwość Meridiańską. To smutne przypomnienie skutków tyranii."
+        },
+        {
+            "Key": 1949115573,
+            "Value": "Ulewne burze <i=1>zmniejszają widoczność</i>."
+        },
+        {
+            "Key": 1954812789,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1954863675,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1956121965,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1959551110,
+            "Value": "1"
+        },
+        {
+            "Key": 1959596684,
+            "Value": "FLUKTUACJE ORBITALNE"
+        },
+        {
+            "Key": 1960029036,
+            "Value": "KAMPANIA NAJAZDU"
+        },
+        {
+            "Key": 1960734304,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1962232551,
+            "Value": "INICJATYWA OGRANICZANIA MARNOTRAWSTWA"
+        },
+        {
+            "Key": 1971579583,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1981927828,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1985114247,
+            "Value": "SŁABE DANE WYWIADOWCZE"
+        },
+        {
+            "Key": 1986627572,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 1991087075,
+            "Value": "Liczba stymulantów zabieranych przez każdego helldiversa na misję zostaje tymczasowo zwiększona o #V_ONE."
+        },
+        {
+            "Key": 1991556873,
+            "Value": "Manewr orbitalnej salwy z Gatlinga jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 1999107264,
+            "Value": "Wydłużenie czasu odbioru przestało obowiązywać."
+        },
+        {
+            "Key": 2000175962,
+            "Value": "Zaliczenie tej operacji pomoże utrzymać to megamiasto. Gdy megamiasto upadnie, nie będzie można go odzyskać."
+        },
+        {
+            "Key": 2002849930,
+            "Value": "Dostępność manewru zasobników rakietowych 110 mm Orła zakończyła się."
+        },
+        {
+            "Key": 2011403767,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2012858935,
+            "Value": "Liczba stymulantów dla wszystkich helldiversów zostaje tymczasowo zwiększona o #V_ONE."
+        },
+        {
+            "Key": 2021607808,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2021867720,
+            "Value": "ZAMIECIE"
+        },
+        {
+            "Key": 2022304852,
+            "Value": "Manewr zasobników rakietowych 110 mm Orła jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2023248821,
+            "Value": "Manewr orbitalnego ataku gazowego jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2030180306,
+            "Value": "Manewr przekaźnika generatora tarczy jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2035440895,
+            "Value": "WYKRYTO ATAK NA SEKTOR"
+        },
+        {
+            "Key": 2036938262,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2039291506,
+            "Value": "INWAZJA TERMINIDÓW"
+        },
+        {
+            "Key": 2042181890,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2042223451,
+            "Value": "Prezydent autoryzuje użycie ładunków „Pogromca Planet” do powstrzymania terminidów."
+        },
+        {
+            "Key": 2050925525,
+            "Value": "REZERWY EGZOKOMBINEZONÓW"
+        },
+        {
+            "Key": 2051691805,
+            "Value": "Manewr <i=1>#V_ONE</i> jest niedostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2052096401,
+            "Value": "Manewr działka elektromagnetycznego RS-422 jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2055421011,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2056147079,
+            "Value": "Wielokrotne modyfikatory operacji"
+        },
+        {
+            "Key": 2056979701,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2057952192,
+            "Value": "3"
+        },
+        {
+            "Key": 2061243786,
+            "Value": "79 milionów bohaterów dodanych na ścianę pamięci po kolejnym chwalebnym Dniu Męczennika."
+        },
+        {
+            "Key": 2064126481,
+            "Value": "Manewr karabinu bezodrzutowego AT-48 jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2067880461,
+            "Value": "DODATKOWE STERYDY"
+        },
+        {
+            "Key": 2069462311,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2069818539,
+            "Value": "Manewr pocisków powietrze-powietrze Orła jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2071377108,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2072040952,
+            "Value": "Taktyczne cele wroga"
+        },
+        {
+            "Key": 2074393271,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 2077769934,
+            "Value": " w związku ze śmiertelnymi wypadkami na deskolotkach."
+        },
+        {
+            "Key": 2087852427,
+            "Value": "Zmniejszenie liczby granatów przestało obowiązywać."
+        },
+        {
+            "Key": 2088267641,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2090195605,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2092128075,
+            "Value": "<c=FF336666>WYSTRZELONE POCISKI: #VALUE</c>"
+        },
+        {
+            "Key": 2093838115,
+            "Value": "Czas odbioru jest tymczasowo wydłużony o #V_TWO sek."
+        },
+        {
+            "Key": 2094457118,
+            "Value": "WYZWOLONO: #PERCENTAGE%"
+        },
+        {
+            "Key": 2098091969,
+            "Value": "NAGRODA ZA WAŻNY ROZKAZ"
+        },
+        {
+            "Key": 2101006324,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2102410972,
+            "Value": "Każdy rozkaz związany jest z frakcją wroga i pewnym miejscem w kosmosie, oznaczonym ikoną na mapie"
+        },
+        {
+            "Key": 2107483823,
+            "Value": "Zmniejszenie liczby stymulantów przestało obowiązywać."
+        },
+        {
+            "Key": 2114321379,
+            "Value": "BYŁA KOLONIA SUPER ZIEMI"
+        },
+        {
+            "Key": 2115313058,
+            "Value": "Manewr zaopatrzenia jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2116313662,
+            "Value": "Odbiór trwa o #V_TWO sek. dłużej."
+        },
+        {
+            "Key": 2117228825,
+            "Value": "WYBIERZ SEKTOR"
+        },
+        {
+            "Key": 2121224478,
+            "Value": "Nowy gatunek niedźwiedzi odkryty na górzystej planecie. Uznany za niedemokratyczny i szybko zlikwidowany."
+        },
+        {
+            "Key": 2129095230,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 2135009396,
+            "Value": "Dostępność manewru strażnika z moździerzem zakończyła się."
+        },
+        {
+            "Key": 2137542345,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2138647213,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2143388062,
+            "Value": "SUPER HELLDIVE"
+        },
+        {
+            "Key": 2144369469,
+            "Value": "Manewr muru obronnego jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2144846208,
+            "Value": "WEJDŹ DO KOLOSEUM: AUTOMAT KONTRA ROBAL – KTO ZWYCIĘŻY?!"
+        },
+        {
+            "Key": 2146730072,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2149309645,
+            "Value": "ORBITALNA BLOKADA"
+        },
+        {
+            "Key": 2149389475,
+            "Value": "Mutacja wywołana przez posępność powoduje, że terminidy na tej planecie generują nadmiar zarodników, uwalnianych po śmierci w potężnej eksplozji. Ci owadzi ekstremiści wykazują nienaturalną pogardę dla życia. Kiedy szerzą swe zepsucie, nic ich nie powstrzyma."
+        },
+        {
+            "Key": 2151089975,
+            "Value": "Manewr <i=1>#V_ONE</i> jest dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2156619321,
+            "Value": "Zmniejszenie obrażeń wręcz przestało obowiązywać."
+        },
+        {
+            "Key": 2158648524,
+            "Value": "Posępność szczelnie pokrywa powierzchnię tej planety, utrudniając wiele działań logistycznych.\nCzasy odbioru zostały wydłużone o <i=1>30 sekund</i>, a czas przezbrojenia Orłów jest dłuższy o <i=1>20%.</i>"
+        },
+        {
+            "Key": 2158877299,
+            "Value": "BOMBARDOWANIE PLANETARNE"
+        },
+        {
+            "Key": 2163192956,
+            "Value": "<c=FF336666>DŁUGOŚĆ:</c> <c=FF66cc99>#VALUE</c>"
+        },
+        {
+            "Key": 2171531708,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2171714381,
+            "Value": "Patrole wroga"
+        },
+        {
+            "Key": 2172345078,
+            "Value": "Po bujnym raju, zwanym kiedyś Meridią, pozostała jedynie mroczna otchłań. Zapierające dech w piersiach lasy i szeroko dostępne zasoby zostały splugawione i zniszczone przez terminidy. Nie mieliśmy wyboru – musieliśmy użyć Ciemnego Płynu, aby zniszczyć tę planetę w całości. Teraz pozostaje po niej jedynie ta osobliwość, przypominająca nam o konsekwencjach sprzeciwiania się wolności."
+        },
+        {
+            "Key": 2186316023,
+            "Value": "MODYFIKATORY OPERACJI"
+        },
+        {
+            "Key": 2188248277,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2189446260,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 2190082137,
+            "Value": "MISJA W KOLONII"
+        },
+        {
+            "Key": 2195933349,
+            "Value": "Nie będziemy dłużej szybciej tracić terenów na planecie #V_ONE."
+        },
+        {
+            "Key": 2197061274,
+            "Value": "<i=1>Kody na manewry</i> zakłócone."
+        },
+        {
+            "Key": 2197155395,
+            "Value": "Po wielu dniach walk <i=1>Gaellivare</i> wpadło w ręce <i=1>brygady odrzutowej</i> automatów. Jednak dzięki zręcznym manewrom helldiversów <i=1>SKD</i> jest bezpieczna poza zasięgiem wroga.\nHelldiversi demokratycznie kierując SKD, popisali się niezaprzeczalnym geniuszem taktycznym i jeszcze raz pokazali, dlaczego są uznawani za najbardziej elitarne siły bojowe w galaktyce. Odpierali szturmy automatów na tyle długo, by pozwolić na awaryjną ewakuację i ocalić wielu obywateli, z których liczni pomagali przy budowie stacji kosmicznej.\n<i=1>Brygada odrzutowa</i> pozostaje znaczącym zagrożeniem. Tymczasem kryzys spowodowany nagłym i szokującym wyrojeniem się robali w <i=1>centrum badawczym nad terminidami</i> trwa. Na szczęście do arsenału wolności właśnie dołączyła SKD, choć nie w pełni sprawna. Zarządzana demokracja jest zagrożona. Potrzebujemy każdej możliwej broni."
+        },
+        {
+            "Key": 2201953643,
+            "Value": "WSTRZĄSY"
+        },
+        {
+            "Key": 2204300642,
+            "Value": "Kończy się za:"
+        },
+        {
+            "Key": 2208700795,
+            "Value": "Bądź na bieżąco z najnowszymi wydarzeniami w wojnie galaktycznej poprzez <i=1>pasek wiadomości</i>. \n\nAutomatycznie wyświetla najnowsze wydarzenia! "
+        },
+        {
+            "Key": 2209565657,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2211654071,
+            "Value": "SZSZ oddają kolejną planetę nacierającym automatom."
+        },
+        {
+            "Key": 2214315056,
+            "Value": "POSTĘPY W WYZWOLENIU MIASTA"
+        },
+        {
+            "Key": 2217090127,
+            "Value": "Odpalenie za:"
+        },
+        {
+            "Key": 2222856057,
+            "Value": "Ostatni bohater pierwszej wojny galaktycznej umiera w wieku 103 lat. Jak sam stwierdził, „służba była największym zaszczytem”."
+        },
+        {
+            "Key": 2229540422,
+            "Value": "WAŻNE ROZKAZY"
+        },
+        {
+            "Key": 2236873416,
+            "Value": "Zatrzymaj"
+        },
+        {
+            "Key": 2237848324,
+            "Value": "Hełm przypadkowo połączył się z pobliską watahą wilków."
+        },
+        {
+            "Key": 2239744702,
+            "Value": "Ogłoszono pełną mobilizację. „Super Ziemia jest w stanie wojny”, mówi prezydent."
+        },
+        {
+            "Key": 2241719727,
+            "Value": "Manewr strażnika z działkiem Gatlinga jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2243848952,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2245317431,
+            "Value": "UKRYJ SZCZEGÓŁY"
+        },
+        {
+            "Key": 2251917506,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2253660066,
+            "Value": "Jedyną pozostałością po niegdyś pięknej planecie Moradesh jest ta czarna dziura. Nieskończone wydmy i liczne zasoby zostały zniszczone w wyniku nieuniknionego wypadku w ośrodku badawczym pracującym nad Ciemnym Płynem, podczas gdy jego bohaterscy pracownicy próbowali ocalić naszych obywateli przed pierwszą superkolonią terminidów. Robale odebrały nam Moradesh i pozostawiły tę bliznę jako przypomnienie swojego niezmierzonego barbarzyństwa."
+        },
+        {
+            "Key": 2254072857,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2256945266,
+            "Value": "Oślepiająca latarnia, która oświetla gwiazdy światłem demokracji. Patriotyczny raj dla obywateli, którzy naprawdę służą swojej federacji. I utopijna przyszłość, która czeka całą galaktykę."
+        },
+        {
+            "Key": 2267936639,
+            "Value": "Martwą szarość tej planety przełamują jedynie fioletowe kwiaty, które wyrastają z dziwnych, pasożytniczych wychodni."
+        },
+        {
+            "Key": 2271311985,
+            "Value": "POTWIERDZONO ZAPADLISKO GRAWITACYJNE"
+        },
+        {
+            "Key": 2274321752,
+            "Value": "MISJA MIEJSKA"
+        },
+        {
+            "Key": 2275368038,
+            "Value": "Dostępność manewru strażnika z automatycznym działkiem zakończyła się."
+        },
+        {
+            "Key": 2276221414,
+            "Value": "OSIĄGNIĘCIE CELÓW OŚWIECONYCH: #TIME"
+        },
+        {
+            "Key": 2284968224,
+            "Value": "Liczba stymulantów dla wszystkich helldiversów zostaje tymczasowo zmniejszona o #V_ONE."
+        },
+        {
+            "Key": 2285096076,
+            "Value": "Odeprzyj:"
+        },
+        {
+            "Key": 2288853684,
+            "Value": "Broń posiadłości prezydenckiej!"
+        },
+        {
+            "Key": 2292582320,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2293035076,
+            "Value": "Modyfikatory operacji"
+        },
+        {
+            "Key": 2294037091,
+            "Value": "MOBILIZUJ NA PLANETĘ FRONTOWĄ"
+        },
+        {
+            "Key": 2295362658,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2296962065,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2307358133,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2310758180,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2311243214,
+            "Value": "WYZWOLENIE"
+        },
+        {
+            "Key": 2313692969,
+            "Value": "Ekspert chorób zakaźnych nazywa plagę terminidów „epidemią”."
+        },
+        {
+            "Key": 2328985689,
+            "Value": "<i=1>Zwiększone zakłócenia</i> manewrów orbitalnych."
+        },
+        {
+            "Key": 2333231349,
+            "Value": "8"
+        },
+        {
+            "Key": 2337517887,
+            "Value": "FLOTA OŚWIECONYCH"
+        },
+        {
+            "Key": 2337748496,
+            "Value": "Manewr orbitalnego ataku pociskami odłamkowo-burzącymi 120 mm jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2340829721,
+            "Value": "Siły wroga próbują przejąć tę planetę! Odepchnij je, rozgrywając specjalne misje w określonym przedziale czasowym, inaczej planeta wpadnie w ręce wroga."
+        },
+        {
+            "Key": 2346647635,
+            "Value": "Przyrost doświadczenia wszystkich helldiversów zostaje zwiększony o #V_ONE%."
+        },
+        {
+            "Key": 2347407351,
+            "Value": "WOJNA GALAKTYCZNA"
+        },
+        {
+            "Key": 2350760417,
+            "Value": "Szybciej niż wcześniej tracimy teren na planecie #V_ONE."
+        },
+        {
+            "Key": 2350849714,
+            "Value": "Manewr stawiacza min przeciwpiechotnych jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2358017004,
+            "Value": "Na tej planecie panoszą się oświeceni, podbijając nasze kolonie i więżąc obywateli.  Trzeba ich zlikwidować."
+        },
+        {
+            "Key": 2365925959,
+            "Value": "„Mój syn był sympatykiem automatów” – czyli jak dzielna matka zdecydowała się poinformować władze o poczynaniach swojego syna."
+        },
+        {
+            "Key": 2370462133,
+            "Value": "Manewr <i=1>#V_ONE</i> jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2371122801,
+            "Value": "Walka SZSZ z botami wspierana przez ograniczone operacje helldiversów."
+        },
+        {
+            "Key": 2371709060,
+            "Value": "Kwitnąca Meridia została wypaczona i stała się superkolonią terminidów. Trzeba było ją zniszczyć z użyciem tajemniczego Ciemnego Płynu. Pozostała po niej tylko galaktyczna blizna."
+        },
+        {
+            "Key": 2373683900,
+            "Value": "POZIOM INWAZJI"
+        },
+        {
+            "Key": 2376871409,
+            "Value": "Tymczasowe zwiększenie liczby magazynków przestało obowiązywać."
+        },
+        {
+            "Key": 2383194414,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2386528247,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2388346408,
+            "Value": "Na tej planecie aktywna jest jednostka automatów wyposażona w miotacze płomieni i amunicję zapalającą. Ci bezwzględni podpalacze nie spoczną, dopóki nie spopielą wszystkiego, co jest drogie dla ludzkości."
+        },
+        {
+            "Key": 2390390042,
+            "Value": "2"
+        },
+        {
+            "Key": 2393862676,
+            "Value": "STREFA KWARANTANNY TERMINIDÓW"
+        },
+        {
+            "Key": 2396194048,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2399209115,
+            "Value": "KORPUS SPALANIA"
+        },
+        {
+            "Key": 2399790664,
+            "Value": "Nowy karabin szturmowy drukowany w 3D może zarżnąć do 30 robali na sekundę! W celach obronnych."
+        },
+        {
+            "Key": 2406613085,
+            "Value": "Dostępność manewru przekaźnika generatora tarczy zakończyła się."
+        },
+        {
+            "Key": 2410601166,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2411531247,
+            "Value": "Wielki nosiciel oświeconych zalewa tę planetę. Trzeba przetrzebić ich szeregi."
+        },
+        {
+            "Key": 2413997357,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2415134279,
+            "Value": "PRZEJĘTE TERYTORIUM"
+        },
+        {
+            "Key": 2415162749,
+            "Value": "Przyrost doświadczenia wszystkich helldiversów zostaje tymczasowo zwiększony o #V_ONE%."
+        },
+        {
+            "Key": 2416591458,
+            "Value": "Czas regeneracji manewru <i=1>#V_ONE</i> został skrócony o #V_TWO."
+        },
+        {
+            "Key": 2417525045,
+            "Value": "MISJA"
+        },
+        {
+            "Key": 2422343601,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2431191520,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2435973138,
+            "Value": "Katastrofa ekologiczna czy błogosławieństwo ekonomiczne? Nieszczęśliwy wypadek kosmicznego tankowca "
+        },
+        {
+            "Key": 2444029825,
+            "Value": "INFORMACJE NA ŻYWO"
+        },
+        {
+            "Key": 2449061412,
+            "Value": "Manewr <i=1>#V_ONE</i> dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2459288933,
+            "Value": "z miejsca:"
+        },
+        {
+            "Key": 2459634787,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2460265460,
+            "Value": "Kampanie o wysokim priorytecie zawierają wyjątkowe misje związane z obecnym ważnym rozkazem. Super Ziemia będzie wyzwalać planety w kampaniach o wysokim priorytecie tak samo jak w kampaniach wyzwolenia."
+        },
+        {
+            "Key": 2463363546,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2466622891,
+            "Value": "<c=FF4EE077>ŚREDNI</c>"
+        },
+        {
+            "Key": 2471906713,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2474213151,
+            "Value": "Manewr orbitalnego działa energetycznego jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2479997013,
+            "Value": "Manewr karabinu snajperskiego SAR-1 jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2480987539,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2481539336,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2481837058,
+            "Value": "Odrzuć:"
+        },
+        {
+            "Key": 2489679843,
+            "Value": "POZIOM TRUDNOŚCI"
+        },
+        {
+            "Key": 2490822601,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2495155753,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2495253146,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2500643197,
+            "Value": "MIEJSCE MISJI"
+        },
+        {
+            "Key": 2501573715,
+            "Value": "Detonacja za:"
+        },
+        {
+            "Key": 2504204569,
+            "Value": "Uniwersytet Super Ziemi wprowadza nowy, ustandaryzowany test patriotyzmu dla kandydatów."
+        },
+        {
+            "Key": 2510020937,
+            "Value": "WPŁYW OPERACYJNY"
+        },
+        {
+            "Key": 2512194864,
+            "Value": "STAN OBRONY MIASTA"
+        },
+        {
+            "Key": 2517836643,
+            "Value": "Odzyskujemy tereny na planecie #V_ONE."
+        },
+        {
+            "Key": 2519645656,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2520638833,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2526165328,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2528469051,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2533196689,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2537322567,
+            "Value": "Manewr zasobników rakietowych 110 mm Orła jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2539164536,
+            "Value": "POSTĘP KAMPANII WYSOKIEGO PRIORYTETU"
+        },
+        {
+            "Key": 2542905200,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2544350923,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2547716136,
+            "Value": "na planecie:"
+        },
+        {
+            "Key": 2552962615,
+            "Value": "Kolejni uczestnicy programu „Na jakiej jestem planecie "
+        },
+        {
+            "Key": 2553646586,
+            "Value": "Manewr ST-1 Żądło jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2555770549,
+            "Value": "OBRONA ORBITALNA"
+        },
+        {
+            "Key": 2568918320,
+            "Value": "Czas regeneracji manewru <i=1>#V_ONE</i> został tymczasowo wydłużony o #V_TWO."
+        },
+        {
+            "Key": 2569598906,
+            "Value": "Manewr karabinu bezodrzutowego AT-48 jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2570684122,
+            "Value": "BURZE METEORÓW"
+        },
+        {
+            "Key": 2574842690,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2577515503,
+            "Value": "STAN KAMPANII"
+        },
+        {
+            "Key": 2579047542,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2592792787,
+            "Value": "#GRADE (#PERCENT%)"
+        },
+        {
+            "Key": 2604396474,
+            "Value": "INFORMACJE O PRZEBIEGU WOJNY GALAKTYCZNEJ"
+        },
+        {
+            "Key": 2606603087,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2608634901,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2611035692,
+            "Value": "Skrócenie czasu regeneracji manewru <i=1>#V_ONE</i> przestało obowiązywać."
+        },
+        {
+            "Key": 2615229268,
+            "Value": "Manewr gniazda ciężkiego karabinu maszynowego jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2616020441,
+            "Value": "Oglądaj: helldivers wraca do swojego robo-psiego partnera po czteroletniej służbie."
+        },
+        {
+            "Key": 2618604845,
+            "Value": "Zamarznięty świat pokryty lodem, który przełamują jedynie czerwonawe skały i gąbczasty mech."
+        },
+        {
+            "Key": 2621267569,
+            "Value": "PLANETA"
+        },
+        {
+            "Key": 2633483286,
+            "Value": "Manewr <i=1>#V_ONE</i> jest znów dostępny (po zakupie)."
+        },
+        {
+            "Key": 2634188326,
+            "Value": "Odblokowuje nowe próbki i typy wrogów do odkrycia."
+        },
+        {
+            "Key": 2635572434,
+            "Value": "Liczba użyć manewru <i=1>#V_ONE</i> została zwiększona o #V_TWO."
+        },
+        {
+            "Key": 2635626170,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2637750421,
+            "Value": "Manewr karabinu maszynowego MG-43 jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2640264077,
+            "Value": "PUSTE MIEJSCE"
+        },
+        {
+            "Key": 2645020198,
+            "Value": "Gęste burze piaskowe <i=1>zmniejszają widoczność</i>."
+        },
+        {
+            "Key": 2648438993,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2650537364,
+            "Value": "Przedstawiciele Ministerstwa Nauki odkryli bezprecedensową technologię produkcji masowej używaną przez automaty."
+        },
+        {
+            "Key": 2652834629,
+            "Value": "Badanie niewyjaśnionych wahań czasoprzestrzennych"
+        },
+        {
+            "Key": 2654681255,
+            "Value": "NADWYŻKI AMUNICJI"
+        },
+        {
+            "Key": 2662096373,
+            "Value": "OPERACJA NIEUDANA"
+        },
+        {
+            "Key": 2665279633,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2668736157,
+            "Value": "Manewr automatycznego działka AC-8 jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2674681081,
+            "Value": "Manewr orbitalnego ataku EMS jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2679897061,
+            "Value": "Liczba stymulantów dla wszystkich helldiversów zostaje zwiększona o #V_ONE."
+        },
+        {
+            "Key": 2683120236,
+            "Value": "Nowe badania wskazują, że patriotyzm jest czynnikiem numer jeden, zapewniającym szczęście, długowieczność i spadek wagi."
+        },
+        {
+            "Key": 2690990992,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2703264067,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2704077047,
+            "Value": "Gęste, toksyczne opary z głębi skorupy planety sączą się z pęknięć w ziemi i pokrywają ją niezdrową mgiełką."
+        },
+        {
+            "Key": 2706258613,
+            "Value": "„Weź udział w losowaniu biletów w pierwszym rzędzie na mecze Pucharu Galaktycznego Wolnościoballa!”"
+        },
+        {
+            "Key": 2707183486,
+            "Value": "CYBERSTAN"
+        },
+        {
+            "Key": 2709724928,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2715016726,
+            "Value": "Obrażenia wręcz zostają tymczasowo zwiększone o #V_ONE%."
+        },
+        {
+            "Key": 2718162576,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 2720395566,
+            "Value": "CYWILE I SZSZ NA OBSZARZE"
+        },
+        {
+            "Key": 2724329671,
+            "Value": "UZUPEŁNIENIA SZSZ"
+        },
+        {
+            "Key": 2727007226,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2730564149,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2731662120,
+            "Value": "MIASTA NA PLANECIE #PLANET"
+        },
+        {
+            "Key": 2731796619,
+            "Value": "Cele główne"
+        },
+        {
+            "Key": 2733602713,
+            "Value": "Automaty „nie mają szans” z helldiversami, twierdzi przedstawiciel Ministerstwa Obrony."
+        },
+        {
+            "Key": 2749628958,
+            "Value": "Dostępność manewru wieży Tesli zakończyła się."
+        },
+        {
+            "Key": 2750396089,
+            "Value": "<i=1>Rozkazy osobiste</i> są wykonywane indywidualnie przez poszczególnych helldiversów. Zmieniają się codziennie w odpowiedzi na zmieniające się warunki na polu bitwy."
+        },
+        {
+            "Key": 2752298661,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2754737465,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2756304220,
+            "Value": "Manewr FAF-14 Włócznia jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2760552626,
+            "Value": "PRZYTRZYMAJ, ABY DOKONAĆ TRANZYTU NA PLANETĘ"
+        },
+        {
+            "Key": 2761003916,
+            "Value": "DIABŁY PYŁOWE"
+        },
+        {
+            "Key": 2761612032,
+            "Value": "Czas regeneracji manewru <i=1>#V_ONE</i> został wydłużony o #V_TWO."
+        },
+        {
+            "Key": 2763456608,
+            "Value": "Liczba medali na misję dla wszystkich helldiversów zostaje zwiększona o #V_ONE."
+        },
+        {
+            "Key": 2769011681,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2772833762,
+            "Value": "Zaliczenie tej operacji pomoże utrzymać to miasto. Utrzymywanie miast ma znaczący wkład w obronę planety."
+        },
+        {
+            "Key": 2777160708,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2777631244,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2777830035,
+            "Value": "OPERACJA UDANA"
+        },
+        {
+            "Key": 2778843793,
+            "Value": "<c=FFFF3939>BARDZO DUŻY</c>"
+        },
+        {
+            "Key": 2782937074,
+            "Value": "Sympatycy automatów zabici w niesamowitym szturmie. Przypadkowe straty cywilne bohatersko zminimalizowane."
+        },
+        {
+            "Key": 2784761516,
+            "Value": "NIEDOBORY AMUNICJI"
+        },
+        {
+            "Key": 2788352405,
+            "Value": "E-711 znaleźć można wyłącznie na planetach roju. Ta egzotyczna substancja jest kluczowa dla zachowania galaktycznego bezpieczeństwa. Trzeba ją zabezpieczyć, niezależnie od ryzyka. "
+        },
+        {
+            "Key": 2794581015,
+            "Value": "Spadający piasek <i=1>zmniejsza widoczność</i>."
+        },
+        {
+            "Key": 2795043115,
+            "Value": "PRZEWAGA OFENSYWNA"
+        },
+        {
+            "Key": 2795807034,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2798593236,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2801833803,
+            "Value": "Każdemu obywatelowi, który stracił dom przez aktywność wroga, mówimy:"
+        },
+        {
+            "Key": 2805628145,
+            "Value": "BURZE KWASU"
+        },
+        {
+            "Key": 2807101694,
+            "Value": "Mapa taktyczna <i=1>zakłócona</i>."
+        },
+        {
+            "Key": 2807326037,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2809865391,
+            "Value": "ŚREDNI"
+        },
+        {
+            "Key": 2810548766,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2811783031,
+            "Value": "BLOKADA LEWIATANÓW"
+        },
+        {
+            "Key": 2812548386,
+            "Value": "NAGŁY MIOT"
+        },
+        {
+            "Key": 2820793322,
+            "Value": "PEŁEN WYZWAŃ"
+        },
+        {
+            "Key": 2822310909,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2825040173,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2826211131,
+            "Value": "Twierdze wroga"
+        },
+        {
+            "Key": 2829208561,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2835334755,
+            "Value": "Manewr przekaźnika generatora tarczy jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2839861759,
+            "Value": "Planeta #V_ONE była zagrożona przejęciem przez wroga, ale została z powodzeniem obroniona."
+        },
+        {
+            "Key": 2842185114,
+            "Value": "Super Ziemia nie wyzwoli planet zwiadowczych w ramach kampanii, ale pozostaną one dostępne tak długo, jak sektor jest aktywny."
+        },
+        {
+            "Key": 2845922418,
+            "Value": "Manewr plecaka z tarczą balistyczną jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2846958731,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2852239993,
+            "Value": "MIASTO"
+        },
+        {
+            "Key": 2855846799,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2859517006,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 2866122630,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2866225573,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2870476391,
+            "Value": "ZAKŁÓCENIE ŁAŃCUCHA DOSTAW MEDYKAMENTÓW"
+        },
+        {
+            "Key": 2873462989,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2875263080,
+            "Value": "zostaje przejęty przez oświeconych. Nie ma powodów do paniki."
+        },
+        {
+            "Key": 2876468059,
+            "Value": "Czas na zaliczenie wszystkich misji został wydłużony o #V_ONE%."
+        },
+        {
+            "Key": 2876478471,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2879703857,
+            "Value": "Manewr orbitalnej salwy z Gatlinga jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2883316736,
+            "Value": "Operacja „Sektor Męstwa” przebiega „zgodnie z założeniami” według raportu Ministerstwa Obrony."
+        },
+        {
+            "Key": 2883743751,
+            "Value": "<c=FF336666>ZNAJOMI: #VALUE</c>"
+        },
+        {
+            "Key": 2887369089,
+            "Value": "Zwiększenie wyzwania celów taktycznych"
+        },
+        {
+            "Key": 2888129135,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2888682480,
+            "Value": "Super Ziemia wyzwala nową planetę! Jeśli społeczność rozegra dość misji w wydarzeniach specjalnych na tej planecie, zanim skończy się czas, rozszerzymy terytorium Super Ziemi."
+        },
+        {
+            "Key": 2893255745,
+            "Value": "Nieznane imię"
+        },
+        {
+            "Key": 2895551820,
+            "Value": "Zwiększenie obrażeń wręcz przestało obowiązywać."
+        },
+        {
+            "Key": 2902232420,
+            "Value": "Nowe badania wskazują, że zagrożenie ze strony oświeconych czyha na każdym rogu, a obywatele muszą być bardzo ostrożni."
+        },
+        {
+            "Key": 2907327826,
+            "Value": "Manewr plecaka skoku jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2908633975,
+            "Value": "ODPRAWA"
+        },
+        {
+            "Key": 2912407889,
+            "Value": "Premia <i=1>#V_ONE</i> jest automatycznie aktywna we wszystkich misjach."
+        },
+        {
+            "Key": 2914005300,
+            "Value": "Liczba stymulantów zabieranych przez każdego helldiversa na misję zostaje zmniejszona o #V_ONE."
+        },
+        {
+            "Key": 2916359955,
+            "Value": "TRUDNY"
+        },
+        {
+            "Key": 2923344480,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 2925450467,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2931881971,
+            "Value": "TESTOWANIE SPRZĘTU"
+        },
+        {
+            "Key": 2933045560,
+            "Value": "INWAZJA OŚWIECONYCH"
+        },
+        {
+            "Key": 2937033102,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2939461461,
+            "Value": "UKRYJ BOHATERÓW SUPER ZIEMI"
+        },
+        {
+            "Key": 2944563374,
+            "Value": "Niespodziewane uzupełnienia SZSZ znacząco posunęły się naprzód na planecie #V_ONE."
+        },
+        {
+            "Key": 2956467301,
+            "Value": "Manewr <i=1>#V_ONE</i> jest tymczasowo niedostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2958892596,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 2962065378,
+            "Value": "Skrócenie czasu odbioru przestało obowiązywać."
+        },
+        {
+            "Key": 2969104525,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 2970341781,
+            "Value": "Planeta #V_ONE była praktycznie obroniona, ale ostatecznie wpadła w ręce wroga."
+        },
+        {
+            "Key": 2975979471,
+            "Value": "<c=FF5F96FF>SŁABY</c>"
+        },
+        {
+            "Key": 2977252622,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 2978562338,
+            "Value": "EKSPERYMENTALNA INICJATYWA"
+        },
+        {
+            "Key": 2980169751,
+            "Value": "Dostępność manewru orbitalnego ataku powietrznego zakończyła się."
+        },
+        {
+            "Key": 2986036167,
+            "Value": "Manewr ataku z powietrza Orła jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2987454492,
+            "Value": "Specyficzny rodzaj fotosyntezy, która podtrzymuje dziwnie zabarwioną florę kwitnącą na tej planecie, pozostaje intrygującą tajemnicą dla największych egzobiologów Super Ziemi."
+        },
+        {
+            "Key": 2989731610,
+            "Value": "wywołuje deszcz pierwiastka 710 nad HydroFall Prime."
+        },
+        {
+            "Key": 2992258348,
+            "Value": "WIADOMOŚĆ Z SUPER ZIEMI"
+        },
+        {
+            "Key": 2992438367,
+            "Value": "Mobilizacja za:"
+        },
+        {
+            "Key": 2994723165,
+            "Value": "Zwiększenie efektywności premii <i=1>#V_ONE</i> przestało obowiązywać."
+        },
+        {
+            "Key": 2996003713,
+            "Value": "Manewr nalotu napalmem Orła jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 2997344754,
+            "Value": "#SECTOR"
+        },
+        {
+            "Key": 2998873950,
+            "Value": "SUKCES"
+        },
+        {
+            "Key": 3001978230,
+            "Value": "Okresy wysokich temperatur <i=1>zwiększają zużycie kondycji</i> i <i=1>przyspieszają przegrzewanie się broni</i>."
+        },
+        {
+            "Key": 3013802117,
+            "Value": "POSTĘP BADAŃ NAD POSĘPNOŚCIĄ"
+        },
+        {
+            "Key": 3018577702,
+            "Value": "Legion"
+        },
+        {
+            "Key": 3021947593,
+            "Value": "Manewr zaopatrzenia jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 3022153599,
+            "Value": "Liczba uzupełnień dostępna na misję zostaje tymczasowo zwiększona o #V_ONE."
+        },
+        {
+            "Key": 3022209575,
+            "Value": "POZYSKANE E-711"
+        },
+        {
+            "Key": 3023260311,
+            "Value": "Dostępność manewru ataku z powietrza Orła zakończyła się."
+        },
+        {
+            "Key": 3029166506,
+            "Value": "Manewr strażnika z automatycznym działkiem jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 3030000168,
+            "Value": "Zniszcz:"
+        },
+        {
+            "Key": 3033475065,
+            "Value": "STERYLIZACJA ATMOSFERYCZNA"
+        },
+        {
+            "Key": 3036081418,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 3041244548,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3049338773,
+            "Value": "Manewr karabinu maszynowego MG-43 jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 3058519513,
+            "Value": "SIŁA FLOTY OŚWIECONYCH"
+        },
+        {
+            "Key": 3067367692,
+            "Value": "JEDNOSTKI SZSZ NA OBSZARZE"
+        },
+        {
+            "Key": 3071335446,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3080761082,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3082330525,
+            "Value": "Manewr granatnika GL-6 jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 3085453425,
+            "Value": "NADWYŻKA MATERIAŁÓW WYBUCHOWYCH"
+        },
+        {
+            "Key": 3087338564,
+            "Value": "WARUNKI OTOCZENIA"
+        },
+        {
+            "Key": 3088565990,
+            "Value": "4"
+        },
+        {
+            "Key": 3089283956,
+            "Value": "Ta niegdyś piękna planeta została przekształcona w rój tyranii, zepsuty nie do poznania przez rozprzestrzenianie się żarłocznych terminidów."
+        },
+        {
+            "Key": 3091226237,
+            "Value": "SZACUNKOWY CZAS DOŁĄCZENIA:"
+        },
+        {
+            "Key": 3091609804,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3093738873,
+            "Value": "Czas na zaliczenie wszystkich misji został tymczasowo skrócony o #V_ONE%."
+        },
+        {
+            "Key": 3097330934,
+            "Value": "Planeta #V_ONE była zagrożona przejęciem przez wroga, ale została z powodzeniem obroniona."
+        },
+        {
+            "Key": 3099561362,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 3103904605,
+            "Value": "Zmniejszenie liczby uzupełnień przestało obowiązywać."
+        },
+        {
+            "Key": 3110277580,
+            "Value": "USZKODZONE FABRYKI"
+        },
+        {
+            "Key": 3112086663,
+            "Value": "Wskaźnik wahań czasoprzestrzennych"
+        },
+        {
+            "Key": 3112970015,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3113572060,
+            "Value": "Zwiększenie liczby granatów przestało obowiązywać."
+        },
+        {
+            "Key": 3115257147,
+            "Value": "Śmiałek Felix Bressler skacze z wysokości 4,5 miliarda kilometrów, z Neptuna na Super Ziemię."
+        },
+        {
+            "Key": 3130602394,
+            "Value": "<c=FF336666>ŚLEDZENIE:</c> <c=FFcd6801>AKTYWNE ODDZIAŁY HELLDIVERSÓW</c>"
+        },
+        {
+            "Key": 3131923926,
+            "Value": "Pogrążone w wiecznej zimie mroźne szczyty tego świata lśnią w świetle zbyt odległej gwiazdy."
+        },
+        {
+            "Key": 3134031991,
+            "Value": "WSPARCIE OPERACYJNE"
+        },
+        {
+            "Key": 3135493657,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3140249806,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3141182007,
+            "Value": "Małe posterunki"
+        },
+        {
+            "Key": 3142675334,
+            "Value": "WPŁYW OPERACYJNY"
+        },
+        {
+            "Key": 3143498604,
+            "Value": "Zmniejszenie przyrostu doświadczenia przestało obowiązywać."
+        },
+        {
+            "Key": 3145861536,
+            "Value": "Dostępność manewru orbitalnego działa energetycznego zakończyła się."
+        },
+        {
+            "Key": 3155398956,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3169807818,
+            "Value": "Liczba magazynków do wszystkich rodzajów broni zabieranych przez helldiversów na misję zostaje zwiększona o #V_ONE."
+        },
+        {
+            "Key": 3171440668,
+            "Value": "POZYSKAJCIE E-711"
+        },
+        {
+            "Key": 3174686750,
+            "Value": "WYŚWIETL ROZKAZY"
+        },
+        {
+            "Key": 3178802138,
+            "Value": "Manewr strażnika z moździerzem jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 3184460045,
+            "Value": "EKSPERYMENTALNA PREMIA"
+        },
+        {
+            "Key": 3192569703,
+            "Value": "POSTĘP W KAMPANII O WYSOKIM PRIORYTECIE"
+        },
+        {
+            "Key": 3198058331,
+            "Value": "Ewakuacja za:"
+        },
+        {
+            "Key": 3205119654,
+            "Value": "Obecność SKD w pobliżu tej planety zapewnia skrócenie czasu regeneracji wszystkich manewrów egzokombinezonów o -35%."
+        },
+        {
+            "Key": 3207971879,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3208135968,
+            "Value": "Manewr orbitalnej salwy pociskami odłamkowo-burzącymi 380 mm jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 3209106735,
+            "Value": "Manewr działka laserowego LAS-98 jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 3215105768,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3219545753,
+            "Value": "Manewr azora jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 3224337239,
+            "Value": "<c=FF336666>CZAS OKRĄŻENIA:</c> <c=FF66cc99>#VALUE LAT(A)</c>"
+        },
+        {
+            "Key": 3224513262,
+            "Value": "WYKRYTO ZAGROŻENIE ZE STRONY WROGA"
+        },
+        {
+            "Key": 3226304447,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 3235946435,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3245996303,
+            "Value": "Manewr działka laserowego LAS-98 jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 3247523256,
+            "Value": "POSTĘP W KAMPANII ZWIADOWCZEJ"
+        },
+        {
+            "Key": 3247730854,
+            "Value": "SALWA DLA POLEGŁYCH"
+        },
+        {
+            "Key": 3254570404,
+            "Value": "POSTĘP W WYDARZENIU WYZWOLENIA"
+        },
+        {
+            "Key": 3257677184,
+            "Value": "Zabici wrogowie"
+        },
+        {
+            "Key": 3258667075,
+            "Value": "Czysta fontanna, z której wytryskuje zarządzana demokracja. Trzeba jej bronić za wszelką cenę."
+        },
+        {
+            "Key": 3260412817,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3262302717,
+            "Value": "Miejscowy nadzorca kopalni 306.7D znaleziony martwy po incydencie z przemytem skwierczoryb."
+        },
+        {
+            "Key": 3262651298,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3267185606,
+            "Value": "ZAKŁÓCENIA ATMOSFERYCZNE"
+        },
+        {
+            "Key": 3271778464,
+            "Value": "Latające okręty Lewiatan patrolują pole bitwy."
+        },
+        {
+            "Key": 3279518460,
+            "Value": "Sabotaż dysydentów spowodował wzrost cen aluminium."
+        },
+        {
+            "Key": 3284998754,
+            "Value": "<c=FF336666>ZABICI WROGOWIE: #VALUE</c>"
+        },
+        {
+            "Key": 3285131061,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3293632592,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 3294732250,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3300297336,
+            "Value": "Dostępność manewru karabinu snajperskiego SAR-1 zakończyła się."
+        },
+        {
+            "Key": 3308761296,
+            "Value": "ROZKAZ OSOBISTY"
+        },
+        {
+            "Key": 3321373642,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3323477698,
+            "Value": "<i=1>Regeneracja</i> manewrów wydłużona o <i=1>#V_ONE%</i>."
+        },
+        {
+            "Key": 3323676179,
+            "Value": "Nowe badania wskazują, że łysienie u mężczyzn jest patriotycznym znakiem wolności włosów do opuszczenia głowy."
+        },
+        {
+            "Key": 3327005717,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3329970575,
+            "Value": "W premierowym sezonie „Przetrwania w Galaktyce” 18 śmiałków trafia na lodowy księżyc Kryxa i musi przeżyć przez 39 dni."
+        },
+        {
+            "Key": 3339644534,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3347550390,
+            "Value": "Oazy, które pokrywają tę pustynną planetę, przywodzą na myśl spokój, który trudno znaleźć w tak dużej odległości od Super Ziemi."
+        },
+        {
+            "Key": 3351044875,
+            "Value": "<i=1>Położenie celów</i> jest ukryte."
+        },
+        {
+            "Key": 3351717482,
+            "Value": "Liczba <i=1>miejsc na manewry</i> zmniejszona o <i=1>#V_ONE</i>."
+        },
+        {
+            "Key": 3354493846,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3355650295,
+            "Value": "NADWYŻKI MATERIAŁÓW MEDYCZNYCH"
+        },
+        {
+            "Key": 3356696792,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3358511735,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3363201044,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3364434386,
+            "Value": "BURZE"
+        },
+        {
+            "Key": 3370187171,
+            "Value": "Zaliczenie tej operacji ma wpływ na siłę floty oświeconych."
+        },
+        {
+            "Key": 3371885955,
+            "Value": "NIEDOBORY MATERIAŁÓW WYBUCHOWYCH"
+        },
+        {
+            "Key": 3372276277,
+            "Value": "Ukończ operacje w sektorze #SECTOR"
+        },
+        {
+            "Key": 3376195384,
+            "Value": "<i=1>Operacja</i> to zestaw misji. Zalicz wszystkie misje, aby przeprowadzić skuteczną operację i zyskać dodatkowe nagrody. Porażka w jednej misji oznacza porażkę w całej operacji."
+        },
+        {
+            "Key": 3379144539,
+            "Value": "KAMPANIA O WYSOKIM PRIORYTECIE"
+        },
+        {
+            "Key": 3381496091,
+            "Value": "Manewr miotacza płomieni FLAM-40 jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 3398823357,
+            "Value": "Aż do odwołania wszyscy helldiversi pasywnie regenerują zdrowie o #V_ONE% na sekundę."
+        },
+        {
+            "Key": 3401809146,
+            "Value": "SAMOBÓJCZY"
+        },
+        {
+            "Key": 3409725421,
+            "Value": "KIEPSKI POBÓR"
+        },
+        {
+            "Key": 3411407988,
+            "Value": "Siły inwazyjne automatów uznawane są za „ogromne zagrożenie” dla Super Ziemi."
+        },
+        {
+            "Key": 3412098611,
+            "Value": "Nowa ankieta wskazuje Piaski Ersonu jako najlepsze miejsce do wychowania dzieci na obrońców wolności."
+        },
+        {
+            "Key": 3413020356,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3414366619,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3418968587,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3420120836,
+            "Value": "W najbliższym czasie każda udana misja to większy wkład w wyzwolenie kolejnych planet."
+        },
+        {
+            "Key": 3425904814,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3438649121,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3453882851,
+            "Value": "Manewr orbitalnego lasera jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 3455993788,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3468937862,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3469341397,
+            "Value": "W najbliższym czasie będziemy odzyskiwać tereny na planecie #V_ONE."
+        },
+        {
+            "Key": 3472158635,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3474023215,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3478073223,
+            "Value": "do miejsca:"
+        },
+        {
+            "Key": 3478602676,
+            "Value": "Inwazja automatów nie traci impetu."
+        },
+        {
+            "Key": 3483139454,
+            "Value": "POSTĘP INWAZJI OŚWIECONYCH"
+        },
+        {
+            "Key": 3486805749,
+            "Value": "Broń:"
+        },
+        {
+            "Key": 3487732002,
+            "Value": "Dostępność manewru orbitalnej salwy postępującej zakończyła się."
+        },
+        {
+            "Key": 3489533456,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3490555416,
+            "Value": "<i=1>Kampanie defensywne</i> nie mogą pochodzić z tej planety."
+        },
+        {
+            "Key": 3491418699,
+            "Value": "<c=FFFE881F>DUŻY</c>"
+        },
+        {
+            "Key": 3493908691,
+            "Value": "Manewr plecaka z tarczą balistyczną jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 3494550326,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3494856217,
+            "Value": "Ta wilgotna planeta, obfitująca w życie, pokryta jest głębokimi oceanami, gęstymi lasami i wysoką trawą."
+        },
+        {
+            "Key": 3505533461,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3508750577,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3515520839,
+            "Value": "GLARBLE GARB GORK! – mózg redaktora pasków newsowych na krótko "
+        },
+        {
+            "Key": 3517530400,
+            "Value": "WAŻNY ROZKAZ"
+        },
+        {
+            "Key": 3517848091,
+            "Value": "Liczba granatów dla wszystkich helldiversów zostaje tymczasowo zmniejszona o #V_ONE."
+        },
+        {
+            "Key": 3521674760,
+            "Value": "Dostępność manewru orbitalnego ataku precyzyjnego zakończyła się."
+        },
+        {
+            "Key": 3523340692,
+            "Value": "<c=FF336666>CZAS OBROTU:</c> <c=FF66cc99>#VALUE DNI</c>"
+        },
+        {
+            "Key": 3526613987,
+            "Value": "EKSPERYMENTALNE WITAMINY"
+        },
+        {
+            "Key": 3527094628,
+            "Value": "Manewr strażnika z działkiem Gatlinga jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 3527331608,
+            "Value": "Dzielni helldiversi kontynuują walkę w celu okiełznania terminidów."
+        },
+        {
+            "Key": 3533673621,
+            "Value": "POSTĘP W INSTALACJI SKT"
+        },
+        {
+            "Key": 3534334954,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3539536174,
+            "Value": "Ta planeta jest atakowana. Helldiversi muszą jej bronić przed siłami tyranii. "
+        },
+        {
+            "Key": 3541023337,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3544318250,
+            "Value": "Helldiversi otrzymali rozkaz przygotowania planet w kordonie terminidów do „czystki”."
+        },
+        {
+            "Key": 3547528638,
+            "Value": "Nowa ankieta uznaje terminidy za „najbardziej robalowate” z wrogów Super Ziemi."
+        },
+        {
+            "Key": 3552412487,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3552972191,
+            "Value": "Cząsteczki posępności zakłócają manewry lądowania Pelikanów, co wydłuża czasy odbioru o <i=1>20 sekund</i>."
+        },
+        {
+            "Key": 3554256659,
+            "Value": "EKSPERYMENTALNE KIESZENIE"
+        },
+        {
+            "Key": 3559900755,
+            "Value": "KAMPANIA NAJAZDU"
+        },
+        {
+            "Key": 3564181953,
+            "Value": "WZROST PRODUKCJI"
+        },
+        {
+            "Key": 3567262339,
+            "Value": "Intensywne burze śnieżne <i=1>zmniejszają widoczność</i>."
+        },
+        {
+            "Key": 3575339405,
+            "Value": "Intensywne zamiecie <i=1>zmniejszają mobilność</i> i <i=1>umiarkowanie zmniejszają widoczność</i> zarówno dla jednostek wroga, jak i sojuszniczych."
+        },
+        {
+            "Key": 3578568891,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3579090922,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3580449947,
+            "Value": "SMOKOLUCHY"
+        },
+        {
+            "Key": 3589166843,
+            "Value": "KAMPANIA OBRONY"
+        },
+        {
+            "Key": 3603056465,
+            "Value": "AKTYWNOŚĆ WULKANICZNA"
+        },
+        {
+            "Key": 3612924764,
+            "Value": "KONTESTOWANA ORBITA"
+        },
+        {
+            "Key": 3613667837,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3614743432,
+            "Value": "WYZWALANIE TRWA"
+        },
+        {
+            "Key": 3614892168,
+            "Value": "PRZEGLĄD ROZKAZU"
+        },
+        {
+            "Key": 3625902892,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3626549577,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3627786736,
+            "Value": "W zależności od przebiegu wojny dostępne będą różne planety. Wybierz <i=1>planetę</i>, aby sprawdzić, jakie operacje są na niej dostępne."
+        },
+        {
+            "Key": 3629407012,
+            "Value": "AWANSE W POLU"
+        },
+        {
+            "Key": 3630364424,
+            "Value": "Zaprowadź demokrację:"
+        },
+        {
+            "Key": 3632158433,
+            "Value": "SKD aktywuje eksperymentalny system autoklawu atmosferycznego, wybijając 50 km³ zarodników posępności na minutę. Redukcja pokrywy zarodników powoduje zwiększoną ekspozycję światłoczułych odmian terminidów na atmosferyczne promieniowanie ultrafioletowe."
+        },
+        {
+            "Key": 3633071572,
+            "Value": "Manewr miotacza łukowego TS-4 jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 3637004657,
+            "Value": "Niespodziewane uzupełnienia SZSZ znacząco posuwają się naprzód na planecie #V_ONE."
+        },
+        {
+            "Key": 3637171496,
+            "Value": "BATTLE ROYALE: robale kontra automaty "
+        },
+        {
+            "Key": 3641252510,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3648328316,
+            "Value": "Na polu bitwy działają sojusznicze jednostki SZSZ."
+        },
+        {
+            "Key": 3649078966,
+            "Value": "NIEDOBORY PROTEIN"
+        },
+        {
+            "Key": 3662013215,
+            "Value": "POD KONTROLĄ OŚWIECONYCH"
+        },
+        {
+            "Key": 3662335600,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3665609909,
+            "Value": "ZŁOŻONE PLANOWANIE MANEWRÓW"
+        },
+        {
+            "Key": 3666873906,
+            "Value": "Tymczasowe zwiększenie liczby stymulantów przestało obowiązywać."
+        },
+        {
+            "Key": 3667104994,
+            "Value": "Według najnowszych badań Super Orzeł jest najbardziej demokratycznym z ptaków."
+        },
+        {
+            "Key": 3670045382,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3671853690,
+            "Value": "POD KONTROLĄ TERMINIDÓW"
+        },
+        {
+            "Key": 3671889012,
+            "Value": "Dostępność manewru działka laserowego LAS-98 zakończyła się."
+        },
+        {
+            "Key": 3672735503,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3673381184,
+            "Value": "Liczba użyć manewru <i=1>#V_ONE</i> została tymczasowo zmniejszona o #V_TWO."
+        },
+        {
+            "Key": 3680923929,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3689153387,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3689262198,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3689672148,
+            "Value": "Czas odbioru jest tymczasowo skrócony o #V_TWO sek."
+        },
+        {
+            "Key": 3690459614,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3694006643,
+            "Value": "Każda udana misja to większy wkład w wyzwolenie kolejnych planet."
+        },
+        {
+            "Key": 3695557077,
+            "Value": "Gęsta mgła <i=1>zmniejsza widoczność</i>."
+        },
+        {
+            "Key": 3699173130,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3699613863,
+            "Value": "Dziecko znajduje zabawkowy pancernik kosmiczny, które zgubi w czarnej dziurze za 6 lat."
+        },
+        {
+            "Key": 3701975858,
+            "Value": "Cele dodatkowe"
+        },
+        {
+            "Key": 3708765037,
+            "Value": "Ministerstwo Obrony donosi, że centrum dowodzenia automatów znajduje się na Cyberstanie."
+        },
+        {
+            "Key": 3709494312,
+            "Value": "WŁADCY ROJU"
+        },
+        {
+            "Key": 3710378294,
+            "Value": "#SHORT - #LONG"
+        },
+        {
+            "Key": 3714868912,
+            "Value": "OSTATNIA SZARŻA"
+        },
+        {
+            "Key": 3719011487,
+            "Value": "Ustawa o bezpieczeństwie szkół została przegłosowana. Każdy uczeń otrzyma granaty obronne K-12."
+        },
+        {
+            "Key": 3726538024,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 3726974502,
+            "Value": "NAGRODA ZA OPERACJĘ W KOLONII"
+        },
+        {
+            "Key": 3732635510,
+            "Value": "Liczba granatów dla wszystkich helldiversów zostaje zmniejszona o #V_ONE."
+        },
+        {
+            "Key": 3741917828,
+            "Value": "Manewr działka elektromagnetycznego RS-422 jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 3744612820,
+            "Value": "Egzekucja przez spaghettifikację w czarnej dziurze uznana za zgodną z konstytucją."
+        },
+        {
+            "Key": 3753359961,
+            "Value": "Manewr miotacza płomieni FLAM-40 jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 3762112087,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3765717289,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3770521993,
+            "Value": "WYDARZENIA PLANETARNE"
+        },
+        {
+            "Key": 3772486163,
+            "Value": "Nad polem bitwy unoszą się roje latających wrzaskunów."
+        },
+        {
+            "Key": 3774133754,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3777103266,
+            "Value": "NAGRODA ZA OPERACJĘ"
+        },
+        {
+            "Key": 3781056562,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3786402002,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3798161962,
+            "Value": "Zmniejszenie liczby granatów przestało obowiązywać."
+        },
+        {
+            "Key": 3798493358,
+            "Value": "Przyspiesza postępy w <i=1>kampaniach wyzwolenia</i>."
+        },
+        {
+            "Key": 3801573631,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3802611417,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 3804225068,
+            "Value": "<i=1>Ważne rozkazy</i> oznaczają cele społeczności helldiversów."
+        },
+        {
+            "Key": 3810233876,
+            "Value": "Eksterminuj:"
+        },
+        {
+            "Key": 3811000733,
+            "Value": "Manewr wieży Tesli jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 3811178773,
+            "Value": "Niespodziewane hordy terminidów znacząco posunęły się naprzód na planecie #V_ONE."
+        },
+        {
+            "Key": 3820781527,
+            "Value": "TESTOWANIE SPRZĘTU"
+        },
+        {
+            "Key": 3821064877,
+            "Value": "Grupa uczniów przeprowadza akcję publicznego usuwania niedemokratycznych e-booków."
+        },
+        {
+            "Key": 3822540736,
+            "Value": "Manewr ataku z powietrza Orła jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 3833236254,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 3842398028,
+            "Value": "EKSTREMALNY CHŁÓD"
+        },
+        {
+            "Key": 3846241460,
+            "Value": "HELLPODY AKTYWNE – PRZEJDŹ DO HELLPODÓW"
+        },
+        {
+            "Key": 3853638486,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3853707815,
+            "Value": "Dostępność manewru <i=1>#V_ONE</i> zakończyła się."
+        },
+        {
+            "Key": 3859378194,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3859521726,
+            "Value": "POD KONTROLĄ SUPER ZIEMI"
+        },
+        {
+            "Key": 3862338222,
+            "Value": "Dostępność manewru karabinu bezodrzutowego AT-48 zakończyła się."
+        },
+        {
+            "Key": 3864025069,
+            "Value": "Skalisty, samotny księżyc z niezwykle cennymi złożami mineralnymi znajdującymi się pod powierzchnią."
+        },
+        {
+            "Key": 3866756371,
+            "Value": "Dostępność manewru muru obronnego zakończyła się."
+        },
+        {
+            "Key": 3870546934,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3875363401,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3883771315,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3885662626,
+            "Value": "Przyrost doświadczenia wszystkich helldiversów zostaje zmniejszony o #V_ONE%."
+        },
+        {
+            "Key": 3888729957,
+            "Value": "Czas regeneracji manewru <i=1>#V_ONE</i> został tymczasowo skrócony o #V_TWO."
+        },
+        {
+            "Key": 3888872278,
+            "Value": "<i=1>Efekty</i> to tymczasowe zmiany warunków na polu bitwy. Zmieniają się wraz z przebiegiem wojny i mogą zmusić helldiversów do dostosowania taktyki."
+        },
+        {
+            "Key": 3897481459,
+            "Value": "Manewr jednorazowego ppanc. EAT-17 jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 3900413013,
+            "Value": "Nie będziemy dłużej odzyskiwać terenów na planecie #V_ONE."
+        },
+        {
+            "Key": 3903115201,
+            "Value": "Dostępność manewru orbitalnego lasera zakończyła się."
+        },
+        {
+            "Key": 3910555043,
+            "Value": "MEGAMIASTO"
+        },
+        {
+            "Key": 3920132753,
+            "Value": "<c=FF336666>POLEGLI: #VALUE</c>"
+        },
+        {
+            "Key": 3921291543,
+            "Value": "OPERACJA W KOLONII"
+        },
+        {
+            "Key": 3922111694,
+            "Value": "SIŁY WROGA"
+        },
+        {
+            "Key": 3929288014,
+            "Value": "Obrażenia wręcz zostają zwiększone o #V_ONE%."
+        },
+        {
+            "Key": 3933634258,
+            "Value": "Genetyk zabity w domu przez hybrydę kurczaka, krowy i świni."
+        },
+        {
+            "Key": 3952083751,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3957075233,
+            "Value": "GĘSTA CHMURA POSĘPNOŚCI"
+        },
+        {
+            "Key": 3957297661,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 3963333572,
+            "Value": "Zwiększenie przyrostu doświadczenia przestało obowiązywać."
+        },
+        {
+            "Key": 3979430036,
+            "Value": "Częste trzęsienia ziemi <i=1>oszałamiają zarówno wrogów, jak i graczy</i>."
+        },
+        {
+            "Key": 3983056343,
+            "Value": "Manewr orbitalnego ataku precyzyjnego jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 3983592335,
+            "Value": "Dostępność manewru granatnika GL-6 zakończyła się."
+        },
+        {
+            "Key": 3987183872,
+            "Value": "WPŁYW OPERACYJNY"
+        },
+        {
+            "Key": 3991486518,
+            "Value": "Na tej planecie roi się od eterycznej, nieograniczonej i osobliwej roślinności, która cicho i nieprzerwanie rozprzestrzenia się po całej jej powierzchni."
+        },
+        {
+            "Key": 3994324289,
+            "Value": "kontra genetycznie zmodyfikowane żółwie. Bilety już w sprzedaży!"
+        },
+        {
+            "Key": 4002694918,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 4005066509,
+            "Value": "Szybciej niż wcześniej tracimy teren na planecie #V_ONE."
+        },
+        {
+            "Key": 4009717880,
+            "Value": "MERYTORYCZNE POCHWAŁY"
+        },
+        {
+            "Key": 4010359064,
+            "Value": "Genetycy tworzą pierwszą hybrydę kurczaka, krowy i świni. Nazywają ją „idealnym mięskiem”."
+        },
+        {
+            "Key": 4013240943,
+            "Value": "Manewr orbitalnego ataku powietrznego jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 4013599258,
+            "Value": "Efektywność premii <i=1>#V_ONE</i> została zwiększona o #V_TWO%."
+        },
+        {
+            "Key": 4014396602,
+            "Value": "Na polu bitwy znajdują się zarówno jednostki SZSZ, jak i lojalni cywile."
+        },
+        {
+            "Key": 4014468095,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 4021456882,
+            "Value": "EFEKTY"
+        },
+        {
+            "Key": 4026104845,
+            "Value": ""
+        },
+        {
+            "Key": 4029307286,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 4030497262,
+            "Value": "WYZWALANIE TRWA"
+        },
+        {
+            "Key": 4032160005,
+            "Value": "Dostępność manewru strażnika z wyrzutnią rakiet zakończyła się."
+        },
+        {
+            "Key": 4036526020,
+            "Value": "POZIOM TRUDNOŚCI ZABLOKOWANY"
+        },
+        {
+            "Key": 4038600486,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 4045585038,
+            "Value": "WYKRYTO LICZNE ZAGROŻENIA"
+        },
+        {
+            "Key": 4048072361,
+            "Value": "POWRÓT NA MAPĘ GALAKTYKI"
+        },
+        {
+            "Key": 4051101358,
+            "Value": "Zatrzymaj:"
+        },
+        {
+            "Key": 4052077326,
+            "Value": "<c=FF336666>SZEROKOŚĆ:</c> <c=FF66cc99>#VALUE</c>"
+        },
+        {
+            "Key": 4061126716,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 4064243582,
+            "Value": "Oświeceni przesuwają Osobliwość Meridiańską ku Super Ziemi. Wszystko, co stanie jej na drodze, zostanie rozdarte."
+        },
+        {
+            "Key": 4074421269,
+            "Value": "Czas na zaliczenie wszystkich misji został skrócony o #V_ONE%."
+        },
+        {
+            "Key": 4077571604,
+            "Value": "BURZE JONOWE"
+        },
+        {
+            "Key": 4082794250,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 4089075400,
+            "Value": "BURZA ORŁA"
+        },
+        {
+            "Key": 4089347326,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 4091665372,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 4093368079,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 4099756016,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 4103555409,
+            "Value": "PLANETA STRACONA – WYDANO ROZKAZ ODWROTU"
+        },
+        {
+            "Key": 4109477478,
+            "Value": "Dostępność manewru stawiacza min przeciwpiechotnych zakończyła się."
+        },
+        {
+            "Key": 4117380630,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 4121140021,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 4125819870,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 4129291016,
+            "Value": "MIASTECZKO"
+        },
+        {
+            "Key": 4130639501,
+            "Value": "Nowa ustawa wprowadza szkolenia z identyfikacji dysydentów dla nauczycieli szkolnych."
+        },
+        {
+            "Key": 4131334693,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 4134510414,
+            "Value": "Liczba uzupełnień dostępna na misję zostaje zwiększona o #V_ONE."
+        },
+        {
+            "Key": 4136698015,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 4137589588,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 4138268575,
+            "Value": "Dostępność manewru zaopatrzenia zakończyła się."
+        },
+        {
+            "Key": 4141672169,
+            "Value": "Nowe badania wskazują, że liczba pomyłek w pracach naukowców Super Ziemi wynosi zero."
+        },
+        {
+            "Key": 4146967339,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 4149219876,
+            "Value": "Kot Schrödingera ostatecznie uznany za martwego "
+        },
+        {
+            "Key": 4149383367,
+            "Value": "AKTUALIZACJA STANU PLANETY"
+        },
+        {
+            "Key": 4152680051,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 4153717289,
+            "Value": "Zaliczenie tej operacji ma wkład w obronę planety."
+        },
+        {
+            "Key": 4155114762,
+            "Value": "#A / <i=1>#B</i>"
+        },
+        {
+            "Key": 4160556404,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 4160586354,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 4162825007,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 4163415863,
+            "Value": "OPUŚĆ HOLOGRAM"
+        },
+        {
+            "Key": 4168458073,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 4169143112,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 4170693832,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 4171075538,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 4189958024,
+            "Value": "Władcy roju terminidów zostali wykryci na tej planecie."
+        },
+        {
+            "Key": 4192344096,
+            "Value": "W najbliższym czasie będziemy szybciej tracić teren na planecie #V_ONE."
+        },
+        {
+            "Key": 4198200621,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 4204853773,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 4204986708,
+            "Value": "Zdobądź planetę #PLANET w sektorze #SECTOR"
+        },
+        {
+            "Key": 4207523721,
+            "Value": "Terminidy grożą przerwaniem kordonu."
+        },
+        {
+            "Key": 4211030149,
+            "Value": "Ta planeta jest pustoszona przez <i=1>zabójcze ogniste tornada</i>."
+        },
+        {
+            "Key": 4212371007,
+            "Value": "Z OSTATNIEJ CHWILI"
+        },
+        {
+            "Key": 4215606859,
+            "Value": "Instalacja sieci odstraszania terminidów opóźniona z powodu incydentu z rojem terminidów."
+        },
+        {
+            "Key": 4217315838,
+            "Value": "Nowe badania wskazują, że boty są dwa razy bardziej dyktatorskie, niż poprzednio sądzono."
+        },
+        {
+            "Key": 4217970983,
+            "Value": "Substancja znana jako E-711 jest kluczem do syntezy Ciemnego Płynu, niezwykle potężnego materiału egzotycznego. Zdobycie go jest niezmiernie ważne."
+        },
+        {
+            "Key": 4219308386,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 4226477129,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 4229317978,
+            "Value": "Manewr strażnika z moździerzem jest tymczasowo dostępny dla wszystkich helldiversów."
+        },
+        {
+            "Key": 4232658408,
+            "Value": "PRZECIWŚRODKI ELEKTRONICZNE"
+        },
+        {
+            "Key": 4240023177,
+            "Value": "BRAKI SAKW NA GRANATY"
+        },
+        {
+            "Key": 4240196127,
+            "Value": "Regeneracja zdrowia przestała obowiązywać."
+        },
+        {
+            "Key": 4240961977,
+            "Value": "Szkarłatna alga rozprzestrzeniła się dziko po całej planecie, pokrywając jej skaliste wzgórza czerwienią, która maskuje przelaną krew bohaterów broniących jej przed tyranią."
+        },
+        {
+            "Key": 4243009745,
+            "Value": "ZAINSPIROWANI ROBOTNICY"
+        },
+        {
+            "Key": 4247313880,
+            "Value": "5"
+        },
+        {
+            "Key": 4250663430,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 4252439335,
+            "Value": "HELLDIVERS"
+        },
+        {
+            "Key": 4256936100,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 4260257322,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 4262661334,
+            "Value": "Liczba uzupełnień dostępna na misję zostaje zmniejszona o #V_ONE."
+        },
+        {
+            "Key": 4267041493,
+            "Value": "SKRÓT"
+        },
+        {
+            "Key": 4271615407,
+            "Value": "Upalne temperatury, silne wiatry i niewielkie opady powodują, że na powierzchni tej planety trwają niemal wieczne pożary. Przyroda odradza się jedynie w krótkich przerwach pomiędzy piekielnymi płomieniami."
+        },
+        {
+            "Key": 4274339261,
+            "Value": "WYŚWIETL BOHATERÓW SUPER ZIEMI"
+        },
+        {
+            "Key": 4276858195,
+            "Value": "KONTROFENSYWA SZSZ"
+        },
+        {
+            "Key": 4277436083,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 4280421164,
+            "Value": "Eksplozja w szpitalu dziecięcym powiązana z grupą sympatyków automatów, „Bezimiennymi”."
+        },
+        {
+            "Key": 4281386727,
+            "Value": "EKSPERYMENTY Z UZBROJENIEM"
+        },
+        {
+            "Key": 4283177289,
+            "Value": "Nieznany"
+        },
+        {
+            "Key": 4287360836,
+            "Value": "Gorąco wyczekiwana bitwa na Malavax Prime będzie nadawana na żywo. Bilety kupisz tutaj."
+        }
+    ]
+}

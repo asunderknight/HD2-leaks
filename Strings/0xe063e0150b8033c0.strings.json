@@ -1,0 +1,798 @@
+{
+    "Version": 1,
+    "Language": {
+        "Hash": "0x0f8857aa",
+        "KnownName": "pl",
+        "KnownFriendlyName": "Polish"
+    },
+    "Items": [
+        {
+            "Key": 5488478,
+            "Value": "ĆWICZENIA Z OGNIEM POŚREDNIM"
+        },
+        {
+            "Key": 36156336,
+            "Value": "#TEXT"
+        },
+        {
+            "Key": 64650471,
+            "Value": "Odeprzyj ataki (<i=1>#COUNT</i>) w sektorze <i=1>#SECTOR</i>"
+        },
+        {
+            "Key": 85066976,
+            "Value": " <i=1>"
+        },
+        {
+            "Key": 97437033,
+            "Value": "Próbki"
+        },
+        {
+            "Key": 100428428,
+            "Value": "PRZETRZEBIANIE TRZODY"
+        },
+        {
+            "Key": 117817201,
+            "Value": " w <c=FFFFE900>trybie dla wielu graczy</c>"
+        },
+        {
+            "Key": 142315455,
+            "Value": " <c=FFFFE900>"
+        },
+        {
+            "Key": 154117770,
+            "Value": "KWALIFIKACJA BRONI"
+        },
+        {
+            "Key": 166062674,
+            "Value": "Zlikwiduj <i=1>#COUNT</i> wrogów manewrami wieżyczek."
+        },
+        {
+            "Key": 177293649,
+            "Value": "<i=1>#SPEAKER</i>   #TEXT"
+        },
+        {
+            "Key": 184178740,
+            "Value": "KWALIFIKACJA BRONI"
+        },
+        {
+            "Key": 227667415,
+            "Value": "PRZEGLĄD ZABÓJCZOŚCI "
+        },
+        {
+            "Key": 238397465,
+            "Value": "</c> "
+        },
+        {
+            "Key": 251200848,
+            "Value": "Misja"
+        },
+        {
+            "Key": 304838764,
+            "Value": "Wojna – #HOURS:#MINUTES:#SECONDS"
+        },
+        {
+            "Key": 331197937,
+            "Value": "SZKOLENIE PILOTÓW Z UZBROJENIA"
+        },
+        {
+            "Key": 352883173,
+            "Value": "Posterunki"
+        },
+        {
+            "Key": 392137679,
+            "Value": "Kariera: zlikwiduj <i=1>#COUNT</i> wrogów."
+        },
+        {
+            "Key": 451773215,
+            "Value": "</i> razy"
+        },
+        {
+            "Key": 471656001,
+            "Value": "#NAME Ranga #COUNT "
+        },
+        {
+            "Key": 496808468,
+            "Value": "</c> razy"
+        },
+        {
+            "Key": 527016410,
+            "Value": "Brońcie planety <i=1>#PLANET</i> przed <i=1>#COUNT</i> atakami rasy <i=1>#RACE</i>"
+        },
+        {
+            "Key": 561614387,
+            "Value": "ROZKAZ DNIA"
+        },
+        {
+            "Key": 572741022,
+            "Value": "W trakcie misji opróżnij: <i=1>#REF</i>."
+        },
+        {
+            "Key": 606835900,
+            "Value": "<i=1>#COUNT</i> razy odeprzyjcie inwazje rasy <i=1>#RACE</i>"
+        },
+        {
+            "Key": 638501850,
+            "Value": "Odeprzyjcie ataki oświeconych (<i=1>#COUNT</i>) na planecie <i=1>#PLANET</i>"
+        },
+        {
+            "Key": 653919702,
+            "Value": "Poproś o manewr <i=1>#REF</i> <i=1>#COUNT</i> razy."
+        },
+        {
+            "Key": 662371574,
+            "Value": "Zlikwiduj <i=1>#COUNT</i> ciężkich lub ogromnych wrogów."
+        },
+        {
+            "Key": 663690807,
+            "Value": " z planety <i=1>"
+        },
+        {
+            "Key": 680227134,
+            "Value": "SKONCENTROWANA STRATEGIA"
+        },
+        {
+            "Key": 701243066,
+            "Value": "Rozegraj: <c=FFFFE900>#COUNT #OBJ</c>#RACE_PRE#RACE#RACE_POST#DIFF_PRE#DIFF#DIFF_POST#MULTI."
+        },
+        {
+            "Key": 713668384,
+            "Value": "Wróg"
+        },
+        {
+            "Key": 753803428,
+            "Value": "misji celu społeczności"
+        },
+        {
+            "Key": 754898562,
+            "Value": "Wyzwól region <i=1>#LOCATION</i>"
+        },
+        {
+            "Key": 798917336,
+            "Value": "Osiągnij ocenę <i=1>#COUNT</i> gwiazdek w misji hordy."
+        },
+        {
+            "Key": 815640498,
+            "Value": "Zdetonuj zbiorniki z paliwem <i=1>#COUNT</i> poruczników automatów."
+        },
+        {
+            "Key": 831568279,
+            "Value": " lub wyższym</c>"
+        },
+        {
+            "Key": 834385422,
+            "Value": "Zlikwiduj 10 wrogów pojedynczym: <i=1>#REF</i>, <i=1>#COUNT</i> razy."
+        },
+        {
+            "Key": 846947020,
+            "Value": "Wóz radarowy"
+        },
+        {
+            "Key": 873419093,
+            "Value": "Zlikwiduj <i=1>#COUNT</i> biegaczy robali."
+        },
+        {
+            "Key": 888228522,
+            "Value": "Zalicz misję na poziomie trudności <i=1>#COUNT</i> lub wyższym, nie odnosząc żadnych obrażeń."
+        },
+        {
+            "Key": 992180888,
+            "Value": "INICJATYWA BADAWCZA"
+        },
+        {
+            "Key": 1001285226,
+            "Value": "ZAKŁÓCENIE MOŻLIWOŚCI"
+        },
+        {
+            "Key": 1001719296,
+            "Value": "Zlikwiduj <i=1>#COUNT</i> wrogów manewrami orbitalnymi."
+        },
+        {
+            "Key": 1007359996,
+            "Value": " z planety <i=1>"
+        },
+        {
+            "Key": 1021417441,
+            "Value": "Tygodniowy"
+        },
+        {
+            "Key": 1029106029,
+            "Value": "</c> razy"
+        },
+        {
+            "Key": 1032642173,
+            "Value": " na planecie kontrolowanej przez: <c=FFFFE900>"
+        },
+        {
+            "Key": 1039710571,
+            "Value": "Zlikwiduj <i=1>#COUNT</i> biegaczy alfa robali."
+        },
+        {
+            "Key": 1079990460,
+            "Value": "Użyj <i=1>#COUNT</i> manewrów."
+        },
+        {
+            "Key": 1139251439,
+            "Value": "Ukończ misje (<i=1>#COUNT</i>) na poziomie trudności 6+."
+        },
+        {
+            "Key": 1190000271,
+            "Value": "Wrogowie"
+        },
+        {
+            "Key": 1200874512,
+            "Value": "ALARM"
+        },
+        {
+            "Key": 1208786668,
+            "Value": "Użyj <i=1>#COUNT</i> manewrów zaopatrzenia."
+        },
+        {
+            "Key": 1218451548,
+            "Value": "Odeprzyj ataki (<i=1>#COUNT</i>) na dowolnej planecie"
+        },
+        {
+            "Key": 1233839833,
+            "Value": "Użyj: <c=FFFFE900>#ITEM</c>#COUNT_PRE#COUNT#COUNT_POST#RACE_PRE#RACE#RACE_POST#DIFF_PRE#DIFF#DIFF_POST#MULTI."
+        },
+        {
+            "Key": 1305262746,
+            "Value": "Zlikwiduj <i=1>#COUNT</i> wrogów hellpodami."
+        },
+        {
+            "Key": 1318954455,
+            "Value": "Utrzymaj region <i=1>#LOCATION</i> po zakończeniu rozkazu"
+        },
+        {
+            "Key": 1324082343,
+            "Value": "</i>"
+        },
+        {
+            "Key": 1343686329,
+            "Value": " na planecie <c=FFFFE900>"
+        },
+        {
+            "Key": 1345055336,
+            "Value": "Użyj <i=1>#COUNT</i> manewrów orbitalnych."
+        },
+        {
+            "Key": 1360527855,
+            "Value": "Ukończ <c=FFFFE900>operację</c>#RACE_PRE#RACE#RACE_POST#DIFF_PRE#DIFF#DIFF_POST#COUNT_PRE#COUNT#COUNT_POST#MULTI#LOCATION_PRE#LOCATION#LOCATION_POST"
+        },
+        {
+            "Key": 1372948410,
+            "Value": "WYMUSZONE ZŁOMOWANIE"
+        },
+        {
+            "Key": 1373695715,
+            "Value": "Użyj <i=1>#COUNT</i> manewrów defensywnych."
+        },
+        {
+            "Key": 1400878407,
+            "Value": "Rozkaz osobisty"
+        },
+        {
+            "Key": 1403282299,
+            "Value": "</c>"
+        },
+        {
+            "Key": 1416498899,
+            "Value": "z dowolnej planety kontrolowanej przez: <i=1>"
+        },
+        {
+            "Key": 1429330936,
+            "Value": "Wydaj <i=1>#COUNT</i> kr. na manewry"
+        },
+        {
+            "Key": 1465528842,
+            "Value": "Brońcie się przed <i=1>#COUNT</i> atakami na dowolnej planecie"
+        },
+        {
+            "Key": 1491917287,
+            "Value": "UBIJANIE SZCZEPU"
+        },
+        {
+            "Key": 1517786633,
+            "Value": "</c>"
+        },
+        {
+            "Key": 1534342021,
+            "Value": "PRIORYTETOWA WIADOMOŚĆ ZE SZTABU GENERALNEGO SUPER ZIEMI"
+        },
+        {
+            "Key": 1535290886,
+            "Value": "Zlikwiduj <i=1>#COUNT</i> wrogów w trakcie misji."
+        },
+        {
+            "Key": 1566218727,
+            "Value": "Zlikwiduj <i=1>#COUNT</i> wrogów manewrami Orła."
+        },
+        {
+            "Key": 1596628873,
+            "Value": "Dokonaj odbioru w misji, mając minimalną liczbę próbek (<i=1>#COUNT</i>)."
+        },
+        {
+            "Key": 1666079179,
+            "Value": "Główne"
+        },
+        {
+            "Key": 1773377985,
+            "Value": "Zlikwiduj: <i=1>#COUNT #ENEMY</i>#LOCATION_PRE#LOCATION#LOCATION_POST#EQUIP_PRE#EQUIP#EQUIP_POST#DIFF_PRE#DIFF#DIFF_POST#MULTI"
+        },
+        {
+            "Key": 1778610710,
+            "Value": "ĆWICZENIA Z OGNIEM POŚREDNIM"
+        },
+        {
+            "Key": 1788537953,
+            "Value": "Zlikwiduj <i=1>#COUNT</i> wrogów jednym magazynkiem."
+        },
+        {
+            "Key": 1838305738,
+            "Value": "Przekaż: #GEARTYPE <i=1>#GOAL #GEAR</i>"
+        },
+        {
+            "Key": 1846426649,
+            "Value": "Postępy"
+        },
+        {
+            "Key": 1847477750,
+            "Value": "Odeprzyj ataki (<i=1>#COUNT</i>) rasy <i=1>#RACE</i>"
+        },
+        {
+            "Key": 1854029696,
+            "Value": "Cele"
+        },
+        {
+            "Key": 1881588906,
+            "Value": "Zlikwiduj 4 wrogów pojedynczym: <i=1>#REF</i>, <i=1>#COUNT</i> razy."
+        },
+        {
+            "Key": 1883870398,
+            "Value": "Zalicz misję na poziomie trudności <i=1>#COUNT</i> lub wyższym, nie ginąc."
+        },
+        {
+            "Key": 1907510616,
+            "Value": "KWALIFIKACJA BRONI"
+        },
+        {
+            "Key": 1938562248,
+            "Value": " (<i=1>osobiście</i>)"
+        },
+        {
+            "Key": 1942991823,
+            "Value": "Zlikwiduj Orłem <i=1>#COUNT</i> wrogów, znajdujących się w odległości 10 metrów od ciebie."
+        },
+        {
+            "Key": 1968949865,
+            "Value": "z dowolnej planety kontrolowanej przez: <i=1>"
+        },
+        {
+            "Key": 2083214352,
+            "Value": "Osiągnij ocenę „Najwyższy” w misji na poziomie trudności: <i=1>#COUNT</i>."
+        },
+        {
+            "Key": 2084035735,
+            "Value": "Zniszcz fabrykatory automatów (<i=1>#COUNT</i>)."
+        },
+        {
+            "Key": 2142785955,
+            "Value": " w <c=FFFFE900>trybie dla wielu graczy</c>"
+        },
+        {
+            "Key": 2152275488,
+            "Value": " w <i=1>trybie dla wielu graczy</i>"
+        },
+        {
+            "Key": 2185441936,
+            "Value": "Z powodzeniem zalicz cele misji (<i=1>#COUNT</i>)."
+        },
+        {
+            "Key": 2224592258,
+            "Value": "ZNISZCZENIE PANCERZY"
+        },
+        {
+            "Key": 2233178159,
+            "Value": " <i=1>#COUNT</i> razy"
+        },
+        {
+            "Key": 2293727885,
+            "Value": "Różne"
+        },
+        {
+            "Key": 2310572910,
+            "Value": "Dokonaj pomyślnego odbioru:#EXT_PRE#EXT#EXT_POST#COUNT_PRE#COUNT#COUNT_POST#DIFF_PRE#DIFF#DIFF_POST#MULTI."
+        },
+        {
+            "Key": 2347079025,
+            "Value": "Automaty zbyt długo już nielegalnie okupują i grabią Potok Malevelon. Nadszedł czas odzyskać tę planetę."
+        },
+        {
+            "Key": 2351894543,
+            "Value": "Zniszcz silniki śmigłowców automatów (<i=1>#COUNT</i>)."
+        },
+        {
+            "Key": 2372506000,
+            "Value": " przy użyciu: <c=FFFFE900>"
+        },
+        {
+            "Key": 2397886806,
+            "Value": "<i=1>"
+        },
+        {
+            "Key": 2410399265,
+            "Value": "Posterunek"
+        },
+        {
+            "Key": 2411926627,
+            "Value": "Zalicz cel <c=FFFFE900>#OBJ</c>#COUNT_PRE#COUNT#COUNT_POST#RACE_PRE#RACE#RACE_POST#DIFF_PRE#DIFF#DIFF_POST#MULTI."
+        },
+        {
+            "Key": 2432823045,
+            "Value": "Ukończ <c=FFFFE900>operację</c> #DIFF_PRE#DIFF#DIFF_POST#COUNT_PRE#COUNT#COUNT_POST#MULTI#LOCATION_PRE#LOCATION#LOCATION_POST"
+        },
+        {
+            "Key": 2438255294,
+            "Value": "Wyzwól planety (<i=1>#COUNT</i>)"
+        },
+        {
+            "Key": 2505675202,
+            "Value": " <c=FFFFE900>"
+        },
+        {
+            "Key": 2542754603,
+            "Value": "SZKOLENIE PILOTÓW Z UZBROJENIA"
+        },
+        {
+            "Key": 2589774000,
+            "Value": "Premie"
+        },
+        {
+            "Key": 2634513795,
+            "Value": "MASOWE WYŁĄCZANIE"
+        },
+        {
+            "Key": 2640642124,
+            "Value": "Wydaj <i=1>#COUNT</i> kr. na uzbrojenie"
+        },
+        {
+            "Key": 2652312908,
+            "Value": "Zlikwiduj <i=1>#COUNT</i> latających wrogów bronią wsparcia."
+        },
+        {
+            "Key": 2668536287,
+            "Value": "Zlikwiduj w sumie <i=1>#COUNT</i> wrogów granatami."
+        },
+        {
+            "Key": 2671077924,
+            "Value": "Zlikwiduj <i=1>#COUNT</i> wrogów manewrami Orła w trakcie jednej misji."
+        },
+        {
+            "Key": 2674288863,
+            "Value": "</c>"
+        },
+        {
+            "Key": 2687979927,
+            "Value": "misji"
+        },
+        {
+            "Key": 2697137884,
+            "Value": "Ukończ misję z celnością na <i=1>#COUNT</i>%."
+        },
+        {
+            "Key": 2724000483,
+            "Value": "POLOWANIE NA TROFEA"
+        },
+        {
+            "Key": 2732575818,
+            "Value": "Codzienna – #HOURS:#MINUTES:#SECONDS"
+        },
+        {
+            "Key": 2742665218,
+            "Value": "Zlikwiduj <i=1>#COUNT</i> wrogów, używając: <i=1>#REF</i>."
+        },
+        {
+            "Key": 2744233581,
+            "Value": "Ukończ: <c=FFFFE900>#TYPE #OBJ</c> - <c=FFFFE900>#COUNT</c>#RACE_PRE#RACE#RACE_POST#MULTI."
+        },
+        {
+            "Key": 2782283100,
+            "Value": "PRZEGLĄD ZABÓJCZOŚCI "
+        },
+        {
+            "Key": 2794990445,
+            "Value": "PRZETRZEBIANIE TRZODY"
+        },
+        {
+            "Key": 2845482851,
+            "Value": "Dokonaj odbioru z udanej #MTYPE#DIFF_PRE#DIFF#DIFF_POST#COUNT_PRE#COUNT#COUNT_POST#MULTI#LOCATION_PRE#LOCATION#LOCATION_POST"
+        },
+        {
+            "Key": 2856343586,
+            "Value": " na poziomie trudności <c=FFFFE900>"
+        },
+        {
+            "Key": 2891368293,
+            "Value": "Aktywuj: <c=FFFFE900>#COUNT #OBJ</c>#RACE_PRE#RACE#RACE_POST#MULTI."
+        },
+        {
+            "Key": 2901192254,
+            "Value": "Odeprzyj ataki (<i=1>#COUNT</i>) na planecie <i=1>#PLANET</i>"
+        },
+        {
+            "Key": 2904604187,
+            "Value": "Rozbrój <i=1>#COUNT</i> żołnierzy automatów."
+        },
+        {
+            "Key": 2930240803,
+            "Value": "</i>"
+        },
+        {
+            "Key": 2930957344,
+            "Value": "</c>"
+        },
+        {
+            "Key": 3004775832,
+            "Value": "Dokonaj pomyślnego odbioru: <i=1>#COUNT #EQP_PRE#EQP#EQP_POST</i>#EXT_PRE#EXT#EXT_POST#DIFF_PRE#DIFF#DIFF_POST#MULTI."
+        },
+        {
+            "Key": 3016573332,
+            "Value": "Wyzwólcie wskazane planety."
+        },
+        {
+            "Key": 3025804585,
+            "Value": "Podążaj wzdłuż ŚCIEŻKI POSTĘPU"
+        },
+        {
+            "Key": 3027588906,
+            "Value": "TESTOWANIE MIN"
+        },
+        {
+            "Key": 3051974986,
+            "Value": "Odeprzyjcie ataki oświeconych (<i=1>#COUNT</i>) w sektorze <i=1>#SECTOR</i>"
+        },
+        {
+            "Key": 3092107522,
+            "Value": "Zniszcz: <c=FFFFE900>#COUNT #OBJ</c>#RACE_PRE#RACE#RACE_POST#MULTI."
+        },
+        {
+            "Key": 3110184672,
+            "Value": "Dokonaj odbioru z udanej #MTYPE#RACE_PRE#RACE#RACE_POST#DIFF_PRE#DIFF#DIFF_POST#COUNT_PRE#COUNT#COUNT_POST#MULTI#LOCATION_PRE#LOCATION#LOCATION_POST"
+        },
+        {
+            "Key": 3161912129,
+            "Value": "Wyzwól planety (<i=1>#COUNT</i>) okupowane przez rasę <i=1>#RACE</i>"
+        },
+        {
+            "Key": 3193724295,
+            "Value": "Codzienna"
+        },
+        {
+            "Key": 3197109771,
+            "Value": "Zniszcz pewną liczbę (<i=1>#COUNT</i>) wieżyczek plot automatów Orłem."
+        },
+        {
+            "Key": 3213718299,
+            "Value": "Odeprzyj ataki (<i=1>#COUNT</i>) rasy <i=1>#RACE</i> na planecie <i=1>#PLANET</i>"
+        },
+        {
+            "Key": 3219286687,
+            "Value": "ZNISZCZENIE PANCERZY"
+        },
+        {
+            "Key": 3253420627,
+            "Value": "Zlikwiduj <i=1>#COUNT</i> wrogów jednym granatem."
+        },
+        {
+            "Key": 3281577556,
+            "Value": "</c>"
+        },
+        {
+            "Key": 3289084565,
+            "Value": "Zlikwiduj <i=1>#COUNT</i> wrogów jednym użyciem manewru orbitalnego."
+        },
+        {
+            "Key": 3332462352,
+            "Value": "UBIJANIE SZCZEPU"
+        },
+        {
+            "Key": 3334734628,
+            "Value": "W trakcie misji oddaj pewną liczbę strzałów (<i=1>#COUNT</i>)."
+        },
+        {
+            "Key": 3343657947,
+            "Value": "Zlikwiduj <i=1>#COUNT</i> wrogów w 10 sekund."
+        },
+        {
+            "Key": 3353541931,
+            "Value": "na planecie <i=1>"
+        },
+        {
+            "Key": 3360588677,
+            "Value": "</i>"
+        },
+        {
+            "Key": 3366721294,
+            "Value": "</i>"
+        },
+        {
+            "Key": 3410406414,
+            "Value": "</c>"
+        },
+        {
+            "Key": 3435282359,
+            "Value": "Utrzymaj planety (<i=1>#COUNT</i>) w sektorze <i=1>#SECTOR</i> po zakończeniu rozkazu"
+        },
+        {
+            "Key": 3440423585,
+            "Value": "misji okazji"
+        },
+        {
+            "Key": 3470508852,
+            "Value": "KWALIFIKACJA BRONI"
+        },
+        {
+            "Key": 3485732402,
+            "Value": " na planecie kontrolowanej przez: <c=FFFFE900>"
+        },
+        {
+            "Key": 3486215587,
+            "Value": "MASOWE ZŁOMOWANIE"
+        },
+        {
+            "Key": 3508469820,
+            "Value": "Wyzwólcie wskazaną planetę."
+        },
+        {
+            "Key": 3509557030,
+            "Value": "Zlikwiduj <i=1>#COUNT</i> wrzaskunów robali."
+        },
+        {
+            "Key": 3517150810,
+            "Value": "Zlikwiduj <i=1>#COUNT</i> wrogów w ciągu 5 sekund od siebie."
+        },
+        {
+            "Key": 3538387383,
+            "Value": "w sektorze <i=1>"
+        },
+        {
+            "Key": 3554369778,
+            "Value": " przeciwko rasie: <c=FFFFE900>"
+        },
+        {
+            "Key": 3575338644,
+            "Value": "ZWALCZANIE SZKODNIKÓW"
+        },
+        {
+            "Key": 3636211799,
+            "Value": " na planecie <c=FFFFE900>"
+        },
+        {
+            "Key": 3644146541,
+            "Value": "Odeprzyj ataki (<i=1>#COUNT</i>) rasy <i=1>#RACE</i> w sektorze <i=1>#SECTOR</i>"
+        },
+        {
+            "Key": 3652364732,
+            "Value": "Wydaj <i=1>#COUNT</i> kr. na Orła"
+        },
+        {
+            "Key": 3671353308,
+            "Value": "UBIJANIE SZCZEPU"
+        },
+        {
+            "Key": 3703953913,
+            "Value": "PRZEGLĄD ZABÓJCZOŚCI "
+        },
+        {
+            "Key": 3704135414,
+            "Value": "NOWATORSKIE BADANIA"
+        },
+        {
+            "Key": 3748665524,
+            "Value": "Zbierz w sumie pewną liczbę próbek (<i=1>#COUNT</i>)."
+        },
+        {
+            "Key": 3754139674,
+            "Value": "<c=#COLOR>#SPEAKER</c>   #TEXT"
+        },
+        {
+            "Key": 3764215285,
+            "Value": "Oddaj w sumie pewną liczbę strzałów (<i=1>#COUNT</i>)."
+        },
+        {
+            "Key": 3807044959,
+            "Value": "W trakcie trwania rozkazu wyzwól więcej planet, niż zostało utraconych"
+        },
+        {
+            "Key": 3820515876,
+            "Value": "Odeprzyj ataki (<i=1>#COUNT</i>) rasy <i=1>#RACE</i>"
+        },
+        {
+            "Key": 3825732283,
+            "Value": "Zniszcz brzuchy <i=1>#COUNT</i> szturmowców robali."
+        },
+        {
+            "Key": 3874111423,
+            "Value": "Zlikwiduj <i=1>#COUNT</i> żołnierzy automatów strzałem w głowę."
+        },
+        {
+            "Key": 3897456562,
+            "Value": "Odeprzyjcie ataki oświeconych (<i=1>#COUNT</i>)"
+        },
+        {
+            "Key": 3900362086,
+            "Value": "Brońcie się przed <i=1>#COUNT</i> atakami w sektorze <i=1>#SECTOR</i>"
+        },
+        {
+            "Key": 3962239360,
+            "Value": "</i>"
+        },
+        {
+            "Key": 3967728374,
+            "Value": "Misje"
+        },
+        {
+            "Key": 3994852662,
+            "Value": "Brońcie planety <i=1>#PLANET</i> przed <i=1>#COUNT</i> atakami"
+        },
+        {
+            "Key": 3997737977,
+            "Value": "Osiągnij <i=1>rangę <i=1>„#COUNT”</i></i>"
+        },
+        {
+            "Key": 3999261265,
+            "Value": "</i>"
+        },
+        {
+            "Key": 4046331084,
+            "Value": "W trakcie trwania rozkazu wyzwól więcej planet, niż zostało utraconych na rzecz rasy <i=1>#RACE</i>"
+        },
+        {
+            "Key": 4065003249,
+            "Value": "Po zakończeniu rozkazu wyznaczone planety muszą znajdować się pod kontrolą Super Ziemi."
+        },
+        {
+            "Key": 4065182789,
+            "Value": "Dodatkowe"
+        },
+        {
+            "Key": 4100333583,
+            "Value": "Cel"
+        },
+        {
+            "Key": 4107688522,
+            "Value": "Zniszcz <i=1>#COUNT</i> watażków automatów."
+        },
+        {
+            "Key": 4128271980,
+            "Value": "Zlikwiduj <i=1>#COUNT</i> zbieraczy robali."
+        },
+        {
+            "Key": 4182686892,
+            "Value": " w <i=1>trybie dla wielu graczy</i>"
+        },
+        {
+            "Key": 4205069917,
+            "Value": " w <c=FFFFE900>trybie dla wielu graczy</c>"
+        },
+        {
+            "Key": 4208938528,
+            "Value": "Dane wywiadowcze"
+        },
+        {
+            "Key": 4242369091,
+            "Value": "Wozy radarowe"
+        },
+        {
+            "Key": 4254162676,
+            "Value": "ZWIĘKSZONY ŚLAD"
+        },
+        {
+            "Key": 4257441747,
+            "Value": "Użyj co najmniej <i=1>#COUNT</i> manewrów w trakcie jednej misji."
+        },
+        {
+            "Key": 4285959407,
+            "Value": "Wyzwól Potok Malevelon."
+        }
+    ]
+}

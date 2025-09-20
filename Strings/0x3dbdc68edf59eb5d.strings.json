@@ -1,0 +1,5990 @@
+{
+    "Version": 1,
+    "Language": {
+        "Hash": "0x31806842",
+        "KnownName": "es",
+        "KnownFriendlyName": "Spanish (Spain)"
+    },
+    "Items": [
+        {
+            "Key": 149196,
+            "Value": "Caminantes exploradores"
+        },
+        {
+            "Key": 2537631,
+            "Value": "GÉNESIS PRIME"
+        },
+        {
+            "Key": 2543939,
+            "Value": "EUKORIA"
+        },
+        {
+            "Key": 5232386,
+            "Value": "DEVASTADOR AVANZADO"
+        },
+        {
+            "Key": 7787042,
+            "Value": "Olofson"
+        },
+        {
+            "Key": 18575513,
+            "Value": "Persson"
+        },
+        {
+            "Key": 20706814,
+            "Value": "Caminante explorador"
+        },
+        {
+            "Key": 21450105,
+            "Value": "PATRÓN DE EXOTRAJE ESTÁNDAR"
+        },
+        {
+            "Key": 22557897,
+            "Value": "Ankarberg"
+        },
+        {
+            "Key": 24503646,
+            "Value": "Soberana"
+        },
+        {
+            "Key": 31863456,
+            "Value": "Mártir"
+        },
+        {
+            "Key": 46404066,
+            "Value": "XENOBITA ACÉRRIMO"
+        },
+        {
+            "Key": 51976185,
+            "Value": "HANGAR 6"
+        },
+        {
+            "Key": 53785855,
+            "Value": "BOTEIN"
+        },
+        {
+            "Key": 56360453,
+            "Value": "Espejo"
+        },
+        {
+            "Key": 58819778,
+            "Value": "CIUDAD PROSPERIDAD"
+        },
+        {
+            "Key": 62844138,
+            "Value": "KEPLER-336b"
+        },
+        {
+            "Key": 63664792,
+            "Value": "Patriota"
+        },
+        {
+            "Key": 64425627,
+            "Value": "Englund"
+        },
+        {
+            "Key": 65932548,
+            "Value": "ÚLTIMOGAR"
+        },
+        {
+            "Key": 69604317,
+            "Value": "PATRÓN DE LANZADERA NARANJA BRILLANTE"
+        },
+        {
+            "Key": 70623210,
+            "Value": "ACUBENS PRIME"
+        },
+        {
+            "Key": 71980820,
+            "Value": "SECTOR AKIRA"
+        },
+        {
+            "Key": 73196956,
+            "Value": "PICO DE LA LIBERTAD"
+        },
+        {
+            "Key": 73287709,
+            "Value": "Veteranos avezados"
+        },
+        {
+            "Key": 74872499,
+            "Value": "del Crepúsculo"
+        },
+        {
+            "Key": 75849082,
+            "Value": "Devastador incendiario con ametralladora"
+        },
+        {
+            "Key": 76566228,
+            "Value": "Leahy"
+        },
+        {
+            "Key": 87675210,
+            "Value": "SISTEMA SOLAR"
+        },
+        {
+            "Key": 90985685,
+            "Value": "CAMPOS DE PÓLVORA"
+        },
+        {
+            "Key": 91568612,
+            "Value": "Rastreador paria"
+        },
+        {
+            "Key": 93572740,
+            "Value": "Mastodontes cargadores"
+        },
+        {
+            "Key": 99741084,
+            "Value": "PATRÓN DE EXOTRAJE SERPIENTE DE CASCABEL"
+        },
+        {
+            "Key": 100334534,
+            "Value": "Guerrera"
+        },
+        {
+            "Key": 103796783,
+            "Value": "GUNVALD"
+        },
+        {
+            "Key": 104315069,
+            "Value": "INTREPIDEZ"
+        },
+        {
+            "Key": 104744128,
+            "Value": "NECRÓFAGO"
+        },
+        {
+            "Key": 106157565,
+            "Value": "Naves nodrizas"
+        },
+        {
+            "Key": 111854113,
+            "Value": "Adalid"
+        },
+        {
+            "Key": 113277221,
+            "Value": "Comandantes del nido"
+        },
+        {
+            "Key": 117029659,
+            "Value": "Acechadores depredadores"
+        },
+        {
+            "Key": 119892493,
+            "Value": "SULFURA"
+        },
+        {
+            "Key": 122093803,
+            "Value": "SEASSE"
+        },
+        {
+            "Key": 123940318,
+            "Value": "FAUCES"
+        },
+        {
+            "Key": 124315771,
+            "Value": "ASENTAMIENTO 7"
+        },
+        {
+            "Key": 124817064,
+            "Value": "de la Vigilancia"
+        },
+        {
+            "Key": 126536216,
+            "Value": "KEPLER-354b"
+        },
+        {
+            "Key": 126582437,
+            "Value": "Devastadores avanzados"
+        },
+        {
+            "Key": 129667267,
+            "Value": "ACECHADOR"
+        },
+        {
+            "Key": 131300950,
+            "Value": "KLEN DAHTH II"
+        },
+        {
+            "Key": 135052481,
+            "Value": "Albacea"
+        },
+        {
+            "Key": 135647353,
+            "Value": "Caminantes exploradores reforzados"
+        },
+        {
+            "Key": 147228259,
+            "Value": "IVIS"
+        },
+        {
+            "Key": 147367428,
+            "Value": "Sonesson"
+        },
+        {
+            "Key": 151044459,
+            "Value": "SECTOR ARTURION"
+        },
+        {
+            "Key": 153780622,
+            "Value": "KEPLER-339b"
+        },
+        {
+            "Key": 154450414,
+            "Value": "MARTE"
+        },
+        {
+            "Key": 154617429,
+            "Value": "CONVENIENCIA"
+        },
+        {
+            "Key": 166687808,
+            "Value": "NAVE DE TELETRANSPORTE"
+        },
+        {
+            "Key": 168895875,
+            "Value": "OBSERVADOR"
+        },
+        {
+            "Key": 169702535,
+            "Value": "SYZYGY"
+        },
+        {
+            "Key": 171693015,
+            "Value": "Necrófagos"
+        },
+        {
+            "Key": 173031125,
+            "Value": "Bredberg"
+        },
+        {
+            "Key": 173450602,
+            "Value": "SECTOR FALSTAFF"
+        },
+        {
+            "Key": 179119539,
+            "Value": "PIONERO II"
+        },
+        {
+            "Key": 184619790,
+            "Value": "BALDÍO DEL VOTANTE"
+        },
+        {
+            "Key": 184752654,
+            "Value": "MINAS VETANEGRA"
+        },
+        {
+            "Key": 186396141,
+            "Value": "BRNO"
+        },
+        {
+            "Key": 188240743,
+            "Value": "PUESTO DE AVANZADA 32"
+        },
+        {
+            "Key": 191450921,
+            "Value": "Sall"
+        },
+        {
+            "Key": 200062099,
+            "Value": "Centinela"
+        },
+        {
+            "Key": 204409832,
+            "Value": "PSEUDOTOPÍA"
+        },
+        {
+            "Key": 205278761,
+            "Value": "FUERTE SANTUARIO"
+        },
+        {
+            "Key": 208056545,
+            "Value": "Fabricantes masivos"
+        },
+        {
+            "Key": 212236813,
+            "Value": "IGUALDAD DEL MAR"
+        },
+        {
+            "Key": 212590513,
+            "Value": "TIEN KWAN"
+        },
+        {
+            "Key": 213050795,
+            "Value": "PASAJE ESTELAR"
+        },
+        {
+            "Key": 215973074,
+            "Value": "Llama de la Libertad"
+        },
+        {
+            "Key": 222072050,
+            "Value": "VOG-SOJOTH"
+        },
+        {
+            "Key": 228403120,
+            "Value": "Todo informe y toda solicitud que pasa por los sagrados pasillos de CenAdmin recibe el sello de las eras y debe ocupar un sitio de honor en el lugar."
+        },
+        {
+            "Key": 229589206,
+            "Value": "DEVASTADOR INCENDIARIO CON AMETRALLADORA"
+        },
+        {
+            "Key": 230047501,
+            "Value": "EXPLORADOR V"
+        },
+        {
+            "Key": 231775463,
+            "Value": "NUEVA VICTORIA"
+        },
+        {
+            "Key": 236578379,
+            "Value": "BRUTO"
+        },
+        {
+            "Key": 254555360,
+            "Value": "DE VANGUARDIA"
+        },
+        {
+            "Key": 262003986,
+            "Value": "Schmid"
+        },
+        {
+            "Key": 265392480,
+            "Value": "GAR HAREN"
+        },
+        {
+            "Key": 266468165,
+            "Value": "Buscadores parias"
+        },
+        {
+            "Key": 275534196,
+            "Value": "GUERRERO BOMBA DE ESPORAS"
+        },
+        {
+            "Key": 276813339,
+            "Value": "KEPLER-338b"
+        },
+        {
+            "Key": 277539039,
+            "Value": "del Derecho"
+        },
+        {
+            "Key": 282407560,
+            "Value": "CIMAS DE RECONOCIMIENTO"
+        },
+        {
+            "Key": 288067031,
+            "Value": "KEPLER-395b"
+        },
+        {
+            "Key": 288123935,
+            "Value": "PATRÓN DE EXOTRAJE NEGRO DISCRETO"
+        },
+        {
+            "Key": 288468253,
+            "Value": "SLIF"
+        },
+        {
+            "Key": 289898661,
+            "Value": "MIDASBURG"
+        },
+        {
+            "Key": 292916820,
+            "Value": "de la Determinación"
+        },
+        {
+            "Key": 301366553,
+            "Value": "PLANTA DE REFINADO DE MINERALES"
+        },
+        {
+            "Key": 303689211,
+            "Value": "CASA DARROW"
+        },
+        {
+            "Key": 306250652,
+            "Value": "PASO DE AESIR"
+        },
+        {
+            "Key": 321492180,
+            "Value": "Oficial de Democracia"
+        },
+        {
+            "Key": 323114399,
+            "Value": "Sandberg"
+        },
+        {
+            "Key": 323559873,
+            "Value": "CENTINELA NOCIVO"
+        },
+        {
+            "Key": 326167874,
+            "Value": "INCURSOR DE LA BRIGADA DE CAZAS"
+        },
+        {
+            "Key": 326344529,
+            "Value": "SEÑOR DE COLMENA"
+        },
+        {
+            "Key": 331217504,
+            "Value": "OSHAUNE"
+        },
+        {
+            "Key": 331578186,
+            "Value": "Rastreadores parias"
+        },
+        {
+            "Key": 331792922,
+            "Value": "MONUMENTOS"
+        },
+        {
+            "Key": 332181063,
+            "Value": "KEPLER-357b"
+        },
+        {
+            "Key": 336799220,
+            "Value": "ESPECTROS JUSTOS"
+        },
+        {
+            "Key": 339057435,
+            "Value": "CAMINANTES DE GUERRA"
+        },
+        {
+            "Key": 340135660,
+            "Value": "HEETH"
+        },
+        {
+            "Key": 343442322,
+            "Value": "BAHÍA CHORT"
+        },
+        {
+            "Key": 354695563,
+            "Value": "MONEDA"
+        },
+        {
+            "Key": 356613305,
+            "Value": "KHANDARK"
+        },
+        {
+            "Key": 361678444,
+            "Value": "PERMACURIS"
+        },
+        {
+            "Key": 366016090,
+            "Value": "DURGEN"
+        },
+        {
+            "Key": 368782679,
+            "Value": "CAÑÓN PASTO"
+        },
+        {
+            "Key": 376974669,
+            "Value": "KEPLER-383b"
+        },
+        {
+            "Key": 378088611,
+            "Value": "de la Batalla"
+        },
+        {
+            "Key": 379673343,
+            "Value": "MORADESH"
+        },
+        {
+            "Key": 382253008,
+            "Value": "FUERZA"
+        },
+        {
+            "Key": 391138216,
+            "Value": "SECTOR TALUS"
+        },
+        {
+            "Key": 391151086,
+            "Value": "Incursores de la brigada de cazas"
+        },
+        {
+            "Key": 398976798,
+            "Value": "Devastador pesado"
+        },
+        {
+            "Key": 399006276,
+            "Value": "CUMBRE SERENIDAD"
+        },
+        {
+            "Key": 400095188,
+            "Value": "PATRÓN DE LANZADERA SERPIENTE DE CASCABEL"
+        },
+        {
+            "Key": 400566559,
+            "Value": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II"
+        },
+        {
+            "Key": 401074256,
+            "Value": "Xenobitas acérrimos"
+        },
+        {
+            "Key": 401226617,
+            "Value": "NAVE DE DESPLIEGUE"
+        },
+        {
+            "Key": 421621431,
+            "Value": "NUEVO SANTUARIO"
+        },
+        {
+            "Key": 425705392,
+            "Value": "Magistrada"
+        },
+        {
+            "Key": 427429682,
+            "Value": "PACILIDAD"
+        },
+        {
+            "Key": 432072323,
+            "Value": "PATRÓN DE EXOTRAJE DE MALEZA"
+        },
+        {
+            "Key": 435429588,
+            "Value": "HUMANIDAD"
+        },
+        {
+            "Key": 436121739,
+            "Value": "SHELT"
+        },
+        {
+            "Key": 436693484,
+            "Value": "Distor"
+        },
+        {
+            "Key": 437395298,
+            "Value": "NINGUNO"
+        },
+        {
+            "Key": 438442448,
+            "Value": "MINTORIA"
+        },
+        {
+            "Key": 439038884,
+            "Value": "BRUTO AGRESIVO"
+        },
+        {
+            "Key": 439634869,
+            "Value": "Profeta"
+        },
+        {
+            "Key": 440189837,
+            "Value": "HYDROFALL PRIME"
+        },
+        {
+            "Key": 444529084,
+            "Value": "Escupidor de bilis"
+        },
+        {
+            "Key": 444653002,
+            "Value": "EMORATH"
+        },
+        {
+            "Key": 451441290,
+            "Value": "Rohde"
+        },
+        {
+            "Key": 454992428,
+            "Value": "SOLDADO DE CABALLERÍA DE LA BRIGADA DE CAZAS"
+        },
+        {
+            "Key": 457281052,
+            "Value": "PATRÓN DE LANZADERA ESTÁNDAR"
+        },
+        {
+            "Key": 458728157,
+            "Value": "del Orgullo"
+        },
+        {
+            "Key": 462171068,
+            "Value": "TERMADON"
+        },
+        {
+            "Key": 462740898,
+            "Value": "KEPLER-330b"
+        },
+        {
+            "Key": 462878521,
+            "Value": "Vigías"
+        },
+        {
+            "Key": 465571203,
+            "Value": "LIBERTAD ELEGANTE"
+        },
+        {
+            "Key": 466703045,
+            "Value": "Gonçalves"
+        },
+        {
+            "Key": 467156125,
+            "Value": "KEPLER-332b"
+        },
+        {
+            "Key": 468658976,
+            "Value": "del Hierro"
+        },
+        {
+            "Key": 472469401,
+            "Value": "Tras el Dilema de Gran York, una ciudad se alzó sobre el resto, comprometiéndose a extender su mano sobre el resto de Yorks para evitar que siguiera derramándose sangre."
+        },
+        {
+            "Key": 478200978,
+            "Value": "Torreta de cañón"
+        },
+        {
+            "Key": 479462699,
+            "Value": "Emperatriz"
+        },
+        {
+            "Key": 486832087,
+            "Value": "OBSTRUCCIÓN"
+        },
+        {
+            "Key": 487985459,
+            "Value": "Regurgitador lactante"
+        },
+        {
+            "Key": 488348329,
+            "Value": "de la Conquista"
+        },
+        {
+            "Key": 492305305,
+            "Value": "MEANDRO DE HIELO"
+        },
+        {
+            "Key": 495939690,
+            "Value": "BENEVOLENCIA"
+        },
+        {
+            "Key": 506793925,
+            "Value": "Caballero"
+        },
+        {
+            "Key": 509426370,
+            "Value": "AGARTHA"
+        },
+        {
+            "Key": 514325094,
+            "Value": "KEPLER-370b"
+        },
+        {
+            "Key": 514623903,
+            "Value": "MYRIUM"
+        },
+        {
+            "Key": 520511467,
+            "Value": "KEPLER-277b"
+        },
+        {
+            "Key": 522439088,
+            "Value": "PUNTO LUJO"
+        },
+        {
+            "Key": 523260929,
+            "Value": "Caminante de guerra"
+        },
+        {
+            "Key": 523421401,
+            "Value": "RATCH"
+        },
+        {
+            "Key": 526355675,
+            "Value": "CONSENSO"
+        },
+        {
+            "Key": 531700056,
+            "Value": "ALTOLFUEGO"
+        },
+        {
+            "Key": 532417488,
+            "Value": "KEPLER-363b"
+        },
+        {
+            "Key": 538574577,
+            "Value": "CAMPO DE BREZO"
+        },
+        {
+            "Key": 539324145,
+            "Value": "KERTH SECUNDUS"
+        },
+        {
+            "Key": 546585509,
+            "Value": "GEMMA"
+        },
+        {
+            "Key": 549742559,
+            "Value": "Termínido"
+        },
+        {
+            "Key": 554367013,
+            "Value": "Nave de despliegue"
+        },
+        {
+            "Key": 555398973,
+            "Value": "LIBERTAD ETERNA"
+        },
+        {
+            "Key": 559406208,
+            "Value": "SECTOR CANCRI"
+        },
+        {
+            "Key": 560040805,
+            "Value": "Regurgitadores de ruptura"
+        },
+        {
+            "Key": 560284995,
+            "Value": "McEachern"
+        },
+        {
+            "Key": 567695062,
+            "Value": "PROYECTO DEL ÁNGEL"
+        },
+        {
+            "Key": 568515485,
+            "Value": "LA VIGILIA DE ANNE"
+        },
+        {
+            "Key": 568622358,
+            "Value": "VARYLIA 5"
+        },
+        {
+            "Key": 570845236,
+            "Value": "Comandante alfa"
+        },
+        {
+            "Key": 572820359,
+            "Value": "KEPLER-347b"
+        },
+        {
+            "Key": 574108092,
+            "Value": "KEPLER-316b"
+        },
+        {
+            "Key": 576427373,
+            "Value": "EUF"
+        },
+        {
+            "Key": 581172809,
+            "Value": "LA RIQUEZA DEL COMERCIANTE"
+        },
+        {
+            "Key": 581308584,
+            "Value": "INDEPENDENCIA"
+        },
+        {
+            "Key": 584255963,
+            "Value": "DARROWSPORT"
+        },
+        {
+            "Key": 586021653,
+            "Value": "Incursor con ametralladora"
+        },
+        {
+            "Key": 586869523,
+            "Value": "de la Democracia"
+        },
+        {
+            "Key": 592325338,
+            "Value": "Escupidores de bilis"
+        },
+        {
+            "Key": 595251819,
+            "Value": "de la Supremacía"
+        },
+        {
+            "Key": 599741968,
+            "Value": "TANQUE TRITURADOR"
+        },
+        {
+            "Key": 602658912,
+            "Value": "SOLDADO DE CABALLERÍA DE LA BRIGADA DE CAZAS CON METRALLETA"
+        },
+        {
+            "Key": 613980508,
+            "Value": "Bruto agresivo"
+        },
+        {
+            "Key": 614560108,
+            "Value": "BAHÍA KARON"
+        },
+        {
+            "Key": 615835611,
+            "Value": "Operaria de la instalación"
+        },
+        {
+            "Key": 616251181,
+            "Value": "COSECHADORA"
+        },
+        {
+            "Key": 617869677,
+            "Value": "VENERACIÓN"
+        },
+        {
+            "Key": 619638262,
+            "Value": "Ninguno"
+        },
+        {
+            "Key": 620511651,
+            "Value": "HILJAISUUS"
+        },
+        {
+            "Key": 621159586,
+            "Value": "Comisario"
+        },
+        {
+            "Key": 625528357,
+            "Value": "Devastador avanzado"
+        },
+        {
+            "Key": 626132148,
+            "Value": "Nazareno"
+        },
+        {
+            "Key": 626417797,
+            "Value": "KEPLER-301b"
+        },
+        {
+            "Key": 626718113,
+            "Value": "Guardián de la colmena"
+        },
+        {
+            "Key": 628685971,
+            "Value": "SEVERIDAD"
+        },
+        {
+            "Key": 632178296,
+            "Value": "SIN VOTO"
+        },
+        {
+            "Key": 642311510,
+            "Value": "PADOSAN"
+        },
+        {
+            "Key": 642574783,
+            "Value": "ONSEN"
+        },
+        {
+            "Key": 644365486,
+            "Value": "Fabricante masivo"
+        },
+        {
+            "Key": 644398554,
+            "Value": "MERODEADOR"
+        },
+        {
+            "Key": 645085199,
+            "Value": "UNGU"
+        },
+        {
+            "Key": 646100137,
+            "Value": "ACHERNAR SECUNDUS"
+        },
+        {
+            "Key": 650739694,
+            "Value": "CIMA DE LA ESCOPETA"
+        },
+        {
+            "Key": 652874502,
+            "Value": "Televisión de la nave"
+        },
+        {
+            "Key": 654493443,
+            "Value": "Quinto"
+        },
+        {
+            "Key": 654804006,
+            "Value": "CIUDAD CARNÍVORA"
+        },
+        {
+            "Key": 654822303,
+            "Value": "CENTRO DE LOGÍSTICA 188-B"
+        },
+        {
+            "Key": 655206231,
+            "Value": "CLASA"
+        },
+        {
+            "Key": 655668011,
+            "Value": "DOLPH"
+        },
+        {
+            "Key": 656203130,
+            "Value": "ZONA 3"
+        },
+        {
+            "Key": 657353531,
+            "Value": "GRUÑIDO"
+        },
+        {
+            "Key": 661865499,
+            "Value": "Sistema de anuncios"
+        },
+        {
+            "Key": 663970055,
+            "Value": "J. Bender"
+        },
+        {
+            "Key": 664680323,
+            "Value": "KEPLER-305b"
+        },
+        {
+            "Key": 664928374,
+            "Value": "Malmborg"
+        },
+        {
+            "Key": 671395036,
+            "Value": "Reina"
+        },
+        {
+            "Key": 673039732,
+            "Value": "de la Libertad"
+        },
+        {
+            "Key": 677430713,
+            "Value": "MEKBUDA"
+        },
+        {
+            "Key": 686156605,
+            "Value": "AVIÓN DE COMBATE"
+        },
+        {
+            "Key": 689956975,
+            "Value": "TARSH"
+        },
+        {
+            "Key": 689998581,
+            "Value": "EMBESTIDOR DE ESPORAS"
+        },
+        {
+            "Key": 690834076,
+            "Value": "PRASA"
+        },
+        {
+            "Key": 692892828,
+            "Value": "Redondo"
+        },
+        {
+            "Key": 694573192,
+            "Value": "PATRÓN DE VEHÍCULO NEGRO DISCRETO"
+        },
+        {
+            "Key": 696771573,
+            "Value": "KEPLER-375b"
+        },
+        {
+            "Key": 700370958,
+            "Value": "de la Igualdad"
+        },
+        {
+            "Key": 701621180,
+            "Value": "Acuchilladores parias"
+        },
+        {
+            "Key": 702073419,
+            "Value": "NUEVO ALMACCEN"
+        },
+        {
+            "Key": 702284474,
+            "Value": "KEPLER-294b"
+        },
+        {
+            "Key": 702988091,
+            "Value": "Anuncio"
+        },
+        {
+            "Key": 705284749,
+            "Value": "Nummi"
+        },
+        {
+            "Key": 707049770,
+            "Value": "Guardiana"
+        },
+        {
+            "Key": 708743426,
+            "Value": "POLARIS PRIME"
+        },
+        {
+            "Key": 710416841,
+            "Value": "IRO"
+        },
+        {
+            "Key": 710669387,
+            "Value": "BUNDA SECUNDUS"
+        },
+        {
+            "Key": 714297488,
+            "Value": "Estlind"
+        },
+        {
+            "Key": 717622970,
+            "Value": "Regurgitador de bilis"
+        },
+        {
+            "Key": 722264741,
+            "Value": "COLINAS ASPEN"
+        },
+        {
+            "Key": 723389311,
+            "Value": "KEPLER-397b"
+        },
+        {
+            "Key": 724779259,
+            "Value": "SECTOR STEN"
+        },
+        {
+            "Key": 725588127,
+            "Value": "Andersson"
+        },
+        {
+            "Key": 727719679,
+            "Value": "NYA SKELLEFTEA"
+        },
+        {
+            "Key": 728846548,
+            "Value": "Defensora del pueblo"
+        },
+        {
+            "Key": 729485079,
+            "Value": "HUELLA DE OLUFSEN"
+        },
+        {
+            "Key": 730425751,
+            "Value": "CAMPOS ELÍSEOS"
+        },
+        {
+            "Key": 732058021,
+            "Value": "GOTHENBURG III"
+        },
+        {
+            "Key": 732414587,
+            "Value": "MALMBERGET"
+        },
+        {
+            "Key": 734122764,
+            "Value": "SECTOR RICTUS"
+        },
+        {
+            "Key": 740173750,
+            "Value": "VALMOX"
+        },
+        {
+            "Key": 740756694,
+            "Value": "Mandilas"
+        },
+        {
+            "Key": 741706408,
+            "Value": "Bolin"
+        },
+        {
+            "Key": 746457430,
+            "Value": "KEPLER-331b"
+        },
+        {
+            "Key": 754504867,
+            "Value": "SECTOR ALTUS"
+        },
+        {
+            "Key": 755435899,
+            "Value": "Representante"
+        },
+        {
+            "Key": 756866805,
+            "Value": "KESUMA"
+        },
+        {
+            "Key": 762154077,
+            "Value": "VOLUNTAD HUMANA"
+        },
+        {
+            "Key": 762468820,
+            "Value": "CIUDAD NUEVA ASPIRACIÓN"
+        },
+        {
+            "Key": 768517809,
+            "Value": "PROSPERIDAD"
+        },
+        {
+            "Key": 770494850,
+            "Value": "KEPLER-378b"
+        },
+        {
+            "Key": 771961394,
+            "Value": "LODAZAL INFERNAL"
+        },
+        {
+            "Key": 774406423,
+            "Value": "HYDROBIUS"
+        },
+        {
+            "Key": 775857686,
+            "Value": "TERREK"
+        },
+        {
+            "Key": 777106965,
+            "Value": "Supertierra"
+        },
+        {
+            "Key": 777820648,
+            "Value": "Cazadores bomba de esporas"
+        },
+        {
+            "Key": 778160541,
+            "Value": "ESPECTRO"
+        },
+        {
+            "Key": 782903598,
+            "Value": "SKAASH"
+        },
+        {
+            "Key": 784544497,
+            "Value": "LEVIATÁN"
+        },
+        {
+            "Key": 787656435,
+            "Value": "ARREMETEDOR"
+        },
+        {
+            "Key": 790541304,
+            "Value": "Bruto"
+        },
+        {
+            "Key": 791315064,
+            "Value": "SUPERTIERRA"
+        },
+        {
+            "Key": 793026793,
+            "Value": "Chillón"
+        },
+        {
+            "Key": 796575870,
+            "Value": "UNANIMIDAD"
+        },
+        {
+            "Key": 797922986,
+            "Value": "Guantelete"
+        },
+        {
+            "Key": 803894884,
+            "Value": "KEPLER-342b"
+        },
+        {
+            "Key": 805511186,
+            "Value": "BAHÍA PHACT"
+        },
+        {
+            "Key": 811469586,
+            "Value": "Estandarte"
+        },
+        {
+            "Key": 812992035,
+            "Value": "Patriotas polares"
+        },
+        {
+            "Key": 815856735,
+            "Value": "ILUMINADO"
+        },
+        {
+            "Key": 816167364,
+            "Value": "FUERTE BOTÍN"
+        },
+        {
+            "Key": 817785996,
+            "Value": "SPHERION"
+        },
+        {
+            "Key": 820622353,
+            "Value": "MEISSA"
+        },
+        {
+            "Key": 822223750,
+            "Value": "VIEJA DELEGACIÓN"
+        },
+        {
+            "Key": 824245265,
+            "Value": "de la Fidelidad"
+        },
+        {
+            "Key": 824552187,
+            "Value": "PATRÓN DE CÁPSULA HELL DE MALEZA"
+        },
+        {
+            "Key": 833603519,
+            "Value": "KEPLER-318b"
+        },
+        {
+            "Key": 839134119,
+            "Value": "DIQUE ORIENTAL"
+        },
+        {
+            "Key": 846577287,
+            "Value": "VOLTERRA"
+        },
+        {
+            "Key": 851434747,
+            "Value": "Emplazamientos de morteros autómatas"
+        },
+        {
+            "Key": 853869815,
+            "Value": "SECTOR XI TAURI"
+        },
+        {
+            "Key": 855413042,
+            "Value": "SECTOR GELLERT"
+        },
+        {
+            "Key": 857545008,
+            "Value": "ADHARA"
+        },
+        {
+            "Key": 857939189,
+            "Value": "de la Cordialidad"
+        },
+        {
+            "Key": 858987625,
+            "Value": "Yu Villa"
+        },
+        {
+            "Key": 859021869,
+            "Value": "Brutos abrasadores"
+        },
+        {
+            "Key": 863969201,
+            "Value": "MYRADESH"
+        },
+        {
+            "Key": 867908736,
+            "Value": "KEPLER-276b"
+        },
+        {
+            "Key": 870181849,
+            "Value": "ALTA V"
+        },
+        {
+            "Key": 874402511,
+            "Value": "Soberbia"
+        },
+        {
+            "Key": 877629863,
+            "Value": "BLISTICA"
+        },
+        {
+            "Key": 878256512,
+            "Value": "LLANURAS ACOGEDORAS"
+        },
+        {
+            "Key": 879990792,
+            "Value": "Llama"
+        },
+        {
+            "Key": 882143696,
+            "Value": "PUERTO KALASATAMA"
+        },
+        {
+            "Key": 885747508,
+            "Value": "De Giorgis"
+        },
+        {
+            "Key": 886803190,
+            "Value": "Vigía"
+        },
+        {
+            "Key": 887712579,
+            "Value": "POZOSCURO"
+        },
+        {
+            "Key": 890074584,
+            "Value": "Auditora"
+        },
+        {
+            "Key": 900944397,
+            "Value": "VILLA AIDES"
+        },
+        {
+            "Key": 903077010,
+            "Value": "Bolle"
+        },
+        {
+            "Key": 908216632,
+            "Value": "Arremetedor"
+        },
+        {
+            "Key": 908893121,
+            "Value": "Progenitora"
+        },
+        {
+            "Key": 909845190,
+            "Value": "MASTIA"
+        },
+        {
+            "Key": 915107735,
+            "Value": "Leviatán"
+        },
+        {
+            "Key": 916505227,
+            "Value": "KARLIA"
+        },
+        {
+            "Key": 916548545,
+            "Value": "FORI PRIME"
+        },
+        {
+            "Key": 920622126,
+            "Value": "ARLIA"
+        },
+        {
+            "Key": 921057527,
+            "Value": "Moore"
+        },
+        {
+            "Key": 925731532,
+            "Value": "AUTÓMATA"
+        },
+        {
+            "Key": 926633056,
+            "Value": "RELEVANCIA"
+        },
+        {
+            "Key": 929215876,
+            "Value": "TUMBA DE LOS REBELDES"
+        },
+        {
+            "Key": 929685836,
+            "Value": "SECTOR HAWKING"
+        },
+        {
+            "Key": 938483457,
+            "Value": "ESCAPADA"
+        },
+        {
+            "Key": 939195481,
+            "Value": "Embestidores de esporas"
+        },
+        {
+            "Key": 940091660,
+            "Value": "ADMINISTRACIÓN OCCIDENTAL"
+        },
+        {
+            "Key": 941688055,
+            "Value": "PARQUE ADÁN"
+        },
+        {
+            "Key": 942195533,
+            "Value": "CHATOYANT"
+        },
+        {
+            "Key": 947161983,
+            "Value": "Muñeco de prácticas Helldiver"
+        },
+        {
+            "Key": 948019727,
+            "Value": "SKITTER"
+        },
+        {
+            "Key": 953392591,
+            "Value": "Guerrero de ruptura"
+        },
+        {
+            "Key": 954678793,
+            "Value": "ZEFIA"
+        },
+        {
+            "Key": 955032040,
+            "Value": "SECTOR NANOS"
+        },
+        {
+            "Key": 955678540,
+            "Value": "FUNDICIÓN"
+        },
+        {
+            "Key": 956015116,
+            "Value": "GRAFARTERA"
+        },
+        {
+            "Key": 959402628,
+            "Value": "SES"
+        },
+        {
+            "Key": 965162446,
+            "Value": "KEPLER-297b"
+        },
+        {
+            "Key": 970164922,
+            "Value": "ALA BRILLANTE"
+        },
+        {
+            "Key": 972834544,
+            "Value": "Jansson"
+        },
+        {
+            "Key": 973485101,
+            "Value": "de la Misericordia"
+        },
+        {
+            "Key": 973640366,
+            "Value": "OASIS"
+        },
+        {
+            "Key": 980516668,
+            "Value": "PATRÓN DE LANZADERA VERDE SINIESTRO"
+        },
+        {
+            "Key": 981392219,
+            "Value": "CIUDAD ASESINA"
+        },
+        {
+            "Key": 985262540,
+            "Value": "Una de tres ciudades de seguridad máxima. Impenetrables para la tiranía. El futuro de la Federación."
+        },
+        {
+            "Key": 985314915,
+            "Value": "VIEJA PALOMA"
+        },
+        {
+            "Key": 987942581,
+            "Value": "SECTOR BARNARD"
+        },
+        {
+            "Key": 989829386,
+            "Value": "Pulmón de esporas"
+        },
+        {
+            "Key": 991891387,
+            "Value": "de Supertierra"
+        },
+        {
+            "Key": 992619516,
+            "Value": "PARAÍSO ZEGEMA"
+        },
+        {
+            "Key": 996702475,
+            "Value": "PHERKAD SECUNDUS"
+        },
+        {
+            "Key": 999130615,
+            "Value": "CIUDAD RECREATIVA"
+        },
+        {
+            "Key": 1000270605,
+            "Value": "TORRE INFESTADA"
+        },
+        {
+            "Key": 1003401731,
+            "Value": "VINDEMITARIX PRIME"
+        },
+        {
+            "Key": 1009772021,
+            "Value": "KEPLER-385b"
+        },
+        {
+            "Key": 1012372721,
+            "Value": "SUPERVISOR ELEVADO"
+        },
+        {
+            "Key": 1012377516,
+            "Value": "SECTOR URSA"
+        },
+        {
+            "Key": 1013395843,
+            "Value": "Lanza"
+        },
+        {
+            "Key": 1016107533,
+            "Value": "COBIJO ESCARLATA"
+        },
+        {
+            "Key": 1016650357,
+            "Value": "CAMPOTINTO"
+        },
+        {
+            "Key": 1019995927,
+            "Value": "KEPLER-390b"
+        },
+        {
+            "Key": 1029235503,
+            "Value": "FABRICANTE"
+        },
+        {
+            "Key": 1031846155,
+            "Value": "EMERIA"
+        },
+        {
+            "Key": 1036818377,
+            "Value": "GRAZNÁGUILA"
+        },
+        {
+            "Key": 1038771782,
+            "Value": "Supervisores crecientes"
+        },
+        {
+            "Key": 1044017705,
+            "Value": "SECTOR ANDRÓMEDA"
+        },
+        {
+            "Key": 1046000873,
+            "Value": "Empalador"
+        },
+        {
+            "Key": 1048855585,
+            "Value": "POLLUX 31"
+        },
+        {
+            "Key": 1057921479,
+            "Value": "SAORSA GLEN"
+        },
+        {
+            "Key": 1066909283,
+            "Value": "SHALLUS"
+        },
+        {
+            "Key": 1070913489,
+            "Value": "RD-4"
+        },
+        {
+            "Key": 1076678822,
+            "Value": "Mastodonte cargador"
+        },
+        {
+            "Key": 1081371423,
+            "Value": "Diamante"
+        },
+        {
+            "Key": 1081588136,
+            "Value": "Carlberg"
+        },
+        {
+            "Key": 1081892642,
+            "Value": "Cosechadoras"
+        },
+        {
+            "Key": 1083408764,
+            "Value": "MANO DEL PUEBLO"
+        },
+        {
+            "Key": 1083476041,
+            "Value": "KEPLER-289b"
+        },
+        {
+            "Key": 1096775251,
+            "Value": "Aegis"
+        },
+        {
+            "Key": 1097026828,
+            "Value": "PERSISTENCIA"
+        },
+        {
+            "Key": 1097723180,
+            "Value": "QUASAR"
+        },
+        {
+            "Key": 1099126085,
+            "Value": "DEMOCRACIA SIEMPRE"
+        },
+        {
+            "Key": 1103982798,
+            "Value": "MAESTROS DE CEREMONIA"
+        },
+        {
+            "Key": 1105824679,
+            "Value": "HORT"
+        },
+        {
+            "Key": 1105991516,
+            "Value": "DETERMINACIÓN FÉRREA"
+        },
+        {
+            "Key": 1117201283,
+            "Value": "Hodges"
+        },
+        {
+            "Key": 1125878261,
+            "Value": "SECTOR L'ESTRADE"
+        },
+        {
+            "Key": 1127649354,
+            "Value": "Pirosoldados"
+        },
+        {
+            "Key": 1129889217,
+            "Value": "PRESIDENTE OKOTE"
+        },
+        {
+            "Key": 1130294731,
+            "Value": "de la Ira"
+        },
+        {
+            "Key": 1131183082,
+            "Value": "Aviones de combate"
+        },
+        {
+            "Key": 1134185291,
+            "Value": "NUEVA ALEJANDRÍA"
+        },
+        {
+            "Key": 1137964607,
+            "Value": "BAHÍA SKAT"
+        },
+        {
+            "Key": 1143724091,
+            "Value": "DARIUS II"
+        },
+        {
+            "Key": 1144364846,
+            "Value": "POZO SECO"
+        },
+        {
+            "Key": 1147063964,
+            "Value": "El buque insignia de las ciudades de seguridad máxima. Impenetrable para la tiranía. El futuro de la Federación."
+        },
+        {
+            "Key": 1149332144,
+            "Value": "Pastinacas"
+        },
+        {
+            "Key": 1149778595,
+            "Value": "PATRÓN DE LANZADERA DE MALEZA"
+        },
+        {
+            "Key": 1150711238,
+            "Value": "CIUDAD NUEVA ESPERANZA"
+        },
+        {
+            "Key": 1151272818,
+            "Value": "DIÁSPORA X"
+        },
+        {
+            "Key": 1152525653,
+            "Value": "Termínidos"
+        },
+        {
+            "Key": 1153658728,
+            "Value": "Caminante de fábrica"
+        },
+        {
+            "Key": 1155147987,
+            "Value": "Rondadores"
+        },
+        {
+            "Key": 1159272209,
+            "Value": "REDTHORN"
+        },
+        {
+            "Key": 1166279471,
+            "Value": "DENEB SECUNDUS"
+        },
+        {
+            "Key": 1169179398,
+            "Value": "ERIDANI"
+        },
+        {
+            "Key": 1169888429,
+            "Value": "PLANTA DE ENERGÍA ATLANTE MAYOR"
+        },
+        {
+            "Key": 1172950089,
+            "Value": "SECTOR TRIGON"
+        },
+        {
+            "Key": 1175929609,
+            "Value": "PATRÓN DE CÁPSULA HELL NEGRO DISCRETO"
+        },
+        {
+            "Key": 1177202472,
+            "Value": "Berserkers"
+        },
+        {
+            "Key": 1178286781,
+            "Value": "TERMÍNIDO"
+        },
+        {
+            "Key": 1181947803,
+            "Value": "FUERTE UNIÓN"
+        },
+        {
+            "Key": 1182365708,
+            "Value": "Capitana de la nave #NAME"
+        },
+        {
+            "Key": 1184670874,
+            "Value": "NINGUNO"
+        },
+        {
+            "Key": 1185244299,
+            "Value": "Supervisores"
+        },
+        {
+            "Key": 1185375349,
+            "Value": "Defensora"
+        },
+        {
+            "Key": 1186649585,
+            "Value": "KEPLER-384b"
+        },
+        {
+            "Key": 1190478143,
+            "Value": "MIRADOR"
+        },
+        {
+            "Key": 1191482327,
+            "Value": "VALENTÍA"
+        },
+        {
+            "Key": 1207031399,
+            "Value": "Fuerza de la ley"
+        },
+        {
+            "Key": 1207324607,
+            "Value": "Pionera"
+        },
+        {
+            "Key": 1208200869,
+            "Value": "Senadora"
+        },
+        {
+            "Key": 1209685887,
+            "Value": "NUEVO CYBERSTAN"
+        },
+        {
+            "Key": 1210082392,
+            "Value": "Cazador bomba de esporas"
+        },
+        {
+            "Key": 1211600962,
+            "Value": "EFFLUVIA"
+        },
+        {
+            "Key": 1213486361,
+            "Value": "ÁGUILA ESTELAR ETERNA"
+        },
+        {
+            "Key": 1213932068,
+            "Value": "CHOEPESSA IV"
+        },
+        {
+            "Key": 1217678385,
+            "Value": "Yousefi"
+        },
+        {
+            "Key": 1217738475,
+            "Value": "CRESTALIBRE"
+        },
+        {
+            "Key": 1220978891,
+            "Value": "ALARAPH"
+        },
+        {
+            "Key": 1221144687,
+            "Value": "ABUNDANCIA"
+        },
+        {
+            "Key": 1222875907,
+            "Value": "Tanques aniquiladores"
+        },
+        {
+            "Key": 1224007776,
+            "Value": "JULHEIM"
+        },
+        {
+            "Key": 1225804857,
+            "Value": "Botelho"
+        },
+        {
+            "Key": 1227284416,
+            "Value": "Devastadores incendiarios con ametralladora"
+        },
+        {
+            "Key": 1230925792,
+            "Value": "PRIMORDIA"
+        },
+        {
+            "Key": 1235215129,
+            "Value": "ACAMAR IV"
+        },
+        {
+            "Key": 1237995462,
+            "Value": "HÁBITAT RED-2"
+        },
+        {
+            "Key": 1243225162,
+            "Value": "FUERTE JUSTICIA"
+        },
+        {
+            "Key": 1244395985,
+            "Value": "VANDALON IV"
+        },
+        {
+            "Key": 1251671830,
+            "Value": "Soldados de caballería"
+        },
+        {
+            "Key": 1252876522,
+            "Value": "DETERMINACIÓN"
+        },
+        {
+            "Key": 1256884337,
+            "Value": "CASCADAS KODIAK"
+        },
+        {
+            "Key": 1258196470,
+            "Value": "COMISARIO"
+        },
+        {
+            "Key": 1261841844,
+            "Value": "GUARDIÁN DEL NIDO"
+        },
+        {
+            "Key": 1264502471,
+            "Value": "Técnica de mantenimiento"
+        },
+        {
+            "Key": 1269181160,
+            "Value": "PATRÓN DE CÁPSULA HELL VERDE SINIESTRO"
+        },
+        {
+            "Key": 1280955084,
+            "Value": "ESFUERZO"
+        },
+        {
+            "Key": 1287745099,
+            "Value": "KEPLER-314b"
+        },
+        {
+            "Key": 1290345510,
+            "Value": "Árbitro"
+        },
+        {
+            "Key": 1295934071,
+            "Value": "SECTOR ALSTRAD"
+        },
+        {
+            "Key": 1298431672,
+            "Value": "LASTOFE"
+        },
+        {
+            "Key": 1299714559,
+            "Value": "Cargador"
+        },
+        {
+            "Key": 1309239989,
+            "Value": "Siervos de la libertad"
+        },
+        {
+            "Key": 1311234619,
+            "Value": "ATRACADERO DEL PILOTO"
+        },
+        {
+            "Key": 1317135238,
+            "Value": "Precursora"
+        },
+        {
+            "Key": 1317730141,
+            "Value": "KEID"
+        },
+        {
+            "Key": 1318124552,
+            "Value": "OVERGOE PRIME"
+        },
+        {
+            "Key": 1322414042,
+            "Value": "Puño"
+        },
+        {
+            "Key": 1325663098,
+            "Value": "CIUDAD NUEVO HOGAR"
+        },
+        {
+            "Key": 1327299148,
+            "Value": "GEN"
+        },
+        {
+            "Key": 1328010974,
+            "Value": "Acechadores"
+        },
+        {
+            "Key": 1331573605,
+            "Value": "GRIETA ESTE"
+        },
+        {
+            "Key": 1333134146,
+            "Value": "Soldado S.E.A.F."
+        },
+        {
+            "Key": 1334736569,
+            "Value": "ESPEJISMO"
+        },
+        {
+            "Key": 1338124960,
+            "Value": "Agente"
+        },
+        {
+            "Key": 1342954337,
+            "Value": "AIN-5"
+        },
+        {
+            "Key": 1345310449,
+            "Value": "PATRÓN DE CÁPSULA HELL AZUL REAL"
+        },
+        {
+            "Key": 1345534634,
+            "Value": "SEMBLANZA DEL ÁGUILA"
+        },
+        {
+            "Key": 1350043281,
+            "Value": "ANTIGUO ENIGMA"
+        },
+        {
+            "Key": 1358608754,
+            "Value": "SECTOR KORPUS"
+        },
+        {
+            "Key": 1364807175,
+            "Value": "SECTOR BORGUS"
+        },
+        {
+            "Key": 1374694211,
+            "Value": "APARTAMENTOS LIBRES"
+        },
+        {
+            "Key": 1375156788,
+            "Value": "de la Osadía"
+        },
+        {
+            "Key": 1375930354,
+            "Value": "PILEN V"
+        },
+        {
+            "Key": 1378841226,
+            "Value": "Cucadragón"
+        },
+        {
+            "Key": 1382288454,
+            "Value": "NABATEA SECUNDUS"
+        },
+        {
+            "Key": 1390745011,
+            "Value": "COMARCA ESPERANZA"
+        },
+        {
+            "Key": 1391601310,
+            "Value": "Leviatanes"
+        },
+        {
+            "Key": 1396376486,
+            "Value": "Brostrom"
+        },
+        {
+            "Key": 1401399056,
+            "Value": "ARTIMAÑA DEL CAZADOR"
+        },
+        {
+            "Key": 1404359855,
+            "Value": "TUMBA DE EDWARD"
+        },
+        {
+            "Key": 1405979473,
+            "Value": "Cosechadora"
+        },
+        {
+            "Key": 1407696270,
+            "Value": "NUEVO ESTOCOLMO"
+        },
+        {
+            "Key": 1411044618,
+            "Value": "Cuchilla"
+        },
+        {
+            "Key": 1414353920,
+            "Value": "DISIDENCIA APACIGUADA"
+        },
+        {
+            "Key": 1417463969,
+            "Value": "CALLES TINTAS"
+        },
+        {
+            "Key": 1417539170,
+            "Value": "DIGITI"
+        },
+        {
+            "Key": 1418245247,
+            "Value": "CAMINANTE DE FÁBRICA"
+        },
+        {
+            "Key": 1418356293,
+            "Value": "Blood"
+        },
+        {
+            "Key": 1420913901,
+            "Value": "KEPLER-391b"
+        },
+        {
+            "Key": 1421360586,
+            "Value": "Brezavscek"
+        },
+        {
+            "Key": 1423948427,
+            "Value": "NUEVO NEWTONVILLE"
+        },
+        {
+            "Key": 1429123431,
+            "Value": "Jaeger"
+        },
+        {
+            "Key": 1430722332,
+            "Value": "Regurgitadores lactantes"
+        },
+        {
+            "Key": 1437811852,
+            "Value": "CALIPSO"
+        },
+        {
+            "Key": 1441504339,
+            "Value": "SUPERTIERRA"
+        },
+        {
+            "Key": 1441994227,
+            "Value": "Zamora"
+        },
+        {
+            "Key": 1443392861,
+            "Value": "REAF"
+        },
+        {
+            "Key": 1450751683,
+            "Value": "AUTÓMATAS"
+        },
+        {
+            "Key": 1451959923,
+            "Value": "BOREA"
+        },
+        {
+            "Key": 1452679308,
+            "Value": "TANQUE CON COHETE"
+        },
+        {
+            "Key": 1456023688,
+            "Value": "Friend"
+        },
+        {
+            "Key": 1460486101,
+            "Value": "Guardián del nido"
+        },
+        {
+            "Key": 1462357533,
+            "Value": "CAC"
+        },
+        {
+            "Key": 1465854050,
+            "Value": "NAVI VII"
+        },
+        {
+            "Key": 1466635519,
+            "Value": "KEPLER-302b"
+        },
+        {
+            "Key": 1467464627,
+            "Value": "Incursor de asalto"
+        },
+        {
+            "Key": 1468076040,
+            "Value": "ZZANIAH PRIME"
+        },
+        {
+            "Key": 1474753867,
+            "Value": "Administradora"
+        },
+        {
+            "Key": 1474817139,
+            "Value": "Tanque con cohete"
+        },
+        {
+            "Key": 1475087488,
+            "Value": "SOCORRO III"
+        },
+        {
+            "Key": 1477337926,
+            "Value": "DESEMBARCO DE LA DEMOCRACIA"
+        },
+        {
+            "Key": 1477759539,
+            "Value": "Comisaria"
+        },
+        {
+            "Key": 1479757392,
+            "Value": "Frandsen"
+        },
+        {
+            "Key": 1481725166,
+            "Value": "MAGNITUD"
+        },
+        {
+            "Key": 1485006967,
+            "Value": "FABRICANTE MASIVO"
+        },
+        {
+            "Key": 1485636464,
+            "Value": "ACRUX IX"
+        },
+        {
+            "Key": 1487022517,
+            "Value": "JUSTICIA FRONTERIZA"
+        },
+        {
+            "Key": 1487385132,
+            "Value": "CAMINANTE DE GUERRA"
+        },
+        {
+            "Key": 1488299252,
+            "Value": "NUOVA ROMA"
+        },
+        {
+            "Key": 1490501681,
+            "Value": "Empaladores"
+        },
+        {
+            "Key": 1494724485,
+            "Value": "Incursores de asalto"
+        },
+        {
+            "Key": 1497903780,
+            "Value": "Soldado"
+        },
+        {
+            "Key": 1500341394,
+            "Value": "COLINA DE LA HACIENDA"
+        },
+        {
+            "Key": 1501649955,
+            "Value": "Eriksson"
+        },
+        {
+            "Key": 1503418004,
+            "Value": "Alas"
+        },
+        {
+            "Key": 1505638056,
+            "Value": "MAJOSYRI"
+        },
+        {
+            "Key": 1508181823,
+            "Value": "KEPLER-303b"
+        },
+        {
+            "Key": 1517419263,
+            "Value": "PATRÓN DE EXOTRAJE VERDE SINIESTRO"
+        },
+        {
+            "Key": 1519030847,
+            "Value": "EMPLAZAMIENTO DE MORTERO AUTÓMATA"
+        },
+        {
+            "Key": 1520751263,
+            "Value": "EMPALADOR"
+        },
+        {
+            "Key": 1522055334,
+            "Value": "PATRÓN DE LANZADERA JUNGLA DE CEMENTO"
+        },
+        {
+            "Key": 1524275396,
+            "Value": "ESCUPIDOR DE BILIS"
+        },
+        {
+            "Key": 1526662829,
+            "Value": "SIERVOS DE LA LIBERTAD"
+        },
+        {
+            "Key": 1527892006,
+            "Value": "KEPLER-396b"
+        },
+        {
+            "Key": 1531255622,
+            "Value": "Incursores"
+        },
+        {
+            "Key": 1531527023,
+            "Value": "Chandler"
+        },
+        {
+            "Key": 1533261444,
+            "Value": "de la Verdad"
+        },
+        {
+            "Key": 1536742308,
+            "Value": "Adjudicadora"
+        },
+        {
+            "Key": 1539362188,
+            "Value": "BAHÍA HEZE"
+        },
+        {
+            "Key": 1545408205,
+            "Value": "ALATHFAR XI"
+        },
+        {
+            "Key": 1545626923,
+            "Value": "de la Valentía"
+        },
+        {
+            "Key": 1547267502,
+            "Value": "RESILIENCIA"
+        },
+        {
+            "Key": 1550275945,
+            "Value": "AGUJERO DE BICHOS"
+        },
+        {
+            "Key": 1550630253,
+            "Value": "Desde que acogió a millones de leales refugiados en la última gran guerra, Puerto Misericordia se ha convertido en un lugar seguro para cualquier ciudadano de clase A en apuros."
+        },
+        {
+            "Key": 1560396759,
+            "Value": "KLAKA 5"
+        },
+        {
+            "Key": 1560758003,
+            "Value": "SECTOR RIGEL"
+        },
+        {
+            "Key": 1560770730,
+            "Value": "Bruto aniquilador"
+        },
+        {
+            "Key": 1562436935,
+            "Value": "Skogsberg"
+        },
+        {
+            "Key": 1566867439,
+            "Value": "de la Independencia"
+        },
+        {
+            "Key": 1567949647,
+            "Value": "GRAFSWALLIT"
+        },
+        {
+            "Key": 1569895916,
+            "Value": "Fuerza"
+        },
+        {
+            "Key": 1570376244,
+            "Value": "KRAZ"
+        },
+        {
+            "Key": 1572521316,
+            "Value": "PUERTO KNETH"
+        },
+        {
+            "Key": 1577218460,
+            "Value": "RASTREADOR PARIA"
+        },
+        {
+            "Key": 1577431289,
+            "Value": "HESOE PRIME"
+        },
+        {
+            "Key": 1578792227,
+            "Value": "KEPLER-371b"
+        },
+        {
+            "Key": 1582178959,
+            "Value": "VALGAARD"
+        },
+        {
+            "Key": 1585645666,
+            "Value": "HAKA"
+        },
+        {
+            "Key": 1591080787,
+            "Value": "Nuestra orgullosa capital, sede del Consejo Democrático, es un eje del progreso, la productividad y el patriotismo."
+        },
+        {
+            "Key": 1591988575,
+            "Value": "Alma"
+        },
+        {
+            "Key": 1593540412,
+            "Value": "PORTALES CONCURRIDOS"
+        },
+        {
+            "Key": 1596772767,
+            "Value": "CAMPAMENTO BASE 8"
+        },
+        {
+            "Key": 1606616279,
+            "Value": "CIUDAD MUNICIÓN"
+        },
+        {
+            "Key": 1608848462,
+            "Value": "PANTANO IV"
+        },
+        {
+            "Key": 1609021693,
+            "Value": "SACROSENDERO"
+        },
+        {
+            "Key": 1615896897,
+            "Value": "COMISARIO DE LA BRIGADA DE CAZAS"
+        },
+        {
+            "Key": 1625389836,
+            "Value": "PATRÓN DE VEHÍCULO SERPIENTE DE CASCABEL"
+        },
+        {
+            "Key": 1626212068,
+            "Value": "KEPLER-299b"
+        },
+        {
+            "Key": 1627731364,
+            "Value": "de la Victoria"
+        },
+        {
+            "Key": 1630007655,
+            "Value": "SECTOR XZAR"
+        },
+        {
+            "Key": 1631481238,
+            "Value": "Sundstrom"
+        },
+        {
+            "Key": 1636563227,
+            "Value": "MONTE ÁGUILA"
+        },
+        {
+            "Key": 1642268665,
+            "Value": "CASCADAS DE LA PROSPERIDAD"
+        },
+        {
+            "Key": 1647662801,
+            "Value": "VELO"
+        },
+        {
+            "Key": 1647999978,
+            "Value": "NUEVO ABERDEEN"
+        },
+        {
+            "Key": 1649987991,
+            "Value": "Devastador"
+        },
+        {
+            "Key": 1650103832,
+            "Value": "URSICA XI"
+        },
+        {
+            "Key": 1651252849,
+            "Value": "Alba"
+        },
+        {
+            "Key": 1653030344,
+            "Value": "GRAVITAS"
+        },
+        {
+            "Key": 1654759752,
+            "Value": "REGNUS"
+        },
+        {
+            "Key": 1657112894,
+            "Value": "KEPLER-334b"
+        },
+        {
+            "Key": 1657172675,
+            "Value": "ÍMPETU"
+        },
+        {
+            "Key": 1658081283,
+            "Value": "JARDINES DE SICÓMOROS"
+        },
+        {
+            "Key": 1661868344,
+            "Value": "HAERSTVIK"
+        },
+        {
+            "Key": 1661895142,
+            "Value": "Observador"
+        },
+        {
+            "Key": 1665734336,
+            "Value": "ÓMICRON"
+        },
+        {
+            "Key": 1666367004,
+            "Value": "Iluminado"
+        },
+        {
+            "Key": 1674292329,
+            "Value": "SECTOR MORGON"
+        },
+        {
+            "Key": 1674550622,
+            "Value": "Profetas ilusionistas"
+        },
+        {
+            "Key": 1682713724,
+            "Value": "INCURSOR"
+        },
+        {
+            "Key": 1683172633,
+            "Value": "Tanques trituradores"
+        },
+        {
+            "Key": 1688428148,
+            "Value": "ORBENGAÑO"
+        },
+        {
+            "Key": 1692748917,
+            "Value": "Lanzadera de extracción"
+        },
+        {
+            "Key": 1694795796,
+            "Value": "SECTOR HIDRA"
+        },
+        {
+            "Key": 1694948462,
+            "Value": "Hart"
+        },
+        {
+            "Key": 1696061154,
+            "Value": "FORTALEZA"
+        },
+        {
+            "Key": 1702796742,
+            "Value": "AGENTES DE LA VERDAD"
+        },
+        {
+            "Key": 1706936029,
+            "Value": "GRAFMERE"
+        },
+        {
+            "Key": 1710555974,
+            "Value": "SHETE"
+        },
+        {
+            "Key": 1710870229,
+            "Value": "K-ICXXVI"
+        },
+        {
+            "Key": 1713165955,
+            "Value": "SERVIDUMBRE"
+        },
+        {
+            "Key": 1723671216,
+            "Value": "GUERRERO"
+        },
+        {
+            "Key": 1724005326,
+            "Value": "CUARENTENA DE BICHOS"
+        },
+        {
+            "Key": 1727897935,
+            "Value": "VERTEDERO"
+        },
+        {
+            "Key": 1729099758,
+            "Value": "SECTOR LEO"
+        },
+        {
+            "Key": 1731739124,
+            "Value": "ANTORCHA DE LA LIBERTAD"
+        },
+        {
+            "Key": 1741057680,
+            "Value": "PROFETA ILUSIONISTA"
+        },
+        {
+            "Key": 1742855267,
+            "Value": "REMEMBRANZA"
+        },
+        {
+            "Key": 1744179903,
+            "Value": "PATRÓN DE LANZADERA AZUL REAL"
+        },
+        {
+            "Key": 1748301752,
+            "Value": "Nilsson"
+        },
+        {
+            "Key": 1748948844,
+            "Value": "FORNSKOGUR II"
+        },
+        {
+            "Key": 1749038307,
+            "Value": "WEIR"
+        },
+        {
+            "Key": 1750282018,
+            "Value": "CONSEJERO RORA"
+        },
+        {
+            "Key": 1753892252,
+            "Value": "OSUPSAM"
+        },
+        {
+            "Key": 1754556682,
+            "Value": "de la Luz estelar"
+        },
+        {
+            "Key": 1755343141,
+            "Value": "DEPÓSITO A"
+        },
+        {
+            "Key": 1755828576,
+            "Value": "KEPLER-380b"
+        },
+        {
+            "Key": 1757932330,
+            "Value": "Beroshi"
+        },
+        {
+            "Key": 1762623544,
+            "Value": "INCURSOR DE ASALTO"
+        },
+        {
+            "Key": 1762804888,
+            "Value": "ACUCHILLADOR PARIA"
+        },
+        {
+            "Key": 1764769201,
+            "Value": "Mazo"
+        },
+        {
+            "Key": 1768487578,
+            "Value": "ISEGORIA"
+        },
+        {
+            "Key": 1770066465,
+            "Value": "Torres infestadas"
+        },
+        {
+            "Key": 1775662925,
+            "Value": "Bruto abrasador"
+        },
+        {
+            "Key": 1780560514,
+            "Value": "del Estado"
+        },
+        {
+            "Key": 1780938436,
+            "Value": "Torretas de cañón"
+        },
+        {
+            "Key": 1784440447,
+            "Value": "DEVASTADOR DE CONFLAGRACIÓN"
+        },
+        {
+            "Key": 1784867704,
+            "Value": "Piloto"
+        },
+        {
+            "Key": 1785813534,
+            "Value": "SECTOR YMIR"
+        },
+        {
+            "Key": 1785959411,
+            "Value": "SECTOR TANIS"
+        },
+        {
+            "Key": 1788879704,
+            "Value": "KEPLER-364b"
+        },
+        {
+            "Key": 1789137489,
+            "Value": "AGUILÓPOLIS"
+        },
+        {
+            "Key": 1795971311,
+            "Value": "KEPLER-304b"
+        },
+        {
+            "Key": 1802585353,
+            "Value": "Luchadora Águila"
+        },
+        {
+            "Key": 1805104840,
+            "Value": "Guerreros de bilis"
+        },
+        {
+            "Key": 1815342243,
+            "Value": "TRANDOR"
+        },
+        {
+            "Key": 1823593404,
+            "Value": "KEPLER-367b"
+        },
+        {
+            "Key": 1825524640,
+            "Value": "Vanderheide"
+        },
+        {
+            "Key": 1830005331,
+            "Value": "DISTRITO DE VOTACIÓN F-012357"
+        },
+        {
+            "Key": 1842172307,
+            "Value": "MENKENT"
+        },
+        {
+            "Key": 1846098026,
+            "Value": "PUERTO COMERCIAL DE IRIDIO ORIENTAL"
+        },
+        {
+            "Key": 1849355488,
+            "Value": "Comisarios de la brigada de cazas"
+        },
+        {
+            "Key": 1850808595,
+            "Value": "CIUDAD ACORAZADA"
+        },
+        {
+            "Key": 1851392616,
+            "Value": "de la Entereza"
+        },
+        {
+            "Key": 1854681309,
+            "Value": "SAPPORO"
+        },
+        {
+            "Key": 1857499959,
+            "Value": "SECTOR HANZO"
+        },
+        {
+            "Key": 1857755083,
+            "Value": "KRAKATWO"
+        },
+        {
+            "Key": 1861970315,
+            "Value": "CASETA"
+        },
+        {
+            "Key": 1863523614,
+            "Value": "Recluta Helldiver"
+        },
+        {
+            "Key": 1864553949,
+            "Value": "Técnica de mantenimiento #NAME"
+        },
+        {
+            "Key": 1865405032,
+            "Value": "de la Convicción"
+        },
+        {
+            "Key": 1865951418,
+            "Value": "de la Honra"
+        },
+        {
+            "Key": 1867905235,
+            "Value": "REPOSO ORIENTAL"
+        },
+        {
+            "Key": 1868192951,
+            "Value": "Sistema de anuncios de Supertierra"
+        },
+        {
+            "Key": 1870238113,
+            "Value": "de la Independencia"
+        },
+        {
+            "Key": 1871700431,
+            "Value": "Caminante explorador reforzado"
+        },
+        {
+            "Key": 1881166987,
+            "Value": "Escudo"
+        },
+        {
+            "Key": 1882957075,
+            "Value": "Oficial de Democracia #NAME"
+        },
+        {
+            "Key": 1883008426,
+            "Value": "KEPLER-389b"
+        },
+        {
+            "Key": 1889131823,
+            "Value": "PATRÓN DE VEHÍCULO ESTÁNDAR"
+        },
+        {
+            "Key": 1892656262,
+            "Value": "Comisarios"
+        },
+        {
+            "Key": 1899936906,
+            "Value": "Supervisor"
+        },
+        {
+            "Key": 1901047489,
+            "Value": "CHARON PRIME"
+        },
+        {
+            "Key": 1902198544,
+            "Value": "Wesolowski"
+        },
+        {
+            "Key": 1905935376,
+            "Value": "IRIDICA"
+        },
+        {
+            "Key": 1908643927,
+            "Value": "HUECO INTRÉPIDO"
+        },
+        {
+            "Key": 1911274390,
+            "Value": "VELD"
+        },
+        {
+            "Key": 1911682224,
+            "Value": "SECTOR MARSPIRA"
+        },
+        {
+            "Key": 1912909754,
+            "Value": "SECTOR TESEO"
+        },
+        {
+            "Key": 1914634922,
+            "Value": "PATRÓN DE LANZADERA NEGRO DISCRETO"
+        },
+        {
+            "Key": 1915898238,
+            "Value": "XIN FUZHOU"
+        },
+        {
+            "Key": 1921206358,
+            "Value": "ACRAB XI"
+        },
+        {
+            "Key": 1926035611,
+            "Value": "ANDAR"
+        },
+        {
+            "Key": 1927972667,
+            "Value": "MERIDIONAL IIa"
+        },
+        {
+            "Key": 1928467696,
+            "Value": "PRESIDENTE OYESLLO"
+        },
+        {
+            "Key": 1928893546,
+            "Value": "Wiklund"
+        },
+        {
+            "Key": 1932062202,
+            "Value": "Avión de combate"
+        },
+        {
+            "Key": 1935027866,
+            "Value": "Lindstrom"
+        },
+        {
+            "Key": 1939105083,
+            "Value": "Embestidor de esporas"
+        },
+        {
+            "Key": 1940364089,
+            "Value": "HONOR DEL COLONO"
+        },
+        {
+            "Key": 1941770292,
+            "Value": "BAHÍA AFOYAY"
+        },
+        {
+            "Key": 1945792198,
+            "Value": "de la Ciencia"
+        },
+        {
+            "Key": 1954308553,
+            "Value": "DIPLOMACIA"
+        },
+        {
+            "Key": 1960080764,
+            "Value": "MORDIA 9"
+        },
+        {
+            "Key": 1962923154,
+            "Value": "KEPLER-329b"
+        },
+        {
+            "Key": 1963526343,
+            "Value": "Chillones"
+        },
+        {
+            "Key": 1969023152,
+            "Value": "NACIMIENTO"
+        },
+        {
+            "Key": 1974334302,
+            "Value": "Luchador"
+        },
+        {
+            "Key": 1976322632,
+            "Value": "Protectora"
+        },
+        {
+            "Key": 1984391101,
+            "Value": "PATRÓN DE CÁPSULA HELL SERPIENTE DE CASCABEL"
+        },
+        {
+            "Key": 1994078506,
+            "Value": "KEPLER-286b"
+        },
+        {
+            "Key": 1999524414,
+            "Value": "ILUMINADOS"
+        },
+        {
+            "Key": 2000862158,
+            "Value": "Incursor"
+        },
+        {
+            "Key": 2012659085,
+            "Value": "Este gran centro de comercio es famoso en toda la galaxia por sus grandes centros comerciales y sus esplendorosos centros de ocio."
+        },
+        {
+            "Key": 2013327304,
+            "Value": "MARTALE"
+        },
+        {
+            "Key": 2028104177,
+            "Value": "Ciudadana"
+        },
+        {
+            "Key": 2028193710,
+            "Value": "ASPEROTH PRIME"
+        },
+        {
+            "Key": 2032929579,
+            "Value": "MANTES"
+        },
+        {
+            "Key": 2039605284,
+            "Value": "FUERZA DE LA LEY"
+        },
+        {
+            "Key": 2042206691,
+            "Value": "ACHIRD III"
+        },
+        {
+            "Key": 2042495118,
+            "Value": "KEPLER-350b"
+        },
+        {
+            "Key": 2045427074,
+            "Value": "YATAKHANE 263"
+        },
+        {
+            "Key": 2047661864,
+            "Value": "KEPLER-340b"
+        },
+        {
+            "Key": 2062195479,
+            "Value": "Lindgren"
+        },
+        {
+            "Key": 2064715177,
+            "Value": "SECTOR TARRAGON"
+        },
+        {
+            "Key": 2065952231,
+            "Value": "KEPLER-343b"
+        },
+        {
+            "Key": 2068623694,
+            "Value": "Linddqvist"
+        },
+        {
+            "Key": 2069526184,
+            "Value": "VALEVIDA"
+        },
+        {
+            "Key": 2075913385,
+            "Value": "KEPLER-319b"
+        },
+        {
+            "Key": 2083818604,
+            "Value": "CRISOL"
+        },
+        {
+            "Key": 2087200088,
+            "Value": "Soldado de caballería de la brigada de cazas"
+        },
+        {
+            "Key": 2087816161,
+            "Value": "CURSA"
+        },
+        {
+            "Key": 2090691137,
+            "Value": "Bombardero bruto"
+        },
+        {
+            "Key": 2093976461,
+            "Value": "RÉQUIEM"
+        },
+        {
+            "Key": 2095944889,
+            "Value": "VICTORIA"
+        },
+        {
+            "Key": 2096686340,
+            "Value": "Vicente"
+        },
+        {
+            "Key": 2096738172,
+            "Value": "Sjostrom"
+        },
+        {
+            "Key": 2097521099,
+            "Value": "Tanques con cohete"
+        },
+        {
+            "Key": 2098426918,
+            "Value": "Detonación democrática"
+        },
+        {
+            "Key": 2106060099,
+            "Value": "KEPLER-284b"
+        },
+        {
+            "Key": 2107318609,
+            "Value": "CIUDAD AGUAFIESTAS"
+        },
+        {
+            "Key": 2108628906,
+            "Value": "Gigante"
+        },
+        {
+            "Key": 2109890358,
+            "Value": "BOMBARDERO BRUTO"
+        },
+        {
+            "Key": 2109995347,
+            "Value": "PENSCEWT"
+        },
+        {
+            "Key": 2111649283,
+            "Value": "KEPLER-352b"
+        },
+        {
+            "Key": 2111845990,
+            "Value": "KEPLER-355b"
+        },
+        {
+            "Key": 2112350519,
+            "Value": "Rondador"
+        },
+        {
+            "Key": 2112393491,
+            "Value": "MOZOCIUDAD"
+        },
+        {
+            "Key": 2115010351,
+            "Value": "Wolterbeek Muller"
+        },
+        {
+            "Key": 2115369190,
+            "Value": "Fyrvall"
+        },
+        {
+            "Key": 2115960485,
+            "Value": "Guerrero bomba de esporas"
+        },
+        {
+            "Key": 2121888692,
+            "Value": "SECTOR SAGAN"
+        },
+        {
+            "Key": 2122916248,
+            "Value": "DEVASTADOR CON COHETE"
+        },
+        {
+            "Key": 2128884238,
+            "Value": "de la Medianoche"
+        },
+        {
+            "Key": 2135121722,
+            "Value": "Potencia"
+        },
+        {
+            "Key": 2136621536,
+            "Value": "CARROÑERO BOMBA DE ESPORAS"
+        },
+        {
+            "Key": 2137230620,
+            "Value": "BALDRICK PRIME"
+        },
+        {
+            "Key": 2141947866,
+            "Value": "Príncipe"
+        },
+        {
+            "Key": 2144389101,
+            "Value": "MARRE IV"
+        },
+        {
+            "Key": 2151011693,
+            "Value": "PARRHESIA"
+        },
+        {
+            "Key": 2154346758,
+            "Value": "BERSERKER"
+        },
+        {
+            "Key": 2155068571,
+            "Value": "ZAGON PRIME"
+        },
+        {
+            "Key": 2172175966,
+            "Value": "Supertierra"
+        },
+        {
+            "Key": 2174969617,
+            "Value": "de la Integridad"
+        },
+        {
+            "Key": 2175182123,
+            "Value": "OPORTUNA"
+        },
+        {
+            "Key": 2177972845,
+            "Value": "Padre fundador"
+        },
+        {
+            "Key": 2179256312,
+            "Value": "del Juicio"
+        },
+        {
+            "Key": 2180236555,
+            "Value": "REFUGIO"
+        },
+        {
+            "Key": 2181852495,
+            "Value": "Durney"
+        },
+        {
+            "Key": 2181856792,
+            "Value": "KEPLER-368b"
+        },
+        {
+            "Key": 2182114170,
+            "Value": "Lanzadera de transporte"
+        },
+        {
+            "Key": 2183385626,
+            "Value": "Magos acólitos"
+        },
+        {
+            "Key": 2188495010,
+            "Value": "ESTACIÓN WILFORD"
+        },
+        {
+            "Key": 2206946868,
+            "Value": "MALEVELON CREEK"
+        },
+        {
+            "Key": 2207334030,
+            "Value": "UNDERVATTEN"
+        },
+        {
+            "Key": 2208968160,
+            "Value": "Carroñeros"
+        },
+        {
+            "Key": 2209646811,
+            "Value": "CAMINANTE EXPLORADOR REFORZADO"
+        },
+        {
+            "Key": 2210014777,
+            "Value": "SIRIUS"
+        },
+        {
+            "Key": 2213492101,
+            "Value": "DUNA GARAJE"
+        },
+        {
+            "Key": 2217667642,
+            "Value": "KEPLER-372b"
+        },
+        {
+            "Key": 2220556432,
+            "Value": "NAVE NODRIZA"
+        },
+        {
+            "Key": 2225234085,
+            "Value": "TROOST"
+        },
+        {
+            "Key": 2225860827,
+            "Value": "MAIA"
+        },
+        {
+            "Key": 2229584013,
+            "Value": "CANTOTRABAJO"
+        },
+        {
+            "Key": 2234285621,
+            "Value": "REGURGITADOR LACTANTE"
+        },
+        {
+            "Key": 2239176341,
+            "Value": "PISORMIGA"
+        },
+        {
+            "Key": 2239494015,
+            "Value": "PROGRESO"
+        },
+        {
+            "Key": 2240736806,
+            "Value": "PATRÓN DE VEHÍCULO MOSTAZA"
+        },
+        {
+            "Key": 2245967469,
+            "Value": "Mensajera"
+        },
+        {
+            "Key": 2248940060,
+            "Value": "Luz"
+        },
+        {
+            "Key": 2251442607,
+            "Value": "MERGA IV"
+        },
+        {
+            "Key": 2255878520,
+            "Value": "Garra"
+        },
+        {
+            "Key": 2260123791,
+            "Value": "YORK SUPREMO"
+        },
+        {
+            "Key": 2262855397,
+            "Value": "Hedstrom"
+        },
+        {
+            "Key": 2266188637,
+            "Value": "Elggren"
+        },
+        {
+            "Key": 2270698456,
+            "Value": "Regurgitador de ruptura"
+        },
+        {
+            "Key": 2283210632,
+            "Value": "PATRÓN DE CÁPSULA HELL JUNGLA DE CEMENTO"
+        },
+        {
+            "Key": 2283348879,
+            "Value": "FALSA ABUNDANCIA"
+        },
+        {
+            "Key": 2284867278,
+            "Value": "de la Gloria"
+        },
+        {
+            "Key": 2286463767,
+            "Value": "MONTE MONUMENTO"
+        },
+        {
+            "Key": 2298398103,
+            "Value": "Persona"
+        },
+        {
+            "Key": 2304245072,
+            "Value": "de la Redención"
+        },
+        {
+            "Key": 2306920540,
+            "Value": "Octágono"
+        },
+        {
+            "Key": 2314638779,
+            "Value": "Pulmones de esporas"
+        },
+        {
+            "Key": 2318718576,
+            "Value": "REGURGITADOR DE RUPTURA"
+        },
+        {
+            "Key": 2318804196,
+            "Value": "ROBLES SOMBRÍOS"
+        },
+        {
+            "Key": 2319746535,
+            "Value": "Incursor explorador"
+        },
+        {
+            "Key": 2322307250,
+            "Value": "KEPLER-373b"
+        },
+        {
+            "Key": 2324026679,
+            "Value": "BARABOS"
+        },
+        {
+            "Key": 2327521397,
+            "Value": "Ojo"
+        },
+        {
+            "Key": 2337934883,
+            "Value": "PROPUS"
+        },
+        {
+            "Key": 2339943306,
+            "Value": "de los Valores familiares"
+        },
+        {
+            "Key": 2347772106,
+            "Value": "PREPARACIÓN"
+        },
+        {
+            "Key": 2348954771,
+            "Value": "FUERTE ENTUSIASTA"
+        },
+        {
+            "Key": 2351373725,
+            "Value": "KEPLER-348b"
+        },
+        {
+            "Key": 2351442158,
+            "Value": "PATRÓN DE EXOTRAJE MOSTAZA"
+        },
+        {
+            "Key": 2357224115,
+            "Value": "Capitana de la nave"
+        },
+        {
+            "Key": 2363065433,
+            "Value": "del Pueblo"
+        },
+        {
+            "Key": 2363299828,
+            "Value": "Eriksson"
+        },
+        {
+            "Key": 2365630221,
+            "Value": "Devastador con cohete"
+        },
+        {
+            "Key": 2366892687,
+            "Value": "CHOOHE"
+        },
+        {
+            "Key": 2368557367,
+            "Value": "Brutos"
+        },
+        {
+            "Key": 2373092333,
+            "Value": "GIRI"
+        },
+        {
+            "Key": 2375431518,
+            "Value": "EPSILON PHOENCIS VI"
+        },
+        {
+            "Key": 2375950297,
+            "Value": "VILLA CUARTEL"
+        },
+        {
+            "Key": 2387277009,
+            "Value": "Acechador"
+        },
+        {
+            "Key": 2388292518,
+            "Value": "MORT"
+        },
+        {
+            "Key": 2395107031,
+            "Value": "USTOTU"
+        },
+        {
+            "Key": 2398327890,
+            "Value": "PATRÓN DE VEHÍCULO NARANJA BRILLANTE"
+        },
+        {
+            "Key": 2399137569,
+            "Value": "PASTINACA"
+        },
+        {
+            "Key": 2399747308,
+            "Value": "Hellbot"
+        },
+        {
+            "Key": 2402248837,
+            "Value": "PLAYA SEYSHEL"
+        },
+        {
+            "Key": 2403632757,
+            "Value": "ILDUNA PRIME"
+        },
+        {
+            "Key": 2410831279,
+            "Value": "GUERREROS BOMBA DE ESPORAS"
+        },
+        {
+            "Key": 2418805493,
+            "Value": "CAPH"
+        },
+        {
+            "Key": 2423584147,
+            "Value": "KEPLER-309b"
+        },
+        {
+            "Key": 2424362352,
+            "Value": "LLANURAS DE MOGO"
+        },
+        {
+            "Key": 2424499063,
+            "Value": "SEQUIM"
+        },
+        {
+            "Key": 2427721281,
+            "Value": "de la Riqueza"
+        },
+        {
+            "Key": 2430884717,
+            "Value": "SONGGUO CUN"
+        },
+        {
+            "Key": 2439731458,
+            "Value": "IGLA"
+        },
+        {
+            "Key": 2440833855,
+            "Value": "Modelo"
+        },
+        {
+            "Key": 2444152049,
+            "Value": "Devastadores"
+        },
+        {
+            "Key": 2449050769,
+            "Value": "SECTOR GOTHMAR"
+        },
+        {
+            "Key": 2450040168,
+            "Value": "STOR THA PRIME"
+        },
+        {
+            "Key": 2450667324,
+            "Value": "PEDIS"
+        },
+        {
+            "Key": 2454424572,
+            "Value": "Merodeador"
+        },
+        {
+            "Key": 2466054614,
+            "Value": "SECTOR GALLUX"
+        },
+        {
+            "Key": 2469966431,
+            "Value": "CHILLÓN"
+        },
+        {
+            "Key": 2471860090,
+            "Value": "EUFORIA III"
+        },
+        {
+            "Key": 2473806447,
+            "Value": "ESTRECHO SOBRIO"
+        },
+        {
+            "Key": 2477683558,
+            "Value": "Kravchenko"
+        },
+        {
+            "Key": 2477964005,
+            "Value": "Agentes químicos"
+        },
+        {
+            "Key": 2479285427,
+            "Value": "Billnert"
+        },
+        {
+            "Key": 2479667651,
+            "Value": "EVERWHITE"
+        },
+        {
+            "Key": 2480584215,
+            "Value": "Cazadores"
+        },
+        {
+            "Key": 2493835917,
+            "Value": "Guerreros de ruptura"
+        },
+        {
+            "Key": 2494015994,
+            "Value": "Autómata"
+        },
+        {
+            "Key": 2495956148,
+            "Value": "Bellawala"
+        },
+        {
+            "Key": 2497327335,
+            "Value": "KEPLER-337b"
+        },
+        {
+            "Key": 2500585152,
+            "Value": "BRAWFERMLAND"
+        },
+        {
+            "Key": 2502682152,
+            "Value": "de la Valía individual"
+        },
+        {
+            "Key": 2502973376,
+            "Value": "CARROÑERO"
+        },
+        {
+            "Key": 2503642914,
+            "Value": "Estrella"
+        },
+        {
+            "Key": 2505794238,
+            "Value": "KEPLER-346b"
+        },
+        {
+            "Key": 2509277034,
+            "Value": "KEPLER-274b"
+        },
+        {
+            "Key": 2511016458,
+            "Value": "Espada"
+        },
+        {
+            "Key": 2514244534,
+            "Value": "Titán de bilis"
+        },
+        {
+            "Key": 2514800411,
+            "Value": "AVENTURA"
+        },
+        {
+            "Key": 2516460275,
+            "Value": "Surgida de las cenizas de una antigua ciudad, Remembranza es un testimonio de la perseverancia de la humanidad."
+        },
+        {
+            "Key": 2519064414,
+            "Value": "SECTOR SALERIA"
+        },
+        {
+            "Key": 2520271295,
+            "Value": "Wirz"
+        },
+        {
+            "Key": 2523237367,
+            "Value": "Cazadores depredadores"
+        },
+        {
+            "Key": 2523375574,
+            "Value": "SUPERIORIDAD"
+        },
+        {
+            "Key": 2531617188,
+            "Value": "PICO DEL LOBO CÉLEBRE"
+        },
+        {
+            "Key": 2531725087,
+            "Value": "VIRIDIA PRIME"
+        },
+        {
+            "Key": 2531817086,
+            "Value": "ANIQUILACIÓN"
+        },
+        {
+            "Key": 2531925644,
+            "Value": "YDINKESKUSTA"
+        },
+        {
+            "Key": 2533608836,
+            "Value": "NUEVO ÁGUILA"
+        },
+        {
+            "Key": 2540796782,
+            "Value": "Frezzato"
+        },
+        {
+            "Key": 2545239036,
+            "Value": "HILDOARA CENTRAL"
+        },
+        {
+            "Key": 2552540432,
+            "Value": "KEPLER-298b"
+        },
+        {
+            "Key": 2552921329,
+            "Value": "EXOCIUDAD"
+        },
+        {
+            "Key": 2562325679,
+            "Value": "TENDRA"
+        },
+        {
+            "Key": 2562342867,
+            "Value": "KEPLER-312b"
+        },
+        {
+            "Key": 2563213682,
+            "Value": "ERSON SANDS"
+        },
+        {
+            "Key": 2565002699,
+            "Value": "SECTOR MIRIN"
+        },
+        {
+            "Key": 2570163700,
+            "Value": "CORREDOR DEL OESTE"
+        },
+        {
+            "Key": 2572553124,
+            "Value": "Leyendas urbanas"
+        },
+        {
+            "Key": 2572786553,
+            "Value": "Regurgitadores de bilis"
+        },
+        {
+            "Key": 2574167973,
+            "Value": "Mensajera"
+        },
+        {
+            "Key": 2575476666,
+            "Value": "BAHÍA DEL MÁRTIR"
+        },
+        {
+            "Key": 2576582114,
+            "Value": "Buscador paria"
+        },
+        {
+            "Key": 2576641352,
+            "Value": "ESTANU"
+        },
+        {
+            "Key": 2578681002,
+            "Value": "KEPLER-292b"
+        },
+        {
+            "Key": 2582617403,
+            "Value": "SECTOR LACAILLE"
+        },
+        {
+            "Key": 2583035357,
+            "Value": "PATRÓN DE EXOTRAJE AZUL REAL"
+        },
+        {
+            "Key": 2586492531,
+            "Value": "KEPLER-326b"
+        },
+        {
+            "Key": 2587632663,
+            "Value": "INCURSOR COHETE"
+        },
+        {
+            "Key": 2588078506,
+            "Value": "CAMPAMENTO LEIGHTON"
+        },
+        {
+            "Key": 2588104988,
+            "Value": "PARTION"
+        },
+        {
+            "Key": 2591340960,
+            "Value": "PULMÓN DE ESPORAS"
+        },
+        {
+            "Key": 2591525843,
+            "Value": "Bernklint"
+        },
+        {
+            "Key": 2592843621,
+            "Value": "NUEVO TOKIO"
+        },
+        {
+            "Key": 2609936268,
+            "Value": "FOLDEPINO"
+        },
+        {
+            "Key": 2611116152,
+            "Value": "Civil"
+        },
+        {
+            "Key": 2613210726,
+            "Value": "de la Perseverancia"
+        },
+        {
+            "Key": 2614950221,
+            "Value": "TITÁN DE BILIS"
+        },
+        {
+            "Key": 2615256492,
+            "Value": "SANGRITAL"
+        },
+        {
+            "Key": 2616278472,
+            "Value": "Maestros de ceremonia"
+        },
+        {
+            "Key": 2616578175,
+            "Value": "HADAR"
+        },
+        {
+            "Key": 2617880626,
+            "Value": "DEVASTADOR"
+        },
+        {
+            "Key": 2621705030,
+            "Value": "Centinela nocivo"
+        },
+        {
+            "Key": 2623456461,
+            "Value": "ORGULLO FUTURO"
+        },
+        {
+            "Key": 2633081414,
+            "Value": "REMOLINOS DE ARENA"
+        },
+        {
+            "Key": 2634940767,
+            "Value": "Necrófago"
+        },
+        {
+            "Key": 2642562384,
+            "Value": "KEPLER-382b"
+        },
+        {
+            "Key": 2646875211,
+            "Value": "Princesa"
+        },
+        {
+            "Key": 2648074741,
+            "Value": "KEPLER-359b"
+        },
+        {
+            "Key": 2649067399,
+            "Value": "Emplazamiento de mortero autómata"
+        },
+        {
+            "Key": 2657956346,
+            "Value": "Guardianes de la colmena"
+        },
+        {
+            "Key": 2662394754,
+            "Value": "SIEMNOT"
+        },
+        {
+            "Key": 2665180277,
+            "Value": "Tutora"
+        },
+        {
+            "Key": 2666845429,
+            "Value": "Carroñeros bomba de esporas"
+        },
+        {
+            "Key": 2672583111,
+            "Value": "MUNICIPIO DE LIBERTAZA"
+        },
+        {
+            "Key": 2673481423,
+            "Value": "Comisario de la brigada de cazas"
+        },
+        {
+            "Key": 2675157762,
+            "Value": "RISCOS DE GEMAS"
+        },
+        {
+            "Key": 2685298705,
+            "Value": "ENTEREZA"
+        },
+        {
+            "Key": 2686416718,
+            "Value": "ALINEACIÓN"
+        },
+        {
+            "Key": 2688256510,
+            "Value": "del Destino"
+        },
+        {
+            "Key": 2694605575,
+            "Value": "KEPLER-356b"
+        },
+        {
+            "Key": 2696343909,
+            "Value": "ARKTURUS"
+        },
+        {
+            "Key": 2698042019,
+            "Value": "VILLAPERRO"
+        },
+        {
+            "Key": 2700729919,
+            "Value": "FURIA"
+        },
+        {
+            "Key": 2700736388,
+            "Value": "MOX SECUNDUS"
+        },
+        {
+            "Key": 2701211260,
+            "Value": "KEPLER-285b"
+        },
+        {
+            "Key": 2703085897,
+            "Value": "MANTILLO"
+        },
+        {
+            "Key": 2708347302,
+            "Value": "Dama"
+        },
+        {
+            "Key": 2709430291,
+            "Value": "QUASAR"
+        },
+        {
+            "Key": 2721497075,
+            "Value": "PRAVOGRADO"
+        },
+        {
+            "Key": 2723795817,
+            "Value": "Profeta ilusionista"
+        },
+        {
+            "Key": 2725043444,
+            "Value": "Guardianes del nido"
+        },
+        {
+            "Key": 2726804828,
+            "Value": "PUERTO HALIES"
+        },
+        {
+            "Key": 2726860847,
+            "Value": "Young"
+        },
+        {
+            "Key": 2728602421,
+            "Value": "NUEVO PENG"
+        },
+        {
+            "Key": 2732935113,
+            "Value": "KEPLER-400b"
+        },
+        {
+            "Key": 2745056259,
+            "Value": "Supervisor elevado"
+        },
+        {
+            "Key": 2748957512,
+            "Value": "VETERANOS AVEZADOS"
+        },
+        {
+            "Key": 2753928740,
+            "Value": "NIVEL 43"
+        },
+        {
+            "Key": 2755209388,
+            "Value": "KEPLER-315b"
+        },
+        {
+            "Key": 2756193558,
+            "Value": "Mariscal"
+        },
+        {
+            "Key": 2756394578,
+            "Value": "Promesa"
+        },
+        {
+            "Key": 2757180352,
+            "Value": "KEPLER-307b"
+        },
+        {
+            "Key": 2757374885,
+            "Value": "Control de misión"
+        },
+        {
+            "Key": 2764865372,
+            "Value": "Supervisores elevados"
+        },
+        {
+            "Key": 2765000052,
+            "Value": "KEPLER-322b"
+        },
+        {
+            "Key": 2767962404,
+            "Value": "FUTURIA"
+        },
+        {
+            "Key": 2768059040,
+            "Value": "Brutos agresivos"
+        },
+        {
+            "Key": 2773451630,
+            "Value": "GATRIA"
+        },
+        {
+            "Key": 2774811376,
+            "Value": "Thomasson"
+        },
+        {
+            "Key": 2780462932,
+            "Value": "Cargadores de ruptura"
+        },
+        {
+            "Key": 2782204414,
+            "Value": "ALTONBURGO"
+        },
+        {
+            "Key": 2788864241,
+            "Value": "CIRRUS"
+        },
+        {
+            "Key": 2793302978,
+            "Value": "ATRAMA"
+        },
+        {
+            "Key": 2795013007,
+            "Value": "MARFARK"
+        },
+        {
+            "Key": 2800784334,
+            "Value": "MAGO ACÓLITO"
+        },
+        {
+            "Key": 2801286457,
+            "Value": "Thompson"
+        },
+        {
+            "Key": 2802576158,
+            "Value": "NODOS COMERCIALES"
+        },
+        {
+            "Key": 2808893037,
+            "Value": "Justicia fronteriza"
+        },
+        {
+            "Key": 2811274626,
+            "Value": "Comandos Víbora"
+        },
+        {
+            "Key": 2812246737,
+            "Value": "de la Servidumbre abnegada"
+        },
+        {
+            "Key": 2817045657,
+            "Value": "Sin voto"
+        },
+        {
+            "Key": 2819358962,
+            "Value": "SEORAKSAN"
+        },
+        {
+            "Key": 2819645409,
+            "Value": "CAMPOS DE NOGALES"
+        },
+        {
+            "Key": 2825265110,
+            "Value": "Soldados de caballería de la brigada de cazas"
+        },
+        {
+            "Key": 2825278027,
+            "Value": "CURIA"
+        },
+        {
+            "Key": 2826323141,
+            "Value": "STOUT"
+        },
+        {
+            "Key": 2831328950,
+            "Value": "RENEGADO 5"
+        },
+        {
+            "Key": 2832319432,
+            "Value": "MEGACORPUS"
+        },
+        {
+            "Key": 2833794131,
+            "Value": "CUCADRAGÓN"
+        },
+        {
+            "Key": 2834895362,
+            "Value": "KEPLER-281b"
+        },
+        {
+            "Key": 2838153097,
+            "Value": "KEPLER-324b"
+        },
+        {
+            "Key": 2838569178,
+            "Value": "LEYENDAS URBANAS"
+        },
+        {
+            "Key": 2839195435,
+            "Value": "Marcus"
+        },
+        {
+            "Key": 2841221522,
+            "Value": "KEPLER-300b"
+        },
+        {
+            "Key": 2842546265,
+            "Value": "Señores de la colmena"
+        },
+        {
+            "Key": 2842755544,
+            "Value": "Carroñero bomba de esporas"
+        },
+        {
+            "Key": 2854071061,
+            "Value": "COMANDOS VÍBORA"
+        },
+        {
+            "Key": 2855703241,
+            "Value": "ADNAN"
+        },
+        {
+            "Key": 2855966001,
+            "Value": "GRAN ALMACCEN"
+        },
+        {
+            "Key": 2861014363,
+            "Value": "Pirosoldado"
+        },
+        {
+            "Key": 2862867325,
+            "Value": "PATRÓN DE VEHÍCULO DE MALEZA"
+        },
+        {
+            "Key": 2864012067,
+            "Value": "REVUELTA DE LEMURIA"
+        },
+        {
+            "Key": 2864097220,
+            "Value": "CARGADOR"
+        },
+        {
+            "Key": 2868446843,
+            "Value": "KEPLER-306b"
+        },
+        {
+            "Key": 2868939829,
+            "Value": "VALLE CARBONO"
+        },
+        {
+            "Key": 2869710000,
+            "Value": "Centinelas nocivos"
+        },
+        {
+            "Key": 2875027973,
+            "Value": "KEPLER-275b"
+        },
+        {
+            "Key": 2875412642,
+            "Value": "INARI"
+        },
+        {
+            "Key": 2879388280,
+            "Value": "OKUL VI"
+        },
+        {
+            "Key": 2880434041,
+            "Value": "Horda de carne"
+        },
+        {
+            "Key": 2881482997,
+            "Value": "ON-OYAQUIÉN"
+        },
+        {
+            "Key": 2887030368,
+            "Value": "NINGUNO"
+        },
+        {
+            "Key": 2888074667,
+            "Value": "Observadores"
+        },
+        {
+            "Key": 2891419140,
+            "Value": "KEPLER-358b"
+        },
+        {
+            "Key": 2895661664,
+            "Value": "VERDAD RENOVADORA"
+        },
+        {
+            "Key": 2899188129,
+            "Value": "SACIEDAD"
+        },
+        {
+            "Key": 2901475147,
+            "Value": "X-45"
+        },
+        {
+            "Key": 2901609208,
+            "Value": "KEPLER-317b"
+        },
+        {
+            "Key": 2902346740,
+            "Value": "CUMBRES DEL SENADOR"
+        },
+        {
+            "Key": 2903742424,
+            "Value": "KALASATAMA"
+        },
+        {
+            "Key": 2906313102,
+            "Value": "CIUDAD NUEVO ANHELO"
+        },
+        {
+            "Key": 2906903631,
+            "Value": "Victoria"
+        },
+        {
+            "Key": 2913428209,
+            "Value": "Soldado"
+        },
+        {
+            "Key": 2915575235,
+            "Value": "PEQUEÑO OME"
+        },
+        {
+            "Key": 2920989158,
+            "Value": "CAZADOR"
+        },
+        {
+            "Key": 2925957429,
+            "Value": "HANDAKAS"
+        },
+        {
+            "Key": 2930778917,
+            "Value": "ANNWN"
+        },
+        {
+            "Key": 2933843709,
+            "Value": "Inagaki"
+        },
+        {
+            "Key": 2934149411,
+            "Value": "OBSERVATORIO 6"
+        },
+        {
+            "Key": 2936867513,
+            "Value": "Bjorkman"
+        },
+        {
+            "Key": 2944028248,
+            "Value": "KEPLER-283b"
+        },
+        {
+            "Key": 2947173848,
+            "Value": "SECTOR DRACO"
+        },
+        {
+            "Key": 2948862277,
+            "Value": "SUPERTIERRA"
+        },
+        {
+            "Key": 2949618488,
+            "Value": "KUPER"
+        },
+        {
+            "Key": 2951703094,
+            "Value": "KEPLER-386b"
+        },
+        {
+            "Key": 2952897881,
+            "Value": "RONDADOR"
+        },
+        {
+            "Key": 2960440287,
+            "Value": "KEPLER-321b"
+        },
+        {
+            "Key": 2961331193,
+            "Value": "NUEVO PARAÍSO"
+        },
+        {
+            "Key": 2963023976,
+            "Value": "POZO PROFUNDO"
+        },
+        {
+            "Key": 2967304390,
+            "Value": "BAHÍA VEGA"
+        },
+        {
+            "Key": 2980267130,
+            "Value": "STACY"
+        },
+        {
+            "Key": 2983003231,
+            "Value": "Nitsan"
+        },
+        {
+            "Key": 2985681234,
+            "Value": "GRAN ERRANTE"
+        },
+        {
+            "Key": 2989814560,
+            "Value": "VERGELES LOZANOS"
+        },
+        {
+            "Key": 2992138395,
+            "Value": "ZOSMA"
+        },
+        {
+            "Key": 2996935564,
+            "Value": "SOLDADOS DISCIPLINADOS DE APOYO A LA DEMOCRACIA"
+        },
+        {
+            "Key": 2999904680,
+            "Value": "SECTOR ORIÓN"
+        },
+        {
+            "Key": 3000372461,
+            "Value": "CIUDAD APROBACIÓN"
+        },
+        {
+            "Key": 3001533093,
+            "Value": "Lemaire"
+        },
+        {
+            "Key": 3002077388,
+            "Value": "VILLA GENERADORES"
+        },
+        {
+            "Key": 3005334329,
+            "Value": "KEPLER-287b"
+        },
+        {
+            "Key": 3006600704,
+            "Value": "Regencia"
+        },
+        {
+            "Key": 3009003351,
+            "Value": "MOG"
+        },
+        {
+            "Key": 3009292145,
+            "Value": "CONTABLE GRAEBER"
+        },
+        {
+            "Key": 3009293899,
+            "Value": "BATU BELIG"
+        },
+        {
+            "Key": 3010944915,
+            "Value": "¡HELLDIVERS, MOVILIZAOS!"
+        },
+        {
+            "Key": 3011828639,
+            "Value": "NUEVA COB"
+        },
+        {
+            "Key": 3014106519,
+            "Value": "PROMESA DE OTARU"
+        },
+        {
+            "Key": 3016206633,
+            "Value": "OCTOANILLOS"
+        },
+        {
+            "Key": 3019919758,
+            "Value": "KEPLER-313b"
+        },
+        {
+            "Key": 3021705767,
+            "Value": "EL DESCANSO DEL SOLDADO"
+        },
+        {
+            "Key": 3024067659,
+            "Value": "DEVASTADOR PESADO"
+        },
+        {
+            "Key": 3024520777,
+            "Value": "LENG SECUNDUS"
+        },
+        {
+            "Key": 3025038405,
+            "Value": "Tanques bombarderos"
+        },
+        {
+            "Key": 3029738043,
+            "Value": "Cazador depredador"
+        },
+        {
+            "Key": 3030272495,
+            "Value": "ABANDONO"
+        },
+        {
+            "Key": 3035241840,
+            "Value": "CARAMOOR"
+        },
+        {
+            "Key": 3042591905,
+            "Value": "Fanáticos"
+        },
+        {
+            "Key": 3045085994,
+            "Value": "ALIVIO"
+        },
+        {
+            "Key": 3045602539,
+            "Value": "Acuchillador paria"
+        },
+        {
+            "Key": 3050699459,
+            "Value": "KEPLER-345b"
+        },
+        {
+            "Key": 3054022597,
+            "Value": "ENULIALE"
+        },
+        {
+            "Key": 3054238048,
+            "Value": "MORSKIE OKO"
+        },
+        {
+            "Key": 3059367381,
+            "Value": "de la Oportunidad"
+        },
+        {
+            "Key": 3059762375,
+            "Value": "JURISPRUDENCIA"
+        },
+        {
+            "Key": 3063286369,
+            "Value": "PATRÓN DE CÁPSULA HELL MOSTAZA"
+        },
+        {
+            "Key": 3067999294,
+            "Value": "COMANDANTE DEL NIDO"
+        },
+        {
+            "Key": 3069390405,
+            "Value": "PATRÓN DE EXOTRAJE NARANJA BRILLANTE"
+        },
+        {
+            "Key": 3069469219,
+            "Value": "Brettman"
+        },
+        {
+            "Key": 3073586861,
+            "Value": "Caminantes de fábrica"
+        },
+        {
+            "Key": 3077749065,
+            "Value": "Comandante del nido"
+        },
+        {
+            "Key": 3084412776,
+            "Value": "Cargadores"
+        },
+        {
+            "Key": 3086658899,
+            "Value": "PIROSOLDADO"
+        },
+        {
+            "Key": 3089011827,
+            "Value": "CIUDAD LAGERLÖF"
+        },
+        {
+            "Key": 3090275867,
+            "Value": "CELEBRACIÓN"
+        },
+        {
+            "Key": 3091329534,
+            "Value": "KIRRIK"
+        },
+        {
+            "Key": 3092832165,
+            "Value": "MERIDIA"
+        },
+        {
+            "Key": 3094051902,
+            "Value": "IMPARCIAL"
+        },
+        {
+            "Key": 3097344451,
+            "Value": "Leviatán"
+        },
+        {
+            "Key": 3101528587,
+            "Value": "ÖDESHÖGRE"
+        },
+        {
+            "Key": 3109167484,
+            "Value": "Hakalax"
+        },
+        {
+            "Key": 3110738283,
+            "Value": "PATRÓN DE VEHÍCULO DE JUNGLA DE CEMENTO"
+        },
+        {
+            "Key": 3111416441,
+            "Value": "Higham"
+        },
+        {
+            "Key": 3112705780,
+            "Value": "Incursor cohete"
+        },
+        {
+            "Key": 3115822437,
+            "Value": "KRAKABOS"
+        },
+        {
+            "Key": 3118616277,
+            "Value": "KEPLER-327b"
+        },
+        {
+            "Key": 3119992422,
+            "Value": "FINAL DEL TRAIDOR"
+        },
+        {
+            "Key": 3127123521,
+            "Value": "LOS ILUMINADOS"
+        },
+        {
+            "Key": 3130272281,
+            "Value": "VIEJO OLDHAM"
+        },
+        {
+            "Key": 3133145775,
+            "Value": "de la Eternidad"
+        },
+        {
+            "Key": 3135100785,
+            "Value": "BRUTO ANIQUILADOR"
+        },
+        {
+            "Key": 3138072003,
+            "Value": "De vanguardia"
+        },
+        {
+            "Key": 3143719551,
+            "Value": "CIUDAD ESCARCHA"
+        },
+        {
+            "Key": 3143846020,
+            "Value": "CHARBAL-VII"
+        },
+        {
+            "Key": 3150403879,
+            "Value": "KEPLER-279b"
+        },
+        {
+            "Key": 3150803681,
+            "Value": "Madre"
+        },
+        {
+            "Key": 3158883809,
+            "Value": "KEPLER-320b"
+        },
+        {
+            "Key": 3159948003,
+            "Value": "Armstrong"
+        },
+        {
+            "Key": 3160372667,
+            "Value": "ERATA PRIME"
+        },
+        {
+            "Key": 3164522440,
+            "Value": "CIÉNAGA"
+        },
+        {
+            "Key": 3166068636,
+            "Value": "ESKER"
+        },
+        {
+            "Key": 3169978199,
+            "Value": "KEPLER-353b"
+        },
+        {
+            "Key": 3170157393,
+            "Value": "KEPLER-376b"
+        },
+        {
+            "Key": 3172956985,
+            "Value": "CATARATAS DE LA COMUNA"
+        },
+        {
+            "Key": 3173076563,
+            "Value": "Armelin"
+        },
+        {
+            "Key": 3176114089,
+            "Value": "BRUTO ABRASADOR"
+        },
+        {
+            "Key": 3176756443,
+            "Value": "BAHÍA RIRGA"
+        },
+        {
+            "Key": 3181485734,
+            "Value": "Hansson-Bjerke"
+        },
+        {
+            "Key": 3190734847,
+            "Value": "ZENIT"
+        },
+        {
+            "Key": 3193324325,
+            "Value": "¡Helldivers, movilizaos!"
+        },
+        {
+            "Key": 3196908787,
+            "Value": "Lee"
+        },
+        {
+            "Key": 3198311629,
+            "Value": "Kimura"
+        },
+        {
+            "Key": 3201091243,
+            "Value": "DOSTOINSTVO"
+        },
+        {
+            "Key": 3201222154,
+            "Value": "Berserker"
+        },
+        {
+            "Key": 3203629918,
+            "Value": "NUEVO KATMANDÚ"
+        },
+        {
+            "Key": 3203913453,
+            "Value": "PATRÓN DE LANZADERA MOSTAZA"
+        },
+        {
+            "Key": 3207161693,
+            "Value": "Severien"
+        },
+        {
+            "Key": 3209402160,
+            "Value": "Nidos de chillones"
+        },
+        {
+            "Key": 3211639846,
+            "Value": "Hordas de carne"
+        },
+        {
+            "Key": 3215785011,
+            "Value": "DECLARACIÓN DE XIRAN"
+        },
+        {
+            "Key": 3218460543,
+            "Value": "SUEÑO DEL PIONERO"
+        },
+        {
+            "Key": 3220476127,
+            "Value": "LESATH"
+        },
+        {
+            "Key": 3222410792,
+            "Value": "ALAMAK VII"
+        },
+        {
+            "Key": 3225533687,
+            "Value": "KEPLER-360b"
+        },
+        {
+            "Key": 3227753500,
+            "Value": "KEPLER-388b"
+        },
+        {
+            "Key": 3235228187,
+            "Value": "VIEJ QUIMIA"
+        },
+        {
+            "Key": 3235683262,
+            "Value": "Susurro"
+        },
+        {
+            "Key": 3239741438,
+            "Value": "BASHYR"
+        },
+        {
+            "Key": 3241077179,
+            "Value": "de la Paz"
+        },
+        {
+            "Key": 3243895582,
+            "Value": "PANDION-XXIV"
+        },
+        {
+            "Key": 3244361341,
+            "Value": "COBIJO"
+        },
+        {
+            "Key": 3246104028,
+            "Value": "IRULTA"
+        },
+        {
+            "Key": 3248318589,
+            "Value": "DYN ALFA 534-2"
+        },
+        {
+            "Key": 3249246944,
+            "Value": "KEPLER-296b"
+        },
+        {
+            "Key": 3251726327,
+            "Value": "KEPLER-361b"
+        },
+        {
+            "Key": 3253076821,
+            "Value": "SUPERVISOR"
+        },
+        {
+            "Key": 3256192545,
+            "Value": "SECTOR QUINTUS"
+        },
+        {
+            "Key": 3257616781,
+            "Value": "SECTOR PREVISIÓN"
+        },
+        {
+            "Key": 3259303240,
+            "Value": "Autómatas"
+        },
+        {
+            "Key": 3261100878,
+            "Value": "NUBLARIA I"
+        },
+        {
+            "Key": 3261365930,
+            "Value": "CAMINANTE EXPLORADOR"
+        },
+        {
+            "Key": 3263009716,
+            "Value": "HERTHON SECUNDUS"
+        },
+        {
+            "Key": 3263174413,
+            "Value": "NUEVO XIAMEN"
+        },
+        {
+            "Key": 3270663062,
+            "Value": "ADHAFERA SECUNDUS"
+        },
+        {
+            "Key": 3275461478,
+            "Value": "KEPLER-310b"
+        },
+        {
+            "Key": 3276302871,
+            "Value": "JARDINES DE SKAR"
+        },
+        {
+            "Key": 3277626454,
+            "Value": "Agujero de bichos"
+        },
+        {
+            "Key": 3278799117,
+            "Value": "PATRÓN DE VEHÍCULO AZUL REAL"
+        },
+        {
+            "Key": 3278860284,
+            "Value": "Naves de despliegue"
+        },
+        {
+            "Key": 3279100752,
+            "Value": "CLAORELL"
+        },
+        {
+            "Key": 3280746776,
+            "Value": "AGENTES QUÍMICOS"
+        },
+        {
+            "Key": 3282349580,
+            "Value": "LOS AUTÓMATAS"
+        },
+        {
+            "Key": 3283474813,
+            "Value": "de las Estrellas"
+        },
+        {
+            "Key": 3283630480,
+            "Value": "LUZ DE LIBERTAD"
+        },
+        {
+            "Key": 3287764042,
+            "Value": "VALLE DEL DESCUBRIMIENTO"
+        },
+        {
+            "Key": 3290486494,
+            "Value": "Soldados disciplinados de apoyo a la democracia"
+        },
+        {
+            "Key": 3292948085,
+            "Value": "Corpeleijn"
+        },
+        {
+            "Key": 3293707642,
+            "Value": "GYEONGSEONG"
+        },
+        {
+            "Key": 3295615380,
+            "Value": "CAZADOR BOMBA DE ESPORAS"
+        },
+        {
+            "Key": 3296392070,
+            "Value": "McGregor"
+        },
+        {
+            "Key": 3300214952,
+            "Value": "BRINK-2"
+        },
+        {
+            "Key": 3302818592,
+            "Value": "REGURGITADOR DE BILIS"
+        },
+        {
+            "Key": 3306812932,
+            "Value": "GUERRERO DE BILIS"
+        },
+        {
+            "Key": 3311517734,
+            "Value": "FUERTERRECIO"
+        },
+        {
+            "Key": 3312645486,
+            "Value": "CORNUCÓPOLIS"
+        },
+        {
+            "Key": 3324872373,
+            "Value": "ANDROS GAMMA"
+        },
+        {
+            "Key": 3330362068,
+            "Value": "Cazador"
+        },
+        {
+            "Key": 3331938550,
+            "Value": "KEPLER-278b"
+        },
+        {
+            "Key": 3335590414,
+            "Value": "KEPLER-381b"
+        },
+        {
+            "Key": 3342924444,
+            "Value": "TURING"
+        },
+        {
+            "Key": 3344257325,
+            "Value": "Bettmann"
+        },
+        {
+            "Key": 3349220266,
+            "Value": "KEPLER-328b"
+        },
+        {
+            "Key": 3350036223,
+            "Value": "KEPLER-393b"
+        },
+        {
+            "Key": 3353006053,
+            "Value": "PATRÓN DE CÁPSULA HELL NARANJA BRILLANTE"
+        },
+        {
+            "Key": 3363066353,
+            "Value": "Xenobita acérrimo"
+        },
+        {
+            "Key": 3364806074,
+            "Value": "TORRETA DE CAÑÓN"
+        },
+        {
+            "Key": 3365898186,
+            "Value": "Guerrero de bilis"
+        },
+        {
+            "Key": 3367789650,
+            "Value": "LOKAHEIM"
+        },
+        {
+            "Key": 3368575056,
+            "Value": "Señor"
+        },
+        {
+            "Key": 3369110221,
+            "Value": "CAMPOSPOP"
+        },
+        {
+            "Key": 3370281534,
+            "Value": "PUERTO MISERICORDIA"
+        },
+        {
+            "Key": 3376866480,
+            "Value": "ESTACIÓN DE OSLO"
+        },
+        {
+            "Key": 3377907980,
+            "Value": "SECTOR OMEGA"
+        },
+        {
+            "Key": 3379521453,
+            "Value": "CLE ELUM REDIVIVA"
+        },
+        {
+            "Key": 3380571980,
+            "Value": "PÖPLI IX"
+        },
+        {
+            "Key": 3382493069,
+            "Value": "Morgan"
+        },
+        {
+            "Key": 3383944595,
+            "Value": "WEZEN"
+        },
+        {
+            "Key": 3385193392,
+            "Value": "PORUGU"
+        },
+        {
+            "Key": 3388563093,
+            "Value": "Soldado de caballería de la brigada de cazas con metralleta"
+        },
+        {
+            "Key": 3389070063,
+            "Value": "CUATRO CORONAS"
+        },
+        {
+            "Key": 3392016075,
+            "Value": "COMERCIO LIBRE"
+        },
+        {
+            "Key": 3398129090,
+            "Value": "SUEÑO DE MOBERG"
+        },
+        {
+            "Key": 3401528511,
+            "Value": "Brutos aniquiladores"
+        },
+        {
+            "Key": 3410420208,
+            "Value": "Heathcote"
+        },
+        {
+            "Key": 3410743548,
+            "Value": "Portadora"
+        },
+        {
+            "Key": 3422660136,
+            "Value": "RUINENEBRA"
+        },
+        {
+            "Key": 3426737172,
+            "Value": "Ninguno"
+        },
+        {
+            "Key": 3429370169,
+            "Value": "MALAS DEUDAS"
+        },
+        {
+            "Key": 3429653155,
+            "Value": "CANOPUS"
+        },
+        {
+            "Key": 3430946630,
+            "Value": "KEPLER-280b"
+        },
+        {
+            "Key": 3443379122,
+            "Value": "Cucadragones"
+        },
+        {
+            "Key": 3453655297,
+            "Value": "VISIÓN DE RIZIO"
+        },
+        {
+            "Key": 3454838263,
+            "Value": "GUERRERO DE RUPTURA"
+        },
+        {
+            "Key": 3455009224,
+            "Value": "Tanque aniquilador"
+        },
+        {
+            "Key": 3457638201,
+            "Value": "INTENSIDAD"
+        },
+        {
+            "Key": 3458804072,
+            "Value": "RAS ALGETHI"
+        },
+        {
+            "Key": 3460683182,
+            "Value": "de la Humanidad"
+        },
+        {
+            "Key": 3461599670,
+            "Value": "KEPLER-282b"
+        },
+        {
+            "Key": 3473770236,
+            "Value": "SECTOR VALDIS"
+        },
+        {
+            "Key": 3476251425,
+            "Value": "KEPLER-366b"
+        },
+        {
+            "Key": 3476617682,
+            "Value": "de la Benevolencia"
+        },
+        {
+            "Key": 3480109512,
+            "Value": "FENRIR III"
+        },
+        {
+            "Key": 3480261096,
+            "Value": "VILLABEDUL"
+        },
+        {
+            "Key": 3483017602,
+            "Value": "de la Autodeterminación"
+        },
+        {
+            "Key": 3484155856,
+            "Value": "PÁRAMO DEL ERUDITO"
+        },
+        {
+            "Key": 3494209900,
+            "Value": "BELLATRIX"
+        },
+        {
+            "Key": 3495940927,
+            "Value": "HONOR DE CABALLERO"
+        },
+        {
+            "Key": 3495946093,
+            "Value": "FOSA MINERAL"
+        },
+        {
+            "Key": 3496786382,
+            "Value": "Nido de chillones"
+        },
+        {
+            "Key": 3498181594,
+            "Value": "Devastador de conflagración"
+        },
+        {
+            "Key": 3502399096,
+            "Value": "KEPLER-323b"
+        },
+        {
+            "Key": 3504573238,
+            "Value": "SETIA"
+        },
+        {
+            "Key": 3505595200,
+            "Value": "FANÁTICO"
+        },
+        {
+            "Key": 3506421665,
+            "Value": "Flowers"
+        },
+        {
+            "Key": 3511132020,
+            "Value": "OBEDIENCIA"
+        },
+        {
+            "Key": 3512800577,
+            "Value": "KEPLER-290b"
+        },
+        {
+            "Key": 3517486397,
+            "Value": "ERIAL ÁRIDO"
+        },
+        {
+            "Key": 3519536123,
+            "Value": "MERAK"
+        },
+        {
+            "Key": 3519611870,
+            "Value": "Bayrak"
+        },
+        {
+            "Key": 3525702929,
+            "Value": "SECTOR IPTUS"
+        },
+        {
+            "Key": 3528833315,
+            "Value": "Olofsson"
+        },
+        {
+            "Key": 3529979014,
+            "Value": "DETONACIÓN DEMOCRÁTICA"
+        },
+        {
+            "Key": 3536341782,
+            "Value": "MOLINOS GREATWOOD"
+        },
+        {
+            "Key": 3543116688,
+            "Value": "CHAPARRÓN"
+        },
+        {
+            "Key": 3545171052,
+            "Value": "SECTOR SEVERIN"
+        },
+        {
+            "Key": 3545192316,
+            "Value": "Incursores cohete"
+        },
+        {
+            "Key": 3548116907,
+            "Value": "PERSEVERANCIA"
+        },
+        {
+            "Key": 3548141040,
+            "Value": "Winaldy"
+        },
+        {
+            "Key": 3550991066,
+            "Value": "ACECHADOR DEPREDADOR"
+        },
+        {
+            "Key": 3554691971,
+            "Value": "del Alba"
+        },
+        {
+            "Key": 3557245244,
+            "Value": "TANQUE BOMBARDERO"
+        },
+        {
+            "Key": 3564923972,
+            "Value": "Guerrero"
+        },
+        {
+            "Key": 3569445028,
+            "Value": "CIUDAD VIEJO HOGAR"
+        },
+        {
+            "Key": 3570922568,
+            "Value": "KEPLER-362b"
+        },
+        {
+            "Key": 3578469809,
+            "Value": "PRESA SARAH SWIFT"
+        },
+        {
+            "Key": 3579113113,
+            "Value": "Nave de teletransporte"
+        },
+        {
+            "Key": 3581530276,
+            "Value": "SEPTISELLO"
+        },
+        {
+            "Key": 3584260041,
+            "Value": "POZOS VERNEN"
+        },
+        {
+            "Key": 3587867250,
+            "Value": "VISTAPLAYA"
+        },
+        {
+            "Key": 3592430137,
+            "Value": "Arremetedores"
+        },
+        {
+            "Key": 3593438329,
+            "Value": "PATRIOTAS POLARES"
+        },
+        {
+            "Key": 3596915833,
+            "Value": "Luchadores"
+        },
+        {
+            "Key": 3598277119,
+            "Value": "CYBERSTAN"
+        },
+        {
+            "Key": 3603869762,
+            "Value": "KELVINOR"
+        },
+        {
+            "Key": 3607018920,
+            "Value": "RASP"
+        },
+        {
+            "Key": 3608538404,
+            "Value": "NIDO DE CHILLONES"
+        },
+        {
+            "Key": 3616280245,
+            "Value": "RAVENNA DEL PO"
+        },
+        {
+            "Key": 3621885961,
+            "Value": "COMANDANTE ALFA"
+        },
+        {
+            "Key": 3621980142,
+            "Value": "TIBIT"
+        },
+        {
+            "Key": 3622775454,
+            "Value": "MOLINOS DE VINCAPERVINCA"
+        },
+        {
+            "Key": 3626758819,
+            "Value": "KUMA"
+        },
+        {
+            "Key": 3628262152,
+            "Value": "VIGÍA"
+        },
+        {
+            "Key": 3630129367,
+            "Value": "DUMA TYR"
+        },
+        {
+            "Key": 3632688076,
+            "Value": "KEPLER-311b"
+        },
+        {
+            "Key": 3635343795,
+            "Value": "Tanque triturador"
+        },
+        {
+            "Key": 3636423311,
+            "Value": "Fanático"
+        },
+        {
+            "Key": 3642991046,
+            "Value": "Ayre"
+        },
+        {
+            "Key": 3651111227,
+            "Value": "Burrows"
+        },
+        {
+            "Key": 3653296105,
+            "Value": "de la Constitución"
+        },
+        {
+            "Key": 3667756654,
+            "Value": "ALADFAR CXI"
+        },
+        {
+            "Key": 3671149001,
+            "Value": "Devastadores de conflagración"
+        },
+        {
+            "Key": 3671853082,
+            "Value": "Llamada así por la histórica conferencia en la cual se descubrió que la humanidad era la especie más igualitaria de la galaxia."
+        },
+        {
+            "Key": 3672376337,
+            "Value": "KEPLER-369b"
+        },
+        {
+            "Key": 3673962713,
+            "Value": "Khatib"
+        },
+        {
+            "Key": 3675634490,
+            "Value": "Nicholson"
+        },
+        {
+            "Key": 3677750052,
+            "Value": "SECTOR CELESTE"
+        },
+        {
+            "Key": 3678299227,
+            "Value": "General Brasch"
+        },
+        {
+            "Key": 3682640031,
+            "Value": "de la Serenidad"
+        },
+        {
+            "Key": 3687135479,
+            "Value": "ERSATZ"
+        },
+        {
+            "Key": 3688481919,
+            "Value": "Legisladora"
+        },
+        {
+            "Key": 3689757614,
+            "Value": "KEPLER-288b"
+        },
+        {
+            "Key": 3690215169,
+            "Value": "del Patriotismo"
+        },
+        {
+            "Key": 3690945823,
+            "Value": "GRAFABEZA"
+        },
+        {
+            "Key": 3692813988,
+            "Value": "HALDUS"
+        },
+        {
+            "Key": 3694915461,
+            "Value": "CENTRO DE LOGÍSTICA 232-B"
+        },
+        {
+            "Key": 3704017479,
+            "Value": "BAHÍA ELECTRA"
+        },
+        {
+            "Key": 3709010725,
+            "Value": "YED PRIOR"
+        },
+        {
+            "Key": 3715919548,
+            "Value": "ANTIGUOS CAMPOS DE RECLUSIÓN"
+        },
+        {
+            "Key": 3717369657,
+            "Value": "CRONOPARA"
+        },
+        {
+            "Key": 3722503053,
+            "Value": "CHARA"
+        },
+        {
+            "Key": 3723342013,
+            "Value": "Coloso"
+        },
+        {
+            "Key": 3725149159,
+            "Value": "ZC-4"
+        },
+        {
+            "Key": 3725356541,
+            "Value": "CERBERUS IIIc"
+        },
+        {
+            "Key": 3726554027,
+            "Value": "BAHÍA AURORA"
+        },
+        {
+            "Key": 3730705798,
+            "Value": "Rey"
+        },
+        {
+            "Key": 3731034809,
+            "Value": "Ryhre"
+        },
+        {
+            "Key": 3737295549,
+            "Value": "KEPLER-394b"
+        },
+        {
+            "Key": 3740715487,
+            "Value": "ESTANQUE NEKK"
+        },
+        {
+            "Key": 3743423561,
+            "Value": "Cuidadora"
+        },
+        {
+            "Key": 3743479119,
+            "Value": "GRAN INVERSIÓN"
+        },
+        {
+            "Key": 3745301240,
+            "Value": "NUNCOMPLEJO"
+        },
+        {
+            "Key": 3745869348,
+            "Value": "Nystrom"
+        },
+        {
+            "Key": 3746837729,
+            "Value": "KEPLER-344b"
+        },
+        {
+            "Key": 3747586953,
+            "Value": "FIN DEL MINERAL"
+        },
+        {
+            "Key": 3748497362,
+            "Value": "de la Destrucción"
+        },
+        {
+            "Key": 3749126267,
+            "Value": "KEPLER-387b"
+        },
+        {
+            "Key": 3750017930,
+            "Value": "KEPLER-398b"
+        },
+        {
+            "Key": 3750283492,
+            "Value": "PANTANO V"
+        },
+        {
+            "Key": 3755650243,
+            "Value": "CIUDAD HAKU"
+        },
+        {
+            "Key": 3756643203,
+            "Value": "Fritzell"
+        },
+        {
+            "Key": 3756969656,
+            "Value": "KEPLER-333b"
+        },
+        {
+            "Key": 3761101242,
+            "Value": "KEPLER-349b"
+        },
+        {
+            "Key": 3767503173,
+            "Value": "OROTH"
+        },
+        {
+            "Key": 3768231542,
+            "Value": "Jueza"
+        },
+        {
+            "Key": 3772226613,
+            "Value": "Kelder"
+        },
+        {
+            "Key": 3772752154,
+            "Value": "Merodeadores"
+        },
+        {
+            "Key": 3782673150,
+            "Value": "Johansson"
+        },
+        {
+            "Key": 3784605505,
+            "Value": "Sellerfors"
+        },
+        {
+            "Key": 3787334875,
+            "Value": "de la Guerra"
+        },
+        {
+            "Key": 3791129379,
+            "Value": "GUARDIÁN DE LA COLMENA"
+        },
+        {
+            "Key": 3792296541,
+            "Value": "DRAUPNIR"
+        },
+        {
+            "Key": 3794527478,
+            "Value": "Fabricante"
+        },
+        {
+            "Key": 3799172693,
+            "Value": "PATRÓN DE EXOTRAJE JUNGLA DE CEMENTO"
+        },
+        {
+            "Key": 3799701609,
+            "Value": "CARGADOR DE RUPTURA"
+        },
+        {
+            "Key": 3800006309,
+            "Value": "Representante electa"
+        },
+        {
+            "Key": 3801905866,
+            "Value": "PAROCARDIO"
+        },
+        {
+            "Key": 3817774454,
+            "Value": "EMOCIÓN"
+        },
+        {
+            "Key": 3820768900,
+            "Value": "Sector"
+        },
+        {
+            "Key": 3825277513,
+            "Value": "Sturk"
+        },
+        {
+            "Key": 3825421242,
+            "Value": "Incursor de la brigada de cazas"
+        },
+        {
+            "Key": 3834393618,
+            "Value": "HOYO 8"
+        },
+        {
+            "Key": 3835584257,
+            "Value": "KEPLER-291b"
+        },
+        {
+            "Key": 3851712342,
+            "Value": "Espectros Justos"
+        },
+        {
+            "Key": 3861880868,
+            "Value": "KEPLER-392b"
+        },
+        {
+            "Key": 3862989608,
+            "Value": "Grupo de control"
+        },
+        {
+            "Key": 3865708061,
+            "Value": "CAZADOR DEPREDADOR"
+        },
+        {
+            "Key": 3868806488,
+            "Value": "OBARI"
+        },
+        {
+            "Key": 3870488427,
+            "Value": "LUCHADOR"
+        },
+        {
+            "Key": 3871739922,
+            "Value": "Pantera"
+        },
+        {
+            "Key": 3877198592,
+            "Value": "Agujeros de bichos"
+        },
+        {
+            "Key": 3877563222,
+            "Value": "Supervisor creciente"
+        },
+        {
+            "Key": 3878090408,
+            "Value": "PANTANO VI"
+        },
+        {
+            "Key": 3878595924,
+            "Value": "Nystrom"
+        },
+        {
+            "Key": 3880800031,
+            "Value": "SECTOR CANTOLUS"
+        },
+        {
+            "Key": 3885994214,
+            "Value": "INTERÉS"
+        },
+        {
+            "Key": 3886945884,
+            "Value": "KEPLER-308b"
+        },
+        {
+            "Key": 3887939125,
+            "Value": "UNÍSONO"
+        },
+        {
+            "Key": 3891463586,
+            "Value": "UBANEA"
+        },
+        {
+            "Key": 3894418747,
+            "Value": "SECTOR JIN XI"
+        },
+        {
+            "Key": 3895550358,
+            "Value": "INCURSOR EXPLORADOR"
+        },
+        {
+            "Key": 3896445758,
+            "Value": "SUPERVISOR CRECIENTE"
+        },
+        {
+            "Key": 3896690221,
+            "Value": "Torre infestada"
+        },
+        {
+            "Key": 3900627240,
+            "Value": "BUJU"
+        },
+        {
+            "Key": 3903153972,
+            "Value": "Cargador de ruptura"
+        },
+        {
+            "Key": 3904473600,
+            "Value": "KEPLER-365b"
+        },
+        {
+            "Key": 3909684051,
+            "Value": "IMBER"
+        },
+        {
+            "Key": 3914500540,
+            "Value": "CASTOR"
+        },
+        {
+            "Key": 3915924298,
+            "Value": "del Régimen"
+        },
+        {
+            "Key": 3921592399,
+            "Value": "Tanque bombardero"
+        },
+        {
+            "Key": 3926941105,
+            "Value": "Edstrom"
+        },
+        {
+            "Key": 3927675035,
+            "Value": "Lasota"
+        },
+        {
+            "Key": 3929716830,
+            "Value": "Señor de colmena"
+        },
+        {
+            "Key": 3931430370,
+            "Value": "BAJOS DE TVENNE"
+        },
+        {
+            "Key": 3935517876,
+            "Value": "del Acero"
+        },
+        {
+            "Key": 3937567880,
+            "Value": "DEMIURG"
+        },
+        {
+            "Key": 3939430458,
+            "Value": "WASAT"
+        },
+        {
+            "Key": 3940422141,
+            "Value": "KEPLER-351b"
+        },
+        {
+            "Key": 3946592432,
+            "Value": "PATRÓN DE CÁPSULA HELL ESTÁNDAR"
+        },
+        {
+            "Key": 3949569347,
+            "Value": "GAELLIVARE"
+        },
+        {
+            "Key": 3955894400,
+            "Value": "GACRUX"
+        },
+        {
+            "Key": 3961242203,
+            "Value": "METRALLA"
+        },
+        {
+            "Key": 3962567934,
+            "Value": "CRIMSICA"
+        },
+        {
+            "Key": 3965403289,
+            "Value": "PROVIDENCIA"
+        },
+        {
+            "Key": 3967877481,
+            "Value": "EXALTACIÓN"
+        },
+        {
+            "Key": 3969578797,
+            "Value": "Fraser"
+        },
+        {
+            "Key": 3970498706,
+            "Value": "PEACOCK"
+        },
+        {
+            "Key": 3972994097,
+            "Value": "Mago acólito"
+        },
+        {
+            "Key": 3973182985,
+            "Value": "TERMÍNIDOS"
+        },
+        {
+            "Key": 3975465670,
+            "Value": "KEPLER-293b"
+        },
+        {
+            "Key": 3978718279,
+            "Value": "MINCHIR"
+        },
+        {
+            "Key": 3985499109,
+            "Value": "PENTA"
+        },
+        {
+            "Key": 3994226327,
+            "Value": "NUEVO DA NANG"
+        },
+        {
+            "Key": 3998109846,
+            "Value": "BUSCADOR PARIA"
+        },
+        {
+            "Key": 4002995121,
+            "Value": "PORTE LIBERTÉ"
+        },
+        {
+            "Key": 4003330548,
+            "Value": "SECTOR UMLAUT"
+        },
+        {
+            "Key": 4007176464,
+            "Value": "REGISTRAR"
+        },
+        {
+            "Key": 4007377380,
+            "Value": "PLÉTORA"
+        },
+        {
+            "Key": 4011376215,
+            "Value": "ASILO 239-C"
+        },
+        {
+            "Key": 4016445878,
+            "Value": "HORDA DE CARNE"
+        },
+        {
+            "Key": 4016615575,
+            "Value": "Devastadores pesados"
+        },
+        {
+            "Key": 4016785230,
+            "Value": "SECTOR FERRIS"
+        },
+        {
+            "Key": 4018146404,
+            "Value": "Antecesora"
+        },
+        {
+            "Key": 4018724654,
+            "Value": "Baskin"
+        },
+        {
+            "Key": 4036369765,
+            "Value": "SECTOR MERIDIONAL"
+        },
+        {
+            "Key": 4036424274,
+            "Value": "LOS TERMÍNIDOS"
+        },
+        {
+            "Key": 4038356158,
+            "Value": "Devastadores con cohete"
+        },
+        {
+            "Key": 4039692928,
+            "Value": "Soldado de infantería"
+        },
+        {
+            "Key": 4042534893,
+            "Value": "Osman"
+        },
+        {
+            "Key": 4044021234,
+            "Value": "Frob"
+        },
+        {
+            "Key": 4050163919,
+            "Value": "MORTAX PRIME"
+        },
+        {
+            "Key": 4050611900,
+            "Value": "Longato"
+        },
+        {
+            "Key": 4050848585,
+            "Value": "Guerreros"
+        },
+        {
+            "Key": 4052291412,
+            "Value": "Soldados de caballería de la brigada de cazas con metralleta"
+        },
+        {
+            "Key": 4053729028,
+            "Value": "SECTOR KELVIN"
+        },
+        {
+            "Key": 4057885278,
+            "Value": "LIBERTAD EXQUISITA"
+        },
+        {
+            "Key": 4059750260,
+            "Value": "Camara"
+        },
+        {
+            "Key": 4062016236,
+            "Value": "NUEVA KIRUNA"
+        },
+        {
+            "Key": 4067743828,
+            "Value": "Canción"
+        },
+        {
+            "Key": 4068320987,
+            "Value": "Comandantes alfa"
+        },
+        {
+            "Key": 4070447728,
+            "Value": "RIWO"
+        },
+        {
+            "Key": 4070962490,
+            "Value": "CENTRO ADMINISTRATIVO 02"
+        },
+        {
+            "Key": 4071276717,
+            "Value": "INVERSIÓN"
+        },
+        {
+            "Key": 4072255229,
+            "Value": "SECTOR GUANG"
+        },
+        {
+            "Key": 4075596613,
+            "Value": "Iluminados"
+        },
+        {
+            "Key": 4075785797,
+            "Value": "MESETA DEL MENSAJERO"
+        },
+        {
+            "Key": 4079449855,
+            "Value": "ARBOLEDA DE LA FAMILIA"
+        },
+        {
+            "Key": 4081554920,
+            "Value": "Semental"
+        },
+        {
+            "Key": 4082023109,
+            "Value": "PUERTO DE LA VIUDA"
+        },
+        {
+            "Key": 4084546271,
+            "Value": "LAS VILLAS"
+        },
+        {
+            "Key": 4088126157,
+            "Value": "BAHÍA MATAR"
+        },
+        {
+            "Key": 4092444932,
+            "Value": "ANDROS DELTA"
+        },
+        {
+            "Key": 4093374049,
+            "Value": "KHARST"
+        },
+        {
+            "Key": 4100527148,
+            "Value": "de la Moralidad"
+        },
+        {
+            "Key": 4106646137,
+            "Value": "de la Mañana"
+        },
+        {
+            "Key": 4106686024,
+            "Value": "Acechador depredador"
+        },
+        {
+            "Key": 4116054022,
+            "Value": "AZTERRA"
+        },
+        {
+            "Key": 4116583190,
+            "Value": "QUEMADURA"
+        },
+        {
+            "Key": 4128108508,
+            "Value": "Sodermark"
+        },
+        {
+            "Key": 4130011844,
+            "Value": "Sueño"
+        },
+        {
+            "Key": 4134104203,
+            "Value": "Nave nodriza"
+        },
+        {
+            "Key": 4136557292,
+            "Value": "PENDIENTES CRISTALINAS"
+        },
+        {
+            "Key": 4137490107,
+            "Value": "GRUTA ALDERIDGE"
+        },
+        {
+            "Key": 4138482718,
+            "Value": "SOLDADO DE INFANTERÍA"
+        },
+        {
+            "Key": 4139107168,
+            "Value": "SUPERTIERRA"
+        },
+        {
+            "Key": 4140937866,
+            "Value": "Distribuidora"
+        },
+        {
+            "Key": 4142342788,
+            "Value": "KEPLER-379b"
+        },
+        {
+            "Key": 4146569305,
+            "Value": "MASTODONTE CARGADOR"
+        },
+        {
+            "Key": 4149891798,
+            "Value": "PATRÓN DE VEHÍCULO VERDE SINIESTRO"
+        },
+        {
+            "Key": 4155803285,
+            "Value": "SOLGHAST"
+        },
+        {
+            "Key": 4157907194,
+            "Value": "MINA 902"
+        },
+        {
+            "Key": 4159864532,
+            "Value": "Fabricantes"
+        },
+        {
+            "Key": 4160790160,
+            "Value": "LAELIA"
+        },
+        {
+            "Key": 4160806915,
+            "Value": "Pastinaca"
+        },
+        {
+            "Key": 4164526636,
+            "Value": "KEPLER-295b"
+        },
+        {
+            "Key": 4164770624,
+            "Value": "INGMAR"
+        },
+        {
+            "Key": 4165098055,
+            "Value": "Padre"
+        },
+        {
+            "Key": 4165159481,
+            "Value": "SENGE 23"
+        },
+        {
+            "Key": 4165395098,
+            "Value": "KEPLER-341b"
+        },
+        {
+            "Key": 4165434863,
+            "Value": "Titana"
+        },
+        {
+            "Key": 4165766606,
+            "Value": "Titanes de bilis"
+        },
+        {
+            "Key": 4166502146,
+            "Value": "Proveedora"
+        },
+        {
+            "Key": 4168292558,
+            "Value": "Pilestedt"
+        },
+        {
+            "Key": 4168695740,
+            "Value": "ALAIRT III"
+        },
+        {
+            "Key": 4170304953,
+            "Value": "KEPLER-399b"
+        },
+        {
+            "Key": 4172658715,
+            "Value": "Schonberger"
+        },
+        {
+            "Key": 4185462613,
+            "Value": "KEPLER-335b"
+        },
+        {
+            "Key": 4185597853,
+            "Value": "ZEA RUGOSIA"
+        },
+        {
+            "Key": 4188679567,
+            "Value": "TANQUE ANIQUILADOR"
+        },
+        {
+            "Key": 4189136961,
+            "Value": "Remolinos de arena"
+        },
+        {
+            "Key": 4192505977,
+            "Value": "Baliza"
+        },
+        {
+            "Key": 4193991609,
+            "Value": "AZUR SECUNDUS"
+        },
+        {
+            "Key": 4194957957,
+            "Value": "VÁHTJER"
+        },
+        {
+            "Key": 4195231865,
+            "Value": "Agentes de la Verdad"
+        },
+        {
+            "Key": 4207312615,
+            "Value": "Voluntad"
+        },
+        {
+            "Key": 4207753621,
+            "Value": "KURRI KURRI"
+        },
+        {
+            "Key": 4209107572,
+            "Value": "ERRANTE"
+        },
+        {
+            "Key": 4211847317,
+            "Value": "Sin voto"
+        },
+        {
+            "Key": 4212061343,
+            "Value": "ROCA ABURRIDA"
+        },
+        {
+            "Key": 4212104855,
+            "Value": "GRUPO DE CONTROL"
+        },
+        {
+            "Key": 4212192829,
+            "Value": "Incursores con ametralladoras"
+        },
+        {
+            "Key": 4212839382,
+            "Value": "Carroñero"
+        },
+        {
+            "Key": 4218892298,
+            "Value": "KEPLER-377b"
+        },
+        {
+            "Key": 4219840211,
+            "Value": "BEKVAM III"
+        },
+        {
+            "Key": 4223909310,
+            "Value": "INCURSOR CON AMETRALLADORA"
+        },
+        {
+            "Key": 4224354626,
+            "Value": "de la Justicia"
+        },
+        {
+            "Key": 4224650510,
+            "Value": "DILUVIA"
+        },
+        {
+            "Key": 4224862544,
+            "Value": "Naves de teletransporte"
+        },
+        {
+            "Key": 4225321155,
+            "Value": "CUMBRE DE LA LIBERTAD"
+        },
+        {
+            "Key": 4230842877,
+            "Value": "Bombarderos brutos"
+        },
+        {
+            "Key": 4234894978,
+            "Value": "SECTOR IDUN"
+        },
+        {
+            "Key": 4243457500,
+            "Value": "LLAMA DE LA LIBERTAD"
+        },
+        {
+            "Key": 4250292210,
+            "Value": "de la Autoridad"
+        },
+        {
+            "Key": 4255508129,
+            "Value": "KEPLER-325b"
+        },
+        {
+            "Key": 4256285820,
+            "Value": "GLOBULUS"
+        },
+        {
+            "Key": 4256815515,
+            "Value": "PUNTO DE PHAM"
+        },
+        {
+            "Key": 4258233989,
+            "Value": "EL DESCANSO DE BUCU"
+        },
+        {
+            "Key": 4260496089,
+            "Value": "VILHELMINA DOROTHEA FREDRIKA"
+        },
+        {
+            "Key": 4262519325,
+            "Value": "Auger"
+        },
+        {
+            "Key": 4262588123,
+            "Value": "Broomhall"
+        },
+        {
+            "Key": 4263860899,
+            "Value": "Susnjar"
+        },
+        {
+            "Key": 4268346210,
+            "Value": "Davidsson"
+        },
+        {
+            "Key": 4271562806,
+            "Value": "KINABATANGAN"
+        },
+        {
+            "Key": 4274042647,
+            "Value": "GLORIA DEL SOLDADO"
+        },
+        {
+            "Key": 4275167981,
+            "Value": "PARSH"
+        },
+        {
+            "Key": 4277211858,
+            "Value": "Incursores exploradores"
+        },
+        {
+            "Key": 4279955449,
+            "Value": "Haggstrom"
+        },
+        {
+            "Key": 4283102512,
+            "Value": "CAMPOS LUCIÉRNAGA"
+        },
+        {
+            "Key": 4286117683,
+            "Value": "Campeona"
+        },
+        {
+            "Key": 4289452968,
+            "Value": "LAGO ZAFIRO"
+        },
+        {
+            "Key": 4293347269,
+            "Value": "Atmósfera"
+        }
+    ]
+}

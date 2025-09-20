@@ -1,0 +1,6058 @@
+{
+    "Version": 1,
+    "Language": {
+        "Hash": "0x6f4515cb",
+        "KnownName": "gb",
+        "KnownFriendlyName": "English (UK)"
+    },
+    "Items": [
+        {
+            "Key": 149196,
+            "Value": "Scout Striders"
+        },
+        {
+            "Key": 2537631,
+            "Value": "GENESIS PRIME"
+        },
+        {
+            "Key": 2543939,
+            "Value": "EUKORIA"
+        },
+        {
+            "Key": 5232386,
+            "Value": "ADVANCED DEVASTATOR"
+        },
+        {
+            "Key": 7787042,
+            "Value": "Olofson"
+        },
+        {
+            "Key": 18575513,
+            "Value": "Persson"
+        },
+        {
+            "Key": 20706814,
+            "Value": "Scout Strider"
+        },
+        {
+            "Key": 21450105,
+            "Value": "STANDARD EXOSUIT PATTERN"
+        },
+        {
+            "Key": 22557897,
+            "Value": "Ankarberg"
+        },
+        {
+            "Key": 24503646,
+            "Value": "Sovereign"
+        },
+        {
+            "Key": 31863456,
+            "Value": "Martyr"
+        },
+        {
+            "Key": 46404066,
+            "Value": "XENOBITE ARDENT"
+        },
+        {
+            "Key": 51976185,
+            "Value": "HANGAR 6"
+        },
+        {
+            "Key": 53785855,
+            "Value": "BOTEIN"
+        },
+        {
+            "Key": 56360453,
+            "Value": "Mirror"
+        },
+        {
+            "Key": 56883807,
+            "Value": "Ministry of Science"
+        },
+        {
+            "Key": 58819778,
+            "Value": "PROSPERITY CITY"
+        },
+        {
+            "Key": 62844138,
+            "Value": "KEPLER-336b"
+        },
+        {
+            "Key": 63664792,
+            "Value": "Patriot"
+        },
+        {
+            "Key": 64425627,
+            "Value": "Englund"
+        },
+        {
+            "Key": 65932548,
+            "Value": "LASTOME"
+        },
+        {
+            "Key": 69604317,
+            "Value": "SAFETY ORANGE SHUTTLE PATTERN"
+        },
+        {
+            "Key": 70623210,
+            "Value": "ACUBENS PRIME"
+        },
+        {
+            "Key": 71980820,
+            "Value": "AKIRA SECTOR"
+        },
+        {
+            "Key": 73196956,
+            "Value": "FREEDOM PEAK"
+        },
+        {
+            "Key": 73287709,
+            "Value": "Steeled Veterans"
+        },
+        {
+            "Key": 74872499,
+            "Value": "of Twilight"
+        },
+        {
+            "Key": 75849082,
+            "Value": "Incendiary MG Devastator"
+        },
+        {
+            "Key": 76566228,
+            "Value": "Leahy"
+        },
+        {
+            "Key": 87675210,
+            "Value": "SOL SYSTEM"
+        },
+        {
+            "Key": 90985685,
+            "Value": "GUNPOWDER MEADOWS"
+        },
+        {
+            "Key": 91568612,
+            "Value": "Outcast Tracker"
+        },
+        {
+            "Key": 93572740,
+            "Value": "Charger Behemoths"
+        },
+        {
+            "Key": 99741084,
+            "Value": "RATTLESNAKE EXOSUIT PATTERN"
+        },
+        {
+            "Key": 100334534,
+            "Value": "Warrior"
+        },
+        {
+            "Key": 103796783,
+            "Value": "GUNVALD"
+        },
+        {
+            "Key": 104315069,
+            "Value": "INTREPIDNESS"
+        },
+        {
+            "Key": 104744128,
+            "Value": "GHOUL"
+        },
+        {
+            "Key": 106157565,
+            "Value": "Overships"
+        },
+        {
+            "Key": 111854113,
+            "Value": "Advocate"
+        },
+        {
+            "Key": 113277221,
+            "Value": "Brood Commanders"
+        },
+        {
+            "Key": 117029659,
+            "Value": "Predator Stalkers"
+        },
+        {
+            "Key": 119892493,
+            "Value": "SULFURA"
+        },
+        {
+            "Key": 122093803,
+            "Value": "SEASSE"
+        },
+        {
+            "Key": 123940318,
+            "Value": "MAW"
+        },
+        {
+            "Key": 124315771,
+            "Value": "SETTLEMENT 7"
+        },
+        {
+            "Key": 124817064,
+            "Value": "of Vigilance"
+        },
+        {
+            "Key": 126536216,
+            "Value": "KEPLER-354b"
+        },
+        {
+            "Key": 126582437,
+            "Value": "Advanced Devastators"
+        },
+        {
+            "Key": 129667267,
+            "Value": "STALKER"
+        },
+        {
+            "Key": 131300950,
+            "Value": "KLEN DAHTH II"
+        },
+        {
+            "Key": 135052481,
+            "Value": "Executor"
+        },
+        {
+            "Key": 135647353,
+            "Value": "Reinforced Scout Striders"
+        },
+        {
+            "Key": 147228259,
+            "Value": "IVIS"
+        },
+        {
+            "Key": 147367428,
+            "Value": "Sonesson"
+        },
+        {
+            "Key": 151044459,
+            "Value": "ARTURION SECTOR"
+        },
+        {
+            "Key": 153780622,
+            "Value": "KEPLER-339b"
+        },
+        {
+            "Key": 154450414,
+            "Value": "MARS"
+        },
+        {
+            "Key": 154617429,
+            "Value": "CONVENIENCE"
+        },
+        {
+            "Key": 166687808,
+            "Value": "WARP SHIP"
+        },
+        {
+            "Key": 168895875,
+            "Value": "GAZER"
+        },
+        {
+            "Key": 169702535,
+            "Value": "SYZYGY"
+        },
+        {
+            "Key": 171693015,
+            "Value": "Ghouls"
+        },
+        {
+            "Key": 173031125,
+            "Value": "Bredberg"
+        },
+        {
+            "Key": 173450602,
+            "Value": "FALSTAFF SECTOR"
+        },
+        {
+            "Key": 179119539,
+            "Value": "PIONEER II"
+        },
+        {
+            "Key": 184619790,
+            "Value": "VOTER'S FALLOW"
+        },
+        {
+            "Key": 184752654,
+            "Value": "BLACKVEIN MINES"
+        },
+        {
+            "Key": 186396141,
+            "Value": "BRNO"
+        },
+        {
+            "Key": 186758248,
+            "Value": "Ministry of Truth"
+        },
+        {
+            "Key": 188240743,
+            "Value": "OUTPOST 32"
+        },
+        {
+            "Key": 191450921,
+            "Value": "Sall"
+        },
+        {
+            "Key": 200062099,
+            "Value": "Sentinel"
+        },
+        {
+            "Key": 204409832,
+            "Value": "PSEUDOTOPIA"
+        },
+        {
+            "Key": 205278761,
+            "Value": "FORT SANCTUARY"
+        },
+        {
+            "Key": 208056545,
+            "Value": "Bulk Fabricators"
+        },
+        {
+            "Key": 212236813,
+            "Value": "EQUALITY-ON-SEA"
+        },
+        {
+            "Key": 212590513,
+            "Value": "TIEN KWAN"
+        },
+        {
+            "Key": 213050795,
+            "Value": "STARPASS"
+        },
+        {
+            "Key": 215973074,
+            "Value": "Freedom's Flame"
+        },
+        {
+            "Key": 222072050,
+            "Value": "VOG-SOJOTH"
+        },
+        {
+            "Key": 228403120,
+            "Value": "Each form and application that passes through the hallowed halls of AdminCen is emblazoned with the Stamp of Ages, and should be given a place of honour in the home."
+        },
+        {
+            "Key": 229589206,
+            "Value": "INCENDIARY MG DEVASTATOR"
+        },
+        {
+            "Key": 230047501,
+            "Value": "PATHFINDER V"
+        },
+        {
+            "Key": 231775463,
+            "Value": "NEW VICTORY"
+        },
+        {
+            "Key": 236578379,
+            "Value": "HULK"
+        },
+        {
+            "Key": 254555360,
+            "Value": "CUTTING EDGE"
+        },
+        {
+            "Key": 262003986,
+            "Value": "Schmid"
+        },
+        {
+            "Key": 262476190,
+            "Value": "Ministry of Humanity"
+        },
+        {
+            "Key": 265392480,
+            "Value": "GAR HAREN"
+        },
+        {
+            "Key": 266468165,
+            "Value": "Outcast Seekers"
+        },
+        {
+            "Key": 275534196,
+            "Value": "SPORE BURST WARRIOR"
+        },
+        {
+            "Key": 276813339,
+            "Value": "KEPLER-338b"
+        },
+        {
+            "Key": 277539039,
+            "Value": "of Law"
+        },
+        {
+            "Key": 282407560,
+            "Value": "RECON HEIGHTS"
+        },
+        {
+            "Key": 288067031,
+            "Value": "KEPLER-395b"
+        },
+        {
+            "Key": 288123935,
+            "Value": "INCONSPICUOUS BLACK EXOSUIT PATTERN"
+        },
+        {
+            "Key": 288468253,
+            "Value": "SLIF"
+        },
+        {
+            "Key": 289898661,
+            "Value": "MIDASBURG"
+        },
+        {
+            "Key": 292916820,
+            "Value": "of Determination"
+        },
+        {
+            "Key": 301366553,
+            "Value": "MINERAL REFINEMENT WORKS"
+        },
+        {
+            "Key": 303689211,
+            "Value": "DARROWSHOME"
+        },
+        {
+            "Key": 306250652,
+            "Value": "AESIR PASS"
+        },
+        {
+            "Key": 321492180,
+            "Value": "Democracy Officer"
+        },
+        {
+            "Key": 323114399,
+            "Value": "Sandberg"
+        },
+        {
+            "Key": 323559873,
+            "Value": "BANEFUL SENTINEL"
+        },
+        {
+            "Key": 326167874,
+            "Value": "JET BRIGADE RAIDER"
+        },
+        {
+            "Key": 326344529,
+            "Value": "HIVE LORD"
+        },
+        {
+            "Key": 331217504,
+            "Value": "OSHAUNE"
+        },
+        {
+            "Key": 331578186,
+            "Value": "Outcast Trackers"
+        },
+        {
+            "Key": 331792922,
+            "Value": "MEMORIALS"
+        },
+        {
+            "Key": 332181063,
+            "Value": "KEPLER-357b"
+        },
+        {
+            "Key": 336799220,
+            "Value": "RIGHTEOUS REVENANTS"
+        },
+        {
+            "Key": 339057435,
+            "Value": "War Striders"
+        },
+        {
+            "Key": 340135660,
+            "Value": "HEETH"
+        },
+        {
+            "Key": 343442322,
+            "Value": "CHORT BAY"
+        },
+        {
+            "Key": 354695563,
+            "Value": "CURRENCY"
+        },
+        {
+            "Key": 356613305,
+            "Value": "KHANDARK"
+        },
+        {
+            "Key": 361678444,
+            "Value": "PERMACURIS"
+        },
+        {
+            "Key": 366016090,
+            "Value": "DURGEN"
+        },
+        {
+            "Key": 368782679,
+            "Value": "FODDER GORGE"
+        },
+        {
+            "Key": 376974669,
+            "Value": "KEPLER-383b"
+        },
+        {
+            "Key": 378088611,
+            "Value": "of Battle"
+        },
+        {
+            "Key": 379673343,
+            "Value": "MORADESH"
+        },
+        {
+            "Key": 382253008,
+            "Value": "STRENGTH"
+        },
+        {
+            "Key": 391138216,
+            "Value": "TALUS SECTOR"
+        },
+        {
+            "Key": 391151086,
+            "Value": "Jet Brigade Raiders"
+        },
+        {
+            "Key": 398976798,
+            "Value": "Heavy Devastator"
+        },
+        {
+            "Key": 399006276,
+            "Value": "SERENITY SUMMIT"
+        },
+        {
+            "Key": 400095188,
+            "Value": "RATTLESNAKE SHUTTLE PATTERN"
+        },
+        {
+            "Key": 400566559,
+            "Value": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II"
+        },
+        {
+            "Key": 401074256,
+            "Value": "Xenobite Ardents"
+        },
+        {
+            "Key": 401226617,
+            "Value": "DROPSHIP"
+        },
+        {
+            "Key": 421621431,
+            "Value": "NEW HAVEN"
+        },
+        {
+            "Key": 425705392,
+            "Value": "Magistrate"
+        },
+        {
+            "Key": 427429682,
+            "Value": "PEASE"
+        },
+        {
+            "Key": 432072323,
+            "Value": "UNDERGROWTH EXOSUIT PATTERN"
+        },
+        {
+            "Key": 435429588,
+            "Value": "HUMANITY"
+        },
+        {
+            "Key": 436121739,
+            "Value": "SHELT"
+        },
+        {
+            "Key": 436693484,
+            "Value": "Distor"
+        },
+        {
+            "Key": 437395298,
+            "Value": "NONE"
+        },
+        {
+            "Key": 438442448,
+            "Value": "MINTORIA"
+        },
+        {
+            "Key": 439038884,
+            "Value": "HULK BRUISER"
+        },
+        {
+            "Key": 439634869,
+            "Value": "Prophet"
+        },
+        {
+            "Key": 440189837,
+            "Value": "HYDROFALL PRIME"
+        },
+        {
+            "Key": 444529084,
+            "Value": "Bile Spitter"
+        },
+        {
+            "Key": 444653002,
+            "Value": "EMORATH"
+        },
+        {
+            "Key": 451441290,
+            "Value": "Rohde"
+        },
+        {
+            "Key": 454992428,
+            "Value": "JET BRIGADE TROOPER"
+        },
+        {
+            "Key": 457281052,
+            "Value": "STANDARD SHUTTLE PATTERN"
+        },
+        {
+            "Key": 458728157,
+            "Value": "of Pride"
+        },
+        {
+            "Key": 462171068,
+            "Value": "TERMADON"
+        },
+        {
+            "Key": 462740898,
+            "Value": "KEPLER-330b"
+        },
+        {
+            "Key": 462878521,
+            "Value": "Watchers"
+        },
+        {
+            "Key": 465571203,
+            "Value": "GRACIOUS LIBERTY"
+        },
+        {
+            "Key": 466703045,
+            "Value": "Gonçalves"
+        },
+        {
+            "Key": 467156125,
+            "Value": "KEPLER-332b"
+        },
+        {
+            "Key": 468658976,
+            "Value": "of Iron"
+        },
+        {
+            "Key": 472469401,
+            "Value": "Following the Great York Conundrum, one City rose above the rest, pledging to hold its Hand over all other Yorks, so that no more blood be spilt between them."
+        },
+        {
+            "Key": 478200978,
+            "Value": "Cannon Turret"
+        },
+        {
+            "Key": 479462699,
+            "Value": "Emperor"
+        },
+        {
+            "Key": 486832087,
+            "Value": "FILIBUSTER"
+        },
+        {
+            "Key": 487985459,
+            "Value": "Nursing Spewer"
+        },
+        {
+            "Key": 488348329,
+            "Value": "of Conquest"
+        },
+        {
+            "Key": 492305305,
+            "Value": "ICE BEND"
+        },
+        {
+            "Key": 495939690,
+            "Value": "BENEVOLENCE"
+        },
+        {
+            "Key": 506793925,
+            "Value": "Knight"
+        },
+        {
+            "Key": 509426370,
+            "Value": "AGARTHA"
+        },
+        {
+            "Key": 514325094,
+            "Value": "KEPLER-370b"
+        },
+        {
+            "Key": 514623903,
+            "Value": "MYRIUM"
+        },
+        {
+            "Key": 520511467,
+            "Value": "KEPLER-277b"
+        },
+        {
+            "Key": 522439088,
+            "Value": "LUXE POINT"
+        },
+        {
+            "Key": 523260929,
+            "Value": "War Strider"
+        },
+        {
+            "Key": 523421401,
+            "Value": "RATCH"
+        },
+        {
+            "Key": 526355675,
+            "Value": "CONSENSUS"
+        },
+        {
+            "Key": 531700056,
+            "Value": "SEASSEFYRE"
+        },
+        {
+            "Key": 532417488,
+            "Value": "KEPLER-363b"
+        },
+        {
+            "Key": 538574577,
+            "Value": "HEATHERFIELD"
+        },
+        {
+            "Key": 539324145,
+            "Value": "KERTH SECUNDUS"
+        },
+        {
+            "Key": 546585509,
+            "Value": "GEMMA"
+        },
+        {
+            "Key": 549742559,
+            "Value": "Terminid"
+        },
+        {
+            "Key": 554367013,
+            "Value": "Dropship"
+        },
+        {
+            "Key": 555398973,
+            "Value": "FREEDOM ETERNAL"
+        },
+        {
+            "Key": 559406208,
+            "Value": "CANCRI SECTOR"
+        },
+        {
+            "Key": 560040805,
+            "Value": "Rupture Spewers"
+        },
+        {
+            "Key": 560284995,
+            "Value": "McEachern"
+        },
+        {
+            "Key": 567695062,
+            "Value": "ANGEL'S VENTURE"
+        },
+        {
+            "Key": 568515485,
+            "Value": "ANNE'S VIGIL"
+        },
+        {
+            "Key": 568622358,
+            "Value": "VARYLIA 5"
+        },
+        {
+            "Key": 570845236,
+            "Value": "Alpha Commander"
+        },
+        {
+            "Key": 572820359,
+            "Value": "KEPLER-347b"
+        },
+        {
+            "Key": 574108092,
+            "Value": "KEPLER-316b"
+        },
+        {
+            "Key": 576427373,
+            "Value": "EPH"
+        },
+        {
+            "Key": 581172809,
+            "Value": "BROKER'S WEALTH"
+        },
+        {
+            "Key": 581308584,
+            "Value": "INDEPENDENCE"
+        },
+        {
+            "Key": 584255963,
+            "Value": "DARROWSPORT"
+        },
+        {
+            "Key": 586021653,
+            "Value": "MG Raider"
+        },
+        {
+            "Key": 586869523,
+            "Value": "of Democracy"
+        },
+        {
+            "Key": 592325338,
+            "Value": "Bile Spitters"
+        },
+        {
+            "Key": 595251819,
+            "Value": "of Supremacy"
+        },
+        {
+            "Key": 599741968,
+            "Value": "SHREDDER TANK"
+        },
+        {
+            "Key": 602658912,
+            "Value": "JET BRIGADE MG TROOPER"
+        },
+        {
+            "Key": 613980508,
+            "Value": "Hulk Bruiser"
+        },
+        {
+            "Key": 614560108,
+            "Value": "KARON BAY"
+        },
+        {
+            "Key": 615835611,
+            "Value": "Facility Operator"
+        },
+        {
+            "Key": 616251181,
+            "Value": "HARVESTER"
+        },
+        {
+            "Key": 617869677,
+            "Value": "VENERATION"
+        },
+        {
+            "Key": 619638262,
+            "Value": "None"
+        },
+        {
+            "Key": 620511651,
+            "Value": "HILJAISUUS"
+        },
+        {
+            "Key": 621159586,
+            "Value": "Commissar"
+        },
+        {
+            "Key": 625528357,
+            "Value": "Advanced Devastator"
+        },
+        {
+            "Key": 626132148,
+            "Value": "Nazareno"
+        },
+        {
+            "Key": 626417797,
+            "Value": "KEPLER-301b"
+        },
+        {
+            "Key": 626718113,
+            "Value": "Hive Guard"
+        },
+        {
+            "Key": 628685971,
+            "Value": "SEVERITY"
+        },
+        {
+            "Key": 632178296,
+            "Value": "VOTELESS"
+        },
+        {
+            "Key": 642311510,
+            "Value": "PADOSAN"
+        },
+        {
+            "Key": 642574783,
+            "Value": "ONSEN"
+        },
+        {
+            "Key": 644365486,
+            "Value": "Bulk Fabricator"
+        },
+        {
+            "Key": 644398554,
+            "Value": "MARAUDER"
+        },
+        {
+            "Key": 645085199,
+            "Value": "UNGU"
+        },
+        {
+            "Key": 646100137,
+            "Value": "ACHERNAR SECUNDUS"
+        },
+        {
+            "Key": 650739694,
+            "Value": "SHOTGUN SUMMIT"
+        },
+        {
+            "Key": 652874502,
+            "Value": "Ship TV"
+        },
+        {
+            "Key": 654493443,
+            "Value": "Quinto"
+        },
+        {
+            "Key": 654804006,
+            "Value": "BEEFBURG"
+        },
+        {
+            "Key": 654822303,
+            "Value": "LOGISTICS HUB 188-B"
+        },
+        {
+            "Key": 655206231,
+            "Value": "CLASA"
+        },
+        {
+            "Key": 655668011,
+            "Value": "DOLPH"
+        },
+        {
+            "Key": 656203130,
+            "Value": "ZONE 3"
+        },
+        {
+            "Key": 657353531,
+            "Value": "GROWL"
+        },
+        {
+            "Key": 661865499,
+            "Value": "PA System"
+        },
+        {
+            "Key": 663970055,
+            "Value": "J. Bender"
+        },
+        {
+            "Key": 664680323,
+            "Value": "KEPLER-305b"
+        },
+        {
+            "Key": 664928374,
+            "Value": "Malmborg"
+        },
+        {
+            "Key": 671395036,
+            "Value": "Queen"
+        },
+        {
+            "Key": 673039732,
+            "Value": "of Freedom"
+        },
+        {
+            "Key": 677430713,
+            "Value": "MEKBUDA"
+        },
+        {
+            "Key": 686156605,
+            "Value": "GUNSHIP"
+        },
+        {
+            "Key": 689956975,
+            "Value": "TARSH"
+        },
+        {
+            "Key": 689998581,
+            "Value": "SPORE CHARGER"
+        },
+        {
+            "Key": 690834076,
+            "Value": "PRASA"
+        },
+        {
+            "Key": 692892828,
+            "Value": "Redondo"
+        },
+        {
+            "Key": 694573192,
+            "Value": "INCONSPICUOUS BLACK VEHICLE PATTERN"
+        },
+        {
+            "Key": 696771573,
+            "Value": "KEPLER-375b"
+        },
+        {
+            "Key": 700370958,
+            "Value": "of Equality"
+        },
+        {
+            "Key": 701621180,
+            "Value": "Outcast Slashers"
+        },
+        {
+            "Key": 702073419,
+            "Value": "NEW STOROUSE"
+        },
+        {
+            "Key": 702284474,
+            "Value": "KEPLER-294b"
+        },
+        {
+            "Key": 702988091,
+            "Value": "Advertisement"
+        },
+        {
+            "Key": 705284749,
+            "Value": "Nummi"
+        },
+        {
+            "Key": 707049770,
+            "Value": "Guardian"
+        },
+        {
+            "Key": 708743426,
+            "Value": "POLARIS PRIME"
+        },
+        {
+            "Key": 710416841,
+            "Value": "IRO"
+        },
+        {
+            "Key": 710669387,
+            "Value": "BUNDA SECUNDUS"
+        },
+        {
+            "Key": 714297488,
+            "Value": "Estlind"
+        },
+        {
+            "Key": 717622970,
+            "Value": "Bile Spewer"
+        },
+        {
+            "Key": 722264741,
+            "Value": "ASPEN HILLS"
+        },
+        {
+            "Key": 723389311,
+            "Value": "KEPLER-397b"
+        },
+        {
+            "Key": 724779259,
+            "Value": "STEN SECTOR"
+        },
+        {
+            "Key": 725588127,
+            "Value": "Andersson"
+        },
+        {
+            "Key": 727719679,
+            "Value": "NYA SKELLEFTEA"
+        },
+        {
+            "Key": 728846548,
+            "Value": "Ombudsman"
+        },
+        {
+            "Key": 729485079,
+            "Value": "OLUFSEN'S FOOTPRINT"
+        },
+        {
+            "Key": 730425751,
+            "Value": "ELYSIAN MEADOWS"
+        },
+        {
+            "Key": 732058021,
+            "Value": "GOTHENBURG III"
+        },
+        {
+            "Key": 732414587,
+            "Value": "MALMBERGET"
+        },
+        {
+            "Key": 734122764,
+            "Value": "RICTUS SECTOR"
+        },
+        {
+            "Key": 740173750,
+            "Value": "VALMOX"
+        },
+        {
+            "Key": 740756694,
+            "Value": "Mandilas"
+        },
+        {
+            "Key": 741706408,
+            "Value": "Bolin"
+        },
+        {
+            "Key": 746457430,
+            "Value": "KEPLER-331b"
+        },
+        {
+            "Key": 754504867,
+            "Value": "ALTUS SECTOR"
+        },
+        {
+            "Key": 755435899,
+            "Value": "Representative"
+        },
+        {
+            "Key": 756866805,
+            "Value": "KESUMA"
+        },
+        {
+            "Key": 762154077,
+            "Value": "HUMAN WILL"
+        },
+        {
+            "Key": 762468820,
+            "Value": "NEW ASPIRATION CITY"
+        },
+        {
+            "Key": 768517809,
+            "Value": "PROSPERITY"
+        },
+        {
+            "Key": 770494850,
+            "Value": "KEPLER-378b"
+        },
+        {
+            "Key": 771961394,
+            "Value": "HELLMIRE"
+        },
+        {
+            "Key": 774406423,
+            "Value": "HYDROBIUS"
+        },
+        {
+            "Key": 775857686,
+            "Value": "TERREK"
+        },
+        {
+            "Key": 777106965,
+            "Value": "Super Earth"
+        },
+        {
+            "Key": 777820648,
+            "Value": "Spore Burst Hunters"
+        },
+        {
+            "Key": 778160541,
+            "Value": "WRAITH"
+        },
+        {
+            "Key": 782903598,
+            "Value": "SKAASH"
+        },
+        {
+            "Key": 784544497,
+            "Value": "LEVIATHAN"
+        },
+        {
+            "Key": 787459040,
+            "Value": "MINISTRY OF EXPANSION"
+        },
+        {
+            "Key": 787656435,
+            "Value": "POUNCER"
+        },
+        {
+            "Key": 790541304,
+            "Value": "Hulk"
+        },
+        {
+            "Key": 791315064,
+            "Value": "SUPER EARTH"
+        },
+        {
+            "Key": 793026793,
+            "Value": "Shrieker"
+        },
+        {
+            "Key": 796575870,
+            "Value": "UNANIMITY"
+        },
+        {
+            "Key": 797922986,
+            "Value": "Gauntlet"
+        },
+        {
+            "Key": 803894884,
+            "Value": "KEPLER-342b"
+        },
+        {
+            "Key": 805511186,
+            "Value": "PHACT BAY"
+        },
+        {
+            "Key": 811469586,
+            "Value": "Banner"
+        },
+        {
+            "Key": 812992035,
+            "Value": "Polar Patriots"
+        },
+        {
+            "Key": 815856735,
+            "Value": "ILLUMINATE"
+        },
+        {
+            "Key": 816167364,
+            "Value": "FORT BOUNTY"
+        },
+        {
+            "Key": 817785996,
+            "Value": "SPHERION"
+        },
+        {
+            "Key": 820622353,
+            "Value": "MEISSA"
+        },
+        {
+            "Key": 822223750,
+            "Value": "OLD BRANCH"
+        },
+        {
+            "Key": 824245265,
+            "Value": "of Allegiance"
+        },
+        {
+            "Key": 824552187,
+            "Value": "UNDERGROWTH HELLPOD PATTERN"
+        },
+        {
+            "Key": 833603519,
+            "Value": "KEPLER-318b"
+        },
+        {
+            "Key": 839134119,
+            "Value": "EAST EMBANKMENT"
+        },
+        {
+            "Key": 846577287,
+            "Value": "VOLTERRA"
+        },
+        {
+            "Key": 851434747,
+            "Value": "Automaton Mortar Emplacements"
+        },
+        {
+            "Key": 853869815,
+            "Value": "XI TAURI SECTOR"
+        },
+        {
+            "Key": 855413042,
+            "Value": "GELLERT SECTOR"
+        },
+        {
+            "Key": 857545008,
+            "Value": "ADHARA"
+        },
+        {
+            "Key": 857939189,
+            "Value": "of Conviviality"
+        },
+        {
+            "Key": 858987625,
+            "Value": "Yu Villa"
+        },
+        {
+            "Key": 859021869,
+            "Value": "Hulk Scorchers"
+        },
+        {
+            "Key": 863969201,
+            "Value": "MYRADESH"
+        },
+        {
+            "Key": 867908736,
+            "Value": "KEPLER-276b"
+        },
+        {
+            "Key": 870181849,
+            "Value": "ALTA V"
+        },
+        {
+            "Key": 874402511,
+            "Value": "Pride"
+        },
+        {
+            "Key": 877629863,
+            "Value": "BLISTICA"
+        },
+        {
+            "Key": 878256512,
+            "Value": "COZY FLATS"
+        },
+        {
+            "Key": 879990792,
+            "Value": "Flame"
+        },
+        {
+            "Key": 882143696,
+            "Value": "KALASATAMA PORT"
+        },
+        {
+            "Key": 885747508,
+            "Value": "De Giorgis"
+        },
+        {
+            "Key": 886803190,
+            "Value": "Watcher"
+        },
+        {
+            "Key": 887712579,
+            "Value": "DARKWELL"
+        },
+        {
+            "Key": 890074584,
+            "Value": "Comptroller"
+        },
+        {
+            "Key": 900944397,
+            "Value": "AIDESVILLE"
+        },
+        {
+            "Key": 903077010,
+            "Value": "Bolle"
+        },
+        {
+            "Key": 908216632,
+            "Value": "Pouncer"
+        },
+        {
+            "Key": 908893121,
+            "Value": "Progenitor"
+        },
+        {
+            "Key": 909845190,
+            "Value": "MASTIA"
+        },
+        {
+            "Key": 915107735,
+            "Value": "Leviathan"
+        },
+        {
+            "Key": 916322523,
+            "Value": "Gun Ingbrit Morgunsdottir"
+        },
+        {
+            "Key": 916505227,
+            "Value": "KARLIA"
+        },
+        {
+            "Key": 916548545,
+            "Value": "FORI PRIME"
+        },
+        {
+            "Key": 920622126,
+            "Value": "ARLIA"
+        },
+        {
+            "Key": 921057527,
+            "Value": "Moore"
+        },
+        {
+            "Key": 925731532,
+            "Value": "AUTOMATON"
+        },
+        {
+            "Key": 926633056,
+            "Value": "PROMINENCE"
+        },
+        {
+            "Key": 929215876,
+            "Value": "REBELSGRAVE"
+        },
+        {
+            "Key": 929685836,
+            "Value": "HAWKING SECTOR"
+        },
+        {
+            "Key": 938483457,
+            "Value": "ESCAPADE"
+        },
+        {
+            "Key": 939195481,
+            "Value": "Spore Chargers"
+        },
+        {
+            "Key": 940091660,
+            "Value": "WEST MANAGEMENT"
+        },
+        {
+            "Key": 941688055,
+            "Value": "ADAM PARK"
+        },
+        {
+            "Key": 942195533,
+            "Value": "CHATOYANT"
+        },
+        {
+            "Key": 947161983,
+            "Value": "Helldiver Dummy"
+        },
+        {
+            "Key": 948019727,
+            "Value": "SKITTER"
+        },
+        {
+            "Key": 953392591,
+            "Value": "Rupture Warrior"
+        },
+        {
+            "Key": 954678793,
+            "Value": "ZEFIA"
+        },
+        {
+            "Key": 955032040,
+            "Value": "NANOS SECTOR"
+        },
+        {
+            "Key": 955678540,
+            "Value": "FOUNDRY"
+        },
+        {
+            "Key": 956015116,
+            "Value": "GRAFSART"
+        },
+        {
+            "Key": 959402628,
+            "Value": "SES"
+        },
+        {
+            "Key": 965162446,
+            "Value": "KEPLER-297b"
+        },
+        {
+            "Key": 970164922,
+            "Value": "BRIGHT WING"
+        },
+        {
+            "Key": 972834544,
+            "Value": "Jansson"
+        },
+        {
+            "Key": 973485101,
+            "Value": "of Mercy"
+        },
+        {
+            "Key": 973640366,
+            "Value": "OASIS"
+        },
+        {
+            "Key": 980516668,
+            "Value": "MEAN GREEN SHUTTLE PATTERN"
+        },
+        {
+            "Key": 981392219,
+            "Value": "SLAYER CITY"
+        },
+        {
+            "Key": 985262540,
+            "Value": "One of 3 Maximum Security Cities. Impregnable to Tyranny; the future of the Federation."
+        },
+        {
+            "Key": 985314915,
+            "Value": "OLD DOVE"
+        },
+        {
+            "Key": 987942581,
+            "Value": "BARNARD SECTOR"
+        },
+        {
+            "Key": 989829386,
+            "Value": "Spore Lung"
+        },
+        {
+            "Key": 991891387,
+            "Value": "of Super Earth"
+        },
+        {
+            "Key": 992619516,
+            "Value": "ZEGEMA PARADISE"
+        },
+        {
+            "Key": 996702475,
+            "Value": "PHERKAD SECUNDUS"
+        },
+        {
+            "Key": 999130615,
+            "Value": "RINKTOWN"
+        },
+        {
+            "Key": 1000270605,
+            "Value": "INFESTED TOWER"
+        },
+        {
+            "Key": 1003401731,
+            "Value": "VINDEMITARIX PRIME"
+        },
+        {
+            "Key": 1009772021,
+            "Value": "KEPLER-385b"
+        },
+        {
+            "Key": 1012372721,
+            "Value": "ELEVATED OVERSEER"
+        },
+        {
+            "Key": 1012377516,
+            "Value": "URSA SECTOR"
+        },
+        {
+            "Key": 1013395843,
+            "Value": "Spear"
+        },
+        {
+            "Key": 1016107533,
+            "Value": "SCARLET HAVEN"
+        },
+        {
+            "Key": 1016650357,
+            "Value": "REDFIELD"
+        },
+        {
+            "Key": 1019995927,
+            "Value": "KEPLER-390b"
+        },
+        {
+            "Key": 1029235503,
+            "Value": "FABRICATOR"
+        },
+        {
+            "Key": 1031846155,
+            "Value": "EMERIA"
+        },
+        {
+            "Key": 1036818377,
+            "Value": "EAGLECRY"
+        },
+        {
+            "Key": 1038771782,
+            "Value": "Crescent Overseers"
+        },
+        {
+            "Key": 1044017705,
+            "Value": "ANDROMEDA SECTOR"
+        },
+        {
+            "Key": 1046000873,
+            "Value": "Impaler"
+        },
+        {
+            "Key": 1048855585,
+            "Value": "POLLUX 31"
+        },
+        {
+            "Key": 1057921479,
+            "Value": "SAORSA GLEN"
+        },
+        {
+            "Key": 1066909283,
+            "Value": "SHALLUS"
+        },
+        {
+            "Key": 1070913489,
+            "Value": "RD-4"
+        },
+        {
+            "Key": 1076678822,
+            "Value": "Charger Behemoth"
+        },
+        {
+            "Key": 1081371423,
+            "Value": "Diamond"
+        },
+        {
+            "Key": 1081588136,
+            "Value": "Carlberg"
+        },
+        {
+            "Key": 1081892642,
+            "Value": "Harvesters"
+        },
+        {
+            "Key": 1083408764,
+            "Value": "PEOPLE'S HAND"
+        },
+        {
+            "Key": 1083476041,
+            "Value": "KEPLER-289b"
+        },
+        {
+            "Key": 1096775251,
+            "Value": "Aegis"
+        },
+        {
+            "Key": 1097026828,
+            "Value": "PERSISTENCE"
+        },
+        {
+            "Key": 1097723180,
+            "Value": "QUASAR"
+        },
+        {
+            "Key": 1099126085,
+            "Value": "DEMOCRACY ALWAYS"
+        },
+        {
+            "Key": 1103982798,
+            "Value": "MASTERS OF CEREMONY"
+        },
+        {
+            "Key": 1105824679,
+            "Value": "HORT"
+        },
+        {
+            "Key": 1105991516,
+            "Value": "STEEL RESOLVE"
+        },
+        {
+            "Key": 1117201283,
+            "Value": "Hodges"
+        },
+        {
+            "Key": 1125878261,
+            "Value": "L'ESTRADE SECTOR"
+        },
+        {
+            "Key": 1127649354,
+            "Value": "Pyro Troopers"
+        },
+        {
+            "Key": 1129889217,
+            "Value": "CHAIRMAN OKOTE"
+        },
+        {
+            "Key": 1130294731,
+            "Value": "of Wrath"
+        },
+        {
+            "Key": 1131183082,
+            "Value": "Gunships"
+        },
+        {
+            "Key": 1134185291,
+            "Value": "NEW ALEXANDRIA"
+        },
+        {
+            "Key": 1137964607,
+            "Value": "SKAT BAY"
+        },
+        {
+            "Key": 1143724091,
+            "Value": "DARIUS II"
+        },
+        {
+            "Key": 1144364846,
+            "Value": "DRYWELL"
+        },
+        {
+            "Key": 1147063964,
+            "Value": "The flagship Maximum Security City. Impregnable to Tyranny; the future of the Federation."
+        },
+        {
+            "Key": 1149332144,
+            "Value": "Stingrays"
+        },
+        {
+            "Key": 1149778595,
+            "Value": "UNDERGROWTH SHUTTLE PATTERN"
+        },
+        {
+            "Key": 1150711238,
+            "Value": "NEW HOPE CITY"
+        },
+        {
+            "Key": 1151272818,
+            "Value": "DIASPORA X"
+        },
+        {
+            "Key": 1152525653,
+            "Value": "Terminids"
+        },
+        {
+            "Key": 1153658728,
+            "Value": "Factory Strider"
+        },
+        {
+            "Key": 1155147987,
+            "Value": "Prowlers"
+        },
+        {
+            "Key": 1159272209,
+            "Value": "REDTHORN"
+        },
+        {
+            "Key": 1166279471,
+            "Value": "DENEB SECUNDUS"
+        },
+        {
+            "Key": 1169179398,
+            "Value": "ERIDANI"
+        },
+        {
+            "Key": 1169888429,
+            "Value": "GREATER ATLANTEAN POWER PLANT"
+        },
+        {
+            "Key": 1172950089,
+            "Value": "TRIGON SECTOR"
+        },
+        {
+            "Key": 1175929609,
+            "Value": "INCONSPICUOUS BLACK HELLPOD PATTERN"
+        },
+        {
+            "Key": 1177202472,
+            "Value": "Berserkers"
+        },
+        {
+            "Key": 1178286781,
+            "Value": "TERMINID"
+        },
+        {
+            "Key": 1181947803,
+            "Value": "FORT UNION"
+        },
+        {
+            "Key": 1182365708,
+            "Value": "Ship Master #NAME"
+        },
+        {
+            "Key": 1184670874,
+            "Value": "NONE"
+        },
+        {
+            "Key": 1185244299,
+            "Value": "Overseers"
+        },
+        {
+            "Key": 1185375349,
+            "Value": "Defender"
+        },
+        {
+            "Key": 1186649585,
+            "Value": "KEPLER-384b"
+        },
+        {
+            "Key": 1190478143,
+            "Value": "LOOKOUT"
+        },
+        {
+            "Key": 1191482327,
+            "Value": "BRAVERY"
+        },
+        {
+            "Key": 1207031399,
+            "Value": "Force of Law"
+        },
+        {
+            "Key": 1207324607,
+            "Value": "Precursor"
+        },
+        {
+            "Key": 1208200869,
+            "Value": "Senator"
+        },
+        {
+            "Key": 1209341914,
+            "Value": "MINISTRY OF UNITY"
+        },
+        {
+            "Key": 1209685887,
+            "Value": "NEW CYBERSTAN"
+        },
+        {
+            "Key": 1210082392,
+            "Value": "Spore Burst Hunter"
+        },
+        {
+            "Key": 1211600962,
+            "Value": "EFFLUVIA"
+        },
+        {
+            "Key": 1213486361,
+            "Value": "EAGLESTAR ETERNAL"
+        },
+        {
+            "Key": 1213932068,
+            "Value": "CHOEPESSA IV"
+        },
+        {
+            "Key": 1217678385,
+            "Value": "Yousefi"
+        },
+        {
+            "Key": 1217738475,
+            "Value": "FREECREST"
+        },
+        {
+            "Key": 1220978891,
+            "Value": "ALARAPH"
+        },
+        {
+            "Key": 1221144687,
+            "Value": "ABUNDANCE"
+        },
+        {
+            "Key": 1222875907,
+            "Value": "Annihilator Tanks"
+        },
+        {
+            "Key": 1224007776,
+            "Value": "JULHEIM"
+        },
+        {
+            "Key": 1225804857,
+            "Value": "Botelho"
+        },
+        {
+            "Key": 1227284416,
+            "Value": "Incendiary MG Devastators"
+        },
+        {
+            "Key": 1230925792,
+            "Value": "PRIMORDIA"
+        },
+        {
+            "Key": 1235215129,
+            "Value": "ACAMAR IV"
+        },
+        {
+            "Key": 1237995462,
+            "Value": "HABITAT RED-2"
+        },
+        {
+            "Key": 1243225162,
+            "Value": "FORT JUSTICE"
+        },
+        {
+            "Key": 1244395985,
+            "Value": "VANDALON IV"
+        },
+        {
+            "Key": 1251671830,
+            "Value": "Troopers"
+        },
+        {
+            "Key": 1252876522,
+            "Value": "RESOLVE"
+        },
+        {
+            "Key": 1256884337,
+            "Value": "KODIAK FALLS"
+        },
+        {
+            "Key": 1258196470,
+            "Value": "COMMISSAR"
+        },
+        {
+            "Key": 1261841844,
+            "Value": "BROOD WARDEN"
+        },
+        {
+            "Key": 1264502471,
+            "Value": "Service Technician"
+        },
+        {
+            "Key": 1269181160,
+            "Value": "MEAN GREEN HELLPOD PATTERN"
+        },
+        {
+            "Key": 1271695497,
+            "Value": "MINISTRY OF TRUTH"
+        },
+        {
+            "Key": 1280955084,
+            "Value": "TOIL"
+        },
+        {
+            "Key": 1287745099,
+            "Value": "KEPLER-314b"
+        },
+        {
+            "Key": 1290345510,
+            "Value": "Arbiter"
+        },
+        {
+            "Key": 1295934071,
+            "Value": "ALSTRAD SECTOR"
+        },
+        {
+            "Key": 1298431672,
+            "Value": "LASTOFE"
+        },
+        {
+            "Key": 1299714559,
+            "Value": "Charger"
+        },
+        {
+            "Key": 1309239989,
+            "Value": "Servants of Freedom"
+        },
+        {
+            "Key": 1311234619,
+            "Value": "PILOT'S BERTH"
+        },
+        {
+            "Key": 1317135238,
+            "Value": "Harbinger"
+        },
+        {
+            "Key": 1317730141,
+            "Value": "KEID"
+        },
+        {
+            "Key": 1318124552,
+            "Value": "OVERGOE PRIME"
+        },
+        {
+            "Key": 1322414042,
+            "Value": "Fist"
+        },
+        {
+            "Key": 1325663098,
+            "Value": "NEW HEARTH CITY"
+        },
+        {
+            "Key": 1327299148,
+            "Value": "GENE"
+        },
+        {
+            "Key": 1328010974,
+            "Value": "Stalkers"
+        },
+        {
+            "Key": 1331573605,
+            "Value": "EASTCLEFT"
+        },
+        {
+            "Key": 1333134146,
+            "Value": "SEAF Soldier"
+        },
+        {
+            "Key": 1334736569,
+            "Value": "MIRAGE"
+        },
+        {
+            "Key": 1338124960,
+            "Value": "Agent"
+        },
+        {
+            "Key": 1342954337,
+            "Value": "AIN-5"
+        },
+        {
+            "Key": 1345310449,
+            "Value": "TRUE BLUE HELLPOD PATTERN"
+        },
+        {
+            "Key": 1345534634,
+            "Value": "EAGLE'S LIKENESS"
+        },
+        {
+            "Key": 1350043281,
+            "Value": "OLD CONUNDRUM"
+        },
+        {
+            "Key": 1358608754,
+            "Value": "KORPUS SECTOR"
+        },
+        {
+            "Key": 1364807175,
+            "Value": "BORGUS SECTOR"
+        },
+        {
+            "Key": 1374694211,
+            "Value": "FREE APARTMENTS"
+        },
+        {
+            "Key": 1375156788,
+            "Value": "of Audacity"
+        },
+        {
+            "Key": 1375930354,
+            "Value": "PILEN V"
+        },
+        {
+            "Key": 1378841226,
+            "Value": "Dragonroach"
+        },
+        {
+            "Key": 1382288454,
+            "Value": "NABATEA SECUNDUS"
+        },
+        {
+            "Key": 1390745011,
+            "Value": "HOPESHIRE"
+        },
+        {
+            "Key": 1391601310,
+            "Value": "Leviathans"
+        },
+        {
+            "Key": 1396376486,
+            "Value": "Brostrom"
+        },
+        {
+            "Key": 1401399056,
+            "Value": "HUNTER'S BLUFF"
+        },
+        {
+            "Key": 1404359855,
+            "Value": "EDWARD'S GRAVE"
+        },
+        {
+            "Key": 1405979473,
+            "Value": "Harvester"
+        },
+        {
+            "Key": 1407696270,
+            "Value": "NEW STOCKHOLM"
+        },
+        {
+            "Key": 1411044618,
+            "Value": "Blade"
+        },
+        {
+            "Key": 1414353920,
+            "Value": "QUELLED DISSENT"
+        },
+        {
+            "Key": 1417463969,
+            "Value": "DYER STREETS"
+        },
+        {
+            "Key": 1417539170,
+            "Value": "DIGITI"
+        },
+        {
+            "Key": 1418245247,
+            "Value": "FACTORY STRIDER"
+        },
+        {
+            "Key": 1418356293,
+            "Value": "Blood"
+        },
+        {
+            "Key": 1420913901,
+            "Value": "KEPLER-391b"
+        },
+        {
+            "Key": 1421360586,
+            "Value": "Brezavscek"
+        },
+        {
+            "Key": 1423948427,
+            "Value": "NEW NEWTONVILLE"
+        },
+        {
+            "Key": 1429123431,
+            "Value": "Jaeger"
+        },
+        {
+            "Key": 1430722332,
+            "Value": "Nursing Spewers"
+        },
+        {
+            "Key": 1437811852,
+            "Value": "CALYPSO"
+        },
+        {
+            "Key": 1441504339,
+            "Value": "SUPER EARTH"
+        },
+        {
+            "Key": 1441994227,
+            "Value": "Zamora"
+        },
+        {
+            "Key": 1443392861,
+            "Value": "REAF"
+        },
+        {
+            "Key": 1450751683,
+            "Value": "AUTOMATONS"
+        },
+        {
+            "Key": 1451959923,
+            "Value": "BOREA"
+        },
+        {
+            "Key": 1452679308,
+            "Value": "ROCKET TANK"
+        },
+        {
+            "Key": 1456023688,
+            "Value": "Friend"
+        },
+        {
+            "Key": 1460486101,
+            "Value": "Brood Warden"
+        },
+        {
+            "Key": 1462357533,
+            "Value": "HOLL"
+        },
+        {
+            "Key": 1465854050,
+            "Value": "NAVI VII"
+        },
+        {
+            "Key": 1466635519,
+            "Value": "KEPLER-302b"
+        },
+        {
+            "Key": 1467464627,
+            "Value": "Assault Raider"
+        },
+        {
+            "Key": 1468076040,
+            "Value": "ZZANIAH PRIME"
+        },
+        {
+            "Key": 1474753867,
+            "Value": "Steward"
+        },
+        {
+            "Key": 1474817139,
+            "Value": "Rocket Tank"
+        },
+        {
+            "Key": 1475087488,
+            "Value": "SOCORRO III"
+        },
+        {
+            "Key": 1477337926,
+            "Value": "DEMOCRACY'S LANDING"
+        },
+        {
+            "Key": 1477759539,
+            "Value": "Superintendent"
+        },
+        {
+            "Key": 1479757392,
+            "Value": "Frandsen"
+        },
+        {
+            "Key": 1481725166,
+            "Value": "MAGNITUDE"
+        },
+        {
+            "Key": 1485006967,
+            "Value": "BULK FABRICATOR"
+        },
+        {
+            "Key": 1485636464,
+            "Value": "ACRUX IX"
+        },
+        {
+            "Key": 1487022517,
+            "Value": "BORDERLINE JUSTICE"
+        },
+        {
+            "Key": 1487385132,
+            "Value": "WAR STRIDER"
+        },
+        {
+            "Key": 1488299252,
+            "Value": "NUOVA ROMA"
+        },
+        {
+            "Key": 1490501681,
+            "Value": "Impalers"
+        },
+        {
+            "Key": 1494724485,
+            "Value": "Assault Raiders"
+        },
+        {
+            "Key": 1497903780,
+            "Value": "Soldier"
+        },
+        {
+            "Key": 1500341394,
+            "Value": "HOMESTEAD HILL"
+        },
+        {
+            "Key": 1501649955,
+            "Value": "Eriksson"
+        },
+        {
+            "Key": 1503418004,
+            "Value": "Wings"
+        },
+        {
+            "Key": 1505638056,
+            "Value": "MAJOSYRI"
+        },
+        {
+            "Key": 1508181823,
+            "Value": "KEPLER-303b"
+        },
+        {
+            "Key": 1517419263,
+            "Value": "MEAN GREEN EXOSUIT PATTERN"
+        },
+        {
+            "Key": 1519030847,
+            "Value": "AUTOMATON MORTAR EMPLACEMENT"
+        },
+        {
+            "Key": 1520751263,
+            "Value": "IMPALER"
+        },
+        {
+            "Key": 1522055334,
+            "Value": "CONCRETE JUNGLE SHUTTLE PATTERN"
+        },
+        {
+            "Key": 1524275396,
+            "Value": "BILE SPITTER"
+        },
+        {
+            "Key": 1526662829,
+            "Value": "SERVANTS OF FREEDOM"
+        },
+        {
+            "Key": 1527892006,
+            "Value": "KEPLER-396b"
+        },
+        {
+            "Key": 1531255622,
+            "Value": "Raiders"
+        },
+        {
+            "Key": 1531527023,
+            "Value": "Chandler"
+        },
+        {
+            "Key": 1533261444,
+            "Value": "of Truth"
+        },
+        {
+            "Key": 1536742308,
+            "Value": "Adjudicator"
+        },
+        {
+            "Key": 1539362188,
+            "Value": "HEZE BAY"
+        },
+        {
+            "Key": 1545408205,
+            "Value": "ALATHFAR XI"
+        },
+        {
+            "Key": 1545626923,
+            "Value": "of Courage"
+        },
+        {
+            "Key": 1547267502,
+            "Value": "RESILIENCE"
+        },
+        {
+            "Key": 1550275945,
+            "Value": "BUG HOLE"
+        },
+        {
+            "Key": 1550630253,
+            "Value": "Since sheltering millions of loyal refugees in the Last Great War, Port Mercy has been a safe haven for any class-A citizen in need."
+        },
+        {
+            "Key": 1560396759,
+            "Value": "KLAKA 5"
+        },
+        {
+            "Key": 1560758003,
+            "Value": "RIGEL SECTOR"
+        },
+        {
+            "Key": 1560770730,
+            "Value": "Hulk Obliterator"
+        },
+        {
+            "Key": 1562436935,
+            "Value": "Skogsberg"
+        },
+        {
+            "Key": 1566867439,
+            "Value": "of Liberty"
+        },
+        {
+            "Key": 1567949647,
+            "Value": "GRAFSWALLIT"
+        },
+        {
+            "Key": 1569895916,
+            "Value": "Force"
+        },
+        {
+            "Key": 1570376244,
+            "Value": "KRAZ"
+        },
+        {
+            "Key": 1572521316,
+            "Value": "KNETH PORT"
+        },
+        {
+            "Key": 1577218460,
+            "Value": "OUTCAST TRACKER"
+        },
+        {
+            "Key": 1577431289,
+            "Value": "HESOE PRIME"
+        },
+        {
+            "Key": 1578792227,
+            "Value": "KEPLER-371b"
+        },
+        {
+            "Key": 1582178959,
+            "Value": "VALGAARD"
+        },
+        {
+            "Key": 1585645666,
+            "Value": "HAKA"
+        },
+        {
+            "Key": 1591080787,
+            "Value": "Home to the Democratic Council, our proud Capital is a beacon of Progress, Productivity, and Patriotism."
+        },
+        {
+            "Key": 1591988575,
+            "Value": "Soul"
+        },
+        {
+            "Key": 1593540412,
+            "Value": "HOT GATES"
+        },
+        {
+            "Key": 1596772767,
+            "Value": "BASE CAMP 8"
+        },
+        {
+            "Key": 1606616279,
+            "Value": "MUNITION CITY"
+        },
+        {
+            "Key": 1608848462,
+            "Value": "SWAMP IV"
+        },
+        {
+            "Key": 1609021693,
+            "Value": "BLESTRAIL"
+        },
+        {
+            "Key": 1615896897,
+            "Value": "JET BRIGADE COMMISSAR"
+        },
+        {
+            "Key": 1625389836,
+            "Value": "RATTLESNAKE VEHICLE PATTERN"
+        },
+        {
+            "Key": 1626212068,
+            "Value": "KEPLER-299b"
+        },
+        {
+            "Key": 1627731364,
+            "Value": "of Victory"
+        },
+        {
+            "Key": 1630007655,
+            "Value": "XZAR SECTOR"
+        },
+        {
+            "Key": 1631481238,
+            "Value": "Sundstrom"
+        },
+        {
+            "Key": 1636563227,
+            "Value": "EAGLEMOUNT"
+        },
+        {
+            "Key": 1642268665,
+            "Value": "PROSPERITY FALLS"
+        },
+        {
+            "Key": 1647662801,
+            "Value": "VEIL"
+        },
+        {
+            "Key": 1647999978,
+            "Value": "NEW ABERDEEN"
+        },
+        {
+            "Key": 1649987991,
+            "Value": "Devastator"
+        },
+        {
+            "Key": 1650103832,
+            "Value": "URSICA XI"
+        },
+        {
+            "Key": 1651252849,
+            "Value": "Dawn"
+        },
+        {
+            "Key": 1653030344,
+            "Value": "GRAVITAS"
+        },
+        {
+            "Key": 1654759752,
+            "Value": "REGNUS"
+        },
+        {
+            "Key": 1657112894,
+            "Value": "KEPLER-334b"
+        },
+        {
+            "Key": 1657172675,
+            "Value": "VERVE"
+        },
+        {
+            "Key": 1658081283,
+            "Value": "SYCAMORE GARDENS"
+        },
+        {
+            "Key": 1661868344,
+            "Value": "HAERSTVIK"
+        },
+        {
+            "Key": 1661895142,
+            "Value": "Gazer"
+        },
+        {
+            "Key": 1665734336,
+            "Value": "OMICRON"
+        },
+        {
+            "Key": 1666367004,
+            "Value": "Illuminate"
+        },
+        {
+            "Key": 1674292329,
+            "Value": "MORGON SECTOR"
+        },
+        {
+            "Key": 1674550622,
+            "Value": "Prophet Illusionists"
+        },
+        {
+            "Key": 1682713724,
+            "Value": "RAIDER"
+        },
+        {
+            "Key": 1683172633,
+            "Value": "Shredder Tanks"
+        },
+        {
+            "Key": 1688428148,
+            "Value": "ORBSHAM"
+        },
+        {
+            "Key": 1692748917,
+            "Value": "Extraction Shuttle"
+        },
+        {
+            "Key": 1694795796,
+            "Value": "HYDRA SECTOR"
+        },
+        {
+            "Key": 1694948462,
+            "Value": "Hart"
+        },
+        {
+            "Key": 1696061154,
+            "Value": "FORTITUDE"
+        },
+        {
+            "Key": 1702796742,
+            "Value": "TRUTH ENFORCERS"
+        },
+        {
+            "Key": 1706936029,
+            "Value": "GRAFMERE"
+        },
+        {
+            "Key": 1710555974,
+            "Value": "SHETE"
+        },
+        {
+            "Key": 1710870229,
+            "Value": "K-ICXXVI"
+        },
+        {
+            "Key": 1713165955,
+            "Value": "SERVITUDE"
+        },
+        {
+            "Key": 1723671216,
+            "Value": "WARRIOR"
+        },
+        {
+            "Key": 1724005326,
+            "Value": "THE BUG QUARANTINE"
+        },
+        {
+            "Key": 1727897935,
+            "Value": "WASTEMOUNT"
+        },
+        {
+            "Key": 1729099758,
+            "Value": "LEO SECTOR"
+        },
+        {
+            "Key": 1731739124,
+            "Value": "FREEDOM'S TORCH"
+        },
+        {
+            "Key": 1741057680,
+            "Value": "PROPHET ILLUSIONIST"
+        },
+        {
+            "Key": 1742855267,
+            "Value": "REMEMBRANCE"
+        },
+        {
+            "Key": 1744179903,
+            "Value": "TRUE BLUE SHUTTLE PATTERN"
+        },
+        {
+            "Key": 1748301752,
+            "Value": "Nilsson"
+        },
+        {
+            "Key": 1748948844,
+            "Value": "FORNSKOGUR II"
+        },
+        {
+            "Key": 1749038307,
+            "Value": "THE WEIR"
+        },
+        {
+            "Key": 1750282018,
+            "Value": "COUNCILLOR RORA"
+        },
+        {
+            "Key": 1753892252,
+            "Value": "OSUPSAM"
+        },
+        {
+            "Key": 1754556682,
+            "Value": "of Starlight"
+        },
+        {
+            "Key": 1755343141,
+            "Value": "SILO A"
+        },
+        {
+            "Key": 1755828576,
+            "Value": "KEPLER-380b"
+        },
+        {
+            "Key": 1757932330,
+            "Value": "Beroshi"
+        },
+        {
+            "Key": 1762623544,
+            "Value": "ASSAULT RAIDER"
+        },
+        {
+            "Key": 1762804888,
+            "Value": "OUTCAST SLASHER"
+        },
+        {
+            "Key": 1764769201,
+            "Value": "Hammer"
+        },
+        {
+            "Key": 1768487578,
+            "Value": "ISEGORIA"
+        },
+        {
+            "Key": 1770066465,
+            "Value": "Infested Towers"
+        },
+        {
+            "Key": 1775662925,
+            "Value": "Hulk Scorcher"
+        },
+        {
+            "Key": 1780560514,
+            "Value": "of the State"
+        },
+        {
+            "Key": 1780938436,
+            "Value": "Cannon Turrets"
+        },
+        {
+            "Key": 1784440447,
+            "Value": "CONFLAGRATION DEVASTATOR"
+        },
+        {
+            "Key": 1784867704,
+            "Value": "Pilot"
+        },
+        {
+            "Key": 1785813534,
+            "Value": "YMIR SECTOR"
+        },
+        {
+            "Key": 1785959411,
+            "Value": "TANIS SECTOR"
+        },
+        {
+            "Key": 1788879704,
+            "Value": "KEPLER-364b"
+        },
+        {
+            "Key": 1789137489,
+            "Value": "EAGLEOPOLIS"
+        },
+        {
+            "Key": 1795971311,
+            "Value": "KEPLER-304b"
+        },
+        {
+            "Key": 1802585353,
+            "Value": "Eagle Fighter"
+        },
+        {
+            "Key": 1805104840,
+            "Value": "Bile Warriors"
+        },
+        {
+            "Key": 1815342243,
+            "Value": "TRANDOR"
+        },
+        {
+            "Key": 1823593404,
+            "Value": "KEPLER-367b"
+        },
+        {
+            "Key": 1825524640,
+            "Value": "Vanderheide"
+        },
+        {
+            "Key": 1830005331,
+            "Value": "VOTING DISTRICT F-012357"
+        },
+        {
+            "Key": 1842172307,
+            "Value": "MENKENT"
+        },
+        {
+            "Key": 1846098026,
+            "Value": "EAST IRIDIUM TRADING BAY"
+        },
+        {
+            "Key": 1849355488,
+            "Value": "Jet Brigade Commissars"
+        },
+        {
+            "Key": 1850808595,
+            "Value": "VAULT CITY"
+        },
+        {
+            "Key": 1851392616,
+            "Value": "of Fortitude"
+        },
+        {
+            "Key": 1854681309,
+            "Value": "SAPPORO"
+        },
+        {
+            "Key": 1857499959,
+            "Value": "HANZO SECTOR"
+        },
+        {
+            "Key": 1857755083,
+            "Value": "KRAKATWO"
+        },
+        {
+            "Key": 1861970315,
+            "Value": "SHED"
+        },
+        {
+            "Key": 1863523614,
+            "Value": "Helldiver Recruit"
+        },
+        {
+            "Key": 1864553949,
+            "Value": "Service Technician #NAME"
+        },
+        {
+            "Key": 1865405032,
+            "Value": "of Conviction"
+        },
+        {
+            "Key": 1865951418,
+            "Value": "of Honour"
+        },
+        {
+            "Key": 1867905235,
+            "Value": "EAST REST"
+        },
+        {
+            "Key": 1868192951,
+            "Value": "Super Earth PSA"
+        },
+        {
+            "Key": 1870238113,
+            "Value": "of Independence"
+        },
+        {
+            "Key": 1871700431,
+            "Value": "Reinforced Scout Strider"
+        },
+        {
+            "Key": 1881166987,
+            "Value": "Shield"
+        },
+        {
+            "Key": 1882957075,
+            "Value": "Democracy Officer #NAME"
+        },
+        {
+            "Key": 1883008426,
+            "Value": "KEPLER-389b"
+        },
+        {
+            "Key": 1889131823,
+            "Value": "STANDARD VEHICLE PATTERN"
+        },
+        {
+            "Key": 1892656262,
+            "Value": "Commissars"
+        },
+        {
+            "Key": 1899936906,
+            "Value": "Overseer"
+        },
+        {
+            "Key": 1900734102,
+            "Value": "Ministry of Expansion"
+        },
+        {
+            "Key": 1901047489,
+            "Value": "CHARON PRIME"
+        },
+        {
+            "Key": 1902198544,
+            "Value": "Wesolowski"
+        },
+        {
+            "Key": 1905935376,
+            "Value": "IRIDICA"
+        },
+        {
+            "Key": 1908643927,
+            "Value": "FEARLESS HOLLOW"
+        },
+        {
+            "Key": 1911274390,
+            "Value": "VELD"
+        },
+        {
+            "Key": 1911682224,
+            "Value": "MARSPIRA SECTOR"
+        },
+        {
+            "Key": 1912909754,
+            "Value": "THESEUS SECTOR"
+        },
+        {
+            "Key": 1914634922,
+            "Value": "INCONSPICUOUS BLACK SHUTTLE PATTERN"
+        },
+        {
+            "Key": 1915898238,
+            "Value": "XIN FUZHOU"
+        },
+        {
+            "Key": 1921206358,
+            "Value": "ACRAB XI"
+        },
+        {
+            "Key": 1926035611,
+            "Value": "ANDAR"
+        },
+        {
+            "Key": 1927972667,
+            "Value": "MERIDIAN IIa"
+        },
+        {
+            "Key": 1928467696,
+            "Value": "CHAIRMAN OYESLLO"
+        },
+        {
+            "Key": 1928893546,
+            "Value": "Wiklund"
+        },
+        {
+            "Key": 1932062202,
+            "Value": "Gunship"
+        },
+        {
+            "Key": 1935027866,
+            "Value": "Lindstrom"
+        },
+        {
+            "Key": 1939105083,
+            "Value": "Spore Charger"
+        },
+        {
+            "Key": 1940364089,
+            "Value": "SETTLER'S HONOR"
+        },
+        {
+            "Key": 1941770292,
+            "Value": "AFOYAY BAY"
+        },
+        {
+            "Key": 1945792198,
+            "Value": "of Science"
+        },
+        {
+            "Key": 1954308553,
+            "Value": "DIPLOMACY"
+        },
+        {
+            "Key": 1960080764,
+            "Value": "MORDIA 9"
+        },
+        {
+            "Key": 1962923154,
+            "Value": "KEPLER-329b"
+        },
+        {
+            "Key": 1963526343,
+            "Value": "Shriekers"
+        },
+        {
+            "Key": 1969023152,
+            "Value": "BIRTH"
+        },
+        {
+            "Key": 1974334302,
+            "Value": "Brawler"
+        },
+        {
+            "Key": 1976322632,
+            "Value": "Protector"
+        },
+        {
+            "Key": 1984391101,
+            "Value": "RATTLESNAKE HELLPOD PATTERN"
+        },
+        {
+            "Key": 1994078506,
+            "Value": "KEPLER-286b"
+        },
+        {
+            "Key": 1999524414,
+            "Value": "ILLUMINATE"
+        },
+        {
+            "Key": 2000862158,
+            "Value": "Raider"
+        },
+        {
+            "Key": 2012659085,
+            "Value": "This Great Heart of Commerce is renowned galaxy-wide for its Grand Shopping Malls and Splendorous Entertainment Centres."
+        },
+        {
+            "Key": 2013327304,
+            "Value": "MARTALE"
+        },
+        {
+            "Key": 2023053339,
+            "Value": "Ministry of Defence"
+        },
+        {
+            "Key": 2028104177,
+            "Value": "Citizen"
+        },
+        {
+            "Key": 2028193710,
+            "Value": "ASPEROTH PRIME"
+        },
+        {
+            "Key": 2032929579,
+            "Value": "MANTES"
+        },
+        {
+            "Key": 2039605284,
+            "Value": "FORCE OF LAW"
+        },
+        {
+            "Key": 2041248679,
+            "Value": "Ministry of Unity"
+        },
+        {
+            "Key": 2042206691,
+            "Value": "ACHIRD III"
+        },
+        {
+            "Key": 2042495118,
+            "Value": "KEPLER-350b"
+        },
+        {
+            "Key": 2045427074,
+            "Value": "YATAKHANE 263"
+        },
+        {
+            "Key": 2047661864,
+            "Value": "KEPLER-340b"
+        },
+        {
+            "Key": 2062195479,
+            "Value": "Lindgren"
+        },
+        {
+            "Key": 2064715177,
+            "Value": "TARRAGON SECTOR"
+        },
+        {
+            "Key": 2065952231,
+            "Value": "KEPLER-343b"
+        },
+        {
+            "Key": 2068623694,
+            "Value": "Linddqvist"
+        },
+        {
+            "Key": 2069526184,
+            "Value": "LIFESWORTH"
+        },
+        {
+            "Key": 2075913385,
+            "Value": "KEPLER-319b"
+        },
+        {
+            "Key": 2083818604,
+            "Value": "CRUCIBLE"
+        },
+        {
+            "Key": 2084534010,
+            "Value": "Winston Richman Jr. Sr."
+        },
+        {
+            "Key": 2087200088,
+            "Value": "Jet Brigade Trooper"
+        },
+        {
+            "Key": 2087816161,
+            "Value": "CURSA"
+        },
+        {
+            "Key": 2090691137,
+            "Value": "Hulk Firebomber"
+        },
+        {
+            "Key": 2093976461,
+            "Value": "REQUIEM"
+        },
+        {
+            "Key": 2095944889,
+            "Value": "VICTORY"
+        },
+        {
+            "Key": 2096686340,
+            "Value": "Vicente"
+        },
+        {
+            "Key": 2096738172,
+            "Value": "Sjostrom"
+        },
+        {
+            "Key": 2097521099,
+            "Value": "Rocket Tanks"
+        },
+        {
+            "Key": 2098426918,
+            "Value": "Democratic Detonation"
+        },
+        {
+            "Key": 2106060099,
+            "Value": "KEPLER-284b"
+        },
+        {
+            "Key": 2107318609,
+            "Value": "KILLJOY TOWN"
+        },
+        {
+            "Key": 2108628906,
+            "Value": "Giant"
+        },
+        {
+            "Key": 2109890358,
+            "Value": "HULK FIREBOMBER"
+        },
+        {
+            "Key": 2109995347,
+            "Value": "PENSCEWT"
+        },
+        {
+            "Key": 2111649283,
+            "Value": "KEPLER-352b"
+        },
+        {
+            "Key": 2111845990,
+            "Value": "KEPLER-355b"
+        },
+        {
+            "Key": 2112350519,
+            "Value": "Prowler"
+        },
+        {
+            "Key": 2112393491,
+            "Value": "FARMHANDSTOWN"
+        },
+        {
+            "Key": 2115010351,
+            "Value": "Wolterbeek Muller"
+        },
+        {
+            "Key": 2115369190,
+            "Value": "Fyrvall"
+        },
+        {
+            "Key": 2115960485,
+            "Value": "Spore Burst Warrior"
+        },
+        {
+            "Key": 2121888692,
+            "Value": "SAGAN SECTOR"
+        },
+        {
+            "Key": 2122916248,
+            "Value": "ROCKET DEVASTATOR"
+        },
+        {
+            "Key": 2128884238,
+            "Value": "of Midnight"
+        },
+        {
+            "Key": 2135121722,
+            "Value": "Power"
+        },
+        {
+            "Key": 2136621536,
+            "Value": "SPORE BURST SCAVENGER"
+        },
+        {
+            "Key": 2137230620,
+            "Value": "BALDRICK PRIME"
+        },
+        {
+            "Key": 2141947866,
+            "Value": "Prince"
+        },
+        {
+            "Key": 2144389101,
+            "Value": "MARRE IV"
+        },
+        {
+            "Key": 2151011693,
+            "Value": "PARRHESIA"
+        },
+        {
+            "Key": 2154346758,
+            "Value": "BERSERKER"
+        },
+        {
+            "Key": 2155068571,
+            "Value": "ZAGON PRIME"
+        },
+        {
+            "Key": 2172175966,
+            "Value": "Super Earth"
+        },
+        {
+            "Key": 2174969617,
+            "Value": "of Integrity"
+        },
+        {
+            "Key": 2175182123,
+            "Value": "TIMELY"
+        },
+        {
+            "Key": 2177972845,
+            "Value": "Founding Father"
+        },
+        {
+            "Key": 2179256312,
+            "Value": "of Judgement"
+        },
+        {
+            "Key": 2180236555,
+            "Value": "SHELTER"
+        },
+        {
+            "Key": 2181852495,
+            "Value": "Durney"
+        },
+        {
+            "Key": 2181856792,
+            "Value": "KEPLER-368b"
+        },
+        {
+            "Key": 2182114170,
+            "Value": "Transport Shuttle"
+        },
+        {
+            "Key": 2183385626,
+            "Value": "Magus Acolytes"
+        },
+        {
+            "Key": 2188495010,
+            "Value": "WILFORD STATION"
+        },
+        {
+            "Key": 2206946868,
+            "Value": "MALEVELON CREEK"
+        },
+        {
+            "Key": 2207334030,
+            "Value": "UNDERVATTEN"
+        },
+        {
+            "Key": 2208968160,
+            "Value": "Scavengers"
+        },
+        {
+            "Key": 2209646811,
+            "Value": "REINFORCED SCOUT STRIDER"
+        },
+        {
+            "Key": 2210014777,
+            "Value": "SIRIUS"
+        },
+        {
+            "Key": 2213492101,
+            "Value": "GARAGE DUNE"
+        },
+        {
+            "Key": 2217667642,
+            "Value": "KEPLER-372b"
+        },
+        {
+            "Key": 2220556432,
+            "Value": "OVERSHIP"
+        },
+        {
+            "Key": 2225234085,
+            "Value": "TROOST"
+        },
+        {
+            "Key": 2225860827,
+            "Value": "MAIA"
+        },
+        {
+            "Key": 2229584013,
+            "Value": "WORKSONG"
+        },
+        {
+            "Key": 2234285621,
+            "Value": "NURSING SPEWER"
+        },
+        {
+            "Key": 2239176341,
+            "Value": "ANTBOOT"
+        },
+        {
+            "Key": 2239494015,
+            "Value": "PROGRESS"
+        },
+        {
+            "Key": 2240736806,
+            "Value": "MUSTARD VEHICLE PATTERN"
+        },
+        {
+            "Key": 2245967469,
+            "Value": "Herald"
+        },
+        {
+            "Key": 2248940060,
+            "Value": "Light"
+        },
+        {
+            "Key": 2251442607,
+            "Value": "MERGA IV"
+        },
+        {
+            "Key": 2255878520,
+            "Value": "Claw"
+        },
+        {
+            "Key": 2260123791,
+            "Value": "YORK SUPREME"
+        },
+        {
+            "Key": 2262855397,
+            "Value": "Hedstrom"
+        },
+        {
+            "Key": 2266188637,
+            "Value": "Elggren"
+        },
+        {
+            "Key": 2270698456,
+            "Value": "Rupture Spewer"
+        },
+        {
+            "Key": 2283210632,
+            "Value": "CONCRETE JUNGLE HELLPOD PATTERN"
+        },
+        {
+            "Key": 2283348879,
+            "Value": "ABUNDANCE BLUFF"
+        },
+        {
+            "Key": 2284867278,
+            "Value": "of Glory"
+        },
+        {
+            "Key": 2286463767,
+            "Value": "MT MONUMENT"
+        },
+        {
+            "Key": 2298398103,
+            "Value": "Person"
+        },
+        {
+            "Key": 2304245072,
+            "Value": "of Redemption"
+        },
+        {
+            "Key": 2306920540,
+            "Value": "Octagon"
+        },
+        {
+            "Key": 2314638779,
+            "Value": "Spore Lungs"
+        },
+        {
+            "Key": 2318718576,
+            "Value": "RUPTURE SPEWER"
+        },
+        {
+            "Key": 2318804196,
+            "Value": "SHADY OAKS"
+        },
+        {
+            "Key": 2319746535,
+            "Value": "Scout Raider"
+        },
+        {
+            "Key": 2322307250,
+            "Value": "KEPLER-373b"
+        },
+        {
+            "Key": 2324026679,
+            "Value": "BARABOS"
+        },
+        {
+            "Key": 2327521397,
+            "Value": "Eye"
+        },
+        {
+            "Key": 2337934883,
+            "Value": "PROPUS"
+        },
+        {
+            "Key": 2339943306,
+            "Value": "of Family Values"
+        },
+        {
+            "Key": 2343728799,
+            "Value": "Daiyu Hatchet"
+        },
+        {
+            "Key": 2347772106,
+            "Value": "GIRD"
+        },
+        {
+            "Key": 2348954771,
+            "Value": "FORT SANGUINE"
+        },
+        {
+            "Key": 2351373725,
+            "Value": "KEPLER-348b"
+        },
+        {
+            "Key": 2351442158,
+            "Value": "MUSTARD EXOSUIT PATTERN"
+        },
+        {
+            "Key": 2357224115,
+            "Value": "Ship Master"
+        },
+        {
+            "Key": 2363065433,
+            "Value": "of the People"
+        },
+        {
+            "Key": 2363299828,
+            "Value": "Eriksson"
+        },
+        {
+            "Key": 2365630221,
+            "Value": "Rocket Devastator"
+        },
+        {
+            "Key": 2366892687,
+            "Value": "CHOOHE"
+        },
+        {
+            "Key": 2368557367,
+            "Value": "Hulks"
+        },
+        {
+            "Key": 2373092333,
+            "Value": "GIRI"
+        },
+        {
+            "Key": 2375431518,
+            "Value": "EPSILON PHOENCIS VI"
+        },
+        {
+            "Key": 2375950297,
+            "Value": "BARRACKSBURG"
+        },
+        {
+            "Key": 2387277009,
+            "Value": "Stalker"
+        },
+        {
+            "Key": 2388292518,
+            "Value": "MORT"
+        },
+        {
+            "Key": 2395107031,
+            "Value": "USTOTU"
+        },
+        {
+            "Key": 2398327890,
+            "Value": "SAFETY ORANGE VEHICLE PATTERN"
+        },
+        {
+            "Key": 2399137569,
+            "Value": "STINGRAY"
+        },
+        {
+            "Key": 2399747308,
+            "Value": "Hellbot"
+        },
+        {
+            "Key": 2402248837,
+            "Value": "SEYSHEL BEACH"
+        },
+        {
+            "Key": 2403632757,
+            "Value": "ILDUNA PRIME"
+        },
+        {
+            "Key": 2410831279,
+            "Value": "Spore Burst Warriors"
+        },
+        {
+            "Key": 2418805493,
+            "Value": "CAPH"
+        },
+        {
+            "Key": 2423584147,
+            "Value": "KEPLER-309b"
+        },
+        {
+            "Key": 2424362352,
+            "Value": "MOGO PLAINS"
+        },
+        {
+            "Key": 2424499063,
+            "Value": "SEQUIM"
+        },
+        {
+            "Key": 2427721281,
+            "Value": "of Gold"
+        },
+        {
+            "Key": 2430884717,
+            "Value": "SONGGUO CUN"
+        },
+        {
+            "Key": 2439731458,
+            "Value": "IGLA"
+        },
+        {
+            "Key": 2440833855,
+            "Value": "Paragon"
+        },
+        {
+            "Key": 2444152049,
+            "Value": "Devastators"
+        },
+        {
+            "Key": 2449050769,
+            "Value": "GOTHMAR SECTOR"
+        },
+        {
+            "Key": 2450040168,
+            "Value": "STOR THA PRIME"
+        },
+        {
+            "Key": 2450667324,
+            "Value": "PEDIS"
+        },
+        {
+            "Key": 2454424572,
+            "Value": "Marauder"
+        },
+        {
+            "Key": 2466054614,
+            "Value": "GALLUX SECTOR"
+        },
+        {
+            "Key": 2469966431,
+            "Value": "SHRIEKER"
+        },
+        {
+            "Key": 2471860090,
+            "Value": "EUPHORIA III"
+        },
+        {
+            "Key": 2473806447,
+            "Value": "LACED STRAIT"
+        },
+        {
+            "Key": 2477683558,
+            "Value": "Kravchenko"
+        },
+        {
+            "Key": 2477964005,
+            "Value": "Chemical Agents"
+        },
+        {
+            "Key": 2479285427,
+            "Value": "Billnert"
+        },
+        {
+            "Key": 2479667651,
+            "Value": "EVERWHITE"
+        },
+        {
+            "Key": 2480584215,
+            "Value": "Hunters"
+        },
+        {
+            "Key": 2493835917,
+            "Value": "Rupture Warriors"
+        },
+        {
+            "Key": 2494015994,
+            "Value": "Automaton"
+        },
+        {
+            "Key": 2495956148,
+            "Value": "Bellawala"
+        },
+        {
+            "Key": 2497327335,
+            "Value": "KEPLER-337b"
+        },
+        {
+            "Key": 2500585152,
+            "Value": "BRAWFERMLAND"
+        },
+        {
+            "Key": 2502682152,
+            "Value": "of Individual Merit"
+        },
+        {
+            "Key": 2502973376,
+            "Value": "SCAVENGER"
+        },
+        {
+            "Key": 2503642914,
+            "Value": "Star"
+        },
+        {
+            "Key": 2505794238,
+            "Value": "KEPLER-346b"
+        },
+        {
+            "Key": 2509277034,
+            "Value": "KEPLER-274b"
+        },
+        {
+            "Key": 2511016458,
+            "Value": "Sword"
+        },
+        {
+            "Key": 2514244534,
+            "Value": "Bile Titan"
+        },
+        {
+            "Key": 2514800411,
+            "Value": "ADVENTURE"
+        },
+        {
+            "Key": 2516460275,
+            "Value": "Risen from the ashes of an ancient city, Rememberance is a monument to the Perseverance of Humankind."
+        },
+        {
+            "Key": 2519064414,
+            "Value": "SALERIA SECTOR"
+        },
+        {
+            "Key": 2520271295,
+            "Value": "Wirz"
+        },
+        {
+            "Key": 2523237367,
+            "Value": "Predator Hunters"
+        },
+        {
+            "Key": 2523375574,
+            "Value": "SUPERIORITY"
+        },
+        {
+            "Key": 2531617188,
+            "Value": "FAMEWOLF PEAK"
+        },
+        {
+            "Key": 2531725087,
+            "Value": "VIRIDIA PRIME"
+        },
+        {
+            "Key": 2531817086,
+            "Value": "VANQUISHMENT"
+        },
+        {
+            "Key": 2531925644,
+            "Value": "YDINKESKUSTA"
+        },
+        {
+            "Key": 2533608836,
+            "Value": "NEW EAGLE"
+        },
+        {
+            "Key": 2540796782,
+            "Value": "Frezzato"
+        },
+        {
+            "Key": 2545239036,
+            "Value": "HILDOARA CENTRAL"
+        },
+        {
+            "Key": 2552540432,
+            "Value": "KEPLER-298b"
+        },
+        {
+            "Key": 2552921329,
+            "Value": "EXO CITY"
+        },
+        {
+            "Key": 2562325679,
+            "Value": "TENDRA"
+        },
+        {
+            "Key": 2562342867,
+            "Value": "KEPLER-312b"
+        },
+        {
+            "Key": 2563213682,
+            "Value": "ERSON SANDS"
+        },
+        {
+            "Key": 2565002699,
+            "Value": "MIRIN SECTOR"
+        },
+        {
+            "Key": 2570163700,
+            "Value": "WEST BROKER"
+        },
+        {
+            "Key": 2572553124,
+            "Value": "Urban Legends"
+        },
+        {
+            "Key": 2572786553,
+            "Value": "Bile Spewers"
+        },
+        {
+            "Key": 2574167973,
+            "Value": "Courier"
+        },
+        {
+            "Key": 2575476666,
+            "Value": "MARTYR'S BAY"
+        },
+        {
+            "Key": 2576582114,
+            "Value": "Outcast Seeker"
+        },
+        {
+            "Key": 2576641352,
+            "Value": "ESTANU"
+        },
+        {
+            "Key": 2578681002,
+            "Value": "KEPLER-292b"
+        },
+        {
+            "Key": 2582617403,
+            "Value": "LACAILLE SECTOR"
+        },
+        {
+            "Key": 2583035357,
+            "Value": "TRUE BLUE EXOSUIT PATTERN"
+        },
+        {
+            "Key": 2586492531,
+            "Value": "KEPLER-326b"
+        },
+        {
+            "Key": 2587632663,
+            "Value": "ROCKET RAIDER"
+        },
+        {
+            "Key": 2588078506,
+            "Value": "CAMP LEIGHTON"
+        },
+        {
+            "Key": 2588104988,
+            "Value": "PARTION"
+        },
+        {
+            "Key": 2591340960,
+            "Value": "SPORE LUNG"
+        },
+        {
+            "Key": 2591525843,
+            "Value": "Bernklint"
+        },
+        {
+            "Key": 2592843621,
+            "Value": "NEW TOKYO"
+        },
+        {
+            "Key": 2609936268,
+            "Value": "PINESWOLD"
+        },
+        {
+            "Key": 2611116152,
+            "Value": "Civilian"
+        },
+        {
+            "Key": 2613210726,
+            "Value": "of Perseverance"
+        },
+        {
+            "Key": 2614950221,
+            "Value": "BILE TITAN"
+        },
+        {
+            "Key": 2615256492,
+            "Value": "LIFEBLOOD"
+        },
+        {
+            "Key": 2616278472,
+            "Value": "Masters of Ceremony"
+        },
+        {
+            "Key": 2616578175,
+            "Value": "HADAR"
+        },
+        {
+            "Key": 2617880626,
+            "Value": "DEVASTATOR"
+        },
+        {
+            "Key": 2621705030,
+            "Value": "Baneful Sentinel"
+        },
+        {
+            "Key": 2623456461,
+            "Value": "FUTURE PRIDE"
+        },
+        {
+            "Key": 2633081414,
+            "Value": "DUST DEVILS"
+        },
+        {
+            "Key": 2634940767,
+            "Value": "Ghoul"
+        },
+        {
+            "Key": 2642562384,
+            "Value": "KEPLER-382b"
+        },
+        {
+            "Key": 2646875211,
+            "Value": "Princess"
+        },
+        {
+            "Key": 2648074741,
+            "Value": "KEPLER-359b"
+        },
+        {
+            "Key": 2649067399,
+            "Value": "Automaton Mortar Emplacement"
+        },
+        {
+            "Key": 2657956346,
+            "Value": "Hive Guards"
+        },
+        {
+            "Key": 2662394754,
+            "Value": "SIEMNOT"
+        },
+        {
+            "Key": 2665180277,
+            "Value": "Custodian"
+        },
+        {
+            "Key": 2666845429,
+            "Value": "Spore Burst Scavengers"
+        },
+        {
+            "Key": 2672583111,
+            "Value": "LIBER-TEA TOWNSHIP"
+        },
+        {
+            "Key": 2673481423,
+            "Value": "Jet Brigade Commissar"
+        },
+        {
+            "Key": 2675157762,
+            "Value": "GEMSTONE BLUFFS"
+        },
+        {
+            "Key": 2685298705,
+            "Value": "HARDY"
+        },
+        {
+            "Key": 2686416718,
+            "Value": "ALIGNMENT"
+        },
+        {
+            "Key": 2688256510,
+            "Value": "of Destiny"
+        },
+        {
+            "Key": 2694605575,
+            "Value": "KEPLER-356b"
+        },
+        {
+            "Key": 2696343909,
+            "Value": "ARKTURUS"
+        },
+        {
+            "Key": 2698042019,
+            "Value": "DOGTOWN"
+        },
+        {
+            "Key": 2700729919,
+            "Value": "FURY-I"
+        },
+        {
+            "Key": 2700736388,
+            "Value": "MOX SECUNDUS"
+        },
+        {
+            "Key": 2701211260,
+            "Value": "KEPLER-285b"
+        },
+        {
+            "Key": 2703085897,
+            "Value": "TOPSOIL"
+        },
+        {
+            "Key": 2708347302,
+            "Value": "Lady"
+        },
+        {
+            "Key": 2709430291,
+            "Value": "QUASAR"
+        },
+        {
+            "Key": 2721497075,
+            "Value": "PRAVOGRAD"
+        },
+        {
+            "Key": 2723795817,
+            "Value": "Prophet Illusionist"
+        },
+        {
+            "Key": 2725043444,
+            "Value": "Brood Wardens"
+        },
+        {
+            "Key": 2726804828,
+            "Value": "HALIES PORT"
+        },
+        {
+            "Key": 2726860847,
+            "Value": "Young"
+        },
+        {
+            "Key": 2728602421,
+            "Value": "NEW PENG"
+        },
+        {
+            "Key": 2732935113,
+            "Value": "KEPLER-400b"
+        },
+        {
+            "Key": 2745056259,
+            "Value": "Elevated Overseer"
+        },
+        {
+            "Key": 2748957512,
+            "Value": "STEELED VETERANS"
+        },
+        {
+            "Key": 2753928740,
+            "Value": "NIVEL 43"
+        },
+        {
+            "Key": 2755209388,
+            "Value": "KEPLER-315b"
+        },
+        {
+            "Key": 2756193558,
+            "Value": "Marshall"
+        },
+        {
+            "Key": 2756394578,
+            "Value": "Pledge"
+        },
+        {
+            "Key": 2757180352,
+            "Value": "KEPLER-307b"
+        },
+        {
+            "Key": 2757374885,
+            "Value": "Mission Control"
+        },
+        {
+            "Key": 2764865372,
+            "Value": "Elevated Overseers"
+        },
+        {
+            "Key": 2765000052,
+            "Value": "KEPLER-322b"
+        },
+        {
+            "Key": 2767962404,
+            "Value": "FUTURIA"
+        },
+        {
+            "Key": 2768059040,
+            "Value": "Hulk Bruisers"
+        },
+        {
+            "Key": 2773451630,
+            "Value": "GATRIA"
+        },
+        {
+            "Key": 2774811376,
+            "Value": "Thomasson"
+        },
+        {
+            "Key": 2780462932,
+            "Value": "Rupture Chargers"
+        },
+        {
+            "Key": 2782204414,
+            "Value": "ALTONBURG"
+        },
+        {
+            "Key": 2788864241,
+            "Value": "CIRRUS"
+        },
+        {
+            "Key": 2793302978,
+            "Value": "ATRAMA"
+        },
+        {
+            "Key": 2795013007,
+            "Value": "MARFARK"
+        },
+        {
+            "Key": 2800784334,
+            "Value": "MAGUS ACOLYTE"
+        },
+        {
+            "Key": 2801286457,
+            "Value": "Thompson"
+        },
+        {
+            "Key": 2802576158,
+            "Value": "MALLSTRIP NODES"
+        },
+        {
+            "Key": 2808893037,
+            "Value": "Borderline Justice"
+        },
+        {
+            "Key": 2811274626,
+            "Value": "Viper Commandos"
+        },
+        {
+            "Key": 2812246737,
+            "Value": "of Selfless Service"
+        },
+        {
+            "Key": 2817045657,
+            "Value": "Voteless"
+        },
+        {
+            "Key": 2819358962,
+            "Value": "SEORAKSAN"
+        },
+        {
+            "Key": 2819645409,
+            "Value": "WALNUT ACRES"
+        },
+        {
+            "Key": 2825265110,
+            "Value": "Jet Brigade Troopers"
+        },
+        {
+            "Key": 2825278027,
+            "Value": "CURIA"
+        },
+        {
+            "Key": 2826323141,
+            "Value": "STOUT"
+        },
+        {
+            "Key": 2831328950,
+            "Value": "ROGUE 5"
+        },
+        {
+            "Key": 2832319432,
+            "Value": "MEGACORPUS"
+        },
+        {
+            "Key": 2833794131,
+            "Value": "DRAGONROACH"
+        },
+        {
+            "Key": 2834895362,
+            "Value": "KEPLER-281b"
+        },
+        {
+            "Key": 2838153097,
+            "Value": "KEPLER-324b"
+        },
+        {
+            "Key": 2838569178,
+            "Value": "URBAN LEGENDS"
+        },
+        {
+            "Key": 2839195435,
+            "Value": "Marcus"
+        },
+        {
+            "Key": 2841221522,
+            "Value": "KEPLER-300b"
+        },
+        {
+            "Key": 2842546265,
+            "Value": "Hive Lords"
+        },
+        {
+            "Key": 2842755544,
+            "Value": "Spore Burst Scavenger"
+        },
+        {
+            "Key": 2854071061,
+            "Value": "VIPER COMMANDOS"
+        },
+        {
+            "Key": 2855703241,
+            "Value": "ADNAN"
+        },
+        {
+            "Key": 2855966001,
+            "Value": "GREATER STOROUSE"
+        },
+        {
+            "Key": 2858847295,
+            "Value": "MINISTRY OF SCIENCE"
+        },
+        {
+            "Key": 2861014363,
+            "Value": "Pyro Trooper"
+        },
+        {
+            "Key": 2862867325,
+            "Value": "UNDERGROWTH VEHICLE PATTERN"
+        },
+        {
+            "Key": 2864012067,
+            "Value": "LEMURIA RISING"
+        },
+        {
+            "Key": 2864097220,
+            "Value": "CHARGER"
+        },
+        {
+            "Key": 2868446843,
+            "Value": "KEPLER-306b"
+        },
+        {
+            "Key": 2868939829,
+            "Value": "CARBONDALE"
+        },
+        {
+            "Key": 2869710000,
+            "Value": "Baneful Sentinels"
+        },
+        {
+            "Key": 2875027973,
+            "Value": "KEPLER-275b"
+        },
+        {
+            "Key": 2875412642,
+            "Value": "INARI"
+        },
+        {
+            "Key": 2879388280,
+            "Value": "OKUL VI"
+        },
+        {
+            "Key": 2880434041,
+            "Value": "Fleshmob"
+        },
+        {
+            "Key": 2881482997,
+            "Value": "ON-EARSAHOU"
+        },
+        {
+            "Key": 2887030368,
+            "Value": "NONE"
+        },
+        {
+            "Key": 2888074667,
+            "Value": "Gazers"
+        },
+        {
+            "Key": 2891419140,
+            "Value": "KEPLER-358b"
+        },
+        {
+            "Key": 2895661664,
+            "Value": "REFORMED-BY-TRUTH"
+        },
+        {
+            "Key": 2899188129,
+            "Value": "QUENCH"
+        },
+        {
+            "Key": 2901475147,
+            "Value": "X-45"
+        },
+        {
+            "Key": 2901609208,
+            "Value": "KEPLER-317b"
+        },
+        {
+            "Key": 2902346740,
+            "Value": "SENATOR PEAKS"
+        },
+        {
+            "Key": 2903742424,
+            "Value": "KALASATAMA"
+        },
+        {
+            "Key": 2906313102,
+            "Value": "NEW YEARNING CITY"
+        },
+        {
+            "Key": 2906903631,
+            "Value": "Triumph"
+        },
+        {
+            "Key": 2913428209,
+            "Value": "Ranger"
+        },
+        {
+            "Key": 2915575235,
+            "Value": "LIL'OME"
+        },
+        {
+            "Key": 2920989158,
+            "Value": "HUNTER"
+        },
+        {
+            "Key": 2925957429,
+            "Value": "HANDAKAS"
+        },
+        {
+            "Key": 2930778917,
+            "Value": "ANNWN"
+        },
+        {
+            "Key": 2933843709,
+            "Value": "Inagaki"
+        },
+        {
+            "Key": 2934149411,
+            "Value": "OBSERVATORY 6"
+        },
+        {
+            "Key": 2936867513,
+            "Value": "Bjorkman"
+        },
+        {
+            "Key": 2944028248,
+            "Value": "KEPLER-283b"
+        },
+        {
+            "Key": 2947173848,
+            "Value": "DRACO SECTOR"
+        },
+        {
+            "Key": 2948862277,
+            "Value": "SUPER EARTH"
+        },
+        {
+            "Key": 2949618488,
+            "Value": "KUPER"
+        },
+        {
+            "Key": 2951703094,
+            "Value": "KEPLER-386b"
+        },
+        {
+            "Key": 2952897881,
+            "Value": "PROWLER"
+        },
+        {
+            "Key": 2960440287,
+            "Value": "KEPLER-321b"
+        },
+        {
+            "Key": 2961331193,
+            "Value": "NEW PARADISE"
+        },
+        {
+            "Key": 2963023976,
+            "Value": "DEEPWELL"
+        },
+        {
+            "Key": 2967304390,
+            "Value": "VEGA BAY"
+        },
+        {
+            "Key": 2980267130,
+            "Value": "STACY"
+        },
+        {
+            "Key": 2983003231,
+            "Value": "Nitsan"
+        },
+        {
+            "Key": 2985681234,
+            "Value": "GRAND ERRANT"
+        },
+        {
+            "Key": 2989814560,
+            "Value": "FRESH ORCHARDS"
+        },
+        {
+            "Key": 2992138395,
+            "Value": "ZOSMA"
+        },
+        {
+            "Key": 2996935564,
+            "Value": "OBEDIENT DEMOCRACY SUPPORT TROOPERS"
+        },
+        {
+            "Key": 2999904680,
+            "Value": "ORION SECTOR"
+        },
+        {
+            "Key": 3000372461,
+            "Value": "APPROVAL CITY"
+        },
+        {
+            "Key": 3001533093,
+            "Value": "Lemaire"
+        },
+        {
+            "Key": 3002077388,
+            "Value": "GENERATORSVILLE"
+        },
+        {
+            "Key": 3005334329,
+            "Value": "KEPLER-287b"
+        },
+        {
+            "Key": 3006600704,
+            "Value": "Reign"
+        },
+        {
+            "Key": 3009003351,
+            "Value": "MOG"
+        },
+        {
+            "Key": 3009292145,
+            "Value": "ACCOUNTANT GRAEBER"
+        },
+        {
+            "Key": 3009293899,
+            "Value": "BATU BELIG"
+        },
+        {
+            "Key": 3010944915,
+            "Value": "HELLDIVERS MOBILISE!"
+        },
+        {
+            "Key": 3011828639,
+            "Value": "NEW COB"
+        },
+        {
+            "Key": 3014106519,
+            "Value": "OTARU'S PLEDGE"
+        },
+        {
+            "Key": 3016206633,
+            "Value": "EIGHTRINGS"
+        },
+        {
+            "Key": 3019919758,
+            "Value": "KEPLER-313b"
+        },
+        {
+            "Key": 3021705767,
+            "Value": "DIVER'S REST"
+        },
+        {
+            "Key": 3024067659,
+            "Value": "HEAVY DEVASTATOR"
+        },
+        {
+            "Key": 3024520777,
+            "Value": "LENG SECUNDUS"
+        },
+        {
+            "Key": 3025038405,
+            "Value": "Barrager Tanks"
+        },
+        {
+            "Key": 3029738043,
+            "Value": "Predator Hunter"
+        },
+        {
+            "Key": 3030272495,
+            "Value": "WALKAWAY"
+        },
+        {
+            "Key": 3035241840,
+            "Value": "CARAMOOR"
+        },
+        {
+            "Key": 3042591905,
+            "Value": "Zealots"
+        },
+        {
+            "Key": 3045085994,
+            "Value": "RESPITE"
+        },
+        {
+            "Key": 3045602539,
+            "Value": "Outcast Slasher"
+        },
+        {
+            "Key": 3050699459,
+            "Value": "KEPLER-345b"
+        },
+        {
+            "Key": 3054022597,
+            "Value": "ENULIALE"
+        },
+        {
+            "Key": 3054238048,
+            "Value": "MORSKIE OKO"
+        },
+        {
+            "Key": 3059367381,
+            "Value": "of Opportunity"
+        },
+        {
+            "Key": 3059762375,
+            "Value": "JURISPRUDENCE"
+        },
+        {
+            "Key": 3063286369,
+            "Value": "MUSTARD HELLPOD PATTERN"
+        },
+        {
+            "Key": 3067999294,
+            "Value": "BROOD COMMANDER"
+        },
+        {
+            "Key": 3069390405,
+            "Value": "SAFETY ORANGE EXOSUIT PATTERN"
+        },
+        {
+            "Key": 3069469219,
+            "Value": "Brettman"
+        },
+        {
+            "Key": 3073586861,
+            "Value": "Factory Striders"
+        },
+        {
+            "Key": 3077749065,
+            "Value": "Brood Commander"
+        },
+        {
+            "Key": 3084412776,
+            "Value": "Chargers"
+        },
+        {
+            "Key": 3086658899,
+            "Value": "PYRO TROOPER"
+        },
+        {
+            "Key": 3089011827,
+            "Value": "LAGERLÖF CITY"
+        },
+        {
+            "Key": 3090275867,
+            "Value": "CELEBRATION"
+        },
+        {
+            "Key": 3091329534,
+            "Value": "KIRRIK"
+        },
+        {
+            "Key": 3092832165,
+            "Value": "MERIDIA"
+        },
+        {
+            "Key": 3094051902,
+            "Value": "NON-PARTISAN"
+        },
+        {
+            "Key": 3097344451,
+            "Value": "Leviathan"
+        },
+        {
+            "Key": 3101528587,
+            "Value": "ÖDESHÖGRE"
+        },
+        {
+            "Key": 3109167484,
+            "Value": "Hakalax"
+        },
+        {
+            "Key": 3110738283,
+            "Value": "CONCRETE JUNGLE VEHICLE PATTERN"
+        },
+        {
+            "Key": 3111416441,
+            "Value": "Higham"
+        },
+        {
+            "Key": 3112705780,
+            "Value": "Rocket Raider"
+        },
+        {
+            "Key": 3115822437,
+            "Value": "KRAKABOS"
+        },
+        {
+            "Key": 3118616277,
+            "Value": "KEPLER-327b"
+        },
+        {
+            "Key": 3119992422,
+            "Value": "TRAITOR'S END"
+        },
+        {
+            "Key": 3127123521,
+            "Value": "THE ILLUMINATE"
+        },
+        {
+            "Key": 3130272281,
+            "Value": "OL' OLDHAM"
+        },
+        {
+            "Key": 3133145775,
+            "Value": "of Eternity"
+        },
+        {
+            "Key": 3135100785,
+            "Value": "HULK OBLITERATOR"
+        },
+        {
+            "Key": 3138072003,
+            "Value": "Cutting Edge"
+        },
+        {
+            "Key": 3143719551,
+            "Value": "FROSTOWN"
+        },
+        {
+            "Key": 3143846020,
+            "Value": "CHARBAL-VII"
+        },
+        {
+            "Key": 3150403879,
+            "Value": "KEPLER-279b"
+        },
+        {
+            "Key": 3150803681,
+            "Value": "Mother"
+        },
+        {
+            "Key": 3158883809,
+            "Value": "KEPLER-320b"
+        },
+        {
+            "Key": 3159948003,
+            "Value": "Armstrong"
+        },
+        {
+            "Key": 3160372667,
+            "Value": "ERATA PRIME"
+        },
+        {
+            "Key": 3164522440,
+            "Value": "FENMIRE"
+        },
+        {
+            "Key": 3166068636,
+            "Value": "ESKER"
+        },
+        {
+            "Key": 3169978199,
+            "Value": "KEPLER-353b"
+        },
+        {
+            "Key": 3170157393,
+            "Value": "KEPLER-376b"
+        },
+        {
+            "Key": 3172956985,
+            "Value": "COMMUNEFALLS"
+        },
+        {
+            "Key": 3173076563,
+            "Value": "Armelin"
+        },
+        {
+            "Key": 3176114089,
+            "Value": "HULK SCORCHER"
+        },
+        {
+            "Key": 3176756443,
+            "Value": "RIRGA BAY"
+        },
+        {
+            "Key": 3181485734,
+            "Value": "Hansson-Bjerke"
+        },
+        {
+            "Key": 3190734847,
+            "Value": "ZENITH"
+        },
+        {
+            "Key": 3193324325,
+            "Value": "Helldivers Mobilise!"
+        },
+        {
+            "Key": 3196908787,
+            "Value": "Lee"
+        },
+        {
+            "Key": 3198311629,
+            "Value": "Kimura"
+        },
+        {
+            "Key": 3201091243,
+            "Value": "DOSTOINSTVO"
+        },
+        {
+            "Key": 3201222154,
+            "Value": "Berserker"
+        },
+        {
+            "Key": 3203629918,
+            "Value": "NEW KATHMANDU"
+        },
+        {
+            "Key": 3203913453,
+            "Value": "MUSTARD SHUTTLE PATTERN"
+        },
+        {
+            "Key": 3207161693,
+            "Value": "Severien"
+        },
+        {
+            "Key": 3209402160,
+            "Value": "Shrieker Nests"
+        },
+        {
+            "Key": 3211639846,
+            "Value": "Fleshmobs"
+        },
+        {
+            "Key": 3215785011,
+            "Value": "XIRAN'S CLAIM"
+        },
+        {
+            "Key": 3218460543,
+            "Value": "PIONEER'S DREAM"
+        },
+        {
+            "Key": 3220476127,
+            "Value": "LESATH"
+        },
+        {
+            "Key": 3222410792,
+            "Value": "ALAMAK VII"
+        },
+        {
+            "Key": 3225533687,
+            "Value": "KEPLER-360b"
+        },
+        {
+            "Key": 3227753500,
+            "Value": "KEPLER-388b"
+        },
+        {
+            "Key": 3235228187,
+            "Value": "OLD CHEMLAND"
+        },
+        {
+            "Key": 3235683262,
+            "Value": "Whisper"
+        },
+        {
+            "Key": 3239741438,
+            "Value": "BASHYR"
+        },
+        {
+            "Key": 3241077179,
+            "Value": "of Peace"
+        },
+        {
+            "Key": 3243895582,
+            "Value": "PANDION-XXIV"
+        },
+        {
+            "Key": 3244361341,
+            "Value": "HAVEN"
+        },
+        {
+            "Key": 3246104028,
+            "Value": "IRULTA"
+        },
+        {
+            "Key": 3248318589,
+            "Value": "DYN ALPHA 534-2"
+        },
+        {
+            "Key": 3249246944,
+            "Value": "KEPLER-296b"
+        },
+        {
+            "Key": 3251726327,
+            "Value": "KEPLER-361b"
+        },
+        {
+            "Key": 3253076821,
+            "Value": "OVERSEER"
+        },
+        {
+            "Key": 3256192545,
+            "Value": "QUINTUS SECTOR"
+        },
+        {
+            "Key": 3257616781,
+            "Value": "FARSIGHT SECTOR"
+        },
+        {
+            "Key": 3259303240,
+            "Value": "Automatons"
+        },
+        {
+            "Key": 3261100878,
+            "Value": "NUBLARIA I"
+        },
+        {
+            "Key": 3261365930,
+            "Value": "SCOUT STRIDER"
+        },
+        {
+            "Key": 3263009716,
+            "Value": "HERTHON SECUNDUS"
+        },
+        {
+            "Key": 3263174413,
+            "Value": "XIAMEN ANEW"
+        },
+        {
+            "Key": 3270663062,
+            "Value": "ADHAFERA SECUNDUS"
+        },
+        {
+            "Key": 3275461478,
+            "Value": "KEPLER-310b"
+        },
+        {
+            "Key": 3276302871,
+            "Value": "SKAR'S GARDENS"
+        },
+        {
+            "Key": 3277626454,
+            "Value": "Bug Hole"
+        },
+        {
+            "Key": 3278799117,
+            "Value": "TRUE BLUE VEHICLE PATTERN"
+        },
+        {
+            "Key": 3278860284,
+            "Value": "Dropships"
+        },
+        {
+            "Key": 3279100752,
+            "Value": "CLAORELL"
+        },
+        {
+            "Key": 3280746776,
+            "Value": "CHEMICAL AGENTS"
+        },
+        {
+            "Key": 3282349580,
+            "Value": "THE AUTOMATONS"
+        },
+        {
+            "Key": 3283474813,
+            "Value": "of the Stars"
+        },
+        {
+            "Key": 3283630480,
+            "Value": "LIGHT-OF-LIBERTY"
+        },
+        {
+            "Key": 3287764042,
+            "Value": "DISCOVERY GLEN"
+        },
+        {
+            "Key": 3290486494,
+            "Value": "Obedient Democracy Support Troopers"
+        },
+        {
+            "Key": 3292948085,
+            "Value": "Corpeleijn"
+        },
+        {
+            "Key": 3293707642,
+            "Value": "GYEONGSEONG"
+        },
+        {
+            "Key": 3295615380,
+            "Value": "SPORE BURST HUNTER"
+        },
+        {
+            "Key": 3296392070,
+            "Value": "McGregor"
+        },
+        {
+            "Key": 3300214952,
+            "Value": "BRINK-2"
+        },
+        {
+            "Key": 3302818592,
+            "Value": "BILE SPEWER"
+        },
+        {
+            "Key": 3306812932,
+            "Value": "BILE WARRIOR"
+        },
+        {
+            "Key": 3311517734,
+            "Value": "STRONGFORT"
+        },
+        {
+            "Key": 3312645486,
+            "Value": "CORNUCOPOLIS"
+        },
+        {
+            "Key": 3324872373,
+            "Value": "ANDROS GAMMA"
+        },
+        {
+            "Key": 3330362068,
+            "Value": "Hunter"
+        },
+        {
+            "Key": 3331938550,
+            "Value": "KEPLER-278b"
+        },
+        {
+            "Key": 3335590414,
+            "Value": "KEPLER-381b"
+        },
+        {
+            "Key": 3342924444,
+            "Value": "TURING"
+        },
+        {
+            "Key": 3344257325,
+            "Value": "Bettmann"
+        },
+        {
+            "Key": 3349220266,
+            "Value": "KEPLER-328b"
+        },
+        {
+            "Key": 3350036223,
+            "Value": "KEPLER-393b"
+        },
+        {
+            "Key": 3353006053,
+            "Value": "SAFETY ORANGE HELLPOD PATTERN"
+        },
+        {
+            "Key": 3363066353,
+            "Value": "Xenobite Ardent"
+        },
+        {
+            "Key": 3364806074,
+            "Value": "CANNON TURRET"
+        },
+        {
+            "Key": 3365898186,
+            "Value": "Bile Warrior"
+        },
+        {
+            "Key": 3367789650,
+            "Value": "LOKAHEIM"
+        },
+        {
+            "Key": 3368575056,
+            "Value": "Lord"
+        },
+        {
+            "Key": 3369110221,
+            "Value": "BOPSFIELD"
+        },
+        {
+            "Key": 3370281534,
+            "Value": "PORT MERCY"
+        },
+        {
+            "Key": 3376866480,
+            "Value": "OSLO STATION"
+        },
+        {
+            "Key": 3377907980,
+            "Value": "OMEGA SECTOR"
+        },
+        {
+            "Key": 3379521453,
+            "Value": "CLE ELUM REDIVIVA"
+        },
+        {
+            "Key": 3380571980,
+            "Value": "PÖPLI IX"
+        },
+        {
+            "Key": 3382493069,
+            "Value": "Morgan"
+        },
+        {
+            "Key": 3383944595,
+            "Value": "WEZEN"
+        },
+        {
+            "Key": 3385193392,
+            "Value": "PORUGU"
+        },
+        {
+            "Key": 3388563093,
+            "Value": "Jet Brigade MG Trooper"
+        },
+        {
+            "Key": 3389070063,
+            "Value": "FOUR CROWNS"
+        },
+        {
+            "Key": 3392016075,
+            "Value": "FREE TRADE"
+        },
+        {
+            "Key": 3398129090,
+            "Value": "MOBERG'S DREAM"
+        },
+        {
+            "Key": 3401528511,
+            "Value": "Hulk Obliterators"
+        },
+        {
+            "Key": 3405462970,
+            "Value": "Ministry of Prosperity"
+        },
+        {
+            "Key": 3410420208,
+            "Value": "Heathcote"
+        },
+        {
+            "Key": 3410743548,
+            "Value": "Bringer"
+        },
+        {
+            "Key": 3422660136,
+            "Value": "BLIGHTSMURK"
+        },
+        {
+            "Key": 3426737172,
+            "Value": "None"
+        },
+        {
+            "Key": 3429370169,
+            "Value": "DEBTOR'S DOWNS"
+        },
+        {
+            "Key": 3429653155,
+            "Value": "CANOPUS"
+        },
+        {
+            "Key": 3430946630,
+            "Value": "KEPLER-280b"
+        },
+        {
+            "Key": 3443379122,
+            "Value": "Dragonroaches"
+        },
+        {
+            "Key": 3453655297,
+            "Value": "RIZIO'S VISION"
+        },
+        {
+            "Key": 3454838263,
+            "Value": "RUPTURE WARRIOR"
+        },
+        {
+            "Key": 3455009224,
+            "Value": "Annihilator Tank"
+        },
+        {
+            "Key": 3457638201,
+            "Value": "VIBRANCY"
+        },
+        {
+            "Key": 3458804072,
+            "Value": "RAS ALGETHI"
+        },
+        {
+            "Key": 3460683182,
+            "Value": "of Humankind"
+        },
+        {
+            "Key": 3461599670,
+            "Value": "KEPLER-282b"
+        },
+        {
+            "Key": 3473770236,
+            "Value": "VALDIS SECTOR"
+        },
+        {
+            "Key": 3476251425,
+            "Value": "KEPLER-366b"
+        },
+        {
+            "Key": 3476617682,
+            "Value": "of Benevolence"
+        },
+        {
+            "Key": 3480109512,
+            "Value": "FENRIR III"
+        },
+        {
+            "Key": 3480261096,
+            "Value": "BIRCHVILLE"
+        },
+        {
+            "Key": 3483017602,
+            "Value": "of Self-Determination"
+        },
+        {
+            "Key": 3484155856,
+            "Value": "SCHOLAR'S MOOR"
+        },
+        {
+            "Key": 3494209900,
+            "Value": "BELLATRIX"
+        },
+        {
+            "Key": 3495940927,
+            "Value": "KNIGHT'S HONOUR"
+        },
+        {
+            "Key": 3495946093,
+            "Value": "ORESINK"
+        },
+        {
+            "Key": 3496786382,
+            "Value": "Shrieker Nest"
+        },
+        {
+            "Key": 3498181594,
+            "Value": "Conflagration Devastator"
+        },
+        {
+            "Key": 3502399096,
+            "Value": "KEPLER-323b"
+        },
+        {
+            "Key": 3504573238,
+            "Value": "SETIA"
+        },
+        {
+            "Key": 3505496055,
+            "Value": "MINISTRY OF DEFENCE"
+        },
+        {
+            "Key": 3505595200,
+            "Value": "ZEALOT"
+        },
+        {
+            "Key": 3506421665,
+            "Value": "Flowers"
+        },
+        {
+            "Key": 3511132020,
+            "Value": "OBEDIENCE"
+        },
+        {
+            "Key": 3512800577,
+            "Value": "KEPLER-290b"
+        },
+        {
+            "Key": 3517486397,
+            "Value": "BARREN WARD"
+        },
+        {
+            "Key": 3519536123,
+            "Value": "MERAK"
+        },
+        {
+            "Key": 3519611870,
+            "Value": "Bayrak"
+        },
+        {
+            "Key": 3525702929,
+            "Value": "IPTUS SECTOR"
+        },
+        {
+            "Key": 3528833315,
+            "Value": "Olofsson"
+        },
+        {
+            "Key": 3529979014,
+            "Value": "DEMOCRATIC DETONATION"
+        },
+        {
+            "Key": 3536341782,
+            "Value": "GREATWOOD MILLS"
+        },
+        {
+            "Key": 3543116688,
+            "Value": "DOWNPOUR"
+        },
+        {
+            "Key": 3545171052,
+            "Value": "SEVERIN SECTOR"
+        },
+        {
+            "Key": 3545192316,
+            "Value": "Rocket Raiders"
+        },
+        {
+            "Key": 3548116907,
+            "Value": "PERSEVERANCE"
+        },
+        {
+            "Key": 3548141040,
+            "Value": "Winaldy"
+        },
+        {
+            "Key": 3550991066,
+            "Value": "PREDATOR STALKER"
+        },
+        {
+            "Key": 3554691971,
+            "Value": "of Dawn"
+        },
+        {
+            "Key": 3557245244,
+            "Value": "BARRAGER TANK"
+        },
+        {
+            "Key": 3564923972,
+            "Value": "Warrior"
+        },
+        {
+            "Key": 3569445028,
+            "Value": "OLD HEARTH CITY"
+        },
+        {
+            "Key": 3570922568,
+            "Value": "KEPLER-362b"
+        },
+        {
+            "Key": 3578469809,
+            "Value": "SARAH SWIFT DAM"
+        },
+        {
+            "Key": 3579113113,
+            "Value": "Warp Ship"
+        },
+        {
+            "Key": 3581530276,
+            "Value": "SEVENSEAL"
+        },
+        {
+            "Key": 3584260041,
+            "Value": "VERNEN WELLS"
+        },
+        {
+            "Key": 3587867250,
+            "Value": "BEACHVIEW"
+        },
+        {
+            "Key": 3592430137,
+            "Value": "Pouncers"
+        },
+        {
+            "Key": 3593438329,
+            "Value": "POLAR PATRIOTS"
+        },
+        {
+            "Key": 3596915833,
+            "Value": "Brawlers"
+        },
+        {
+            "Key": 3598277119,
+            "Value": "CYBERSTAN"
+        },
+        {
+            "Key": 3603869762,
+            "Value": "KELVINOR"
+        },
+        {
+            "Key": 3607018920,
+            "Value": "RASP"
+        },
+        {
+            "Key": 3608538404,
+            "Value": "SHRIEKER NEST"
+        },
+        {
+            "Key": 3616280245,
+            "Value": "PO'S RAVENNA"
+        },
+        {
+            "Key": 3621885961,
+            "Value": "ALPHA COMMANDER"
+        },
+        {
+            "Key": 3621980142,
+            "Value": "TIBIT"
+        },
+        {
+            "Key": 3622775454,
+            "Value": "PERIWINKLE MILLS"
+        },
+        {
+            "Key": 3626758819,
+            "Value": "KUMA"
+        },
+        {
+            "Key": 3628262152,
+            "Value": "WATCHER"
+        },
+        {
+            "Key": 3630129367,
+            "Value": "DUMA TYR"
+        },
+        {
+            "Key": 3632688076,
+            "Value": "KEPLER-311b"
+        },
+        {
+            "Key": 3635343795,
+            "Value": "Shredder Tank"
+        },
+        {
+            "Key": 3636423311,
+            "Value": "Zealot"
+        },
+        {
+            "Key": 3642991046,
+            "Value": "Ayre"
+        },
+        {
+            "Key": 3651111227,
+            "Value": "Burrows"
+        },
+        {
+            "Key": 3653296105,
+            "Value": "of the Constitution"
+        },
+        {
+            "Key": 3667756654,
+            "Value": "ALADFAR CXI"
+        },
+        {
+            "Key": 3671149001,
+            "Value": "Conflagration Devastators"
+        },
+        {
+            "Key": 3671853082,
+            "Value": "Named for the historic conference where Humanity was found to be the most Equal species in the Galaxy."
+        },
+        {
+            "Key": 3672376337,
+            "Value": "KEPLER-369b"
+        },
+        {
+            "Key": 3673962713,
+            "Value": "Khatib"
+        },
+        {
+            "Key": 3675634490,
+            "Value": "Nicholson"
+        },
+        {
+            "Key": 3677750052,
+            "Value": "CELESTE SECTOR"
+        },
+        {
+            "Key": 3678299227,
+            "Value": "General Brasch"
+        },
+        {
+            "Key": 3682640031,
+            "Value": "of Serenity"
+        },
+        {
+            "Key": 3686445623,
+            "Value": "MINISTRY OF PROSPERITY"
+        },
+        {
+            "Key": 3687135479,
+            "Value": "ERSATZ"
+        },
+        {
+            "Key": 3688481919,
+            "Value": "Legislator"
+        },
+        {
+            "Key": 3689757614,
+            "Value": "KEPLER-288b"
+        },
+        {
+            "Key": 3690215169,
+            "Value": "of Patriotism"
+        },
+        {
+            "Key": 3690945823,
+            "Value": "GRAFSEAD"
+        },
+        {
+            "Key": 3692813988,
+            "Value": "HALDUS"
+        },
+        {
+            "Key": 3694915461,
+            "Value": "LOGISTICS HUB 232-B"
+        },
+        {
+            "Key": 3704017479,
+            "Value": "ELECTRA BAY"
+        },
+        {
+            "Key": 3709010725,
+            "Value": "YED PRIOR"
+        },
+        {
+            "Key": 3715919548,
+            "Value": "OLD INTERNMENTS"
+        },
+        {
+            "Key": 3717369657,
+            "Value": "CLOCKSTOP"
+        },
+        {
+            "Key": 3722503053,
+            "Value": "CHARA"
+        },
+        {
+            "Key": 3723342013,
+            "Value": "Colossus"
+        },
+        {
+            "Key": 3725149159,
+            "Value": "QZ-4"
+        },
+        {
+            "Key": 3725356541,
+            "Value": "CERBERUS IIIc"
+        },
+        {
+            "Key": 3726554027,
+            "Value": "AURORA BAY"
+        },
+        {
+            "Key": 3730705798,
+            "Value": "King"
+        },
+        {
+            "Key": 3731034809,
+            "Value": "Ryhre"
+        },
+        {
+            "Key": 3737295549,
+            "Value": "KEPLER-394b"
+        },
+        {
+            "Key": 3739712265,
+            "Value": "MINISTRY OF HUMANITY"
+        },
+        {
+            "Key": 3740715487,
+            "Value": "NEKK POND"
+        },
+        {
+            "Key": 3743423561,
+            "Value": "Keeper"
+        },
+        {
+            "Key": 3743479119,
+            "Value": "GREATER INVESTMENT"
+        },
+        {
+            "Key": 3745301240,
+            "Value": "NO COMPOUND"
+        },
+        {
+            "Key": 3745869348,
+            "Value": "Nystrom"
+        },
+        {
+            "Key": 3746837729,
+            "Value": "KEPLER-344b"
+        },
+        {
+            "Key": 3747586953,
+            "Value": "MINERAL'S END"
+        },
+        {
+            "Key": 3748497362,
+            "Value": "of Destruction"
+        },
+        {
+            "Key": 3749126267,
+            "Value": "KEPLER-387b"
+        },
+        {
+            "Key": 3750017930,
+            "Value": "KEPLER-398b"
+        },
+        {
+            "Key": 3750283492,
+            "Value": "SWAMP V"
+        },
+        {
+            "Key": 3755650243,
+            "Value": "HAKU CITY"
+        },
+        {
+            "Key": 3756643203,
+            "Value": "Fritzell"
+        },
+        {
+            "Key": 3756969656,
+            "Value": "KEPLER-333b"
+        },
+        {
+            "Key": 3761101242,
+            "Value": "KEPLER-349b"
+        },
+        {
+            "Key": 3767503173,
+            "Value": "OROTH"
+        },
+        {
+            "Key": 3768231542,
+            "Value": "Judge"
+        },
+        {
+            "Key": 3772226613,
+            "Value": "Kelder"
+        },
+        {
+            "Key": 3772752154,
+            "Value": "Marauders"
+        },
+        {
+            "Key": 3782673150,
+            "Value": "Johansson"
+        },
+        {
+            "Key": 3784605505,
+            "Value": "Sellerfors"
+        },
+        {
+            "Key": 3787334875,
+            "Value": "of War"
+        },
+        {
+            "Key": 3791129379,
+            "Value": "HIVE GUARD"
+        },
+        {
+            "Key": 3792296541,
+            "Value": "DRAUPNIR"
+        },
+        {
+            "Key": 3794527478,
+            "Value": "Fabricator"
+        },
+        {
+            "Key": 3799172693,
+            "Value": "CONCRETE JUNGLE EXOSUIT PATTERN"
+        },
+        {
+            "Key": 3799701609,
+            "Value": "RUPTURE CHARGER"
+        },
+        {
+            "Key": 3800006309,
+            "Value": "Elected Representative"
+        },
+        {
+            "Key": 3801905866,
+            "Value": "HEART FLATS"
+        },
+        {
+            "Key": 3817774454,
+            "Value": "EXCITEMENT"
+        },
+        {
+            "Key": 3820768900,
+            "Value": "Sector"
+        },
+        {
+            "Key": 3825277513,
+            "Value": "Sturk"
+        },
+        {
+            "Key": 3825421242,
+            "Value": "Jet Brigade Raider"
+        },
+        {
+            "Key": 3834393618,
+            "Value": "PIT 8"
+        },
+        {
+            "Key": 3835584257,
+            "Value": "KEPLER-291b"
+        },
+        {
+            "Key": 3851712342,
+            "Value": "Righteous Revenants"
+        },
+        {
+            "Key": 3861880868,
+            "Value": "KEPLER-392b"
+        },
+        {
+            "Key": 3862989608,
+            "Value": "Control Group"
+        },
+        {
+            "Key": 3865708061,
+            "Value": "PREDATOR HUNTER"
+        },
+        {
+            "Key": 3868806488,
+            "Value": "OBARI"
+        },
+        {
+            "Key": 3870488427,
+            "Value": "BRAWLER"
+        },
+        {
+            "Key": 3871739922,
+            "Value": "Panther"
+        },
+        {
+            "Key": 3877198592,
+            "Value": "Bug Holes"
+        },
+        {
+            "Key": 3877563222,
+            "Value": "Crescent Overseer"
+        },
+        {
+            "Key": 3878090408,
+            "Value": "SWAMP VI"
+        },
+        {
+            "Key": 3878595924,
+            "Value": "Nystrom"
+        },
+        {
+            "Key": 3880800031,
+            "Value": "CANTOLUS SECTOR"
+        },
+        {
+            "Key": 3885994214,
+            "Value": "INTEREST"
+        },
+        {
+            "Key": 3886945884,
+            "Value": "KEPLER-308b"
+        },
+        {
+            "Key": 3887939125,
+            "Value": "UNISON"
+        },
+        {
+            "Key": 3891463586,
+            "Value": "UBANEA"
+        },
+        {
+            "Key": 3894418747,
+            "Value": "JIN XI SECTOR"
+        },
+        {
+            "Key": 3895550358,
+            "Value": "SCOUT RAIDER"
+        },
+        {
+            "Key": 3896445758,
+            "Value": "CRESCENT OVERSEER"
+        },
+        {
+            "Key": 3896690221,
+            "Value": "Infested Tower"
+        },
+        {
+            "Key": 3900627240,
+            "Value": "BUJU"
+        },
+        {
+            "Key": 3903153972,
+            "Value": "Rupture Charger"
+        },
+        {
+            "Key": 3904473600,
+            "Value": "KEPLER-365b"
+        },
+        {
+            "Key": 3909684051,
+            "Value": "IMBER"
+        },
+        {
+            "Key": 3914500540,
+            "Value": "CASTOR"
+        },
+        {
+            "Key": 3915924298,
+            "Value": "of the Regime"
+        },
+        {
+            "Key": 3921592399,
+            "Value": "Barrager Tank"
+        },
+        {
+            "Key": 3926941105,
+            "Value": "Edstrom"
+        },
+        {
+            "Key": 3927675035,
+            "Value": "Lasota"
+        },
+        {
+            "Key": 3929716830,
+            "Value": "Hive Lord"
+        },
+        {
+            "Key": 3931430370,
+            "Value": "TVENNE BOTTOMS"
+        },
+        {
+            "Key": 3935517876,
+            "Value": "of Steel"
+        },
+        {
+            "Key": 3937567880,
+            "Value": "DEMIURG"
+        },
+        {
+            "Key": 3939430458,
+            "Value": "WASAT"
+        },
+        {
+            "Key": 3940422141,
+            "Value": "KEPLER-351b"
+        },
+        {
+            "Key": 3946592432,
+            "Value": "STANDARD HELLPOD PATTERN"
+        },
+        {
+            "Key": 3949569347,
+            "Value": "GAELLIVARE"
+        },
+        {
+            "Key": 3955894400,
+            "Value": "GACRUX"
+        },
+        {
+            "Key": 3961242203,
+            "Value": "GRAPESHOT"
+        },
+        {
+            "Key": 3962567934,
+            "Value": "CRIMSICA"
+        },
+        {
+            "Key": 3965403289,
+            "Value": "PROVIDENCE"
+        },
+        {
+            "Key": 3967877481,
+            "Value": "EXALT"
+        },
+        {
+            "Key": 3969578797,
+            "Value": "Fraser"
+        },
+        {
+            "Key": 3970498706,
+            "Value": "PEACOCK"
+        },
+        {
+            "Key": 3972994097,
+            "Value": "Magus Acolyte"
+        },
+        {
+            "Key": 3973182985,
+            "Value": "TERMINIDS"
+        },
+        {
+            "Key": 3975465670,
+            "Value": "KEPLER-293b"
+        },
+        {
+            "Key": 3978718279,
+            "Value": "MINCHIR"
+        },
+        {
+            "Key": 3985499109,
+            "Value": "PENTA"
+        },
+        {
+            "Key": 3994226327,
+            "Value": "NEW DA NANG"
+        },
+        {
+            "Key": 3998109846,
+            "Value": "OUTCAST SEEKER"
+        },
+        {
+            "Key": 4002995121,
+            "Value": "PORTE LIBERTÉ"
+        },
+        {
+            "Key": 4003330548,
+            "Value": "UMLAUT SECTOR"
+        },
+        {
+            "Key": 4007176464,
+            "Value": "REGISTER"
+        },
+        {
+            "Key": 4007377380,
+            "Value": "PLETHORA"
+        },
+        {
+            "Key": 4011376215,
+            "Value": "WORKHOUSE 239-C"
+        },
+        {
+            "Key": 4016445878,
+            "Value": "FLESHMOB"
+        },
+        {
+            "Key": 4016615575,
+            "Value": "Heavy Devastators"
+        },
+        {
+            "Key": 4016785230,
+            "Value": "FERRIS SECTOR"
+        },
+        {
+            "Key": 4018146404,
+            "Value": "Forerunner"
+        },
+        {
+            "Key": 4018724654,
+            "Value": "Baskin"
+        },
+        {
+            "Key": 4036369765,
+            "Value": "MERIDIAN SECTOR"
+        },
+        {
+            "Key": 4036424274,
+            "Value": "THE TERMINIDS"
+        },
+        {
+            "Key": 4038356158,
+            "Value": "Rocket Devastators"
+        },
+        {
+            "Key": 4039692928,
+            "Value": "Trooper"
+        },
+        {
+            "Key": 4042534893,
+            "Value": "Osman"
+        },
+        {
+            "Key": 4044021234,
+            "Value": "Frob"
+        },
+        {
+            "Key": 4050163919,
+            "Value": "MORTAX PRIME"
+        },
+        {
+            "Key": 4050611900,
+            "Value": "Longato"
+        },
+        {
+            "Key": 4050848585,
+            "Value": "Warriors"
+        },
+        {
+            "Key": 4052291412,
+            "Value": "Jet Brigade MG Troopers"
+        },
+        {
+            "Key": 4053729028,
+            "Value": "KELVIN SECTOR"
+        },
+        {
+            "Key": 4057885278,
+            "Value": "LUSCIOUS LIBERTY"
+        },
+        {
+            "Key": 4059750260,
+            "Value": "Camara"
+        },
+        {
+            "Key": 4062016236,
+            "Value": "NEW KIRUNA"
+        },
+        {
+            "Key": 4067743828,
+            "Value": "Song"
+        },
+        {
+            "Key": 4068320987,
+            "Value": "Alpha Commanders"
+        },
+        {
+            "Key": 4070447728,
+            "Value": "REWA"
+        },
+        {
+            "Key": 4070962490,
+            "Value": "ADMINISTRATIVE CENTRE 02"
+        },
+        {
+            "Key": 4071276717,
+            "Value": "INVESTMENT"
+        },
+        {
+            "Key": 4072255229,
+            "Value": "GUANG SECTOR"
+        },
+        {
+            "Key": 4075596613,
+            "Value": "Illuminate"
+        },
+        {
+            "Key": 4075785797,
+            "Value": "MESSAGER'S MESA"
+        },
+        {
+            "Key": 4079449855,
+            "Value": "FAMILY GROVE"
+        },
+        {
+            "Key": 4081554920,
+            "Value": "Stallion"
+        },
+        {
+            "Key": 4082023109,
+            "Value": "WIDOW'S HARBOR"
+        },
+        {
+            "Key": 4084546271,
+            "Value": "THE VILLAS"
+        },
+        {
+            "Key": 4088126157,
+            "Value": "MATAR BAY"
+        },
+        {
+            "Key": 4092444932,
+            "Value": "ANDROS DELTA"
+        },
+        {
+            "Key": 4093374049,
+            "Value": "KHARST"
+        },
+        {
+            "Key": 4100527148,
+            "Value": "of Morality"
+        },
+        {
+            "Key": 4106646137,
+            "Value": "of Morning"
+        },
+        {
+            "Key": 4106686024,
+            "Value": "Predator Stalker"
+        },
+        {
+            "Key": 4116054022,
+            "Value": "AZTERRA"
+        },
+        {
+            "Key": 4116583190,
+            "Value": "SCALD"
+        },
+        {
+            "Key": 4128108508,
+            "Value": "Sodermark"
+        },
+        {
+            "Key": 4130011844,
+            "Value": "Dream"
+        },
+        {
+            "Key": 4134104203,
+            "Value": "Overship"
+        },
+        {
+            "Key": 4136557292,
+            "Value": "CRYSTAL SLOPES"
+        },
+        {
+            "Key": 4137490107,
+            "Value": "ALDERIDGE COVE"
+        },
+        {
+            "Key": 4138482718,
+            "Value": "TROOPER"
+        },
+        {
+            "Key": 4139107168,
+            "Value": "SUPER EARTH"
+        },
+        {
+            "Key": 4140937866,
+            "Value": "Distributor"
+        },
+        {
+            "Key": 4142342788,
+            "Value": "KEPLER-379b"
+        },
+        {
+            "Key": 4146569305,
+            "Value": "CHARGER BEHEMOTH"
+        },
+        {
+            "Key": 4149891798,
+            "Value": "MEAN GREEN VEHICLE PATTERN"
+        },
+        {
+            "Key": 4155803285,
+            "Value": "SOLGHAST"
+        },
+        {
+            "Key": 4157907194,
+            "Value": "MINE 902"
+        },
+        {
+            "Key": 4159864532,
+            "Value": "Fabricators"
+        },
+        {
+            "Key": 4160790160,
+            "Value": "LAELIA"
+        },
+        {
+            "Key": 4160806915,
+            "Value": "Stingray"
+        },
+        {
+            "Key": 4164526636,
+            "Value": "KEPLER-295b"
+        },
+        {
+            "Key": 4164770624,
+            "Value": "INGMAR"
+        },
+        {
+            "Key": 4165098055,
+            "Value": "Father"
+        },
+        {
+            "Key": 4165159481,
+            "Value": "SENGE 23"
+        },
+        {
+            "Key": 4165395098,
+            "Value": "KEPLER-341b"
+        },
+        {
+            "Key": 4165434863,
+            "Value": "Titan"
+        },
+        {
+            "Key": 4165766606,
+            "Value": "Bile Titans"
+        },
+        {
+            "Key": 4166502146,
+            "Value": "Purveyor"
+        },
+        {
+            "Key": 4168292558,
+            "Value": "Pilestedt"
+        },
+        {
+            "Key": 4168695740,
+            "Value": "ALAIRT III"
+        },
+        {
+            "Key": 4170304953,
+            "Value": "KEPLER-399b"
+        },
+        {
+            "Key": 4172658715,
+            "Value": "Schonberger"
+        },
+        {
+            "Key": 4185462613,
+            "Value": "KEPLER-335b"
+        },
+        {
+            "Key": 4185597853,
+            "Value": "ZEA RUGOSIA"
+        },
+        {
+            "Key": 4188679567,
+            "Value": "ANNIHILATOR TANK"
+        },
+        {
+            "Key": 4189136961,
+            "Value": "Dust Devils"
+        },
+        {
+            "Key": 4192505977,
+            "Value": "Beacon"
+        },
+        {
+            "Key": 4193991609,
+            "Value": "AZUR SECUNDUS"
+        },
+        {
+            "Key": 4194957957,
+            "Value": "VÁHTJER"
+        },
+        {
+            "Key": 4195231865,
+            "Value": "Truth Enforcers"
+        },
+        {
+            "Key": 4207312615,
+            "Value": "Will"
+        },
+        {
+            "Key": 4207753621,
+            "Value": "KURRI KURRI"
+        },
+        {
+            "Key": 4209107572,
+            "Value": "ERRANT"
+        },
+        {
+            "Key": 4211847317,
+            "Value": "Voteless"
+        },
+        {
+            "Key": 4212061343,
+            "Value": "BORE ROCK"
+        },
+        {
+            "Key": 4212104855,
+            "Value": "CONTROL GROUP"
+        },
+        {
+            "Key": 4212192829,
+            "Value": "MG Raiders"
+        },
+        {
+            "Key": 4212839382,
+            "Value": "Scavenger"
+        },
+        {
+            "Key": 4218892298,
+            "Value": "KEPLER-377b"
+        },
+        {
+            "Key": 4219840211,
+            "Value": "BEKVAM III"
+        },
+        {
+            "Key": 4223909310,
+            "Value": "MG RAIDER"
+        },
+        {
+            "Key": 4224354626,
+            "Value": "of Justice"
+        },
+        {
+            "Key": 4224650510,
+            "Value": "DILUVIA"
+        },
+        {
+            "Key": 4224862544,
+            "Value": "Warp Ships"
+        },
+        {
+            "Key": 4225321155,
+            "Value": "LIBERTY RIDGE"
+        },
+        {
+            "Key": 4230842877,
+            "Value": "Hulk Firebombers"
+        },
+        {
+            "Key": 4234894978,
+            "Value": "IDUN SECTOR"
+        },
+        {
+            "Key": 4243457500,
+            "Value": "FREEDOM'S FLAME"
+        },
+        {
+            "Key": 4250292210,
+            "Value": "of Authority"
+        },
+        {
+            "Key": 4255508129,
+            "Value": "KEPLER-325b"
+        },
+        {
+            "Key": 4256285820,
+            "Value": "GLOBULUS"
+        },
+        {
+            "Key": 4256815515,
+            "Value": "PHAM'S SITE"
+        },
+        {
+            "Key": 4258233989,
+            "Value": "BUCU'S REST"
+        },
+        {
+            "Key": 4260496089,
+            "Value": "VILHELMINA DOROTHEA FREDRIKA"
+        },
+        {
+            "Key": 4262519325,
+            "Value": "Auger"
+        },
+        {
+            "Key": 4262588123,
+            "Value": "Broomhall"
+        },
+        {
+            "Key": 4263860899,
+            "Value": "Susnjar"
+        },
+        {
+            "Key": 4268346210,
+            "Value": "Davidsson"
+        },
+        {
+            "Key": 4271562806,
+            "Value": "KINABATANGAN"
+        },
+        {
+            "Key": 4274042647,
+            "Value": "DIVER'S GLORY"
+        },
+        {
+            "Key": 4275167981,
+            "Value": "PARSH"
+        },
+        {
+            "Key": 4277211858,
+            "Value": "Scout Raiders"
+        },
+        {
+            "Key": 4279955449,
+            "Value": "Haggstrom"
+        },
+        {
+            "Key": 4283102512,
+            "Value": "FIREFLY MEADOWS"
+        },
+        {
+            "Key": 4286117683,
+            "Value": "Champion"
+        },
+        {
+            "Key": 4289452968,
+            "Value": "SAPPHIRE LAKE"
+        },
+        {
+            "Key": 4293347269,
+            "Value": "Halo"
+        }
+    ]
+}

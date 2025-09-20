@@ -1,0 +1,70 @@
+{
+    "Version": 1,
+    "Language": {
+        "Hash": "0xe2fb1acd",
+        "KnownName": "it",
+        "KnownFriendlyName": "Italian"
+    },
+    "Items": [
+        {
+            "Key": 35708001,
+            "Value": "Vota"
+        },
+        {
+            "Key": 157403948,
+            "Value": "VOTO EFFETTUATO"
+        },
+        {
+            "Key": 432275452,
+            "Value": "Hai compiuto il tuo dovere democratico\nBEN FATTO!"
+        },
+        {
+            "Key": 437129953,
+            "Value": "#DAYS GIORNI #HOURS ORE #MINUTES MIN"
+        },
+        {
+            "Key": 709049035,
+            "Value": "CANDIDATO NON VOTABILE"
+        },
+        {
+            "Key": 918788164,
+            "Value": "BIOGRAFIA:"
+        },
+        {
+            "Key": 1647647552,
+            "Value": "Si prega di attendere mentre la Super Terra elabora democraticamente la tua scheda elettorale."
+        },
+        {
+            "Key": 1864299915,
+            "Value": "Termine #TERM"
+        },
+        {
+            "Key": 2098644286,
+            "Value": "L’ELEZIONE COMINCIA TRA: "
+        },
+        {
+            "Key": 2565771413,
+            "Value": "L’ELEZIONE TERMINA TRA: "
+        },
+        {
+            "Key": 3075853207,
+            "Value": "POLITICA:"
+        },
+        {
+            "Key": 3161593322,
+            "Value": "VOTO FALLITO"
+        },
+        {
+            "Key": 3669227538,
+            "Value": "ATTENDERE..."
+        },
+        {
+            "Key": 3800224967,
+            "Value": "TERMINE #TERM"
+        },
+        {
+            "Key": 4275589329,
+            "Value": "#DAYS GIORNI #HOURS ORE #MINUTES MIN"
+        }
+    ]
+}

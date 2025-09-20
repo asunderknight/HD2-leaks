@@ -1,0 +1,34 @@
+{
+    "Version": 1,
+    "Language": {
+        "Hash": "0x82874cc2",
+        "KnownName": "sc",
+        "KnownFriendlyName": "Chinese (Simplified)"
+    },
+    "Items": [
+        {
+            "Key": 626905797,
+            "Value": "静音"
+        },
+        {
+            "Key": 678595308,
+            "Value": "音量：#COUNT"
+        },
+        {
+            "Key": 1913835796,
+            "Value": "请民主地等待"
+        },
+        {
+            "Key": 3080280732,
+            "Value": "已邀请"
+        },
+        {
+            "Key": 3120901567,
+            "Value": "取消静音"
+        },
+        {
+            "Key": 3713933293,
+            "Value": "移除（长按）"
+        }
+    ]
+}

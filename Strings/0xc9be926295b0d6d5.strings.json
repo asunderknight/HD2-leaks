@@ -1,0 +1,5070 @@
+{
+    "Version": 1,
+    "Language": {
+        "Hash": "0x0f8857aa",
+        "KnownName": "pl",
+        "KnownFriendlyName": "Polish"
+    },
+    "Items": [
+        {
+            "Key": 1667436,
+            "Value": "STATEK DESANTOWY AUTOMATÓW"
+        },
+        {
+            "Key": 7134963,
+            "Value": "#ERROR!"
+        },
+        {
+            "Key": 10195202,
+            "Value": "<c=#NAME_COLOR>LIKWIDACJE W ODDZIALE</c> <c=#COUNT_COLOR>#COUNT</c>"
+        },
+        {
+            "Key": 10440620,
+            "Value": "WYZWÓLCIE PLANETĘ ROJU"
+        },
+        {
+            "Key": 14029376,
+            "Value": "Premia celów: #AMOUNT mln"
+        },
+        {
+            "Key": 16135344,
+            "Value": "WSPÓŁRZĘDNE CELU:"
+        },
+        {
+            "Key": 16489650,
+            "Value": "Sonda sejsmiczna znajdująca się w tym miejscu może potwierdzić położenie podziemnych złóż geologicznych."
+        },
+        {
+            "Key": 18895859,
+            "Value": "Użyj sond sejsmicznych, aby zbadać sieć tuneli terminidów w tym regionie."
+        },
+        {
+            "Key": 19075861,
+            "Value": "Zlikwidujcie podaną liczbę dorosłych i młodych terminidów (zwanych czasami jajami)."
+        },
+        {
+            "Key": 22117695,
+            "Value": "AUTORYZUJ ODPALENIE ATOMOWE"
+        },
+        {
+            "Key": 23663294,
+            "Value": "Znajduje się tu szybka modułowa platforma wiertnicza."
+        },
+        {
+            "Key": 28055569,
+            "Value": "Zdjęcia satelitarne ujawniły, że całe drapacze chmur w tej dzielnicy zostały opanowane przez terminidy. W przepięknych niegdyś domach i biurach panoszą się i rozmnażają wrzaskuny.\n\nZniszczcie byłe ikony dobrobytu, które zostały tak okrutnie zdewastowane przez pasożyty."
+        },
+        {
+            "Key": 32367396,
+            "Value": "ODŁĄCZ ARTYLERIĘ ORBITALNĄ"
+        },
+        {
+            "Key": 33739635,
+            "Value": "NAJPIERW MUSICIE ZALICZYĆ WSZYSTKIE CELE DODATKOWE"
+        },
+        {
+            "Key": 35026167,
+            "Value": "ZABEZPIECZCIE TERENOWĄ PLATFORMĘ WYDOBYWCZĄ"
+        },
+        {
+            "Key": 36035323,
+            "Value": "E-710 na planetach skażonych posępnością wykazuje statystycznie znaczące różnice w różnych właściwościach, takich jak gęstość, lepkość czy stabilność oksydacji.\n\nReaktywujcie niedziałające pompy E-710 na tej planecie, aby zebrać płyn nasycony posępnością do dalszych badań."
+        },
+        {
+            "Key": 42057101,
+            "Value": "Użyj korbek z boku działa, aby je obrócić"
+        },
+        {
+            "Key": 45150644,
+            "Value": "ZNISZCZ REZERWY PALIWA"
+        },
+        {
+            "Key": 45657933,
+            "Value": "Potwierdzone likwidacje: #COUNT"
+        },
+        {
+            "Key": 50882734,
+            "Value": "DANE WYWIADOWCZE:"
+        },
+        {
+            "Key": 51779241,
+            "Value": "Okręty warp oświeconych zajmują kluczowe skrzyżowania w mieście. Statki te są krytyczne dla podłych inwazji wroga: są używane do transportu jednostek i porywania cywilów. Co gorsza, obniżają wskaźniki czystości powietrza, z których jesteśmy tak dumni.\n \n Znajdźcie i zniszczcie wszystkie okręty warp oświeconych w okolicy."
+        },
+        {
+            "Key": 56432069,
+            "Value": "Zbliża się wrogi okręt"
+        },
+        {
+            "Key": 58119577,
+            "Value": "Obszar pod kontrolą Super Ziemi:"
+        },
+        {
+            "Key": 59567021,
+            "Value": "Użyj terminala, aby ponownie aktywować pompy"
+        },
+        {
+            "Key": 60201391,
+            "Value": "RĘCZNIE WYREGULUJ ZAWORY"
+        },
+        {
+            "Key": 61509627,
+            "Value": "STAN OPERACJI"
+        },
+        {
+            "Key": 65635277,
+            "Value": "ZLIKWIDUJ ZMUTOWANE GNIAZDA"
+        },
+        {
+            "Key": 81814212,
+            "Value": "Dysk twardy SSSD zawierający cenne dane został utracony w tym miejscu po zasadzce, w którą wpadł oddział SZSZ. Trzeba go odzyskać."
+        },
+        {
+            "Key": 85322608,
+            "Value": "Zaczekaj na zainicjowanie systemu artyleryjskiego"
+        },
+        {
+            "Key": 91078680,
+            "Value": "Moc"
+        },
+        {
+            "Key": 102997286,
+            "Value": "Klasa wrogów"
+        },
+        {
+            "Key": 106414693,
+            "Value": "Oczyszczono średnie obozowisko oświeconych"
+        },
+        {
+            "Key": 109231288,
+            "Value": "OCAL ZESPOŁY NAUKOWE"
+        },
+        {
+            "Key": 114886262,
+            "Value": "PRZEJMIJ TERYTORIUM AUTOMATÓW"
+        },
+        {
+            "Key": 119095182,
+            "Value": "Znajdź położenie celu"
+        },
+        {
+            "Key": 120771889,
+            "Value": "Znajdź miejsce wiercenia do komory wylęgarni"
+        },
+        {
+            "Key": 120796772,
+            "Value": "ZBIERZ PRÓBKI"
+        },
+        {
+            "Key": 124201287,
+            "Value": "Wyzwól planetę"
+        },
+        {
+            "Key": 129905506,
+            "Value": "Temperatura"
+        },
+        {
+            "Key": 135130779,
+            "Value": "PROSIMY AKTYWOWAĆ TRANSFORMATOR"
+        },
+        {
+            "Key": 144546756,
+            "Value": "EWAKUACJA AWARYJNA"
+        },
+        {
+            "Key": 147835329,
+            "Value": "#ERROR!"
+        },
+        {
+            "Key": 161452983,
+            "Value": "Automaty zdobyły stację badawczą SZSZ i zabiły wszystkich dzielnych członków personelu naukowego.\n\nRuszaj na stację, pobierz badawczą bazę danych i prześlij ją do centralnego komputera Super Ziemi, używając pobliskiej stacji łączności satelitarnej."
+        },
+        {
+            "Key": 172073450,
+            "Value": "Zlokalizuj i wyeliminuj niszczycieli automatów."
+        },
+        {
+            "Key": 173821335,
+            "Value": "Terminidy zmieniły tę planetę w bastion faszystowskiego uciemiężenia. Ale wciąż można ją odzyskać dla światła wolności.\n\nRuszajcie na planetę roju i zatknijcie na niej sztandar Super Ziemi."
+        },
+        {
+            "Key": 183799415,
+            "Value": "Rozpocznijcie ewakuację cennych artefaktów z planety i brońcie obiektu do jej zakończenia."
+        },
+        {
+            "Key": 185689788,
+            "Value": "Zniszczono fortecę"
+        },
+        {
+            "Key": 186926806,
+            "Value": "Pod ratunkowy, który rozbił się w okolicy, zawiera cenne dane."
+        },
+        {
+            "Key": 188118679,
+            "Value": "Zasil połączenie zbierania danych"
+        },
+        {
+            "Key": 194624872,
+            "Value": "Broń systemu generatorów do czasu startu wszystkich rakiet.\n\nWystrzelone rakiety: #CURRENT/#TARGET"
+        },
+        {
+            "Key": 195806008,
+            "Value": "Wyreguluj wszystkie wskazane zawory"
+        },
+        {
+            "Key": 199397308,
+            "Value": "ELIMINACJA PALOWNIKÓW"
+        },
+        {
+            "Key": 207489081,
+            "Value": "Taktycznie eliminuj wszystkie przeszkody stojące na drodze pokoju."
+        },
+        {
+            "Key": 210707637,
+            "Value": "<c=#NAME_COLOR>ŚMIERCI W ODDZIALE</c> <c=#COUNT_COLOR>#COUNT</c>"
+        },
+        {
+            "Key": 215976645,
+            "Value": "OPERACJA POKOJOWA"
+        },
+        {
+            "Key": 225478926,
+            "Value": "ZNISZCZ OKRĘTY WARP OŚWIECONYCH"
+        },
+        {
+            "Key": 227711647,
+            "Value": "WYZWÓLCIE PLANETĘ ROJU"
+        },
+        {
+            "Key": 232695806,
+            "Value": "PRZEJĘTO DANE WYWIADOWCZE – POJAWIŁY SIĘ OKAZJE"
+        },
+        {
+            "Key": 235479654,
+            "Value": "Broń silosu baterii 02"
+        },
+        {
+            "Key": 236587135,
+            "Value": "Wstrząsy tektoniczne wskazują na obecność palownika na tym obszarze."
+        },
+        {
+            "Key": 240482645,
+            "Value": "ZNISZCZ FABRYKATORY AUTOMATÓW"
+        },
+        {
+            "Key": 242831539,
+            "Value": "System artylerii SZSZ"
+        },
+        {
+            "Key": 246145121,
+            "Value": "Podnieś amunicję"
+        },
+        {
+            "Key": 259641832,
+            "Value": "Odpal artylerię"
+        },
+        {
+            "Key": 259851759,
+            "Value": "KALIBROWANIE NAPIĘCIA"
+        },
+        {
+            "Key": 270478576,
+            "Value": "DEZAKTYWUJ SYSTEM KONTROLI TERMINIDÓW"
+        },
+        {
+            "Key": 277583446,
+            "Value": "Oczyść obszar z gniazd terminidów, aby przygotować go dla specjalistów badań nad posępnością."
+        },
+        {
+            "Key": 278687057,
+            "Value": "Załatwcie wszystkie wylęgarnie terminidów atomówkami i zrównajcie z ziemią podaną liczbę gniazd."
+        },
+        {
+            "Key": 278936848,
+            "Value": "Uruchomcie na nowo pompy znajdujące się na tym terenie."
+        },
+        {
+            "Key": 285652382,
+            "Value": "WYELIMINUJ TYTANA ŻÓŁCI"
+        },
+        {
+            "Key": 297304399,
+            "Value": "Zaloguj się"
+        },
+        {
+            "Key": 298949484,
+            "Value": "Naukowe oddziały uderzeniowe, z których każdy składa się z ksenobiologa, fizyka teoretycznego, astrometeorologa i psychologa, przeprowadzą ekspedycje na powierzchni planety, w jej kluczowych miejscach.\n\nOczyść obszar z gniazd terminidów, aby zabezpieczyć miejsce badań. "
+        },
+        {
+            "Key": 301581254,
+            "Value": "MISJA NIEUDANA"
+        },
+        {
+            "Key": 301829205,
+            "Value": "Przejdź do bramy ośrodka"
+        },
+        {
+            "Key": 303008397,
+            "Value": "Działo planetarnej obrony wznosi się..."
+        },
+        {
+            "Key": 308165448,
+            "Value": "Dostarcz dysk SSSD"
+        },
+        {
+            "Key": 308546301,
+            "Value": "Użyj sterowania drzwiami, aby uwolnić cywilów z bunkrów"
+        },
+        {
+            "Key": 315350949,
+            "Value": "BROŃ STREFY EWAKUACJI"
+        },
+        {
+            "Key": 315647061,
+            "Value": "Nie zbliżać się do pocisku z otwartym ogniem"
+        },
+        {
+            "Key": 316971668,
+            "Value": "KLAPA SIĘ OTWIERA..."
+        },
+        {
+            "Key": 321401577,
+            "Value": "ZNISZCZ ŻNIWIARKI"
+        },
+        {
+            "Key": 321917691,
+            "Value": "Aktywuj terminal"
+        },
+        {
+            "Key": 328518441,
+            "Value": "Wszystkie cele zaliczone"
+        },
+        {
+            "Key": 338409938,
+            "Value": "PD"
+        },
+        {
+            "Key": 344720878,
+            "Value": "Znaleziono: #FOUND (#TOTAL na statku)"
+        },
+        {
+            "Key": 347564326,
+            "Value": "Użyj stymulantu, aby wyleczyć ranę"
+        },
+        {
+            "Key": 349962696,
+            "Value": "POTWIERDZANIE WSPÓŁRZĘDNYCH"
+        },
+        {
+            "Key": 357436400,
+            "Value": "Premia za małą liczbę śmierci"
+        },
+        {
+            "Key": 357585113,
+            "Value": "2."
+        },
+        {
+            "Key": 358046681,
+            "Value": "To urządzenie automatów uniemożliwia używanie wszelkich manewrów na tym obszarze."
+        },
+        {
+            "Key": 359581454,
+            "Value": "Zniszcz bioprocesory."
+        },
+        {
+            "Key": 360320316,
+            "Value": "Przywróć zasilanie wieży satelitarnej"
+        },
+        {
+            "Key": 363904388,
+            "Value": "Broń silosu baterii 01"
+        },
+        {
+            "Key": 369469234,
+            "Value": "Znajdź czołg Anihilator"
+        },
+        {
+            "Key": 378151711,
+            "Value": "Bezsensowne poświęcenie"
+        },
+        {
+            "Key": 378247061,
+            "Value": "Tę kolonię patrolują żniwiarki oświeconych, wymuszające fanatyczne rządy ich panów. Te nienaturalne, wiotkie obiekty muszą zostać zniszczone, aby można było przywrócić wolność."
+        },
+        {
+            "Key": 383096607,
+            "Value": "OBLICZANIE ŚCIEŻKI LOTU WAHADŁOWCA"
+        },
+        {
+            "Key": 384655321,
+            "Value": "Zniszcz stanowiska moździerzowe automatów"
+        },
+        {
+            "Key": 384675702,
+            "Value": "Silos niestabilny. Aktywacja przerwana."
+        },
+        {
+            "Key": 388131220,
+            "Value": "EKSTERMINUJ ROBALE PRZY DUDNIKU"
+        },
+        {
+            "Key": 390605646,
+            "Value": "WYELIMINUJ SIŁY AUTOMATÓW"
+        },
+        {
+            "Key": 393933864,
+            "Value": "Użyj terminala, aby otworzyć luk dostarczania dysku SSSD"
+        },
+        {
+            "Key": 395775944,
+            "Value": "Terminidy na tej planecie mutują w odpowiedzi na termicyd. Z każdą minutą zagrażają zmianą tej planety w kolejną superkolonię.\n\nUsuń zmutowane jaja terminidów i dezaktywuj błędnie działający System Kontroli Terminidów, zanim będzie za późno."
+        },
+        {
+            "Key": 396353427,
+            "Value": "Zlikwidowane megagniazdo"
+        },
+        {
+            "Key": 406958566,
+            "Value": "Na tym obszarze zauważono wcześniej wariant terminida."
+        },
+        {
+            "Key": 407444091,
+            "Value": "PANEL KONTROLNY WIEŻY"
+        },
+        {
+            "Key": 411369073,
+            "Value": "Wyeliminuj tytana żółci"
+        },
+        {
+            "Key": 411572063,
+            "Value": "ZLEWNIA"
+        },
+        {
+            "Key": 414629921,
+            "Value": "Przejdź na strzelnicę manewrów"
+        },
+        {
+            "Key": 417512741,
+            "Value": "Miasto jest kontrolowane przez wroga. Trzeba je odzyskać, w imię wolności."
+        },
+        {
+            "Key": 417698738,
+            "Value": "Wypłata już odebrana"
+        },
+        {
+            "Key": 429291484,
+            "Value": "System komunikacyjny namierzania"
+        },
+        {
+            "Key": 431499258,
+            "Value": "NAGRODY"
+        },
+        {
+            "Key": 439775170,
+            "Value": "Ten sektor jest okupowany przez najeźdźców oświeconych. Trzeba go wyzwolić."
+        },
+        {
+            "Key": 448085263,
+            "Value": "Pochwal gracza"
+        },
+        {
+            "Key": 459832108,
+            "Value": "Dziura wywiercona"
+        },
+        {
+            "Key": 460213010,
+            "Value": "Umieść czarną skrzynkę w zasobniku wejściowym"
+        },
+        {
+            "Key": 468077385,
+            "Value": "WSKAZÓWKI"
+        },
+        {
+            "Key": 470267116,
+            "Value": "Stan silosu: krytycznie niestabilny"
+        },
+        {
+            "Key": 470760097,
+            "Value": "PRÓBKA 01"
+        },
+        {
+            "Key": 472754469,
+            "Value": "Wezwij dysk SSSD i włóż go do luku"
+        },
+        {
+            "Key": 473650171,
+            "Value": "Użyj manewru uzupełnienia, aby wskrzesić poległego towarzysza"
+        },
+        {
+            "Key": 474072156,
+            "Value": "ZBIERZ ROPĘ NASYCONĄ POSĘPNOŚCIĄ"
+        },
+        {
+            "Key": 477199191,
+            "Value": "Zniszcz wszystkie okręty warp oświeconych w okolicy"
+        },
+        {
+            "Key": 477874659,
+            "Value": "Znajdź cel na siatce"
+        },
+        {
+            "Key": 481422540,
+            "Value": "OTWÓRZ KLAPĘ BUNKRA"
+        },
+        {
+            "Key": 484612549,
+            "Value": "Pobierz próbki ropy, która została poddana działaniu posępności."
+        },
+        {
+            "Key": 486596800,
+            "Value": "Boty rozkładają materię organiczną do użycia w jakichś wypaczonych, niedemokratycznych celach."
+        },
+        {
+            "Key": 489511134,
+            "Value": "UZBRAJANIE DZIAŁA..."
+        },
+        {
+            "Key": 493427676,
+            "Value": "Zwiad wskazał kilka magazynów z paliwem i amunicją w mieście, kontrolowanych przez automaty.\n \nDokonajcie szybkiej infiltracji i zniszczcie ich bazy zaopatrzeniowe, zanim zdołają zorganizować obronę."
+        },
+        {
+            "Key": 494018960,
+            "Value": "IGLICA BŁYSKAWIC"
+        },
+        {
+            "Key": 503902376,
+            "Value": "WYREGULUJ SYGNAŁ"
+        },
+        {
+            "Key": 507275113,
+            "Value": "WYZWÓL KOLONIĘ"
+        },
+        {
+            "Key": 507362504,
+            "Value": "Wejdź do poda transportowego"
+        },
+        {
+            "Key": 513800652,
+            "Value": "POBIERANIE – PROSZĘ CZEKAĆ"
+        },
+        {
+            "Key": 513860111,
+            "Value": "Wyeliminuj czołg Anihilator"
+        },
+        {
+            "Key": 520221179,
+            "Value": "Niestabilny"
+        },
+        {
+            "Key": 528213554,
+            "Value": "Przejmij ściśle tajne dane wywiadowcze ze strąconego samolotu zwiadowczego SZSZ."
+        },
+        {
+            "Key": 530098536,
+            "Value": "ZNISZCZCIE PŁUCO ZARODNIKOWE"
+        },
+        {
+            "Key": 532889341,
+            "Value": "System się wczytuje – proszę czekać"
+        },
+        {
+            "Key": 532930205,
+            "Value": "Odbiór nieudany"
+        },
+        {
+            "Key": 533059049,
+            "Value": "Potwierdź współrzędne ewakuacji"
+        },
+        {
+            "Key": 534222165,
+            "Value": "Zbierz zaopatrzenie i załaduj Wyzwalacza"
+        },
+        {
+            "Key": 536616162,
+            "Value": "#MISSION_TYPE: #MISSION_NAME"
+        },
+        {
+            "Key": 537651110,
+            "Value": "Zniszczcie konwój, zanim zdoła dotrzeć na miejsce"
+        },
+        {
+            "Key": 546537153,
+            "Value": "WKŁAD SPOŁECZNOŚCI"
+        },
+        {
+            "Key": 548495078,
+            "Value": "WKŁAD PLANETARNY"
+        },
+        {
+            "Key": 549040800,
+            "Value": "Ucisk terminidów na tej planecie zelżał. Musimy zaatakować teraz, zanim zdołają się zregenerować.\n\nJako helldiversi możecie zacząć walkę w pozostałych rdzeniach rojów terminidów i raz na zawsze wykorzenić plagę."
+        },
+        {
+            "Key": 549189300,
+            "Value": "Nastaw na częstotliwość Super Ziemi"
+        },
+        {
+            "Key": 552388957,
+            "Value": "W całym mieście pojawiły się groteskowe monolity, które w nieznany nam sposób wzmacniają oświeconych. Ta zagadkowość jest afrontem wobec wolności. Trzeba je zniszczyć."
+        },
+        {
+            "Key": 556769669,
+            "Value": "Wybierz docelowy obiekt magazynowy"
+        },
+        {
+            "Key": 557216270,
+            "Value": "Namierz i wyeliminuj tytana żółci."
+        },
+        {
+            "Key": 562487815,
+            "Value": "Wpływ (maks.)"
+        },
+        {
+            "Key": 566245999,
+            "Value": "Uwaga: usuniętych danych nie można odzyskać"
+        },
+        {
+            "Key": 573619187,
+            "Value": "Ostatnio w tym regionie zauważono szturmowca."
+        },
+        {
+            "Key": 574273170,
+            "Value": "Potwierdź obszar skanowania poprzez interfejs sondy"
+        },
+        {
+            "Key": 577217099,
+            "Value": "Wprowadź kod na terminalu"
+        },
+        {
+            "Key": 577739165,
+            "Value": "UTRZYMAJCIE MIASTO"
+        },
+        {
+            "Key": 579011766,
+            "Value": "ZNISZCZ DYSKI TWARDE"
+        },
+        {
+            "Key": 581608860,
+            "Value": "Ciężarówka towarowa"
+        },
+        {
+            "Key": 583831193,
+            "Value": "Zaszczytna służba"
+        },
+        {
+            "Key": 593930033,
+            "Value": "3."
+        },
+        {
+            "Key": 598604235,
+            "Value": "Wyłącz bloker manewrów"
+        },
+        {
+            "Key": 602067977,
+            "Value": "Użyj świdra poszukiwawczego, aby przejąć drugą próbkę"
+        },
+        {
+            "Key": 604043691,
+            "Value": "Zniszcz składy amunicji"
+        },
+        {
+            "Key": 607964299,
+            "Value": "CELNOŚĆ:"
+        },
+        {
+            "Key": 608341943,
+            "Value": "Odeprzyj rój terminidów zagrażający tej planecie."
+        },
+        {
+            "Key": 611789294,
+            "Value": "Przyznano obligacje"
+        },
+        {
+            "Key": 613667684,
+            "Value": "WYELIMINUJ NISZCZYCIELA"
+        },
+        {
+            "Key": 615400082,
+            "Value": "Zaloguj się do terminala"
+        },
+        {
+            "Key": 623056882,
+            "Value": "Znajdź i zniszcz wszelkie aktywne fabrykatory automatów latających"
+        },
+        {
+            "Key": 623985071,
+            "Value": "Węzeł roju terminidów wypluwa gęstą mgłę, która zmniejsza widoczność."
+        },
+        {
+            "Key": 637689560,
+            "Value": "POZIOM #COUNT"
+        },
+        {
+            "Key": 641748280,
+            "Value": "Porzucone wyrzutnie pocisków plot SZSZ po aktywacji będą strzelały w cele powietrzne wroga."
+        },
+        {
+            "Key": 643241865,
+            "Value": "Użyj terminala, aby aktywować wieżę komunikacyjną"
+        },
+        {
+            "Key": 644090152,
+            "Value": "ODPAL POCISK MIĘDZYKONTYNENTALNY"
+        },
+        {
+            "Key": 646892390,
+            "Value": "System artylerii SZSZ"
+        },
+        {
+            "Key": 649111536,
+            "Value": "Użyj terminalu, aby aktywować podsystemy wyrzutni ziemia-powietrze"
+        },
+        {
+            "Key": 653025412,
+            "Value": "#ENTITY JEST POZA ZASIĘGIEM"
+        },
+        {
+            "Key": 653331449,
+            "Value": "PRZYGOTOWYWANIE PRZESYŁANIA"
+        },
+        {
+            "Key": 653591926,
+            "Value": "AKTYWUJ SKANOWANIE TERENU"
+        },
+        {
+            "Key": 655389263,
+            "Value": "W tym regionie wykryto szereg wejść do roju."
+        },
+        {
+            "Key": 657852966,
+            "Value": "Kalibracja generatora"
+        },
+        {
+            "Key": 660251208,
+            "Value": "PODNOSZENIE WIEŻY – PROSZĘ CZEKAĆ"
+        },
+        {
+            "Key": 660349586,
+            "Value": "ATAK NA KOLONIĘ TERMINIDÓW"
+        },
+        {
+            "Key": 662459402,
+            "Value": "NAPĘD"
+        },
+        {
+            "Key": 667693308,
+            "Value": "Uzupełnienie społeczności"
+        },
+        {
+            "Key": 669774230,
+            "Value": "Wrzaskuny: zabite #CURRENT/#TOTAL"
+        },
+        {
+            "Key": 672372755,
+            "Value": "Broń „#ENTITY” w trakcie przesyłania"
+        },
+        {
+            "Key": 684104261,
+            "Value": "Oświeceni próbują ukraść planetę jej mieszkańcom. \n\nMusimy ich odeprzeć, zanim będzie za późno!"
+        },
+        {
+            "Key": 690489551,
+            "Value": "Dziękujemy za cierpliwość"
+        },
+        {
+            "Key": 691698893,
+            "Value": "Terminidy mutują. Dezaktywuj SKT, zanim będzie za późno."
+        },
+        {
+            "Key": 694379891,
+            "Value": "Broń swobody"
+        },
+        {
+            "Key": 694756517,
+            "Value": "WYELIMINUJ NISZCZYCIELI"
+        },
+        {
+            "Key": 700299634,
+            "Value": "Iglice błyskawic"
+        },
+        {
+            "Key": 704813543,
+            "Value": "PRZEJMIJ ROZKAZY GENERAŁA"
+        },
+        {
+            "Key": 713672151,
+            "Value": "Premia odbioru: #AMOUNT mln"
+        },
+        {
+            "Key": 714952129,
+            "Value": "Dysk twardy SSSD"
+        },
+        {
+            "Key": 717591301,
+            "Value": "Przejęte dane wywiadowcze"
+        },
+        {
+            "Key": 725836760,
+            "Value": "Rozpocznij ewakuację"
+        },
+        {
+            "Key": 727251212,
+            "Value": "Stan silosu: stabilny"
+        },
+        {
+            "Key": 728454869,
+            "Value": "Aktywuj silos baterii 02"
+        },
+        {
+            "Key": 735021036,
+            "Value": "Oświeceni najechali tę kolonię i zmienili jej mieszkańców w hordy niegłosujących. Wznieśli niepokojące, złowrogie monolity, generujące jakiegoś rodzaju pola egzotycznej energii. Nie znamy ich przeznaczenia ani natury... Dlatego też musimy je zniszczyć.\n\nMusimy się wyzwolić spod ich okupacji. Ruszaj do kolonii, zniszcz obiekty najeźdźców i ponownie wciągnij flagę Super Ziemi."
+        },
+        {
+            "Key": 737422099,
+            "Value": "ROZPOCZNIJ SEKWENCJĘ WIERCENIA"
+        },
+        {
+            "Key": 741863023,
+            "Value": "Wróć do flagi Super Ziemi"
+        },
+        {
+            "Key": 743640675,
+            "Value": "Aktywuj terminal u podstawy wieży centralnej"
+        },
+        {
+            "Key": 751661238,
+            "Value": "System terminala"
+        },
+        {
+            "Key": 752565445,
+            "Value": "ODZYSKAJ KODY STARTOWE"
+        },
+        {
+            "Key": 752992579,
+            "Value": "Sonda może spowodować poważną utratę słuchu"
+        },
+        {
+            "Key": 753673852,
+            "Value": "Przekręć wszystkie zawory wskazane przez terminal"
+        },
+        {
+            "Key": 759173569,
+            "Value": "Dziękujemy za cierpliwość"
+        },
+        {
+            "Key": 759965318,
+            "Value": "Wyregulujcie zawory rur"
+        },
+        {
+            "Key": 760871862,
+            "Value": "Duża baza powietrzna automatów, znajdująca się w tym regionie, dokonuje częstych zrzutów wojsk ze statku desantowego. Nie możemy pozwolić na taką taktyczną przewagę.\n\nRuszaj za linie wroga i zniszcz ich statki desantowe oraz infrastrukturę bazy."
+        },
+        {
+            "Key": 761201047,
+            "Value": "Wpływ (własny)"
+        },
+        {
+            "Key": 763481946,
+            "Value": "Wpływ (społeczność)"
+        },
+        {
+            "Key": 766592482,
+            "Value": "ZABEZPIECZ CZARNĄ SKRZYNKĘ"
+        },
+        {
+            "Key": 767789391,
+            "Value": "Kody startowe"
+        },
+        {
+            "Key": 768540070,
+            "Value": "URUCHOM POMPY PALIWOWE"
+        },
+        {
+            "Key": 776586177,
+            "Value": "POTWIERDŹ SUMĘ KONTROLNĄ PRZESYŁU"
+        },
+        {
+            "Key": 782436802,
+            "Value": "NAGRODY ZA MISJĘ"
+        },
+        {
+            "Key": 785844264,
+            "Value": "OPERACJA NIEUDANA"
+        },
+        {
+            "Key": 786618189,
+            "Value": "STACJA TANKOWANIA"
+        },
+        {
+            "Key": 793095850,
+            "Value": "ROZMIEŚĆCIE SONDĘ SEJSMICZNĄ"
+        },
+        {
+            "Key": 802464482,
+            "Value": "Sieć wież jest gotowa na rozpylenie zabójczego dla robali termicydu na powierzchni całej planety. Po aktywacji wież planeta na zawsze zostanie oczyszczona z terminidów.\n\nAktywuj wieże rozpylania termicydu w tym regionie i skąp go w oczyszczającej mgiełce termicydu."
+        },
+        {
+            "Key": 803352399,
+            "Value": "Użyj wież LiDAR, aby zebrać dane o zarodnikach posępności i prześlij je poprzez przekaźnik komunikacyjny."
+        },
+        {
+            "Key": 804180263,
+            "Value": "Aktywuj terminal luku wahadłowca"
+        },
+        {
+            "Key": 806400175,
+            "Value": "#TYPE: +#AMOUNT/#POTENTIAL"
+        },
+        {
+            "Key": 810653429,
+            "Value": "Użyj terminala, aby zresetować bezpieczniki"
+        },
+        {
+            "Key": 814806505,
+            "Value": "Zniszcz stanowiska plot automatów"
+        },
+        {
+            "Key": 815219129,
+            "Value": "GŁOWICA"
+        },
+        {
+            "Key": 819011526,
+            "Value": "Dane badawcze są dostępne i gotowe do przesłania"
+        },
+        {
+            "Key": 823115776,
+            "Value": "Dane o lokacjach gotowe"
+        },
+        {
+            "Key": 825026804,
+            "Value": "Salutuj fladze Super Ziemi"
+        },
+        {
+            "Key": 826568436,
+            "Value": "ZBIERZCIE TAJEMNICZĄ SUBSTANCJĘ"
+        },
+        {
+            "Key": 836203038,
+            "Value": "Stan świdra: stabilny"
+        },
+        {
+            "Key": 841369837,
+            "Value": "Moduł zasilania silosu"
+        },
+        {
+            "Key": 845126010,
+            "Value": "PRZESYŁANIE DANYCH"
+        },
+        {
+            "Key": 848244517,
+            "Value": "Jednostki SZSZ natrafiły w tym regionie na palowniki. Nie są w stanie rozprawić się z tym zagrożeniem.\n\nJako elitarni helldiversi musicie wytropić i zabić wszystkie palowniki na tym obszarze."
+        },
+        {
+            "Key": 851882018,
+            "Value": "W tym miejscu namierzono sygnał z nielegalną propagandą."
+        },
+        {
+            "Key": 856398682,
+            "Value": "Świder może zaalarmować stworzenia mieszkające pod powierzchnią"
+        },
+        {
+            "Key": 858415206,
+            "Value": "KLAPA SILOSU ZAMKNIĘTA"
+        },
+        {
+            "Key": 865432226,
+            "Value": "Rozmieszczone wrogie okręty: #COUNT"
+        },
+        {
+            "Key": 872189308,
+            "Value": "BŁĄD: OTWÓRZ WSZYSTKIE ZAMKI KLAP"
+        },
+        {
+            "Key": 877488575,
+            "Value": "Zniszczcie wieże opanowane przez wrzaskuny, aby oczyścić tę dzielnicę z potencjalnych pasożytów."
+        },
+        {
+            "Key": 877839842,
+            "Value": "Zlikwidujcie jaja terminidów"
+        },
+        {
+            "Key": 878121724,
+            "Value": "W regionie odkryto dużą liczbę wojsk automatów."
+        },
+        {
+            "Key": 893045708,
+            "Value": "Zabij terminida"
+        },
+        {
+            "Key": 897258492,
+            "Value": "Aktywuj skanowanie sejsmiczne"
+        },
+        {
+            "Key": 906353481,
+            "Value": "Silos baterii 03 nie działa"
+        },
+        {
+            "Key": 910809576,
+            "Value": "Zniszcz statki desantowe automatów"
+        },
+        {
+            "Key": 919046200,
+            "Value": "Znajdź sondy wysłane do posępności i pobierz z nich dane badawcze."
+        },
+        {
+            "Key": 923261140,
+            "Value": "Zabezpieczona czarna skrzynka musi być przetransportowana do międzyplanetarnego obiektu przesyłowego, aby przesłać z niej dane do ściśle tajnej sieci Ministerstwa Obrony."
+        },
+        {
+            "Key": 924843531,
+            "Value": "Silos 03"
+        },
+        {
+            "Key": 926567821,
+            "Value": "Świder może zaalarmować stworzenia mieszkające pod powierzchnią"
+        },
+        {
+            "Key": 927042336,
+            "Value": "UWAGA: ODEBRANO ZASZYFROWANY MELDUNEK\n\nODSZYFROWYWANIE...\n.\n.\n.\nKLASYFIKACJA: ŚCIŚLE TAJNE\n\nMINISTERSTWO OBRONY\nDEPARTAMENT GOTOWOŚCI HELLDIVERSÓW\nMIEJSCE NADANIA: MARS\n\nOKÓLNIK DLA: Dowództwa gotowości helldiversów\nTEMAT: Dzienny raport o zgłaszających się rekrutach\n\nSuma zgłaszających się: 48 736\n Średni wiek (lata): 18,7 \n Średni współczynnik gotowości do walki: 27,1%\n Średnia ocena patriotyzmu: 97,4%\n\nSpodziewany współczynnik przetrwania: 21,3% \nSpodziewana produkcja helldiversów: ZGODNIE Z PLANEM\n\nKONIEC MELDUNKU"
+        },
+        {
+            "Key": 928577212,
+            "Value": "WYPŁYW"
+        },
+        {
+            "Key": 929233412,
+            "Value": "Użyj terminala, aby wyregulować sygnał komunikacyjny"
+        },
+        {
+            "Key": 930644385,
+            "Value": "Dostępne są nowe misje"
+        },
+        {
+            "Key": 932130225,
+            "Value": "Poprzez ściśle tajne i bohaterskie przedsięwzięcia nasi wywiadowcy zidentyfikowali w tym roju zmutowany szczep larw. Znajdźcie zmutowane larwy i przekażcie je do badań naszym mężnym specjalistom z działu Rozwoju Uzbrojenia/Anatomii Robali (RUAR)."
+        },
+        {
+            "Key": 935493230,
+            "Value": "EWAKUUJ KOLONISTÓW"
+        },
+        {
+            "Key": 935971687,
+            "Value": "ZABEZPIECZ MIEJSCE BADAŃ"
+        },
+        {
+            "Key": 939787527,
+            "Value": "Okazja zaliczona"
+        },
+        {
+            "Key": 944677035,
+            "Value": "NAGRODA MISJI OKAZJI"
+        },
+        {
+            "Key": 945997508,
+            "Value": "PROTOKÓŁ EWAKUACJI: AKTYWNY"
+        },
+        {
+            "Key": 946587294,
+            "Value": "Przejdź do obszaru szkoleniowego manewrów wsparcia"
+        },
+        {
+            "Key": 948824005,
+            "Value": "NUMER 5"
+        },
+        {
+            "Key": 950693245,
+            "Value": "Broń silosu baterii do czasu zakończenia aktywacji"
+        },
+        {
+            "Key": 952027228,
+            "Value": "Misja okazji"
+        },
+        {
+            "Key": 952667345,
+            "Value": "Ogromna liczba wojowników automatów zgromadziła się w tym opanowanym przez wroga mieście. Należy podjąć zdecydowane działania, aby zmniejszyć ich liczebność. \n \nRuszajcie w sam środek strefy walk i zabijcie jak najwięcej botów."
+        },
+        {
+            "Key": 955217368,
+            "Value": "Potwierdź głębokość, używając interfejsu świdra"
+        },
+        {
+            "Key": 959618138,
+            "Value": "Pociągnij za dźwignię jednostki transformatora"
+        },
+        {
+            "Key": 962666211,
+            "Value": "Wyeliminuj przywódcę roju"
+        },
+        {
+            "Key": 971650047,
+            "Value": "Eskortuj obywateli bezpiecznie do luku wahadłowca"
+        },
+        {
+            "Key": 976542272,
+            "Value": "Proszę odsunąć się od obszaru startowego"
+        },
+        {
+            "Key": 979606697,
+            "Value": "DODANO MODYFIKATOR OPERACJI"
+        },
+        {
+            "Key": 981754863,
+            "Value": "Oczyść rój terminidów, umieszczając ładunek nuklearny we wszystkich komorach wylęgarni."
+        },
+        {
+            "Key": 981825449,
+            "Value": "ZAINICJOWANO SEKWENCJĘ STARTOWĄ"
+        },
+        {
+            "Key": 988370961,
+            "Value": "Znajdź i zniszcz wszelkie aktywne fabrykatory automatów"
+        },
+        {
+            "Key": 1002982797,
+            "Value": "DWA"
+        },
+        {
+            "Key": 1004048437,
+            "Value": "Orbitalne bombardowanie tego regionu odsłoniło żyły najwyraźniej rzadkich i cennych rud mineralnych. \n\nNie możemy pozwolić automatom na ich wydobycie, zanim planeta nie zostanie wyzwolona. Ruszaj na powierzchnię i zbierz dane o próbkach gleby, aby potwierdzić, czy złoża te są warte eksploatacji."
+        },
+        {
+            "Key": 1007294856,
+            "Value": "Chwalebne zwycięstwo"
+        },
+        {
+            "Key": 1009070099,
+            "Value": "Uwaga: krytycznie niestabilny"
+        },
+        {
+            "Key": 1009126933,
+            "Value": "Broń naszych wartości przed automatami. Użyj wszelkich możliwych środków."
+        },
+        {
+            "Key": 1013604829,
+            "Value": "PRZEJMIJ CENNE DANE"
+        },
+        {
+            "Key": 1015910248,
+            "Value": "EWAKUACJA AWARYJNA"
+        },
+        {
+            "Key": 1026152227,
+            "Value": "ZAŁADUJ POCISKI ARTYLERYJSKIE"
+        },
+        {
+            "Key": 1029340711,
+            "Value": "Trwa pompowanie..."
+        },
+        {
+            "Key": 1029683930,
+            "Value": "Terenowa platforma wydobywcza (GATER) została wysłana w ten obszar, gdzie zidentyfikowano kilka złóż cennej substancji.\n\nOtrzymaliście certyfikaty eksperckiego operowania dużymi pojazdami. Ruszajcie w ten obszar, użyjcie GATER-a i pobierzcie tajemniczą substancję ze wszystkich zidentyfikowanych miejsc."
+        },
+        {
+            "Key": 1029794728,
+            "Value": "Wedle pomiarów atmosfery gęstość powietrznych zarodników na tym obszarze osiągnęła poziomy krytyczne. To tylko kwestia godzin, zanim ta dzielnica stanie się niemożliwa do zamieszkania.\n\nZniszczcie broń biologiczną terminidów wytwarzającą te zarodniki i pomóżcie naszym obywatelom na powrót odetchnąć pełną piersią."
+        },
+        {
+            "Key": 1029868551,
+            "Value": "OŚRODEK AUTOMATÓW LATAJĄCYCH"
+        },
+        {
+            "Key": 1039398966,
+            "Value": "PRZEJMIJ CHEMIKALIA"
+        },
+        {
+            "Key": 1048553999,
+            "Value": "Użyj terminala, aby sabotować wieżę kontrolną"
+        },
+        {
+            "Key": 1063103250,
+            "Value": "Otwórz zawór"
+        },
+        {
+            "Key": 1063513747,
+            "Value": "Zresetuj wszystkie przepalone bezpieczniki"
+        },
+        {
+            "Key": 1065335399,
+            "Value": "Eskortuj personel obiektu bezpiecznie do wahadłowca ewakuacyjnego"
+        },
+        {
+            "Key": 1065661022,
+            "Value": "<c=#NAME_COLOR>CZAS MISJI</c> <c=#COUNT_COLOR>#HOURS:#MINUTES:#SECONDS</c>"
+        },
+        {
+            "Key": 1065955238,
+            "Value": "AKTYWUJ PODSYSTEMY WYRZUTNI"
+        },
+        {
+            "Key": 1070161154,
+            "Value": "DZIAŁO PLANETARNEJ OBRONY UZBROJONE"
+        },
+        {
+            "Key": 1079258265,
+            "Value": "ZDOBĄDŹ SWOJĄ PELERYNĘ HELLDIVERSA"
+        },
+        {
+            "Key": 1084788693,
+            "Value": "WCIĄGNIJ FLAGĘ SUPER ZIEMI"
+        },
+        {
+            "Key": 1087423356,
+            "Value": "Potwierdź, że miejsce odwiertu jest zabezpieczone"
+        },
+        {
+            "Key": 1093694372,
+            "Value": "Brońcie świdra w trakcie rozmieszczania"
+        },
+        {
+            "Key": 1094134469,
+            "Value": "Wejdź do GATER-a"
+        },
+        {
+            "Key": 1095612653,
+            "Value": "PODAJ SEKWENCJĘ AKTYWACJI"
+        },
+        {
+            "Key": 1104170543,
+            "Value": "POTWIERDŹ POZYCJĘ ŚWIDRA"
+        },
+        {
+            "Key": 1107536245,
+            "Value": "Odetnij boty od ich sieci informacyjnej, niszcząc bunkry dowodzenia."
+        },
+        {
+            "Key": 1111436140,
+            "Value": "Wyłącz"
+        },
+        {
+            "Key": 1115518260,
+            "Value": "Wrogowie odkryli skład tajnych obiektów obronnych umieszczonych w magazynie miasta. Aby skład nie wpadł w objęcia totalitaryzmu, trzeba go szybko ewakuować z planety.\n \nEwakuacja odkryje jednak wasze pozycje przed najeźdźcami. Brońcie miejsca odlotu do czasu zakończenia transportu."
+        },
+        {
+            "Key": 1117477617,
+            "Value": "W tym obszarze zebrał się ogromny rój terminidów. Jeśli chcemy odzyskać miasto, nie możemy pozwolić, aby to zagrożenie panoszyło się bez ograniczeń.\n\nZabijcie jak najwięcej terminidów, aby przerzedzić ich szeregi."
+        },
+        {
+            "Key": 1117755848,
+            "Value": "Na tej planecie tak bardzo roi się od terminidów, że wygląda ona jak jeden, połączony rój. Gdzieś z wnętrza tej planety pochodzą zarodniki posępności.\n\nTrudno przewidzieć, jakie zagrożenia czyhają na tej planecie. Helldiversi muszą zejść do jaskiń nieprzyjaciela i zniszczyć jego tajemnice. Odzyskajcie planetę roju i wyzwólcie naszych obywateli od okropieństw posępności."
+        },
+        {
+            "Key": 1121413222,
+            "Value": "Podnieś upuszczone: #ENTITY"
+        },
+        {
+            "Key": 1123050000,
+            "Value": "AKTYWOWAĆ ŚWIDER 1?"
+        },
+        {
+            "Key": 1128785210,
+            "Value": "UTRZYMAJCIE MIASTO"
+        },
+        {
+            "Key": 1129593185,
+            "Value": "CENNE PRZEDMIOTY DO ZEBRANIA"
+        },
+        {
+            "Key": 1134842368,
+            "Value": "URUCHAMIANIE SYSTEMU..."
+        },
+        {
+            "Key": 1139125063,
+            "Value": "Pocisk międzykontynentalny podnosi się do pozycji startowej"
+        },
+        {
+            "Key": 1139955559,
+            "Value": "WYELIMINUJ BIEGACZA FABRYCZNEGO"
+        },
+        {
+            "Key": 1141843610,
+            "Value": "TRZY"
+        },
+        {
+            "Key": 1150338544,
+            "Value": "Musimy skorzystać z okazji i zniszczyć superkolonię terminidów. W różnych sektorach planety zrzuceni zostaną helldiversi z ograniczonym zapasem egzotycznej materii – Ciemnego Płynu. Umieszczą go w krytycznych punktach skorupy planety. \n\nPo osiągnięciu masy krytycznej planeta zapadnie się w czarną dziurę, a zagrożenie dla wolności zniknie raz na zawsze."
+        },
+        {
+            "Key": 1150782017,
+            "Value": "Usunięto małe gniazdo robali"
+        },
+        {
+            "Key": 1153925056,
+            "Value": "Raporty donoszą o zaobserwowaniu w tym miejscu tytana żółci."
+        },
+        {
+            "Key": 1154328682,
+            "Value": "Użyj świdra poszukiwawczego, aby przejąć ostatnią próbkę"
+        },
+        {
+            "Key": 1157625947,
+            "Value": "W tym regionie doszło do ofensywy terminidów, przez co jedna z naszych ściśle tajnych stacji badawczych została otoczona przez wroga.\n\nUżyj swojego zezwolenia, aby odblokować awaryjne drzwi do bunkra, i broń personelu placówki, w czasie gdy ten będzie udawać się do wahadłowca ewakuacyjnego."
+        },
+        {
+            "Key": 1158604736,
+            "Value": "Zatknij flagę w wyznaczonym obszarze"
+        },
+        {
+            "Key": 1158974024,
+            "Value": "Samoloty pogodowe, które działały w momencie, gdy na tej planecie po raz pierwszy pojawiła się posępność, mogą zawierać użyteczne dane na temat atmosfery nasyconej posępnością. \n\nOdnajdź ich czarne skrzynki i użyj lokalnej stacji przekaźnikowej, aby odszyfrować i przesłać dane badawcze na serwery Ministerstwa Nauki."
+        },
+        {
+            "Key": 1162026773,
+            "Value": "PROSZĘ CZEKAĆ"
+        },
+        {
+            "Key": 1166766769,
+            "Value": "Zresetuj ustawienie wieży"
+        },
+        {
+            "Key": 1166849866,
+            "Value": "INICJALIZACJA SEKWENCJI OSTRZAŁU"
+        },
+        {
+            "Key": 1168390666,
+            "Value": "AKTYWUJ"
+        },
+        {
+            "Key": 1170483735,
+            "Value": "PRÓBKA 03"
+        },
+        {
+            "Key": 1174286117,
+            "Value": "Legion Automatów polega na strukturze hierarchicznej – jeśli wyeliminujesz przywódców, reszta straci chęć do walki.\n\nUważamy, że w tym regionie grasują niszczyciele. Znajdź ich i zniszcz."
+        },
+        {
+            "Key": 1178268125,
+            "Value": "Pompy zainstalowane przed dekadami zostały unieruchomione przez nieskrępowane rojenia terminidów. Same pompy nie zostały uszkodzone, a zbiorniki, z których kiedyś pompowały wodę, są teraz wypełnione ekstremalnie cennym E-711.\n\nOczyśćcie przerosty terminidów zatykające rurociąg i przywróćcie go do działania."
+        },
+        {
+            "Key": 1184433395,
+            "Value": "Moduł dostępu do systemu"
+        },
+        {
+            "Key": 1190235804,
+            "Value": "Zmniejsz populację robali wszelkimi możliwymi środkami."
+        },
+        {
+            "Key": 1190377439,
+            "Value": "GOTOWOŚĆ"
+        },
+        {
+            "Key": 1190975309,
+            "Value": "ODBIJCIE MIASTO"
+        },
+        {
+            "Key": 1195041927,
+            "Value": "Haniebne postępowanie"
+        },
+        {
+            "Key": 1199560702,
+            "Value": "OCZYŚĆCIE MIEJSCA ROZRODU"
+        },
+        {
+            "Key": 1210569969,
+            "Value": "Czekaj"
+        },
+        {
+            "Key": 1212788409,
+            "Value": "Wpływ (start)"
+        },
+        {
+            "Key": 1225832087,
+            "Value": "Aktywuj terminal"
+        },
+        {
+            "Key": 1229741624,
+            "Value": "ZBIERZCIE TAJEMNICZĄ SUBSTANCJĘ"
+        },
+        {
+            "Key": 1234386790,
+            "Value": "Oczekiwanie na graczy 00:#MINS"
+        },
+        {
+            "Key": 1236304419,
+            "Value": "Zniszcz wszystkie jaja zmutowanych terminidów na tym obszarze."
+        },
+        {
+            "Key": 1236457519,
+            "Value": "Odeprzyjcie siły wroga, próbujące zdobyć to miasto."
+        },
+        {
+            "Key": 1236536730,
+            "Value": "Smętne zwycięstwo"
+        },
+        {
+            "Key": 1239195132,
+            "Value": "Zlikwidujcie wytwarzające posępność płuco zarodnikowe znajdujące się głęboko w roju."
+        },
+        {
+            "Key": 1247038911,
+            "Value": "Wciągnij flagę Super Ziemi jako niepowstrzymaną latarnię swobody."
+        },
+        {
+            "Key": 1248557823,
+            "Value": "Transfer ropy w toku"
+        },
+        {
+            "Key": 1248949050,
+            "Value": "PRÓBKI: #COUNT"
+        },
+        {
+            "Key": 1255258576,
+            "Value": "SABOTUJ BAZĘ POWIETRZNĄ"
+        },
+        {
+            "Key": 1255637022,
+            "Value": "Włóż dysk SSSD do szczeliny"
+        },
+        {
+            "Key": 1255707028,
+            "Value": "Włóż dysk SSSD do luku"
+        },
+        {
+            "Key": 1259256715,
+            "Value": "Wymagana ręczna regulacja zaworu"
+        },
+        {
+            "Key": 1263564083,
+            "Value": "Pompy zainstalowane przed dekadami zostały unieruchomione przez nieskrępowane rojenia terminidów. Same pompy nie zostały uszkodzone, a zbiorniki, z których kiedyś pompowały wodę, są teraz wypełnione dziwną substancją, podobną do E-710. \n\nOczyśćcie przerosty terminidów zatykające rurociąg i przywróćcie go do działania."
+        },
+        {
+            "Key": 1265668144,
+            "Value": "Oczyszczono twierdzę"
+        },
+        {
+            "Key": 1268370994,
+            "Value": "OTWÓRZ KLAPĘ SILOSU"
+        },
+        {
+            "Key": 1271321738,
+            "Value": "Iglica błyskawic"
+        },
+        {
+            "Key": 1272669911,
+            "Value": "Wrogi okręt wdrożony do walki"
+        },
+        {
+            "Key": 1274597484,
+            "Value": "Silos 02"
+        },
+        {
+            "Key": 1275834881,
+            "Value": "Terminidy na tym obszarze mnożą się w postępie geometrycznym. Jeśli pozostawimy je samym sobie, wkrótce wymkną się spod kontroli.\n\nZniszcz ich roje i zabij jak najwięcej robali."
+        },
+        {
+            "Key": 1276323300,
+            "Value": "Musimy pokazać galaktyce, że nawet w obliczu opresji wolność trzyma się mocno. \n \nZinfiltruj ten region opanowany przez terminidy i wciągnij naszą flagę jako niepowstrzymaną latarnię swobody."
+        },
+        {
+            "Key": 1280777009,
+            "Value": "PODNOSZENIE WYRZUTNI"
+        },
+        {
+            "Key": 1281099157,
+            "Value": "AKTYWUJ WIEŻĘ"
+        },
+        {
+            "Key": 1288868496,
+            "Value": "Liczba umocnień"
+        },
+        {
+            "Key": 1290033850,
+            "Value": "Wezwij hellbombę, aby zniszczyć działo"
+        },
+        {
+            "Key": 1290845980,
+            "Value": "Postępy w wyborze ekwipunku"
+        },
+        {
+            "Key": 1294020786,
+            "Value": "PRZEJMIJ WAŻNY PERSONEL"
+        },
+        {
+            "Key": 1295360129,
+            "Value": "BŁĄD AKTYWACJI: ZAWORY ZABLOKOWANE"
+        },
+        {
+            "Key": 1305039869,
+            "Value": "Wpł. zal. misji (własny)"
+        },
+        {
+            "Key": 1313086161,
+            "Value": "Pobierz dane na zaszyfrowany dysk SSSD"
+        },
+        {
+            "Key": 1319105446,
+            "Value": "Przenieście pojemnik w miejsce docelowe"
+        },
+        {
+            "Key": 1319122806,
+            "Value": "Zbliża się wahadłowiec transportujący paliwo"
+        },
+        {
+            "Key": 1321978814,
+            "Value": "Nowy poziom!"
+        },
+        {
+            "Key": 1323381177,
+            "Value": "Silos baterii 02 nie działa"
+        },
+        {
+            "Key": 1328813780,
+            "Value": "Aktywuj terminal"
+        },
+        {
+            "Key": 1330906044,
+            "Value": "Użyjcie terenowej platformy wydobywczej o kryptonimie GATER i pobierzcie E-711 ze wszystkich zidentyfikowanych miejsc."
+        },
+        {
+            "Key": 1332022394,
+            "Value": "Kasetka z okazem"
+        },
+        {
+            "Key": 1336016081,
+            "Value": "JEDEN"
+        },
+        {
+            "Key": 1339087588,
+            "Value": "Dostarcz wszelkie dyski twarde SSSD"
+        },
+        {
+            "Key": 1342077885,
+            "Value": "NAGRODA DNIA"
+        },
+        {
+            "Key": 1344755793,
+            "Value": "Ewakuuj cywilów, którzy utknęli za liniami automatów."
+        },
+        {
+            "Key": 1345231973,
+            "Value": "W miejscach, w których niegdyś stały domy naszych obywateli, automaty zbudowały bazę lotniczą. Dominują teraz w przestrzeni powietrznej nad miastem. \n\nPrzebijcie się do bazy i spalcie ją do gołej ziemi. Nie może przetrwać ani jeden statek desantowy."
+        },
+        {
+            "Key": 1345618657,
+            "Value": "Znajdź palownika"
+        },
+        {
+            "Key": 1346729511,
+            "Value": "Ministerstwo Nauki wystrzeliło setki tysięcy automatycznych sond kosmicznych w posępność. Posępność zakłóca przekazywany sygnał. Jedna rozbiła się na tym obszarze.\n\nZnajdźcie sondę i wzmocnijcie jej sygnał, aby przesłać dane przez atmosferyczną posępność do Super Niszczyciela."
+        },
+        {
+            "Key": 1349342142,
+            "Value": "ROZPOCZNIJ SKANOWANIE OBSZARU"
+        },
+        {
+            "Key": 1350042216,
+            "Value": "AKTYWUJ"
+        },
+        {
+            "Key": 1354134375,
+            "Value": "Użyj terminala, aby otworzyć klapę bunkra"
+        },
+        {
+            "Key": 1354835711,
+            "Value": "Stawcie opór najeźdźcom, którzy śmią gardzić naszą flagą. Dumnie wznieście nieprzemijający symbol zarządzanej demokracji i odzyskajcie miasto w imię wolności."
+        },
+        {
+            "Key": 1356373844,
+            "Value": "Jednostki SZSZ donoszą o zauważeniu w okolicy niszczyciela."
+        },
+        {
+            "Key": 1357339998,
+            "Value": "Przesyłanie danych do centralnego komputera Super Ziemi"
+        },
+        {
+            "Key": 1360343155,
+            "Value": "Przekaż paliwo do nowego celu"
+        },
+        {
+            "Key": 1363933163,
+            "Value": "Twoim wrogiem będą #RACE."
+        },
+        {
+            "Key": 1364087615,
+            "Value": "WPŁYW NA WOJNĘ "
+        },
+        {
+            "Key": 1367202795,
+            "Value": "Działanie ze 100% wydajnością"
+        },
+        {
+            "Key": 1372441245,
+            "Value": "Zwycięstwo"
+        },
+        {
+            "Key": 1375464804,
+            "Value": "Eskortuj i broń naukowców przechodzących do strefy ewakuacji."
+        },
+        {
+            "Key": 1377858079,
+            "Value": "Klapa się otwiera. Dziękujemy za cierpliwość."
+        },
+        {
+            "Key": 1379114142,
+            "Value": "Wyreguluj protokół przekazywania"
+        },
+        {
+            "Key": 1380527507,
+            "Value": "TRWA POBIERANIE PRÓBKI"
+        },
+        {
+            "Key": 1387716743,
+            "Value": "DANE WYWIADOWCZE POBRANE PRZEZ:"
+        },
+        {
+            "Key": 1390962095,
+            "Value": "Wyeliminuj wariant"
+        },
+        {
+            "Key": 1392270027,
+            "Value": "PRZETRZEBIANIE POMIOTU"
+        },
+        {
+            "Key": 1400993941,
+            "Value": "Nieznany i niespodziewany błąd systemu"
+        },
+        {
+            "Key": 1401129762,
+            "Value": "Paliwo"
+        },
+        {
+            "Key": 1404839977,
+            "Value": "Zniszcz działa orbitalne automatów znajdujące się w okolicy."
+        },
+        {
+            "Key": 1405381893,
+            "Value": "OPERACJA ZALICZONA"
+        },
+        {
+            "Key": 1409573597,
+            "Value": "Wyeliminuj niszczycieli"
+        },
+        {
+            "Key": 1409974189,
+            "Value": "Przejdź do ostatniego testu"
+        },
+        {
+            "Key": 1420875237,
+            "Value": "Użyj terminala, aby aktywować transfer ropy"
+        },
+        {
+            "Key": 1428161101,
+            "Value": "KOMPUTER CENTRALNY POWIETRZNEJ WIEŻY KONTROLI"
+        },
+        {
+            "Key": 1428945026,
+            "Value": "BROŃCIE PLANETY"
+        },
+        {
+            "Key": 1436046545,
+            "Value": "Uwolnij uwięzionych kolonistów i eskortuj ich w bezpieczne miejsce ewakuacji."
+        },
+        {
+            "Key": 1449175215,
+            "Value": "OTWÓRZ LUK SSSD"
+        },
+        {
+            "Key": 1450979115,
+            "Value": "PRZEPROWADŹCIE MOBILNE WYDOBYCIE E-711"
+        },
+        {
+            "Key": 1455983201,
+            "Value": "Włącz"
+        },
+        {
+            "Key": 1457853290,
+            "Value": "Rzuć granat w sztuczną robaczą norę"
+        },
+        {
+            "Key": 1461885605,
+            "Value": "WYDOBĄDŹCIE E-711"
+        },
+        {
+            "Key": 1462457090,
+            "Value": "Dezaktywuj uszkodzone silosy baterii"
+        },
+        {
+            "Key": 1462909407,
+            "Value": "Zniszcz wszystkie żniwiarki na tym obszarze."
+        },
+        {
+            "Key": 1465083245,
+            "Value": "Wszystkie aktywa ewakuowane. Przejść do odbioru."
+        },
+        {
+            "Key": 1467471677,
+            "Value": "Zacumowane są tu okręty warp oświeconych. Zniszcz je, póki są narażone."
+        },
+        {
+            "Key": 1468160281,
+            "Value": "BROŃ WYRZUTNI"
+        },
+        {
+            "Key": 1471387497,
+            "Value": "Nasi wrogowie doprowadzili do konfliktu w tym regionie. Nie będzie pokoju, dopóki nie zostaną pokonani."
+        },
+        {
+            "Key": 1471869982,
+            "Value": "Aktywuj terminal"
+        },
+        {
+            "Key": 1472930399,
+            "Value": "WALUTA"
+        },
+        {
+            "Key": 1479552987,
+            "Value": "Ręcznie otwórz wszystkie zamki klap."
+        },
+        {
+            "Key": 1483079969,
+            "Value": "Zlokalizuj i wyeliminuj kolosa automatów."
+        },
+        {
+            "Key": 1485224906,
+            "Value": "Statek desantowy automatów"
+        },
+        {
+            "Key": 1486066125,
+            "Value": "Stacja badawcza SZSZ w tym regionie została przejęta przez terminidy. Trzeba odzyskać niezwykle cenne wyniki badań.\n\nRuszaj na stację, pobierz badawczą bazę danych i prześlij ją do centralnego komputera Super Ziemi, używając pobliskiej stacji łączności satelitarnej."
+        },
+        {
+            "Key": 1492050893,
+            "Value": "Pojemnik z larwą"
+        },
+        {
+            "Key": 1496010243,
+            "Value": "Wciągnięcie sztandaru zarządzanej demokracji wyśle niezaprzeczalny komunikat, że w tej kolonii znów rządzi wolność."
+        },
+        {
+            "Key": 1497655096,
+            "Value": "Usunięto średnie gniazdo robali"
+        },
+        {
+            "Key": 1512949433,
+            "Value": "MISJA ZALICZONA"
+        },
+        {
+            "Key": 1518873863,
+            "Value": "W tym miejscu znajdują się kody dostępu do działa planetarnej obrony."
+        },
+        {
+            "Key": 1521574653,
+            "Value": "ROZPOCZNIJ WYKONANIE KOPII ZAPASOWEJ"
+        },
+        {
+            "Key": 1522495655,
+            "Value": "Użyj manewru orbitalnego ataku precyzyjnego, aby zabić wrogów"
+        },
+        {
+            "Key": 1523476421,
+            "Value": "Użyj terminala, aby rozpocząć wykonanie kopii zapasowej danych"
+        },
+        {
+            "Key": 1525000887,
+            "Value": "PODJĘCI HELLDIVERSI"
+        },
+        {
+            "Key": 1526876604,
+            "Value": "Punkt badań"
+        },
+        {
+            "Key": 1527626864,
+            "Value": "ROZPOCZNIJ USUWANIE DANYCH"
+        },
+        {
+            "Key": 1539464482,
+            "Value": "Przejście do pozycji wiertła..."
+        },
+        {
+            "Key": 1547141993,
+            "Value": "UŻYTE STYMULANTY:"
+        },
+        {
+            "Key": 1549126177,
+            "Value": "Wieża przekaźnikowa"
+        },
+        {
+            "Key": 1549706842,
+            "Value": "WCIĄGNIJ FLAGĘ SUPER ZIEMI"
+        },
+        {
+            "Key": 1549756075,
+            "Value": "Świder poszukiwawczy znajdujący się w tym miejscu może pobrać rdzenie sedymentacyjne, przeanalizować ich skład i przesłać wygenerowane dane."
+        },
+        {
+            "Key": 1557419619,
+            "Value": "Pozwól wahadłowcom zebrać paliwo ze złóż."
+        },
+        {
+            "Key": 1561295478,
+            "Value": "Czarną skrzynkę trzeba dostarczyć do międzyplanetarnego obiektu przesyłowego znajdującego się w tym miejscu. Zaszyfrowane dane muszą zostać przesłane do Ministerstwa Obrony."
+        },
+        {
+            "Key": 1562356454,
+            "Value": "HORDA ROBALI"
+        },
+        {
+            "Key": 1563965062,
+            "Value": "Wyrzutnia pocisków plot"
+        },
+        {
+            "Key": 1566238134,
+            "Value": "ZABIJAJ ROBALE"
+        },
+        {
+            "Key": 1574046645,
+            "Value": "Zniszcz silosy z paliwem"
+        },
+        {
+            "Key": 1576177655,
+            "Value": "Silos aktywny"
+        },
+        {
+            "Key": 1578281421,
+            "Value": "BŁĄD: Wieża komunikacyjna nie działa"
+        },
+        {
+            "Key": 1579516697,
+            "Value": "Aby kontynuować, zyskaj dostęp do pobliskiej stacji transmisyjnej"
+        },
+        {
+            "Key": 1584528805,
+            "Value": "Użyj manewru: <i=1>#ENTITY</i>"
+        },
+        {
+            "Key": 1589424449,
+            "Value": "Aktywuj terminal"
+        },
+        {
+            "Key": 1591269562,
+            "Value": "PRZEJMIJ CYWILNE WIEŻE SATELITARNE"
+        },
+        {
+            "Key": 1592613774,
+            "Value": "ODZYSKAJCIE SSSD"
+        },
+        {
+            "Key": 1595355818,
+            "Value": "Zbadaj i prześlij znaleziska"
+        },
+        {
+            "Key": 1595769879,
+            "Value": "Zniszczono mały posterunek automatów"
+        },
+        {
+            "Key": 1603613106,
+            "Value": "SPODZIEWANA WYPŁATA"
+        },
+        {
+            "Key": 1609303434,
+            "Value": "Zniszcz żniwiarkę"
+        },
+        {
+            "Key": 1614411709,
+            "Value": "Zbadaj zbuntowaną stację badawczą"
+        },
+        {
+            "Key": 1616173269,
+            "Value": "Chwalebne poświęcenie"
+        },
+        {
+            "Key": 1621984480,
+            "Value": "System terminala awaryjnego obszaru przetrzymywania"
+        },
+        {
+            "Key": 1622894175,
+            "Value": "Eksperymentalny pojemnik zawierający 40 gramów bojowego Ciemnego Płynu zawieszonego w polu magnetycznym."
+        },
+        {
+            "Key": 1624189459,
+            "Value": "Pobieranie danych badawczych na dysk SSSD"
+        },
+        {
+            "Key": 1624799956,
+            "Value": "Udany odbiór"
+        },
+        {
+            "Key": 1624905625,
+            "Value": "PRZEKIERUJ PRZEPŁYW PALIWA"
+        },
+        {
+            "Key": 1628088293,
+            "Value": "Proszę czekać."
+        },
+        {
+            "Key": 1630466920,
+            "Value": "Choć większość terminidów została zabita przez termicyd, część przetrwała i ewoluowała. Teraz może ewoluować nadal i zagrozić przejęciem całej planety. Każda wieża rozpylania termicydu na tej planecie musi zostać jak najszybciej wyłączona."
+        },
+        {
+            "Key": 1632926029,
+            "Value": "Klapa się otwiera..."
+        },
+        {
+            "Key": 1633175426,
+            "Value": "Umieść pojemnik w świdrze"
+        },
+        {
+            "Key": 1635143847,
+            "Value": "POZOSTAŁY CZAS MISJI"
+        },
+        {
+            "Key": 1638385704,
+            "Value": "Zniszcz infrastrukturę automatów, aby osłabić ich możliwości produkcji wojsk."
+        },
+        {
+            "Key": 1642197796,
+            "Value": "Kody dostępu"
+        },
+        {
+            "Key": 1648015410,
+            "Value": "Wolność nas prowadzi"
+        },
+        {
+            "Key": 1648689263,
+            "Value": "ZNISZCZ WIEŻĘ KONTROLNĄ BAZY POWIETRZNEJ"
+        },
+        {
+            "Key": 1649782566,
+            "Value": "Wpł. zal. misji (społeczność)"
+        },
+        {
+            "Key": 1651671499,
+            "Value": "PRZEJMIJCIE KODY DOSTĘPU"
+        },
+        {
+            "Key": 1653375691,
+            "Value": "POBRANE PRÓBKI:"
+        },
+        {
+            "Key": 1659516311,
+            "Value": "Wrogie okręty w rezerwie: #COUNT"
+        },
+        {
+            "Key": 1659902457,
+            "Value": "PROSZĘ OPUŚCIĆ OBSZAR"
+        },
+        {
+            "Key": 1660115203,
+            "Value": "Trwa wystrzelenie rakiety"
+        },
+        {
+            "Key": 1673130948,
+            "Value": "Zlokalizujcie stację pomp"
+        },
+        {
+            "Key": 1673870250,
+            "Value": "Nasze dane wywiadowcze wskazują, że w tym miejscu automaty gromadzą amunicję."
+        },
+        {
+            "Key": 1673923679,
+            "Value": "NUMER 2"
+        },
+        {
+            "Key": 1691572204,
+            "Value": "WPŁYW MISJI"
+        },
+        {
+            "Key": 1696158145,
+            "Value": "Przekaż dysk twardy SSSD do przekaźnika komunikacyjnego"
+        },
+        {
+            "Key": 1697648178,
+            "Value": "Zabij wszystkie terminidy"
+        },
+        {
+            "Key": 1700425528,
+            "Value": "<c=#NAME_COLOR>POBRANE PRÓBKI</c> <c=#COUNT_COLOR>#COUNT</c>"
+        },
+        {
+            "Key": 1700860878,
+            "Value": "Podnieś broń dodatkową"
+        },
+        {
+            "Key": 1702066642,
+            "Value": "Zaliczona misja dnia"
+        },
+        {
+            "Key": 1705537422,
+            "Value": "Gotowość inicjalizacji sekwencji przeładowania dla orbitalnej powłoki M723"
+        },
+        {
+            "Key": 1706024967,
+            "Value": "Musisz znaleźć i aktywować miejscowe wieże komunikacyjne, aby móc nadawać komunikaty do cywilów."
+        },
+        {
+            "Key": 1713443279,
+            "Value": "Rozpocznij sekwencję ostrzału"
+        },
+        {
+            "Key": 1713492572,
+            "Value": "#VALUEx"
+        },
+        {
+            "Key": 1719703463,
+            "Value": "Proszę się zalogować"
+        },
+        {
+            "Key": 1722699279,
+            "Value": "PRZERWIJ NIELEGALNĄ TRANSMISJĘ"
+        },
+        {
+            "Key": 1726641594,
+            "Value": "Dezaktywacja..."
+        },
+        {
+            "Key": 1732619482,
+            "Value": "PRZEKAŻ PALIWO DO NOWEGO CELU"
+        },
+        {
+            "Key": 1734927926,
+            "Value": "Wykryto pole zakłócające procesy poznawcze"
+        },
+        {
+            "Key": 1735277762,
+            "Value": "Przeprowadźcie badania geologiczne, aby zidentyfikować cenne żyły rudy."
+        },
+        {
+            "Key": 1737162772,
+            "Value": "Otrzymaliśmy informacje o tytanach żółci, które znajdują się w tym regionie, a które mogą być sporym zagrożeniem dla naszych operacji.\n\nKażdego napotkanego osobnika należy wyeliminować, zanim będzie miał szansę się rozmnożyć."
+        },
+        {
+            "Key": 1740363653,
+            "Value": "ZNISZCZCIE JAJA"
+        },
+        {
+            "Key": 1740852089,
+            "Value": "Aktywuj terminal"
+        },
+        {
+            "Key": 1745697805,
+            "Value": "SZERZ DEMOKRACJĘ"
+        },
+        {
+            "Key": 1746702421,
+            "Value": "W tym regionie znajduje się baza powietrzna automatów. Serwisują w niej statki desantowe, które w tym czasie są narażone na atak."
+        },
+        {
+            "Key": 1751374118,
+            "Value": "WYELIMINUJ KOLOSÓW AUTOMATÓW"
+        },
+        {
+            "Key": 1751768302,
+            "Value": "ZAKŁÓCACZ POZNAWCZY"
+        },
+        {
+            "Key": 1752226463,
+            "Value": "Dezaktywuj silos baterii 03"
+        },
+        {
+            "Key": 1754035950,
+            "Value": "Użyj sterowania drzwiami, aby uwolnić personel obiektu z bunkrów"
+        },
+        {
+            "Key": 1755054833,
+            "Value": "Użyjcie GATER-a i pobierzcie tajemniczą substancję ze wszystkich zidentyfikowanych miejsc."
+        },
+        {
+            "Key": 1756463788,
+            "Value": "Samolot zwiadowczy SZSZ został zestrzelony nad tą okupowaną kolonią. Ściśle tajne dane, które przewoził, muszą zostać natychmiast przejęte, zanim zostaną zniszczone przez wroga."
+        },
+        {
+            "Key": 1763202421,
+            "Value": "ODEPRZYJ INWAZJĘ"
+        },
+        {
+            "Key": 1767301278,
+            "Value": "Rozpocznij transmisję danych"
+        },
+        {
+            "Key": 1770769441,
+            "Value": "Przez tę wieżę kontrolną przechodzi wszelka komunikacja ze statkami desantowymi. Zniszczenie jej uniemożliwi wysyłanie statków desantowych dalekiego zasięgu."
+        },
+        {
+            "Key": 1773921075,
+            "Value": "Samolot zwiadowczy SZSZ został zestrzelony przez najeźdźców w trakcie misji. Odzyskajcie dyski z danymi z samolotu, zanim zostaną zniszczone."
+        },
+        {
+            "Key": 1776187287,
+            "Value": "Podaj kod startowy: #OTHER"
+        },
+        {
+            "Key": 1777619219,
+            "Value": "ALERT: ODEBRANO ZASZYFROWANĄ TRANSMISJĘ\n\nODSZYFROWYWANIE...\n.\n.\n.\nKLASYFIKACJA: ŚCIŚLE TAJNE\n\nMINISTERSTWO OBRONY\nDYREKTORAT GOTOWOŚCI HELLDIVERSÓW\nSTACJA NADAWCZA: NIEZNANE POŁOŻENIE\n\nMEMORANDUM DO: Sztabu gotowości helldiversów\nTEMAT: Raport z codziennego werbunku\n\nSuma nowych rekrutów: 48 736\nŚr. wiek (lat): 18,7 \nŚr. współczynnik gotowości do walki: 27,1%\nŚr. ocena patriotyzmu: 97,4%\n\nSpodziewany współczynnik przeżycia: 21,3% \nPrognozowana produkcja helldiversów: ZGODNA Z PLANEM\n\nKONIEC TRANSMISJI"
+        },
+        {
+            "Key": 1778488497,
+            "Value": "ODBIJCIE MIASTO"
+        },
+        {
+            "Key": 1780333244,
+            "Value": "W tym miejscu, pod powierzchnią, zlokalizowano wylęgarnię terminidów. Miliony larw terminidów wykluwają się w podziemnych komorach.\n\nWylęgarnie terminidów składają się z jednej lub większej liczby komór. Użyjcie wierteł Niszczyciel Rojów, aby w każdej komorze umieścić urządzenie nuklearnej eksterminacji."
+        },
+        {
+            "Key": 1786062800,
+            "Value": "Podnieś broń AR-23 Wyzwalacz"
+        },
+        {
+            "Key": 1787625357,
+            "Value": "Wpł. zal. misji (maks.)"
+        },
+        {
+            "Key": 1787745812,
+            "Value": "AKTYWUJ WIERTŁO"
+        },
+        {
+            "Key": 1790503876,
+            "Value": "Dezaktywować zagłuszanie manewrów?"
+        },
+        {
+            "Key": 1794897449,
+            "Value": "Znajduje się tu opuszczony mobilny radar SZSZ. Może on dostarczyć kluczowych danych na temat okolicy."
+        },
+        {
+            "Key": 1799389348,
+            "Value": "Przygotuj i odpal pocisk międzykontynentalny."
+        },
+        {
+            "Key": 1799635206,
+            "Value": "RADAR"
+        },
+        {
+            "Key": 1800386877,
+            "Value": "Okręty warp oświeconych zadokowały w tym miejscu. Zniszczcie je."
+        },
+        {
+            "Key": 1801819105,
+            "Value": "aby użyć Ciemnego Płynu"
+        },
+        {
+            "Key": 1802135572,
+            "Value": "Zaczekaj na zakończenie sekwencji diagnostycznej generatora"
+        },
+        {
+            "Key": 1804508227,
+            "Value": "Użyj terminalu, aby podnieść wyrzutnię ziemia-powietrze"
+        },
+        {
+            "Key": 1805815248,
+            "Value": "Gotowość do odpalenia działa orbitalnego. Znajdź cel, używając pobliskiego terminalu sterowania."
+        },
+        {
+            "Key": 1813416016,
+            "Value": "Odeprzyjcie kontyngent oświeconych atakujący tę planetę."
+        },
+        {
+            "Key": 1813849392,
+            "Value": "WYPŁATA DLA ODDZIAŁU"
+        },
+        {
+            "Key": 1817771230,
+            "Value": "Proszę się zalogować"
+        },
+        {
+            "Key": 1819981985,
+            "Value": "Skanowanie obszaru wykryło wysokie poziomy produkcji automatów na tym obszarze."
+        },
+        {
+            "Key": 1823884758,
+            "Value": "STANOWISKO MOŹDZIERZOWE"
+        },
+        {
+            "Key": 1828283522,
+            "Value": "Aktywuj terminal artyleryjski"
+        },
+        {
+            "Key": 1828683420,
+            "Value": "Aktywacja pomp ropy"
+        },
+        {
+            "Key": 1828776547,
+            "Value": "Aby ograniczyć rozrost populacji terminidów, musimy uderzyć w ich dojrzałe roje.\n\nAktywuj uśpiony silos pocisków międzykontynentalnych na planecie i za jednym zamachem zniszcz potężne skupiska robali."
+        },
+        {
+            "Key": 1839599612,
+            "Value": "Ten budynek został zajęty przez terminidy i jest teraz miejscem rojenia się wrzaskunów."
+        },
+        {
+            "Key": 1841093792,
+            "Value": "W tym obszarze znajduje się żniwiarka oświeconych. Znajdź ją i zniszcz."
+        },
+        {
+            "Key": 1843083936,
+            "Value": "Wymagana aktywacja artylerii"
+        },
+        {
+            "Key": 1845692258,
+            "Value": "EWAKUUJCIE OBYWATELI"
+        },
+        {
+            "Key": 1845748710,
+            "Value": "WAŻNE CELE"
+        },
+        {
+            "Key": 1852142797,
+            "Value": "Stan świdra: uszkodzony"
+        },
+        {
+            "Key": 1858881662,
+            "Value": "Wieża LiDAR jest obecnie obniżona."
+        },
+        {
+            "Key": 1860230325,
+            "Value": "50% zaliczonych celów"
+        },
+        {
+            "Key": 1865115085,
+            "Value": "Zlikwidujcie podaną liczbę terminidów i ich gniazd."
+        },
+        {
+            "Key": 1865206544,
+            "Value": "ROZMIEŚĆCIE CIEMNY PŁYN"
+        },
+        {
+            "Key": 1873750698,
+            "Value": "Za mało paliwa"
+        },
+        {
+            "Key": 1880335159,
+            "Value": "SKT jest gotowy. Na zawsze zabezpiecz tę planetę przed robalami."
+        },
+        {
+            "Key": 1893695190,
+            "Value": "OBIEKT NIE DZIAŁA"
+        },
+        {
+            "Key": 1895124532,
+            "Value": "TRWA WIERCENIE"
+        },
+        {
+            "Key": 1897839356,
+            "Value": "#COUNT [SK]"
+        },
+        {
+            "Key": 1898283179,
+            "Value": "Automaty zyskały duże obszary w tym mieście i zbudowały sieć fabrykatorów, dzięki którym mnożą się bardzo szybko.\n \nZidentyfikowano kilka lokalizacji tych obiektów. Musimy uderzyć teraz, zanim zaczną się automatycznie mnożyć poza jakąkolwiek kontrolą."
+        },
+        {
+            "Key": 1899611438,
+            "Value": "Zagłuszanie manewrów nieaktywne"
+        },
+        {
+            "Key": 1899754973,
+            "Value": "WYELIMINUJ SIŁY AUTOMATÓW"
+        },
+        {
+            "Key": 1902302378,
+            "Value": "Ta stacja tankowania nie działa. Przed rozpoczęciem dystrybucji paliwa musi zostać ponownie aktywowana."
+        },
+        {
+            "Key": 1913688337,
+            "Value": "Uwolnijcie uwięzionych obywateli i eskortujcie ich w miejsce ewakuacji."
+        },
+        {
+            "Key": 1913949765,
+            "Value": "Odsuń się od podnoszonych części"
+        },
+        {
+            "Key": 1914208299,
+            "Value": "ROZMIEŚĆ PODZIEMNY EMITER"
+        },
+        {
+            "Key": 1914672627,
+            "Value": "Korzystanie z działa może uszkodzić słuch."
+        },
+        {
+            "Key": 1914950146,
+            "Value": "WYELIMINUJ KOLOSA"
+        },
+        {
+            "Key": 1921818882,
+            "Value": "Wyreguluj wszystkie wskazane zawory"
+        },
+        {
+            "Key": 1922833675,
+            "Value": "Na tym obszarze produkowane są automaty latające."
+        },
+        {
+            "Key": 1925353026,
+            "Value": "Koloniści, którzy uniknęli porwania i kontroli umysłów ze strony oświeconych, są zapewne najbardziej patriotycznymi i niewzruszonymi przedstawicielami swoich grup demograficznych. Niestety, obecnie utknęli w schronach. Wróg się zbliża. Jeśli nie zostaną ocaleni, czeka ich zagłada.\n\nStatki transportowe są w drodze, ale strefa ewakuacji jest kontrolowana przez wroga. Jedyną nadzieją kolonistów są helldiversi."
+        },
+        {
+            "Key": 1935531511,
+            "Value": "ŚMIERCI:"
+        },
+        {
+            "Key": 1938834551,
+            "Value": "Nieznane siły"
+        },
+        {
+            "Key": 1951270070,
+            "Value": "Silniki"
+        },
+        {
+            "Key": 1958433982,
+            "Value": "Rozpocznijcie sekwencję ostrzału"
+        },
+        {
+            "Key": 1962369016,
+            "Value": "Aktywuj silos baterii 03"
+        },
+        {
+            "Key": 1964072812,
+            "Value": "Użyj świdra poszukiwawczego, aby przejąć pierwszą próbkę"
+        },
+        {
+            "Key": 1965810182,
+            "Value": "PRZEJMIJ DANE Z SOND BADAWCZYCH"
+        },
+        {
+            "Key": 1968906060,
+            "Value": "Skanowanie terenu ujawni pobliskie lokacje"
+        },
+        {
+            "Key": 1977308076,
+            "Value": "UWAGA: STACJA NIE DZIAŁA"
+        },
+        {
+            "Key": 1979930256,
+            "Value": "WYDOBĄDŹCIE E-711"
+        },
+        {
+            "Key": 1983239401,
+            "Value": "ODEPRZYJCIE FLOTĘ INWAZYJNĄ"
+        },
+        {
+            "Key": 1984443237,
+            "Value": "Wyzwólcie planetę"
+        },
+        {
+            "Key": 1988242305,
+            "Value": "Miasto jest kontrolowane przez wroga. Trzeba je odzyskać, w imię wolności."
+        },
+        {
+            "Key": 1989698991,
+            "Value": "AKTYWUJ PONOWNIE GENERATOR MOCY"
+        },
+        {
+            "Key": 1990429936,
+            "Value": "WŁĄCZ TERMINAL DANYCH"
+        },
+        {
+            "Key": 1991803739,
+            "Value": "Wyceluj działo orbitalne"
+        },
+        {
+            "Key": 1996039132,
+            "Value": "Silos 03"
+        },
+        {
+            "Key": 1996703633,
+            "Value": "ODPAL ATOMÓWKI W KOMORZE WYLĘGARNI"
+        },
+        {
+            "Key": 2003933905,
+            "Value": "Zaloguj się do interfejsu sondy"
+        },
+        {
+            "Key": 2004909665,
+            "Value": "TECZKA"
+        },
+        {
+            "Key": 2009521352,
+            "Value": "ARTEFAKT OŚWIECONYCH"
+        },
+        {
+            "Key": 2017155486,
+            "Value": "Przyznano PD"
+        },
+        {
+            "Key": 2025791024,
+            "Value": "Oświeceni najeżdżają nasze lojalne, kwitnące, pokojowe kolonie, chcąc zmienić naszych obywateli w niegłosujące okropieństwa. Tworzą też dziwne pola energetyczne w jakichś nieznanych nam, niedemokratycznych celach. Trzeba ich powstrzymać."
+        },
+        {
+            "Key": 2029045988,
+            "Value": "DYSK TWARDY SSSD"
+        },
+        {
+            "Key": 2032931639,
+            "Value": "Przeprowadź badania geologiczne, aby zidentyfikować cenne żyły rudy."
+        },
+        {
+            "Key": 2039095996,
+            "Value": "Węzeł roju terminidów wypluwa gęstą mgłę, która zmniejsza widoczność."
+        },
+        {
+            "Key": 2045888767,
+            "Value": "Uzupełnij amunicję"
+        },
+        {
+            "Key": 2053793640,
+            "Value": "Nie dotykać ruchomych elementów"
+        },
+        {
+            "Key": 2054415072,
+            "Value": "Żniwiarki oświeconych patrolują tę dzielnicę miasta. Znajdźcie i zniszczcie to zagrożenie."
+        },
+        {
+            "Key": 2063895312,
+            "Value": "Klasa umocnień"
+        },
+        {
+            "Key": 2067123077,
+            "Value": "Włóż dyski twarde SSSD do gniazda odbiorczego"
+        },
+        {
+            "Key": 2067205943,
+            "Value": "Zniszcz wypluwacz zarodników terminidów"
+        },
+        {
+            "Key": 2069716682,
+            "Value": "Aktywuj wyzwolony terminal"
+        },
+        {
+            "Key": 2070314061,
+            "Value": "Zniszcz gniazdo wrzaskunów"
+        },
+        {
+            "Key": 2073441684,
+            "Value": "PRZESŁAĆ DANE PRÓBKI?"
+        },
+        {
+            "Key": 2079096779,
+            "Value": "Zaloguj się do terminala luku wahadłowca"
+        },
+        {
+            "Key": 2080857789,
+            "Value": "PODNIEŚ ANTENĘ"
+        },
+        {
+            "Key": 2081692256,
+            "Value": "Aktywuj terminal"
+        },
+        {
+            "Key": 2090959963,
+            "Value": "Dobrze opancerzony konwój automatów spodziewany jest w tym regionie. Przechwyćcie i zniszczcie konwój, zanim opuści obszar misji."
+        },
+        {
+            "Key": 2095994991,
+            "Value": "Zlokalizuj wieżę nadawczą"
+        },
+        {
+            "Key": 2098994313,
+            "Value": "Zniszczcie wypluwacze zarodników, aby pozwolić obywatelom oddychać pełną piersią."
+        },
+        {
+            "Key": 2101115961,
+            "Value": "CZARNA SKRZYNKA"
+        },
+        {
+            "Key": 2101446058,
+            "Value": "Odeprzyj najeźdźców oświeconych, zanim będą mogli zrealizować swoje zamiary."
+        },
+        {
+            "Key": 2102569661,
+            "Value": "Pobierz i prześlij ważne dane badawcze."
+        },
+        {
+            "Key": 2116361915,
+            "Value": "Dziękujemy za cierpliwość"
+        },
+        {
+            "Key": 2118518394,
+            "Value": "Flota inwazyjna automatów atakuje tę planetę.\n\nMusimy odeprzeć ich wojska, zanim będzie za późno!"
+        },
+        {
+            "Key": 2119525640,
+            "Value": "WYELIMINUJ PRZYWÓDCĘ ROJU"
+        },
+        {
+            "Key": 2124411631,
+            "Value": "Uzbrajanie działa planetarnej obrony..."
+        },
+        {
+            "Key": 2126726749,
+            "Value": "Wpł. zal. misji (start)"
+        },
+        {
+            "Key": 2136737967,
+            "Value": "ZBADAJCIE POSĘPNOŚĆ"
+        },
+        {
+            "Key": 2141540131,
+            "Value": "Zlokalizuj i zniszcz fabrykatory automatów."
+        },
+        {
+            "Key": 2144732626,
+            "Value": "Musimy pokazać galaktyce, że nawet w obliczu opresji wolność trzyma się mocno. \n \nPrzekrocz linie obrony automatów i wciągnij naszą flagę jako niepowstrzymaną latarnię swobody."
+        },
+        {
+            "Key": 2146788206,
+            "Value": "Znajduje się tu gęsty rój terminidów. Zlikwidujcie go."
+        },
+        {
+            "Key": 2147390723,
+            "Value": "Znajdź biegacza fabrycznego"
+        },
+        {
+            "Key": 2151944345,
+            "Value": "Przeładuj"
+        },
+        {
+            "Key": 2152357750,
+            "Value": "ROZMIEŚĆ ŁADUNEK JĄDROWY"
+        },
+        {
+            "Key": 2154001434,
+            "Value": "Wybierz systemy do sabotowania"
+        },
+        {
+            "Key": 2161574821,
+            "Value": "Przejmij flagę Super Ziemi"
+        },
+        {
+            "Key": 2165457603,
+            "Value": "Elektryka"
+        },
+        {
+            "Key": 2169316289,
+            "Value": "Międzyplanetarna transmisja danych jest gotowa"
+        },
+        {
+            "Key": 2171378463,
+            "Value": "Ta planeta prawdopodobnie zawiera cenne rudy, ale intensywna aktywność terminidów (i duże współczynniki śmiertelności cywilnych geologów) póki co uniemożliwiały dokładne badania.\n\nAktywuj świder poszukiwawczy, zbierz próbki gleby i potwierdź występowanie złóż."
+        },
+        {
+            "Key": 2173519201,
+            "Value": "> BLOKADA <"
+        },
+        {
+            "Key": 2178175578,
+            "Value": "NAGRODA ZA AWANS"
+        },
+        {
+            "Key": 2181388342,
+            "Value": "Zamknij drzwi"
+        },
+        {
+            "Key": 2182563833,
+            "Value": "Odkryto tu potężną wylęgarnię terminidów, w której roją się miliony świeżo wyklutych larw. Już za kilka tygodni zmienią się one w krwiożercze osobniki dorosłe. Trzeba zlikwidować larwy, zanim dojrzeją i zaczną zabijać niewinne ludzkie dzieci.\n\nWylęgarnie terminidów składają się z jednej lub większej liczby komór. Użyj wiertła Niszczyciel Rojów, aby w każdej komorze umieścić urządzenie nuklearnej eksterminacji."
+        },
+        {
+            "Key": 2185143619,
+            "Value": "WYKONAJ KOPIĘ ZAPASOWĄ AWARYJNEJ BAZY DANYCH"
+        },
+        {
+            "Key": 2186859217,
+            "Value": "Przygotować się do obrony. \nCzas do automatycznego rozpoczęcia: #TIME"
+        },
+        {
+            "Key": 2190481941,
+            "Value": "Wybierz wskazane współrzędne na siatce"
+        },
+        {
+            "Key": 2191483918,
+            "Value": "Użyj terminala, aby rozpocząć start"
+        },
+        {
+            "Key": 2194002616,
+            "Value": "UWAGA: BLOKADA PRZEPŁYWU PALIWA"
+        },
+        {
+            "Key": 2194282969,
+            "Value": "ODBIJCIE MIASTO"
+        },
+        {
+            "Key": 2195387101,
+            "Value": "Aktywacja tego generatora zapewni krytyczną moc dla urządzeń SZSZ w tym regionie."
+        },
+        {
+            "Key": 2204289064,
+            "Value": "Wahadłowiec ewakuacyjny w drodze"
+        },
+        {
+            "Key": 2206768360,
+            "Value": "Znajduje się tu działo orbitalne. Zinfiltrujcie to miejsce i użyjcie hellbomby, aby je zniszczyć."
+        },
+        {
+            "Key": 2207832920,
+            "Value": "PRZYGOTOWYWANIE SKANOWANIA OBSZARU"
+        },
+        {
+            "Key": 2210337971,
+            "Value": "NIEBEZPIECZEŃSTWO – OBECNOŚĆ WROGA"
+        },
+        {
+            "Key": 2212526227,
+            "Value": "Broń naszego stylu życia przed terminidami. Użyj wszelkich możliwych środków."
+        },
+        {
+            "Key": 2216916513,
+            "Value": "Czas na powierzchni"
+        },
+        {
+            "Key": 2232151788,
+            "Value": "ODPAL ATOMÓWKI W WYLĘGARNI"
+        },
+        {
+            "Key": 2234330983,
+            "Value": "NAMIERZANIE"
+        },
+        {
+            "Key": 2237064223,
+            "Value": "Ta kolonia jest okupowana przez najeźdźców oświeconych. Trzeba ją wyzwolić."
+        },
+        {
+            "Key": 2238702792,
+            "Value": "Zbierz stymulanty z symulatora ran"
+        },
+        {
+            "Key": 2241576450,
+            "Value": "ZNEUTRALIZUJ ORBITALNE STRUKTURY OBRONNE"
+        },
+        {
+            "Key": 2245869430,
+            "Value": "ZNISZCZ BUNKIER DOWODZENIA AUTOMATÓW"
+        },
+        {
+            "Key": 2246173906,
+            "Value": "Pod powierzchnią tej planety znajdują się miliony kilometrów tuneli terminidów. Do zidentyfikowania krytycznych celów potrzebne jest szczegółowe mapowanie podziemne.\n\nUżyjcie świdra poszukiwawczego, aby zebrać próbki zainfekowanego płaszcza. Analiza zidentyfikuje właściwości lokalnych obiektów terminidów."
+        },
+        {
+            "Key": 2250960762,
+            "Value": "Planeta roju wytwarza zarodniki posępności, głęboko w ogromnej sieci jaskiń terminidów. Są one także jedynym znanym źródłem niezwykle cennego E-711.\n\nNie ma ważniejszego zadania niż uwolnienie naszych obywateli od zagrożenia ze strony posępności. Jednym z głównych priorytetów galaktycznego bezpieczeństwa jest także pozyskiwanie E-711. Wasze rozkazy są jasne. "
+        },
+        {
+            "Key": 2252283152,
+            "Value": "Zniszcz zmutowane jaja terminidów"
+        },
+        {
+            "Key": 2252673352,
+            "Value": "Odbijcie miasto z rąk nielegalnych okupantów."
+        },
+        {
+            "Key": 2254050036,
+            "Value": "Wwierćcie się do roju terminidów, aby przeanalizować jego skład."
+        },
+        {
+            "Key": 2257237107,
+            "Value": "Trwa odwiert..."
+        },
+        {
+            "Key": 2257698922,
+            "Value": "Przetrzebcie plugawe hordy terminidów i ich nienawistnych przodków."
+        },
+        {
+            "Key": 2259728881,
+            "Value": "PODNIEŚĆ WIEŻĘ LiDAR?"
+        },
+        {
+            "Key": 2261840423,
+            "Value": "ZNISZCZ BUNKRY DOWODZENIA"
+        },
+        {
+            "Key": 2262072624,
+            "Value": "> ODBLOKUJ <"
+        },
+        {
+            "Key": 2262724740,
+            "Value": "Infiltruj terytorium automatów i zniszcz ich magazyny paliwa oraz amunicji."
+        },
+        {
+            "Key": 2266578497,
+            "Value": "Ręcznie wyreguluj wieżę satelitarną"
+        },
+        {
+            "Key": 2267878169,
+            "Value": "PRZYWRÓĆCIE CZYSTE POWIETRZE"
+        },
+        {
+            "Key": 2268441657,
+            "Value": "Zniszcz automaty"
+        },
+        {
+            "Key": 2268700696,
+            "Value": "Załaduj broń"
+        },
+        {
+            "Key": 2271594322,
+            "Value": "AKTYWUJ POMPY ROPY"
+        },
+        {
+            "Key": 2272579577,
+            "Value": "Tu rozbił się samolot zwiadowczy. Dane przechowywane są w jego czarnej skrzynce, która znajduje się gdzieś we wraku."
+        },
+        {
+            "Key": 2284698652,
+            "Value": "ZBADAJ TUNELE TERMINIDÓW"
+        },
+        {
+            "Key": 2290530748,
+            "Value": "PODJEDŹ POJAZDEM DO MIEJSCA ZRZUTU"
+        },
+        {
+            "Key": 2290550427,
+            "Value": "PRZEJMIJ WAŻNY PERSONEL"
+        },
+        {
+            "Key": 2293397614,
+            "Value": "Użyj manewru przesyłania danych, aby rozpocząć przesyłanie"
+        },
+        {
+            "Key": 2296159403,
+            "Value": "Dudnik"
+        },
+        {
+            "Key": 2298091595,
+            "Value": "PODNIEŚ WYRZUTNIĘ"
+        },
+        {
+            "Key": 2302497810,
+            "Value": "ODBIÓR NIEUDANY"
+        },
+        {
+            "Key": 2304136058,
+            "Value": "Ten obiekt zawiera dane badawcze pozyskane niezgodnie z duchem patriotyzmu. Należy go zrównać z ziemią."
+        },
+        {
+            "Key": 2308523261,
+            "Value": "OBECNOŚĆ RASY: #RACE"
+        },
+        {
+            "Key": 2312292744,
+            "Value": "Aktywuj świder poszukiwawczy"
+        },
+        {
+            "Key": 2313924635,
+            "Value": "Broń obszaru"
+        },
+        {
+            "Key": 2314593523,
+            "Value": "Pobierz i prześlij ważne dane badawcze."
+        },
+        {
+            "Key": 2315290736,
+            "Value": "Plecak chemiczny"
+        },
+        {
+            "Key": 2316288590,
+            "Value": "W tym regionie doszło do ofensywy automatów, przez co jedna z naszych ściśle tajnych stacji badawczych została otoczona przez wroga.\n\nUżyj swojego zezwolenia, aby odblokować awaryjne drzwi do bunkra, i broń personelu placówki, w czasie gdy ten będzie udawać się do wahadłowca ewakuacyjnego."
+        },
+        {
+            "Key": 2318515204,
+            "Value": "Klapa gotowa do otwarcia"
+        },
+        {
+            "Key": 2322933964,
+            "Value": "Zniszcz automaty"
+        },
+        {
+            "Key": 2323084938,
+            "Value": "PODNIEŚCIE DZIAŁO PLANETARNEJ OBRONY"
+        },
+        {
+            "Key": 2324676534,
+            "Value": "Użyj manewru uzupełnienia, aby wskrzesić poległego towarzysza"
+        },
+        {
+            "Key": 2328705886,
+            "Value": "Terminidy na tym obszarze zagrażają wolności na wiele paskudnych sposobów. Trzeba je powstrzymać."
+        },
+        {
+            "Key": 2330533729,
+            "Value": "Zabij terminidy, aby przerzedzić ich szeregi."
+        },
+        {
+            "Key": 2330806174,
+            "Value": "Broń wolności"
+        },
+        {
+            "Key": 2333813626,
+            "Value": "Pobieranie próbki"
+        },
+        {
+            "Key": 2333834422,
+            "Value": "Dysk z kodami do odpalenia pocisków został pozostawiony w bazie w tym regionie."
+        },
+        {
+            "Key": 2336243886,
+            "Value": "ROZPOCZNIJ PRZESYŁANIE NA STACJI TRANSMISYJNEJ"
+        },
+        {
+            "Key": 2338099950,
+            "Value": "PRZEŚLIJ DANE Z PODU RATUNKOWEGO"
+        },
+        {
+            "Key": 2340015848,
+            "Value": "Dezaktywuj silosy baterii, aby zatrzymać rozpylanie termicydu."
+        },
+        {
+            "Key": 2340823345,
+            "Value": "WPŁYW"
+        },
+        {
+            "Key": 2349064975,
+            "Value": "Przejmijcie ściśle tajne dane wywiadowcze ze strąconego samolotu zwiadowczego SZSZ."
+        },
+        {
+            "Key": 2349442677,
+            "Value": "Zarodniki posępności nasycają atmosferę planety – od podłoża po egzosferę. Możecie użyć rozproszonych wież LiDAR, aby zmierzyć gęstość i skład zarodników posępności.\n\nAktywujcie wieże, pobierzcie z nich dane i prześlijcie je poza planetę, korzystając z lokalnej stacji przekaźnikowej."
+        },
+        {
+            "Key": 2354025483,
+            "Value": "SONDA SEJSMICZNA"
+        },
+        {
+            "Key": 2356532435,
+            "Value": "Otwórz drzwi"
+        },
+        {
+            "Key": 2357412450,
+            "Value": "Ewakuuj obszar"
+        },
+        {
+            "Key": 2359399777,
+            "Value": "Eksterminacja robali"
+        },
+        {
+            "Key": 2365423054,
+            "Value": "Próbki"
+        },
+        {
+            "Key": 2366202284,
+            "Value": "Ekstraktory znajdujące się na tym ogromnym złożu ropy przestały działać. Należy je ponownie aktywować."
+        },
+        {
+            "Key": 2370408778,
+            "Value": "Uważaj na oślepiające zamiecie i głęboki śnieg."
+        },
+        {
+            "Key": 2370772246,
+            "Value": "POJEMNIK Z CIEMNYM PŁYNEM"
+        },
+        {
+            "Key": 2379580646,
+            "Value": "Zaloguj się do terminala"
+        },
+        {
+            "Key": 2380544313,
+            "Value": "Aktywujcie platformę wiertniczą i zapewnijcie udaną ekstrakcję E-711."
+        },
+        {
+            "Key": 2383338337,
+            "Value": "Przeciętna postawa"
+        },
+        {
+            "Key": 2385167251,
+            "Value": "Rozczarowujące wykonanie"
+        },
+        {
+            "Key": 2391925668,
+            "Value": "MISJA OKAZJI"
+        },
+        {
+            "Key": 2392465944,
+            "Value": "EKSTERMINUJ TERMINIDY"
+        },
+        {
+            "Key": 2393454283,
+            "Value": "Wprowadź sekwencję aktywacji"
+        },
+        {
+            "Key": 2398211331,
+            "Value": "NAMIERZANIE"
+        },
+        {
+            "Key": 2401299203,
+            "Value": "ROZMIEŚĆCIE CIEMNY PŁYN"
+        },
+        {
+            "Key": 2402923326,
+            "Value": "RĘCZNIE WYREGULUJ ZAWORY"
+        },
+        {
+            "Key": 2406392610,
+            "Value": "Zniszcz wieżę wykrywającą automatów"
+        },
+        {
+            "Key": 2424425968,
+            "Value": "WYRZUTNIE AKTYWNE"
+        },
+        {
+            "Key": 2424481257,
+            "Value": "Stanowisko startowe nie działa. Przejść do odbioru."
+        },
+        {
+            "Key": 2428511542,
+            "Value": "Aktywujcie działo planetarnej obrony i użyjcie go, aby zestrzelić gigaokręt oświeconych."
+        },
+        {
+            "Key": 2429169727,
+            "Value": "Ręcznie otwórz wszystkie zamki klap silosu"
+        },
+        {
+            "Key": 2439699512,
+            "Value": "Przywróćcie działanie stacji pomp."
+        },
+        {
+            "Key": 2442819854,
+            "Value": "USUNIĘTO MODYFIKATOR OPERACJI"
+        },
+        {
+            "Key": 2443881283,
+            "Value": "Liczba wrogów"
+        },
+        {
+            "Key": 2444304889,
+            "Value": "Skanowanie planetarne ujawniło bazy zaopatrzeniowe automatów, ukryte głęboko za ich liniami obronnymi.\n\nZinfiltruj i szybko zniszcz ich magazyny, zanim zdołają zorganizować obronę."
+        },
+        {
+            "Key": 2452694656,
+            "Value": "Przyłącz wąż paliwowy do pompy"
+        },
+        {
+            "Key": 2453551750,
+            "Value": "Podnieś siłę sygnału do 100%"
+        },
+        {
+            "Key": 2455424748,
+            "Value": "ELIMINACJE:"
+        },
+        {
+            "Key": 2457510246,
+            "Value": "Oświeceni fałszywie twierdzą, że to miasto im się należy. Plugawią nasze ulice kolejnymi despotycznymi monolitami. \n \nRuszajcie do miasta, zniszczcie totalitarne pomniki wroga i zatknijcie flagę Super Ziemi, aby przywrócić nadzieję obywatelom."
+        },
+        {
+            "Key": 2466808441,
+            "Value": "Analiza minerałów zakończona"
+        },
+        {
+            "Key": 2467146338,
+            "Value": "Prawdziwe męstwo"
+        },
+        {
+            "Key": 2468140080,
+            "Value": "WYELIMINUJ PRZYWÓDCÓW ROJU"
+        },
+        {
+            "Key": 2468339199,
+            "Value": "STANOWISKO PLOT"
+        },
+        {
+            "Key": 2470414457,
+            "Value": "Zabij nadzorców oświeconych"
+        },
+        {
+            "Key": 2471034422,
+            "Value": "KONTROLA SYSTEMÓW W TOKU..."
+        },
+        {
+            "Key": 2473476479,
+            "Value": "WPŁYW ODDZIAŁU <i=1>#INFLUENCE</i>"
+        },
+        {
+            "Key": 2483028481,
+            "Value": "W okolicy znajdują się kluczowe złoża ropy, która jest nam potrzebna do prowadzenia dalszej wojny.\n\nPrzebij się przez rój terminidów, reaktywuj pompy i przekaż paliwo do oczekujących wahadłowców transportowych."
+        },
+        {
+            "Key": 2483189490,
+            "Value": "PRZEJMIJ CENNE DANE"
+        },
+        {
+            "Key": 2485591796,
+            "Value": "Przygotowanie sondy sejsmicznej"
+        },
+        {
+            "Key": 2488533786,
+            "Value": "Aby rozpocząć rozpylanie termicydu, uruchom trzy silosy baterii."
+        },
+        {
+            "Key": 2493471413,
+            "Value": "Wywiad donosi, że w tym miejscu znajduje się przywódca roju."
+        },
+        {
+            "Key": 2496593312,
+            "Value": "Terenowa platforma wydobywcza (GATER) została wysłana w ten obszar, gdzie zidentyfikowano kilka złóż E-711.\n\nOtrzymaliście certyfikaty eksperckiego operowania dużymi pojazdami. Ruszajcie w ten obszar, użyjcie GATER-a i pobierzcie E-711 ze wszystkich zidentyfikowanych miejsc."
+        },
+        {
+            "Key": 2503033309,
+            "Value": "W regionie zidentyfikowaliśmy kilka pilnie strzeżonych bunkrów. Podejrzewamy, że zawierają węzły dowodzenia połączone w strumień transmisyjny automatów.\n\nZniszcz bunkry i odetnij boty od strumienia informacji."
+        },
+        {
+            "Key": 2507454049,
+            "Value": "Prosimy nie dotykać ruchomych części świdra"
+        },
+        {
+            "Key": 2509196198,
+            "Value": "Nowy, bardzo niebezpieczny wariant terminida zdziesiątkował jednostki SZSZ na tym obszarze. Musimy ograniczyć rozprzestrzenianie się tego zmutowanego szczepu. \n\nZnajdźcie i zlikwidujcie wariant. Zachowajcie szczególną ostrożność."
+        },
+        {
+            "Key": 2510614687,
+            "Value": "BŁĄD SYSTEMU"
+        },
+        {
+            "Key": 2525564346,
+            "Value": "Aktywujcie platformę wiertniczą i zapewnijcie udaną ekstrakcję substancji podobnej do E-710."
+        },
+        {
+            "Key": 2526243565,
+            "Value": "Podaj kod, aby autoryzować wysunięcie"
+        },
+        {
+            "Key": 2527498143,
+            "Value": "Odeprzyj flotę inwazyjną automatów atakującą tę planetę."
+        },
+        {
+            "Key": 2530061352,
+            "Value": "Aby okiełznać rozrost populacji terminidów, musimy uderzyć w ich ohydne miejsca rozrodu.\n\nZnajdźcie i zniszczcie wszystkie jaja terminidów w okolicy, zanim wróg zareaguje."
+        },
+        {
+            "Key": 2537601495,
+            "Value": "Zasil silosy baterii"
+        },
+        {
+            "Key": 2538301274,
+            "Value": "MIEJSCE DOCELOWE"
+        },
+        {
+            "Key": 2538343677,
+            "Value": "Wygnaj automaty z tej planety."
+        },
+        {
+            "Key": 2540642156,
+            "Value": "WRÓĆ NA OBSZAR"
+        },
+        {
+            "Key": 2543277293,
+            "Value": "LIKWIDACJE WRĘCZ:"
+        },
+        {
+            "Key": 2547152065,
+            "Value": "Automaty zyskały duże obszary w tym regionie i zbudowały ogromną sieć fabrykatorów, dzięki którym mnożą się bardzo szybko.\n\nWykryliśmy krótkie okno konserwacyjne, w którym możemy zaatakować ich obiekty. Zniszcz jak najwięcej wrogów."
+        },
+        {
+            "Key": 2554621228,
+            "Value": "System Kontroli Terminidów"
+        },
+        {
+            "Key": 2555575705,
+            "Value": "Znajdź szturmowca terminidów"
+        },
+        {
+            "Key": 2569398198,
+            "Value": "Dezaktywuj silos baterii 02"
+        },
+        {
+            "Key": 2570056183,
+            "Value": "BŁYSKAWICZNA"
+        },
+        {
+            "Key": 2572958008,
+            "Value": "Odłącz wąż paliwowy"
+        },
+        {
+            "Key": 2573125048,
+            "Value": "PRZEJMIJ CENNE DANE"
+        },
+        {
+            "Key": 2575685330,
+            "Value": "AKTYWUJ SYSTEM KONTROLI TERMINIDÓW"
+        },
+        {
+            "Key": 2577581064,
+            "Value": "ZNAJDŹCIE I ZNISZCZCIE"
+        },
+        {
+            "Key": 2582160374,
+            "Value": "Zagłuszacz wyłączony"
+        },
+        {
+            "Key": 2582672300,
+            "Value": "BŁĄD – WYMAGANE USTAWIENIE RĘCZNE"
+        },
+        {
+            "Key": 2586556407,
+            "Value": "Zabezpiecz czarną skrzynkę z rozbitego samolotu pogodowego i prześlij dane poza planetę."
+        },
+        {
+            "Key": 2587020879,
+            "Value": "KALIBRUJ NAPIĘCIE"
+        },
+        {
+            "Key": 2591249663,
+            "Value": "NIEZNANE POŁOŻENIE"
+        },
+        {
+            "Key": 2591631933,
+            "Value": "ARTYLERIA SZSZ"
+        },
+        {
+            "Key": 2591985951,
+            "Value": "Wyeliminuj kolosa"
+        },
+        {
+            "Key": 2595318786,
+            "Value": "Znajdź niszczycieli automatów"
+        },
+        {
+            "Key": 2595831478,
+            "Value": "Silos 01"
+        },
+        {
+            "Key": 2596970518,
+            "Value": "Pierwszorzędny patriotyzm"
+        },
+        {
+            "Key": 2597423876,
+            "Value": "ZAMKNIJCIE ROBACZE NORY"
+        },
+        {
+            "Key": 2598690750,
+            "Value": "Znajdź i wyeliminuj wariant terminida."
+        },
+        {
+            "Key": 2606323274,
+            "Value": "Terminidy ukradły niezwykle cenne okazy nieprzyjacielskich larw i jaj. Odzyskajcie je."
+        },
+        {
+            "Key": 2608388352,
+            "Value": "Przeładuj artylerię"
+        },
+        {
+            "Key": 2608438244,
+            "Value": "Odeprzyjcie siły wroga, próbujące zdobyć to miasto."
+        },
+        {
+            "Key": 2610886589,
+            "Value": "PRZEPROWADŹCIE BADANIA GEOLOGICZNE"
+        },
+        {
+            "Key": 2613524189,
+            "Value": "Znajdź kolosa automatów"
+        },
+        {
+            "Key": 2616030087,
+            "Value": "Kosztowna porażka"
+        },
+        {
+            "Key": 2618333657,
+            "Value": "ZNISZCZ OKRĘT WARP OŚWIECONYCH"
+        },
+        {
+            "Key": 2621362674,
+            "Value": "Nawiąż połączenie z siecią SZSZ"
+        },
+        {
+            "Key": 2624781890,
+            "Value": "DEZAKTYWUJ SYSTEM KONTROLI TERMINIDÓW"
+        },
+        {
+            "Key": 2628201221,
+            "Value": "Dokonajcie odbioru z SSSD"
+        },
+        {
+            "Key": 2634629103,
+            "Value": "Pobieranie bazy danych"
+        },
+        {
+            "Key": 2645065579,
+            "Value": "Użyj interfejsu świdra, aby rozmieścić ładunek jądrowy"
+        },
+        {
+            "Key": 2648549122,
+            "Value": "Przejdź do komory absolutorium i stań się helldiversem"
+        },
+        {
+            "Key": 2655487228,
+            "Value": "PRÓBKI"
+        },
+        {
+            "Key": 2658584822,
+            "Value": "Aktywuj silos baterii 01"
+        },
+        {
+            "Key": 2662320096,
+            "Value": "OCZYŚĆCIE OPANOWANĄ DZIELNICĘ"
+        },
+        {
+            "Key": 2663400912,
+            "Value": "AKTYWUJCIE SYSTEM KONTROLI TERMINIDÓW"
+        },
+        {
+            "Key": 2665110557,
+            "Value": "Stan świdra: krytycznie uszkodzony"
+        },
+        {
+            "Key": 2669057553,
+            "Value": "PRÓBKA 02"
+        },
+        {
+            "Key": 2674283529,
+            "Value": "RAPORT WYWIADOWCZY"
+        },
+        {
+            "Key": 2674421567,
+            "Value": "DOSTARCZONE PAKIETY DANYCH (#COUNT/#TARGET)"
+        },
+        {
+            "Key": 2684746728,
+            "Value": "Automaty korzystają na tym obszarze z wielkich dział orbitalnych, aby bombardować nasze Super Niszczyciele.\n \nNie możemy stracić przewagi powietrznej. Ruszaj w to miejsce i zniszcz wszelkie aktywne działa orbitalne."
+        },
+        {
+            "Key": 2691266839,
+            "Value": "Dokonajcie odbioru z okazami"
+        },
+        {
+            "Key": 2692899190,
+            "Value": "Ogromne fabryki automatów w tym regionie napędzają ich ofensywę. Trzeba je zniszczyć.\n\nTen uśpiony silos pocisków międzykontynentalnych znajduje się poza ich zasięgiem wykrywania. Odpal niszczycielski atak, zanim zdołają przygotować się do obrony."
+        },
+        {
+            "Key": 2696192217,
+            "Value": "Użyj terminalu, aby nawiązać łączność z Super Niszczycielem"
+        },
+        {
+            "Key": 2696957758,
+            "Value": "Wykalibruj wieżę LiDAR"
+        },
+        {
+            "Key": 2700887323,
+            "Value": "CELE GŁÓWNE"
+        },
+        {
+            "Key": 2701252726,
+            "Value": "Zniszczono średni posterunek automatów"
+        },
+        {
+            "Key": 2701663299,
+            "Value": "Tajemne urządzenie oświeconych znajdujące się w tym miejscu wytwarza pole zakłócające umysły. Wypełnia ono mózg ofiary niedemokratycznymi myślami, przez co trudno jest sobie przypomnieć i wpisać poprawne kody manewrów."
+        },
+        {
+            "Key": 2707159010,
+            "Value": "Trwają wysiłki mające na celu zbadanie posępności. Helldiversi muszą wesprzeć te działania poprzez zbieranie danych i zasobów."
+        },
+        {
+            "Key": 2712777207,
+            "Value": "PRZEJMIJ ZMUTOWANĄ LARWĘ"
+        },
+        {
+            "Key": 2714055298,
+            "Value": "Przekieruj paliwo do stacji transferowej"
+        },
+        {
+            "Key": 2715793094,
+            "Value": "WIEŻA NIEUSTAWIONA"
+        },
+        {
+            "Key": 2719619016,
+            "Value": "PRZECHWYĆCIE KONWÓJ"
+        },
+        {
+            "Key": 2728206271,
+            "Value": "Flaga"
+        },
+        {
+            "Key": 2733300016,
+            "Value": "DYSTANS:"
+        },
+        {
+            "Key": 2738932960,
+            "Value": "Ciśnienie"
+        },
+        {
+            "Key": 2740703266,
+            "Value": "Zmień ścieżkę dowodzenia, aby przejąć kontrolę nad automatem."
+        },
+        {
+            "Key": 2742439966,
+            "Value": "Rakiety #CURRENT / #TARGET"
+        },
+        {
+            "Key": 2742807186,
+            "Value": "Odsuń się od przedniej części wyrzutni ziemia-powietrze"
+        },
+        {
+            "Key": 2745536240,
+            "Value": "WIEŻA WYKRYWAJĄCA"
+        },
+        {
+            "Key": 2747465545,
+            "Value": "Zaliczone cele: #COUNT/#TOTAL"
+        },
+        {
+            "Key": 2749032513,
+            "Value": "To miejsce zostało strategicznie wybrane, aby zmaksymalizować inspiracyjny efekt flagi."
+        },
+        {
+            "Key": 2756412499,
+            "Value": "Ci obywatele póki co są bezpieczni, uwięzieni w bunkrach. Trzeba ich uwolnić i eskortować do luku wahadłowca obiektu celem odbioru."
+        },
+        {
+            "Key": 2759938366,
+            "Value": "PRZEJMIJ CZARNĄ SKRZYNKĘ"
+        },
+        {
+            "Key": 2760899332,
+            "Value": "ZABLOKUJ WSPÓŁRZĘDNE CELU"
+        },
+        {
+            "Key": 2768917302,
+            "Value": "Osłaniaj ewakuację ściśle tajnych aktywów wojskowych."
+        },
+        {
+            "Key": 2769515979,
+            "Value": "ZNISZCZ ŻNIWIARKĘ"
+        },
+        {
+            "Key": 2779601448,
+            "Value": "BŁĄD: WYREGULUJ ZABLOKOWANE ZAWORY"
+        },
+        {
+            "Key": 2782217639,
+            "Value": "NA WYBÓR EKWIPUNKU POZOSTAŁO #SECONDS"
+        },
+        {
+            "Key": 2782525585,
+            "Value": "Otwórz luk wahadłowca"
+        },
+        {
+            "Key": 2782615518,
+            "Value": "Wróg zbliża się do składu cennych aktywów, które były tam przechowywane od czasu Pierwszej Wojny Galaktycznej. Nie możemy pozwolić na ich przejęcie.\n\nWróg zostanie zaalarmowany o waszym położeniu natychmiast po rozpoczęciu procesu ewakuacji. Brońcie placówki do czasu, aż wszystkie aktywa zostaną bezpiecznie przetransportowane poza planetę."
+        },
+        {
+            "Key": 2790627524,
+            "Value": "Zniszcz zmutowane jaja terminidów i dezaktywuj wieżę rozpylania termicydu, aby zapobiec kolejnym mutacjom."
+        },
+        {
+            "Key": 2790972812,
+            "Value": "Kalibruj napięcie, aby zmaksymalizować wydajność"
+        },
+        {
+            "Key": 2802985877,
+            "Value": "WYZWOLONA PLANETA"
+        },
+        {
+            "Key": 2803832294,
+            "Value": "WYELIMINUJ CZOŁG ANIHILATOR"
+        },
+        {
+            "Key": 2804993025,
+            "Value": "Pobrane <c=FFFFF0CC>próbki</c>: #COUNT"
+        },
+        {
+            "Key": 2810431090,
+            "Value": "LIKWIDACJA WARIANTU"
+        },
+        {
+            "Key": 2812025640,
+            "Value": "Oczyść obszar z wrogów (pozostało: #REMAINING)"
+        },
+        {
+            "Key": 2814058652,
+            "Value": "System luku wahadłowca"
+        },
+        {
+            "Key": 2820688680,
+            "Value": "Ukończ tor przeszkód helldiversów"
+        },
+        {
+            "Key": 2831246151,
+            "Value": "ZNISZCZCIE WYPLUWACZE ZARODNIKÓW"
+        },
+        {
+            "Key": 2831289147,
+            "Value": "Znajdźcie płuco zarodnikowe w jaskiniach"
+        },
+        {
+            "Key": 2833945694,
+            "Value": "Aktywuj terminal zagłuszacza"
+        },
+        {
+            "Key": 2836167700,
+            "Value": "Dziwne monolity oświeconych najwyraźniej tworzą pola negatywnej energii. Nie znamy ich przeznaczenia ani prawdziwej natury. To dlatego trzeba je zniszczyć."
+        },
+        {
+            "Key": 2837331439,
+            "Value": "Likwidacje: #CURRENT / #TOTAL"
+        },
+        {
+            "Key": 2840909738,
+            "Value": "ODPAL POCISK MIĘDZYKONTYNENTALNY"
+        },
+        {
+            "Key": 2841000285,
+            "Value": "Prosimy odsunąć się od platformy."
+        },
+        {
+            "Key": 2841817963,
+            "Value": "Radar SSA zidentyfikował flotę inwazyjną oświeconych, schodzącą na ten sektor z niskiej orbity. Zamierzają przejąć kontrolę nad obszarem poprzez powietrzny blitzkrieg.\n\nJesteście ostatnią linią obrony. Zniszczcie wszystkie okręty tak szybko, jak to tylko możliwe, zanim zdobędą ten sektor."
+        },
+        {
+            "Key": 2844225527,
+            "Value": "Ręcznie otwórz wszystkie zamki klap"
+        },
+        {
+            "Key": 2845539153,
+            "Value": "TRAFIONE STRZAŁY:"
+        },
+        {
+            "Key": 2848580533,
+            "Value": "Zniszcz monolit oświeconych"
+        },
+        {
+            "Key": 2850657241,
+            "Value": "SILOS BATERII AKTYWUJE SIĘ"
+        },
+        {
+            "Key": 2854257115,
+            "Value": "PRZETRANSFERUJ ROPĘ DO WAHADŁOWCA"
+        },
+        {
+            "Key": 2856343176,
+            "Value": "PRZYPADKOWE:"
+        },
+        {
+            "Key": 2859604785,
+            "Value": "Zaloguj się"
+        },
+        {
+            "Key": 2865718745,
+            "Value": "WYSUŃ DYSK TWARDY"
+        },
+        {
+            "Key": 2876745143,
+            "Value": "Przejmowanie kontroli nad wieżyczką..."
+        },
+        {
+            "Key": 2893569738,
+            "Value": "Użyj manewru karabinu maszynowego, aby wezwać broń wsparcia"
+        },
+        {
+            "Key": 2893930481,
+            "Value": "Cele dodatkowe zaliczone"
+        },
+        {
+            "Key": 2894401479,
+            "Value": "PLANETA #NAME WYZWOLONA"
+        },
+        {
+            "Key": 2894763526,
+            "Value": "WKRÓTCE NASTĄPI START HELLPODA!"
+        },
+        {
+            "Key": 2900030328,
+            "Value": "Zlokalizuj i wyeliminuj biegacza fabrycznego automatów."
+        },
+        {
+            "Key": 2909063579,
+            "Value": "Stabilny"
+        },
+        {
+            "Key": 2911136799,
+            "Value": "Trwa transmisja do centralnego komputera Super Ziemi"
+        },
+        {
+            "Key": 2912184878,
+            "Value": "ROZMIEŚĆ CIEMNY PŁYN"
+        },
+        {
+            "Key": 2916977728,
+            "Value": "Zabito władcę roju."
+        },
+        {
+            "Key": 2918259917,
+            "Value": "Użyjcie działa, aby zestrzelić gigaokręt"
+        },
+        {
+            "Key": 2920986948,
+            "Value": "Wsporniki wieży zniszczone"
+        },
+        {
+            "Key": 2923422500,
+            "Value": "PRZEPROWADŹCIE MOBILNE WYDOBYCIE SUBSTANCJI"
+        },
+        {
+            "Key": 2924561359,
+            "Value": "Aktywuj symulator ran na polu bitwy"
+        },
+        {
+            "Key": 2926213020,
+            "Value": "Znajduje się tu komora wylęgarni, pełna milionów karmiących się larw, które przebiły się tu po wykluciu na powierzchni. Użyj wiertła Niszczyciel Rojów, aby umieścić w niej ładunek nuklearny i zlikwidować larwy."
+        },
+        {
+            "Key": 2926773604,
+            "Value": "Miasto jest atakowane. Nie możemy pozwolić, aby wpadło w łapy tyranów."
+        },
+        {
+            "Key": 2927224225,
+            "Value": "Aktywujcie mobilny radar"
+        },
+        {
+            "Key": 2931876529,
+            "Value": "URUCHOMCIE POMPY NA NOWO"
+        },
+        {
+            "Key": 2932445209,
+            "Value": "POBRANE DANE WYWIADOWCZE"
+        },
+        {
+            "Key": 2939559118,
+            "Value": "Proszę czekać"
+        },
+        {
+            "Key": 2940681543,
+            "Value": "INICJALIZACJA SYSTEMU ARTYLERYJSKIEGO"
+        },
+        {
+            "Key": 2945096755,
+            "Value": "Zabijaj automaty, aby zmniejszyć ich liczebność."
+        },
+        {
+            "Key": 2948338180,
+            "Value": "Stan silosu: niestabilny"
+        },
+        {
+            "Key": 2950948763,
+            "Value": "Przekręć wszystkie zawory wskazane przez terminal"
+        },
+        {
+            "Key": 2952330711,
+            "Value": "Przeładuj powłokę orbitalną"
+        },
+        {
+            "Key": 2954428361,
+            "Value": "USTAWIENIE CZĘSTOTLIWOŚCI"
+        },
+        {
+            "Key": 2956984981,
+            "Value": "STANOWISKO PLOT"
+        },
+        {
+            "Key": 2960174241,
+            "Value": "Znajdźcie i zniszczcie obiekty terminidów."
+        },
+        {
+            "Key": 2961322270,
+            "Value": "Horda automatów"
+        },
+        {
+            "Key": 2962041444,
+            "Value": "DOSTARCZ WSZELKIE DYSKI TWARDE SSSD"
+        },
+        {
+            "Key": 2969720127,
+            "Value": "Posępność może być wywołana przez terminidzkie szumowiny rojące się na powierzchni planety.\n\nOczyśćcie region ze wszystkich terminidów, także z ich cuchnących gniazd."
+        },
+        {
+            "Key": 2972872019,
+            "Value": "POTWIERDŹ OBSZAR SKANOWANIA"
+        },
+        {
+            "Key": 2982138088,
+            "Value": "Obrazy satelitarne potwierdzają, że na tym obszarze znajduje się magazyn paliwa automatów."
+        },
+        {
+            "Key": 2984854125,
+            "Value": "Oczyszczono małe obozowisko oświeconych"
+        },
+        {
+            "Key": 2986604961,
+            "Value": "Okresowe burze piaskowe znacząco obniżają widoczność."
+        },
+        {
+            "Key": 2989497144,
+            "Value": "Ruszajcie na nieznaną planetę roju i odzyskajcie ją w imieniu Super Ziemi."
+        },
+        {
+            "Key": 2994133320,
+            "Value": "Zniszcz dziwny i nienaturalny statek kosmiczny oświeconych."
+        },
+        {
+            "Key": 2996595955,
+            "Value": "CELE OPCJONALNE"
+        },
+        {
+            "Key": 2998417804,
+            "Value": "ODBIÓR UDANY"
+        },
+        {
+            "Key": 3004132658,
+            "Value": "STACJA LiDAR"
+        },
+        {
+            "Key": 3007747450,
+            "Value": "PRZEPROWADŹCIE MOBILNE WYDOBYCIE"
+        },
+        {
+            "Key": 3008445168,
+            "Value": "[ ZNALEZIONO DANE ]"
+        },
+        {
+            "Key": 3017194838,
+            "Value": "zabierz dysk z danymi"
+        },
+        {
+            "Key": 3017295425,
+            "Value": "AKTYWUJ POŁĄCZENIE"
+        },
+        {
+            "Key": 3023900891,
+            "Value": "TERENOWA PLATFORMA WYDOBYWCZA"
+        },
+        {
+            "Key": 3026199176,
+            "Value": "Zbliż się do celu"
+        },
+        {
+            "Key": 3030170787,
+            "Value": "Wymagane logowanie"
+        },
+        {
+            "Key": 3042714175,
+            "Value": "EWAKUUJ PRIORYTETOWYCH OBYWATELI"
+        },
+        {
+            "Key": 3054644200,
+            "Value": "Plecak chemiczny"
+        },
+        {
+            "Key": 3055226511,
+            "Value": "STEROWANIE LUKIEM"
+        },
+        {
+            "Key": 3056397440,
+            "Value": "Wyszukiwanie problemów. Proszę czekać."
+        },
+        {
+            "Key": 3058010335,
+            "Value": "Wyeliminuj szturmowca"
+        },
+        {
+            "Key": 3062607332,
+            "Value": "Siły oświeconych uwolniły w mieście żniwiarki. Te nietolerancyjne maszyny patrolują okoliczne ulice, niszczą niegdyś spokojne sąsiedztwa i mordują niewinnych cywilów. Zniszczcie je i odzyskajcie kontrolę nad tym sektorem."
+        },
+        {
+            "Key": 3063562552,
+            "Value": "Operacja łączona"
+        },
+        {
+            "Key": 3066936216,
+            "Value": "ZALOGUJ"
+        },
+        {
+            "Key": 3067058685,
+            "Value": "Wpisz kod dostępu: #OTHER"
+        },
+        {
+            "Key": 3071613578,
+            "Value": "ZNISZCZCIE OPANOWANE WIEŻE"
+        },
+        {
+            "Key": 3075043955,
+            "Value": "W okolicy znajdują się duże ilości jaj. Zniszczcie je za wszelką cenę."
+        },
+        {
+            "Key": 3079966101,
+            "Value": "Kalibrowanie zestawu czujników sejsmicznych"
+        },
+        {
+            "Key": 3089029877,
+            "Value": "Stacjonuje tu samolot zwiadowczy. Trzeba odzyskać z niego cenną czarną skrzynkę."
+        },
+        {
+            "Key": 3102562666,
+            "Value": "Dowodzenie ogniem artyleryjskim"
+        },
+        {
+            "Key": 3106377947,
+            "Value": "W tym regionie odkryto kilka możliwości zakłócenia złowrogich machinacji nieprzyjaciela. Skoncentrowane są tu siły oświeconych. Spodziewajcie się dużego oporu. \n \nPokrzyżujcie im szyki i przywróćcie pokój na tym obszarze."
+        },
+        {
+            "Key": 3107900985,
+            "Value": "Zniszcz wszystkie budynki w obiekcie"
+        },
+        {
+            "Key": 3109124270,
+            "Value": "ZBIERZ ODCZYTY Z ZARODNIKÓW POSĘPNOŚCI"
+        },
+        {
+            "Key": 3111481652,
+            "Value": "Rozpocznijcie ewakuację cennych aktywów z planety i brońcie obiektu do jej zakończenia."
+        },
+        {
+            "Key": 3124706693,
+            "Value": "SPRAWDŹ WSZYSTKIE PODSYSTEMY"
+        },
+        {
+            "Key": 3124835968,
+            "Value": "Podaj kod, aby podnieść wieżę satelitarną"
+        },
+        {
+            "Key": 3125033657,
+            "Value": "PRZEPROWADŹ BADANIA GEOLOGICZNE"
+        },
+        {
+            "Key": 3125862690,
+            "Value": "WSZYSTKIE SYSTEMY DZIAŁAJĄ"
+        },
+        {
+            "Key": 3127851830,
+            "Value": "ZNISZCZ MONOLIT"
+        },
+        {
+            "Key": 3128801766,
+            "Value": "DOSTARCZ ŁADUNEK DO MIEJSCA ODBIORU"
+        },
+        {
+            "Key": 3131746521,
+            "Value": "BŁĘDNY PUNKT ZRZUTU"
+        },
+        {
+            "Key": 3132517406,
+            "Value": "WYELIMINUJ SZTURMOWCÓW"
+        },
+        {
+            "Key": 3135826091,
+            "Value": "OPERACJA ŁĄCZONA"
+        },
+        {
+            "Key": 3137933119,
+            "Value": "Przetransportujcie czarną skrzynkę do przekaźnika komunikacyjnego"
+        },
+        {
+            "Key": 3139947901,
+            "Value": "WYPLUWACZ ZARODNIKÓW"
+        },
+        {
+            "Key": 3152259079,
+            "Value": "Prosimy o ręczne ładowanie wszystkich pocisków"
+        },
+        {
+            "Key": 3152455243,
+            "Value": "OPERACJA POKOJOWA"
+        },
+        {
+            "Key": 3152484562,
+            "Value": "Miasto jest kontrolowane przez wroga. Trzeba je odzyskać, w imię wolności."
+        },
+        {
+            "Key": 3157013588,
+            "Value": "Inicjalizacja sekwencji przeładowania wieżyczki..."
+        },
+        {
+            "Key": 3165219370,
+            "Value": "WROGIE BIOPROCESORY"
+        },
+        {
+            "Key": 3166041053,
+            "Value": "WYELIMINUJ WARIANT"
+        },
+        {
+            "Key": 3168547122,
+            "Value": "Przetestuj z powyższymi ustawieniami"
+        },
+        {
+            "Key": 3169288052,
+            "Value": "W tym regionie pojawił się duży rój terminidów."
+        },
+        {
+            "Key": 3173746046,
+            "Value": "WPISZ KOD DOSTĘPU"
+        },
+        {
+            "Key": 3177142887,
+            "Value": "ŚWIDER TEKTONICZNY"
+        },
+        {
+            "Key": 3181431801,
+            "Value": "Otwórz luk, aby dostarczyć dysk SSSD"
+        },
+        {
+            "Key": 3183464015,
+            "Value": "Zaloguj się do terminala"
+        },
+        {
+            "Key": 3185110553,
+            "Value": "Znajdź wariant"
+        },
+        {
+            "Key": 3194163033,
+            "Value": "CELE GŁÓWNE"
+        },
+        {
+            "Key": 3199974650,
+            "Value": "Zaloguj się"
+        },
+        {
+            "Key": 3209764160,
+            "Value": "Na planetach skażonych posępnością najwyraźniej znajdują się bardziej rozległe roje niż zwykle.\n\nRozmieśćcie sondy sejsmiczne, aby pobrać skany sieci tunelów, a następnie skorzystajcie z lokalnej stacji przekaźnikowej, aby przesłać dane do centrum Ministerstwa Nauki."
+        },
+        {
+            "Key": 3213943293,
+            "Value": "Inicjalizacja sekwencji ostrzału"
+        },
+        {
+            "Key": 3215956270,
+            "Value": "PREMIA UKOŃCZONYCH MISJI"
+        },
+        {
+            "Key": 3220598181,
+            "Value": "Przejdź do obszaru szkoleniowego uzupełnień"
+        },
+        {
+            "Key": 3220926236,
+            "Value": "Podczas budowy SKT na tym obszarze doszło do licznych pęknięć skorupy planety. Możecie użyć manewru świdra, aby umieścić w tych miejscach Ciemny Płyn."
+        },
+        {
+            "Key": 3223307005,
+            "Value": "Aktywuj terminal"
+        },
+        {
+            "Key": 3226057673,
+            "Value": "Aktywuj terminal"
+        },
+        {
+            "Key": 3228101244,
+            "Value": "E-711"
+        },
+        {
+            "Key": 3229535766,
+            "Value": "Zaloguj się do terminala zagłuszacza"
+        },
+        {
+            "Key": 3235089805,
+            "Value": "Znajdź tytana żółci terminidów"
+        },
+        {
+            "Key": 3242249721,
+            "Value": "Potwierdź"
+        },
+        {
+            "Key": 3247307197,
+            "Value": "WAHADŁOWIEC ODLATUJE Z POJAZDEM"
+        },
+        {
+            "Key": 3250980093,
+            "Value": "Ten pilnie strzeżony bunkier prawdopodobnie zawiera ważny węzeł dowodzenia strumienia transmisyjnego automatów."
+        },
+        {
+            "Key": 3253580867,
+            "Value": "ZBIERZ ZASZYFROWANY DYSK TWARDY"
+        },
+        {
+            "Key": 3255152215,
+            "Value": "STACJA NIE DZIAŁA"
+        },
+        {
+            "Key": 3264096004,
+            "Value": "Przy tych współrzędnych porzucone zostały zaszyfrowane dyski."
+        },
+        {
+            "Key": 3264320310,
+            "Value": "Na tym obszarze dostrzeżono gniazdo latających wrzaskunów."
+        },
+        {
+            "Key": 3265967288,
+            "Value": "Płuco zarodnikowe znajduje się głęboko w kompleksie tuneli terminidów."
+        },
+        {
+            "Key": 3267783984,
+            "Value": "#COUNT PD DO NASTĘPNEGO POZIOMU"
+        },
+        {
+            "Key": 3270977612,
+            "Value": "UWOLNIJCIE MIASTO"
+        },
+        {
+            "Key": 3272915477,
+            "Value": "Użyj terminala, aby usunąć wrażliwe dane"
+        },
+        {
+            "Key": 3274698570,
+            "Value": "Zakłóćcie wrogie machinacje oświeconych w tym regionie."
+        },
+        {
+            "Key": 3275101465,
+            "Value": "Przejmij kontrolę nad wieżyczką"
+        },
+        {
+            "Key": 3283335602,
+            "Value": "System Kontroli Terminidów został ukończony. Na całej planecie na aktywację czekają wieże rozpylania termicydu. Planeta nie zostanie całkowicie zaszczepiona przed terminidami do czasu uruchomienia wszystkich wież."
+        },
+        {
+            "Key": 3288991505,
+            "Value": "AKTYWOWAĆ ŚWIDER 2?"
+        },
+        {
+            "Key": 3289665011,
+            "Value": "<NEW SE USER>, witamy w ogólnym terminalu wojskowym Voragon Systems."
+        },
+        {
+            "Key": 3296534684,
+            "Value": "Zaloguj się"
+        },
+        {
+            "Key": 3297441256,
+            "Value": "Uwaga: trzymaj się z dala od wyrzutni"
+        },
+        {
+            "Key": 3300532350,
+            "Value": "LICZBA UZUPEŁNIEŃ:"
+        },
+        {
+            "Key": 3301571959,
+            "Value": "Terminidy eksterminowane pod ziemią:"
+        },
+        {
+            "Key": 3302521801,
+            "Value": "WYELIMINUJ PALOWNIKA"
+        },
+        {
+            "Key": 3304043117,
+            "Value": "KLAPA BUNKRA ZAMKNIĘTA"
+        },
+        {
+            "Key": 3306914533,
+            "Value": "Otrzymaliśmy wiarygodne informacje o pojawieniu się w tym regionie brutalnych kolosów automatów. Zniszczenie ich osłabiłoby łańcuch dowodzenia botów.\n\nZlokalizuj kolosów i wyeliminuj ich."
+        },
+        {
+            "Key": 3310360401,
+            "Value": "Skany planetarne zidentyfikowały duże nagromadzenie wojsk automatów w tym regionie. Być może szykują się do ofensywny na pobliskie instalacje Super Ziemi.\n\nMusisz zmniejszyć ich liczebność – zabij jak najwięcej botów."
+        },
+        {
+            "Key": 3310433830,
+            "Value": "SYSTEM STEROWANIA POMPĄ ROPY"
+        },
+        {
+            "Key": 3313460170,
+            "Value": "Użyjcie wiertła roju, aby zniszczyć wszystkie podziemne obiekty terminidów znajdujące się na tym obszarze."
+        },
+        {
+            "Key": 3317286805,
+            "Value": "Nagrody społeczności"
+        },
+        {
+            "Key": 3318819568,
+            "Value": "ZWERYFIKUJ PRZESYŁ W TERMINALU"
+        },
+        {
+            "Key": 3319315263,
+            "Value": "SZERZ DEMOKRACJĘ"
+        },
+        {
+            "Key": 3320340883,
+            "Value": "Trwa tankowanie pocisku"
+        },
+        {
+            "Key": 3326816535,
+            "Value": "Oczyśćcie stację z materii terminidów"
+        },
+        {
+            "Key": 3328841511,
+            "Value": "Aktywuj terminal"
+        },
+        {
+            "Key": 3329345530,
+            "Value": "Znajduje się tu skład cennych aktywów. Wzmocnijcie struktury obronne, rozpocznijcie ewakuację i brońcie tego miejsca do momentu jej zakończenia."
+        },
+        {
+            "Key": 3330228555,
+            "Value": "LUK WAHADŁOWCA"
+        },
+        {
+            "Key": 3331866376,
+            "Value": "PODNIEŚ WIEŻĘ"
+        },
+        {
+            "Key": 3332479490,
+            "Value": "BROŃCIE PLANETY"
+        },
+        {
+            "Key": 3334285492,
+            "Value": "STANOWISKO PLOT SZSZ"
+        },
+        {
+            "Key": 3334983283,
+            "Value": "Pocisk atomowy przemierzający dalekie dystanse z dużą prędkością. Uderza, zanim wróg będzie miał czas na wycofanie się lub odpowiedź."
+        },
+        {
+            "Key": 3335887011,
+            "Value": "Artefakt oświeconych"
+        },
+        {
+            "Key": 3336821542,
+            "Value": "NUMER 4"
+        },
+        {
+            "Key": 3339054218,
+            "Value": "WYELIMINUJ OŚWIECONYCH"
+        },
+        {
+            "Key": 3340732873,
+            "Value": "Odbijcie miasto z rąk nielegalnych okupantów."
+        },
+        {
+            "Key": 3341604045,
+            "Value": "Orbitalne skany w podczerwieni wykryły w tym regionie sygnaturę cieplną biegacza fabrycznego automatów. Jeśli pozwolimy mu tam pracować, wkrótce cała planeta zostanie zajęta przez mechaniczne potworności.\n\nTrzeba z tym skończyć."
+        },
+        {
+            "Key": 3347495776,
+            "Value": "ZNAJDŹ I ZNISZCZ"
+        },
+        {
+            "Key": 3349635337,
+            "Value": "Wejdź w interakcję z głównym terminalem"
+        },
+        {
+            "Key": 3357331302,
+            "Value": "WYELIMINUJ TYTANÓW ŻÓŁCI"
+        },
+        {
+            "Key": 3358724507,
+            "Value": "Wyeliminuj palownika"
+        },
+        {
+            "Key": 3359442388,
+            "Value": "ODBIERZ DANE SKANOWANIA"
+        },
+        {
+            "Key": 3360278549,
+            "Value": "Użyj manewru zaopatrzenia, aby wezwać zaopatrzenie"
+        },
+        {
+            "Key": 3364339856,
+            "Value": "SZSZ namierzyły w tym regionie szturmowców, którzy wykazują niebezpieczne nowe mutacje.\n\nOsobniki te należy wyeliminować, zanim zmutowane geny się rozprzestrzenią."
+        },
+        {
+            "Key": 3366451506,
+            "Value": "Silos 02"
+        },
+        {
+            "Key": 3385979084,
+            "Value": "Wyeliminuj biegacza fabrycznego"
+        },
+        {
+            "Key": 3391266100,
+            "Value": "Wykorzeń plagę terminidów na tej planecie."
+        },
+        {
+            "Key": 3391960841,
+            "Value": "Zbierz: #ENTITY"
+        },
+        {
+            "Key": 3393971913,
+            "Value": "Zaloguj się"
+        },
+        {
+            "Key": 3394262305,
+            "Value": "Postępy w przesyłce"
+        },
+        {
+            "Key": 3395090182,
+            "Value": "Przetwarzanie systemu..."
+        },
+        {
+            "Key": 3399935348,
+            "Value": "Orbitalne skany w podczerwieni wykryły na tym obszarze biegacza fabrycznego."
+        },
+        {
+            "Key": 3401560691,
+            "Value": "Użyj terminala, aby wysunąć dysk twardy SSSD"
+        },
+        {
+            "Key": 3402031851,
+            "Value": "ZAPOBIEGNIJ ROZROSTOWI IGLICY"
+        },
+        {
+            "Key": 3402720361,
+            "Value": "Gęsta mgła i ulewy mogą wpłynąć na zasięg wzroku."
+        },
+        {
+            "Key": 3404502543,
+            "Value": "PODNOSZENIE POCISKU – PROSZĘ CZEKAĆ"
+        },
+        {
+            "Key": 3407772937,
+            "Value": "SPRAWDŹ ADRES PAMIĘCI"
+        },
+        {
+            "Key": 3409498073,
+            "Value": "Użyjcie terminalu, aby podnieść działo planetarnej obrony"
+        },
+        {
+            "Key": 3410342490,
+            "Value": "Przekręć wszystkie zawory wskazane przez terminal"
+        },
+        {
+            "Key": 3410939179,
+            "Value": "ZNISZCZ SKŁADY AMUNICJI"
+        },
+        {
+            "Key": 3412826211,
+            "Value": "Oczyszczono duże obozowisko oświeconych"
+        },
+        {
+            "Key": 3414478064,
+            "Value": ""
+        },
+        {
+            "Key": 3419620263,
+            "Value": "LUK OTWARTY"
+        },
+        {
+            "Key": 3425708434,
+            "Value": "Odeprzyjcie flotę nacierających okrętów oświeconych, zanim przejmą kontrolę nad obszarem."
+        },
+        {
+            "Key": 3427455294,
+            "Value": "NUMER 3"
+        },
+        {
+            "Key": 3431988577,
+            "Value": "Znajduje się tu ponoć antena odpowiedzialna za lokalny strumień transmisji automatów."
+        },
+        {
+            "Key": 3433639232,
+            "Value": "PRZEŚLIJ DANE POPRZEZ LOKALNY PRZEKAŹNIK"
+        },
+        {
+            "Key": 3436208849,
+            "Value": "Zniszcz nadajniki antenowe"
+        },
+        {
+            "Key": 3441049493,
+            "Value": "Ruszaj do superkolonii, wezwij pojemnik z Czarnym Płynem i użyj go w każdym wyznaczonym punkcie, aby pomóc w zniszczeniu planety."
+        },
+        {
+            "Key": 3443030867,
+            "Value": "Działo planetarnej obrony znajduje się w obniżonej pozycji."
+        },
+        {
+            "Key": 3443951726,
+            "Value": "Ucisk automatów na tej planecie zdecydowanie zelżał. Musimy zaatakować teraz, zanim będą miały szansę na wzmocnienie swoich sił.\n\nJako helldiversi musicie dotrzeć do ostatnich punktów oporu i zadać ostateczny cios, aby wyprzeć je z tej planety raz na zawsze."
+        },
+        {
+            "Key": 3445857369,
+            "Value": "Zwróć uwagę, że jeśli to czytasz, wkrótce zginiesz."
+        },
+        {
+            "Key": 3460898800,
+            "Value": "1."
+        },
+        {
+            "Key": 3460953410,
+            "Value": "Zniszcz leże tropicieli"
+        },
+        {
+            "Key": 3461580098,
+            "Value": "Wciąganie flagi"
+        },
+        {
+            "Key": 3461934406,
+            "Value": "Aktywuj przekaźnik komunikacyjny"
+        },
+        {
+            "Key": 3462362020,
+            "Value": "UŻYTE MANEWRY:"
+        },
+        {
+            "Key": 3464528044,
+            "Value": "Potwierdź sumę kontrolną danych, aby zweryfikować ich integralność"
+        },
+        {
+            "Key": 3471435505,
+            "Value": "Niemal totalne zwycięstwo"
+        },
+        {
+            "Key": 3471972786,
+            "Value": "Znajdź pociski artyleryjskie i załaduj je do działka artyleryjskiego"
+        },
+        {
+            "Key": 3476536437,
+            "Value": "MOBILNY RADAR"
+        },
+        {
+            "Key": 3477060221,
+            "Value": "Wciągnij flagę Super Ziemi jako niepowstrzymaną latarnię swobody."
+        },
+        {
+            "Key": 3477736393,
+            "Value": "Ekstraktor ropy"
+        },
+        {
+            "Key": 3479204370,
+            "Value": "PRZEJMIJ TERYTORIUM ROBALI"
+        },
+        {
+            "Key": 3481173040,
+            "Value": "Taktycznie eliminuj wszystkie przeszkody stojące na drodze pokoju."
+        },
+        {
+            "Key": 3484875339,
+            "Value": "ODPAL POCISK MIĘDZYKONTYNENTALNY"
+        },
+        {
+            "Key": 3486506679,
+            "Value": "ZAGŁUSZACZ MANEWRÓW"
+        },
+        {
+            "Key": 3488275447,
+            "Value": "Ręcznie otwórz zamki klap"
+        },
+        {
+            "Key": 3490648312,
+            "Value": "Ta wieża wezwie statki desantowe botów, jeśli wykryje intruzów."
+        },
+        {
+            "Key": 3495029008,
+            "Value": "Wezwij hellbombę i użyj jej, aby zniszczyć monolit"
+        },
+        {
+            "Key": 3496147451,
+            "Value": "AKTYWACJA EKSTRAKTORÓW ROPY"
+        },
+        {
+            "Key": 3497544006,
+            "Value": "Użyj terminala, aby zalogować się do badawczej bazy danych"
+        },
+        {
+            "Key": 3510888353,
+            "Value": "PRZYTRZYMAJ"
+        },
+        {
+            "Key": 3512798506,
+            "Value": "Ewakuuj cywilów uwięzionych głęboko w roju terminidów."
+        },
+        {
+            "Key": 3519461357,
+            "Value": "SYSTEM STEROWANIA POCISKAMI"
+        },
+        {
+            "Key": 3527940356,
+            "Value": "KLAPA SILOSU ODBLOKOWANA"
+        },
+        {
+            "Key": 3533302151,
+            "Value": "Miasto jest atakowane. Nie możemy pozwolić, aby wpadło w łapy tyranów."
+        },
+        {
+            "Key": 3537061153,
+            "Value": "Przejdź przez niezwykle realistyczny symulator pola walki"
+        },
+        {
+            "Key": 3541336633,
+            "Value": "Nasi wrogowie doprowadzili do konfliktu w tym regionie. Nie będzie pokoju, dopóki nie zostaną pokonani."
+        },
+        {
+            "Key": 3546516457,
+            "Value": "Podnieś granaty"
+        },
+        {
+            "Key": 3563930713,
+            "Value": "Wyszukaj cel na wskazanym obszarze mapy"
+        },
+        {
+            "Key": 3564642884,
+            "Value": "Znajdź dysk twardy zawierający <c=FFFFE900>kody startowe</c>."
+        },
+        {
+            "Key": 3570977272,
+            "Value": "Opłacalne poświęcenie"
+        },
+        {
+            "Key": 3576100908,
+            "Value": "System Kontroli Terminidów"
+        },
+        {
+            "Key": 3576715076,
+            "Value": "TRANSMISJA DANYCH"
+        },
+        {
+            "Key": 3577376556,
+            "Value": "Udany odbiór"
+        },
+        {
+            "Key": 3578122536,
+            "Value": "KASETKA Z OKAZEM"
+        },
+        {
+            "Key": 3580562284,
+            "Value": "OCZYŚĆCIE POWIERZCHNIĘ"
+        },
+        {
+            "Key": 3585387682,
+            "Value": "Znajdź i zlikwiduj wszystkie palowniki w tym regionie."
+        },
+        {
+            "Key": 3588704735,
+            "Value": "Aktywacja wieży LiDAR"
+        },
+        {
+            "Key": 3592212003,
+            "Value": "POŁOŻENIE CELU NIEZNANE"
+        },
+        {
+            "Key": 3609805218,
+            "Value": "PRZEŚLIJ DANE Z CZARNEJ SKRZYNKI"
+        },
+        {
+            "Key": 3617271490,
+            "Value": "DOSTĘPNA OPERACJA ŁĄCZONA"
+        },
+        {
+            "Key": 3618398449,
+            "Value": "Dezaktywuj silos baterii 01"
+        },
+        {
+            "Key": 3623688689,
+            "Value": "AKTYWUJ"
+        },
+        {
+            "Key": 3631705424,
+            "Value": "Znajduje się tu terenowa platforma wydobywcza (GATER)."
+        },
+        {
+            "Key": 3642923213,
+            "Value": "Przejęcie systemu udane"
+        },
+        {
+            "Key": 3644855652,
+            "Value": "PRZEJMIJ DANE Z SAMOLOTU ZWIADOWCZEGO"
+        },
+        {
+            "Key": 3645281821,
+            "Value": "Namierz i wyeliminuj szturmowca."
+        },
+        {
+            "Key": 3654963471,
+            "Value": "Na tej planecie pojawił się rój terminidów i zagraża opanowaniem jej.\n\nMusimy odeprzeć ten podły atak, zanim będzie za późno!"
+        },
+        {
+            "Key": 3657147869,
+            "Value": "SABOTUJ BAZY ZAOPATRZENIOWE"
+        },
+        {
+            "Key": 3657744474,
+            "Value": "ZESTRZELCIE GIGAOKRĘT"
+        },
+        {
+            "Key": 3657966445,
+            "Value": "Sabotuj zdolności powietrzne automatów w tym regionie."
+        },
+        {
+            "Key": 3658735782,
+            "Value": "Użyj terminala, aby skalibrować napięcie generatora"
+        },
+        {
+            "Key": 3661789117,
+            "Value": "Podnieś siłę sygnału do 100%"
+        },
+        {
+            "Key": 3662324321,
+            "Value": "ZLIKWIDUJ RÓJ TERMINIDÓW"
+        },
+        {
+            "Key": 3667133920,
+            "Value": "WYBIERZ MODUŁ DANYCH DO PRZESŁANIA"
+        },
+        {
+            "Key": 3668162822,
+            "Value": "OBRAŻENIA SOJUSZNICZE:"
+        },
+        {
+            "Key": 3670353506,
+            "Value": "Przeładowywanie"
+        },
+        {
+            "Key": 3672690944,
+            "Value": "LEŻE TROPICIELI"
+        },
+        {
+            "Key": 3673328843,
+            "Value": "Odkryto tu potężną wylęgarnię terminidów, w której roją się miliony świeżo wyklutych larw. Już za kilka tygodni zmienią się one w krwiożercze osobniki dorosłe. Trzeba zlikwidować larwy, zanim dojrzeją, nawet jeśli trzeba będzie w tym celu poświęcić miasto.\n\nWylęgarnie terminidów składają się z jednej lub większej liczby komór. Użyjcie wierteł Niszczyciel Rojów, aby w każdej komorze umieścić urządzenie nuklearnej eksterminacji."
+        },
+        {
+            "Key": 3680203702,
+            "Value": "Zostaniecie zrzuceni na powierzchnię superkolonii w pobliżu węzłów dawnego SKT, gdzie skorupa została zmiękczona. Po dotarciu na powierzchnię wezwijcie pojemnik z Ciemnym Płynem i umieśćcie go w każdym miejscu docelowym.\n\nNie mieliście jeszcze do czynienia z czymś takim jak superkolonia. Spodziewajcie się ekstremalnego oporu. Cała Super Ziemia na was liczy."
+        },
+        {
+            "Key": 3680660782,
+            "Value": "Nagroda za awans"
+        },
+        {
+            "Key": 3680874974,
+            "Value": "Grupa obywateli klasy A utknęła w priorytetowym porcie ewakuacji. Nie możemy pozwolić, aby ci patrioci zostali wyrżnięci przez terminidy.\n \nRuszaj do portu i zabezpiecz ewakuację tylu cywilów, ilu zmieści się na pokładzie wskazanego wahadłowca transportowego."
+        },
+        {
+            "Key": 3682003740,
+            "Value": "Prześlij ładunek danych"
+        },
+        {
+            "Key": 3683690394,
+            "Value": "ODZYSKAJCIE OBIEKTY NAUKOWE"
+        },
+        {
+            "Key": 3691097214,
+            "Value": "Wyzwól planetę"
+        },
+        {
+            "Key": 3699768441,
+            "Value": "UMOŻLIW WYDOBYCIE ROPY"
+        },
+        {
+            "Key": 3702651477,
+            "Value": "DOKONAJ ODBIORU Z #ENTITY"
+        },
+        {
+            "Key": 3706310389,
+            "Value": "W tym regionie dostrzeżono duże gniazdo tropicieli."
+        },
+        {
+            "Key": 3707106438,
+            "Value": "ODDANE STRZAŁY:"
+        },
+        {
+            "Key": 3711809192,
+            "Value": "ZNISZCZ STATKI DESANTOWE"
+        },
+        {
+            "Key": 3711914546,
+            "Value": "PODNOSZENIE WYRZUTNI ZIEMIA-POWIETRZE"
+        },
+        {
+            "Key": 3714755758,
+            "Value": "Wewnątrz jaskiń terminidów, nad jeziorkiem E-711, inżynierowie bojowi SZSZ rozmieścili szybką modułową platformę wiertniczą. Duża aktywność terminidów sprawiła, że ten obszar stał się ekstremalnie niebezpieczny, co uniemożliwia ekstrakcję.\n\nRuszajcie na planetę roju i ręcznie aktywujcie odwiert. Osłaniajcie proces ekstrakcji do czasu, aż E-711 zostanie bezpiecznie odebrane drogą powietrzną."
+        },
+        {
+            "Key": 3715490140,
+            "Value": "Zniszcz zagłuszacz manewrów"
+        },
+        {
+            "Key": 3716410937,
+            "Value": "URUCHOMIENIE SYSTEMU"
+        },
+        {
+            "Key": 3724716379,
+            "Value": "EWAKUUJ CENNE AKTYWA"
+        },
+        {
+            "Key": 3725770996,
+            "Value": "Brak śmierci"
+        },
+        {
+            "Key": 3732427795,
+            "Value": "PRZEPROWADŹCIE BADANIA GEOLOGICZNE"
+        },
+        {
+            "Key": 3734930328,
+            "Value": "DOTKNIJ"
+        },
+        {
+            "Key": 3736515091,
+            "Value": "Na tym obszarze zacumowane są okręty warp oświeconych. Okręty te są krytyczne dla inwazji oświeconych. Spełniają wszystkie wojskowe funkcje naziemne, w tym porywają personel i rozmieszczają wojska.\n\nKiedy okręty te są uziemione, są narażone na atak. Znajdź je i zniszcz."
+        },
+        {
+            "Key": 3736660687,
+            "Value": "Tego obiektu paliwowego można użyć, aby przetransferować kluczowe rezerwy do znajdujących się w powietrzu wahadłowców."
+        },
+        {
+            "Key": 3738507221,
+            "Value": "AKTYWUJ"
+        },
+        {
+            "Key": 3739334762,
+            "Value": "URUCHOMCIE POMPY NA NOWO"
+        },
+        {
+            "Key": 3743248579,
+            "Value": "Zyskaj dostęp do sterowania przekaźnikami"
+        },
+        {
+            "Key": 3764267998,
+            "Value": "Ukończone fale: #WAVES"
+        },
+        {
+            "Key": 3771000953,
+            "Value": "Przygotuj i odpal miejscowy pocisk międzykontynentalny."
+        },
+        {
+            "Key": 3772123343,
+            "Value": "ZWIĘKSZ SIŁĘ SYGNAŁU"
+        },
+        {
+            "Key": 3780961573,
+            "Value": "EWAKUUJ CENNE AKTYWA"
+        },
+        {
+            "Key": 3787456298,
+            "Value": "Reaktywacja tych opuszczonych wież LiDAR SZSZ dostarczy bezcennych danych geograficznych na temat okolicy."
+        },
+        {
+            "Key": 3787792250,
+            "Value": "Użyj mapy, aby przejść do ośrodka szkolenia helldiversów"
+        },
+        {
+            "Key": 3791375433,
+            "Value": "PRZESYŁANIE ZE STACJI TRANSMISYJNEJ GOTOWE"
+        },
+        {
+            "Key": 3795512643,
+            "Value": "Zaloguj się do systemu sterowania pociskami"
+        },
+        {
+            "Key": 3795917234,
+            "Value": "Wprowadźcie Ciemny Płyn pod skorupę superkolonii, aby zniszczyć ją raz na zawsze."
+        },
+        {
+            "Key": 3799001491,
+            "Value": "Postęp w ataku na kolonię"
+        },
+        {
+            "Key": 3801054157,
+            "Value": "Świder może zaalarmować stworzenia mieszkające pod powierzchnią"
+        },
+        {
+            "Key": 3814801462,
+            "Value": "Zamknij zawór"
+        },
+        {
+            "Key": 3815040364,
+            "Value": "Wymagane podanie amunicji"
+        },
+        {
+            "Key": 3815568685,
+            "Value": "Znajdź przywódcę roju terminidów"
+        },
+        {
+            "Key": 3816742262,
+            "Value": "Otwórz"
+        },
+        {
+            "Key": 3829262661,
+            "Value": "BROŃCIE PLANETY"
+        },
+        {
+            "Key": 3835920908,
+            "Value": "DZIAŁO PLANETARNEJ OBRONY WZNOSI SIĘ..."
+        },
+        {
+            "Key": 3837285953,
+            "Value": "PODAJ KOD LOGOWANIA DO SYSTEMU"
+        },
+        {
+            "Key": 3839515680,
+            "Value": "TERMINAL KONTROLNY WIEŻY"
+        },
+        {
+            "Key": 3841851005,
+            "Value": "Prześlij dane próbki, używając interfejsu świdra"
+        },
+        {
+            "Key": 3842949158,
+            "Value": "Znajdźcie i zniszczcie wszystkie jaja terminidów."
+        },
+        {
+            "Key": 3843851595,
+            "Value": "Zaloguj się"
+        },
+        {
+            "Key": 3848177901,
+            "Value": "WAHADŁOWIEC W DRODZE"
+        },
+        {
+            "Key": 3853228634,
+            "Value": "Tego przekaźnika komunikacyjnego SZSZ można użyć, aby przesłać informacje do statków pozostających na orbicie planetarnej."
+        },
+        {
+            "Key": 3854725346,
+            "Value": "Zidentyfikowaliśmy źródło posępności: duże podziemne organy owocujące zwane płucami zarodnikowymi. Larwy terminidów w płucach najwyraźniej wytwarzają zarodniki posępności, podczas gdy samo płuco pompuje je w egzosferę.\n\nKonkretny mechanizm biologiczny nie jest ważny. Zejdźcie głęboko w dół roju i zdetonujcie tam hellbombę, aby zniszczyć płuco zarodnikowe."
+        },
+        {
+            "Key": 3858220824,
+            "Value": "Trzymaj się z dala od ruchomych części"
+        },
+        {
+            "Key": 3860979267,
+            "Value": "Gdy rozpoczęła się inwazja, w tym ściśle tajnym ośrodku badawczym pracowali naukowcy niezbędni do kontynuacji działań wojennych. \n\nObecnie są bezpiecznie przetrzymywani w bunkrach, które muszą zostać otwarte z zewnątrz, aby umożliwić autoryzowaną ewakuację."
+        },
+        {
+            "Key": 3863667165,
+            "Value": "Raporty donoszą o zaobserwowaniu w tym miejscu czołgu Anihilator."
+        },
+        {
+            "Key": 3867962983,
+            "Value": "Grupa obywateli klasy A utknęła w awaryjnym porcie ewakuacji. Nie możemy pozwolić, aby ci patrioci zostali zmasakrowani przez automaty.\n \nRuszaj do portu i zabezpiecz ewakuację tylu cywilów, ilu zmieści się na pokładzie wskazanego wahadłowca transportowego."
+        },
+        {
+            "Key": 3869794299,
+            "Value": "Miasto jest atakowane. Nie możemy pozwolić, aby wpadło w łapy tyranów."
+        },
+        {
+            "Key": 3871612166,
+            "Value": "Zaloguj się do panelu kontrolnego wieży"
+        },
+        {
+            "Key": 3874453496,
+            "Value": "Nie pozwól terminidom zbliżyć się do silosu baterii"
+        },
+        {
+            "Key": 3876322295,
+            "Value": "Aktywuj mechanizm podnoszenia anteny przekaźnikowej"
+        },
+        {
+            "Key": 3882332237,
+            "Value": "SZERZCIE DEMOKRACJĘ"
+        },
+        {
+            "Key": 3887767126,
+            "Value": "Aktywuj terminal"
+        },
+        {
+            "Key": 3892322195,
+            "Value": "Wymagana ręczna regulacja anteny"
+        },
+        {
+            "Key": 3900259080,
+            "Value": "Pozwólcie nam lepiej zrozumieć posępność, aby mogła zostać ostatecznie zniszczona. "
+        },
+        {
+            "Key": 3900407341,
+            "Value": "Usunięto duże gniazdo robali"
+        },
+        {
+            "Key": 3908101367,
+            "Value": "Zabezpieczcie dysk SSSD zawierający ściśle tajne <c=FFFFE900>kody dostępu do działa</c>."
+        },
+        {
+            "Key": 3909101812,
+            "Value": "Przywróćcie działanie stacji pomp E-711."
+        },
+        {
+            "Key": 3911419457,
+            "Value": "Znajdźcie i zamknijcie wszystkie aktywne nory terminidów"
+        },
+        {
+            "Key": 3921356755,
+            "Value": "DEZAKTYWUJ WIEŻĘ TERMICYDU"
+        },
+        {
+            "Key": 3922644143,
+            "Value": "Silos baterii nie działa"
+        },
+        {
+            "Key": 3927933937,
+            "Value": "Aktywuj wieżę rozpylania termicydu, aby uchronić ten obszar przed terminidami."
+        },
+        {
+            "Key": 3930949980,
+            "Value": "AKTYWUJ TRANSFER"
+        },
+        {
+            "Key": 3933708104,
+            "Value": "EWAKUUJCIE CENNE ARTEFAKTY"
+        },
+        {
+            "Key": 3946672309,
+            "Value": "ZBIERZ DANE METEOROLOGICZNE"
+        },
+        {
+            "Key": 3951398977,
+            "Value": "Wszystkie cele zaliczone"
+        },
+        {
+            "Key": 3951948862,
+            "Value": "POKRZYŻUJCIE SZYKI OŚWIECONYM"
+        },
+        {
+            "Key": 3953023005,
+            "Value": "PODAJ KOD STARTOWY"
+        },
+        {
+            "Key": 3965369850,
+            "Value": "#NAME"
+        },
+        {
+            "Key": 3967915737,
+            "Value": "AKTYWUJ WIEŻĘ TERMICYDU"
+        },
+        {
+            "Key": 3968858894,
+            "Value": "Podłącz silosy baterii do wieży centralnej"
+        },
+        {
+            "Key": 3969586049,
+            "Value": "Zaliczono: #AMOUNT mln"
+        },
+        {
+            "Key": 3969726549,
+            "Value": "PRZYGOTOWANIE SONDY SEJSMICZNEJ"
+        },
+        {
+            "Key": 3971507478,
+            "Value": "Silos baterii 01 nie działa"
+        },
+        {
+            "Key": 3971712790,
+            "Value": "AKTYWUJ POMPY"
+        },
+        {
+            "Key": 3974077508,
+            "Value": "Moc niedostępna"
+        },
+        {
+            "Key": 3976434132,
+            "Value": "Użyj interfejsu świdra, aby zmienić wiertło"
+        },
+        {
+            "Key": 3979455691,
+            "Value": "Gigaokręt to centrum dowodzenia i kontroli sił oświeconych w tym sektorze. Należy go zniszczyć, aby nie siał opresji.\n\nDziało planetarnej obrony znajdujące się w pobliżu może przebić jego osłony. Aktywujcie działo i użyjcie go, aby zestrzelić gigaokręt."
+        },
+        {
+            "Key": 3983103464,
+            "Value": "TANKOWANIE POCISKU – PROSZĘ CZEKAĆ"
+        },
+        {
+            "Key": 3984183628,
+            "Value": "Zaloguj się do terminala"
+        },
+        {
+            "Key": 3987795066,
+            "Value": "UMIEŚĆ NAPĘD DANYCH W ZASOBNIKU WEJŚCIOWYM"
+        },
+        {
+            "Key": 3989096872,
+            "Value": "Odbijcie miasto z rąk nielegalnych okupantów."
+        },
+        {
+            "Key": 3991282791,
+            "Value": "NUMER 1"
+        },
+        {
+            "Key": 3992186674,
+            "Value": "AKTYWOWAĆ ŚWIDER 3?"
+        },
+        {
+            "Key": 3997391343,
+            "Value": "Silos 01"
+        },
+        {
+            "Key": 3998299206,
+            "Value": "ZNISZCZCIE PŁUCO ZARODNIKOWE"
+        },
+        {
+            "Key": 4003000692,
+            "Value": "Aktywuj terminal"
+        },
+        {
+            "Key": 4004026431,
+            "Value": "INTERFEJS SYSTEMÓW KRYTYCZNYCH"
+        },
+        {
+            "Key": 4010007762,
+            "Value": "URUCHOM OPROGRAMOWANIE SABOTAŻOWE"
+        },
+        {
+            "Key": 4015580041,
+            "Value": "#COUNT% WSKAŹNIK PD"
+        },
+        {
+            "Key": 4016667935,
+            "Value": "FLAGA"
+        },
+        {
+            "Key": 4022988243,
+            "Value": "Filtr"
+        },
+        {
+            "Key": 4027814450,
+            "Value": "Premia małej liczby śmierci: #AMOUNT mln"
+        },
+        {
+            "Key": 4035486382,
+            "Value": "Dziękujemy za współpracę"
+        },
+        {
+            "Key": 4035563768,
+            "Value": "Eskortuj i broń naukowców przechodzących do strefy ewakuacji."
+        },
+        {
+            "Key": 4042981686,
+            "Value": "Stanowisko plot"
+        },
+        {
+            "Key": 4044970926,
+            "Value": "Aktualizacja łupów"
+        },
+        {
+            "Key": 4046999266,
+            "Value": "Czarna skrzynka"
+        },
+        {
+            "Key": 4051337572,
+            "Value": "ZNISZCZ PROTOIGLICĘ"
+        },
+        {
+            "Key": 4053501475,
+            "Value": "#TYPE: +#AMOUNT/#POTENTIAL mln"
+        },
+        {
+            "Key": 4057328297,
+            "Value": "WYŁĄCZANIE SYSTEMÓW KRYTYCZNYCH..."
+        },
+        {
+            "Key": 4057995659,
+            "Value": "Zniszcz źródło zasilania zakłócacza poznawczego."
+        },
+        {
+            "Key": 4069339786,
+            "Value": "Automaty zbudowały w tym regionie wiele obiektów przemysłowych i bezustannie produkują nowe jednostki. \n\nZniszcz ich infrastrukturę i zabij jak najwięcej botów."
+        },
+        {
+            "Key": 4070404232,
+            "Value": "Użyj terminala, aby podnieść wieżę satelitarną"
+        },
+        {
+            "Key": 4070705890,
+            "Value": "ZNISZCZ ZBUNTOWANĄ STACJĘ BADAWCZĄ"
+        },
+        {
+            "Key": 4073866658,
+            "Value": "GNIAZDO WRZASKUNÓW"
+        },
+        {
+            "Key": 4073958185,
+            "Value": "UTRZYMAJCIE MIASTO"
+        },
+        {
+            "Key": 4080344030,
+            "Value": "Zniszcz bunkier dowodzenia"
+        },
+        {
+            "Key": 4081827893,
+            "Value": "Aktywuj artylerię"
+        },
+        {
+            "Key": 4083735584,
+            "Value": "ZNISZCZ DZIAŁO"
+        },
+        {
+            "Key": 4089331914,
+            "Value": "Automaty w tym regionie bez wątpienia i na wiele sposobów zagrażają wolności. Za wszelką cenę broń naszych wartości."
+        },
+        {
+            "Key": 4097714902,
+            "Value": "Znaleziono próbki"
+        },
+        {
+            "Key": 4097729569,
+            "Value": "Nie dotykać ekstraktorów"
+        },
+        {
+            "Key": 4098194979,
+            "Value": "Najeźdźcy oświeconych namierzyli priorytetowe bunkry awaryjne (dostępne dla obywateli klasy B i wyższych) i bezwzględnie namierzają cywilów, co jest jawnym naruszeniem prawa galaktycznego. \n \nWysłaliśmy statki transportowe, które mają ewakuować obywateli. Helldiversi muszą się upewnić, że ci patriotyczni i wierni obywatele dotrą do bezpiecznego portu."
+        },
+        {
+            "Key": 4106526805,
+            "Value": "Kolos automatów został ostatnio dostrzeżony na tym obszarze."
+        },
+        {
+            "Key": 4114740790,
+            "Value": "ZNISZCZONE POSTERUNKI"
+        },
+        {
+            "Key": 4129187251,
+            "Value": "PODNIEŚ WIEŻĘ SATELITARNĄ"
+        },
+        {
+            "Key": 4130195386,
+            "Value": "Przejdź na strzelnicę broni ostrej"
+        },
+        {
+            "Key": 4130287931,
+            "Value": "W tym regionie zbiera się ogromny rój terminidów. Jeśli ich nie powstrzymamy, mogą wymknąć się spod kontroli.\n\nZabij jak najwięcej terminidów, aby przerzedzić ich szeregi."
+        },
+        {
+            "Key": 4139471255,
+            "Value": "STEROWANIE LUKIEM"
+        },
+        {
+            "Key": 4142990363,
+            "Value": "Gdy GATER będzie bezpieczny, użyjcie go, aby wydobyć surowce na tym obszarze."
+        },
+        {
+            "Key": 4150738687,
+            "Value": "Pocisk międzykontynentalny startuje"
+        },
+        {
+            "Key": 4152596005,
+            "Value": "GOTOWOŚĆ DO ODPALENIA"
+        },
+        {
+            "Key": 4154677153,
+            "Value": "Oświeceni odkryli dawno zapomnianą skrzynię ze ściśle tajnymi, niezwykle cennymi aktywami, zamrożonymi w kriostazie od czasu Pierwszej Wojny Galaktycznej. Te aktywa nie mogą wpaść w szpony oświeconych.\n\nBroń obiektu wystarczająco długo, aby wystartowały wszystkie rakiety ewakuacyjne. "
+        },
+        {
+            "Key": 4154982938,
+            "Value": "BŁĄD – WIEŻA NIEUSTAWIONA"
+        },
+        {
+            "Key": 4159608762,
+            "Value": "Haniebny powrót"
+        },
+        {
+            "Key": 4162284233,
+            "Value": "WYKORZEŃCIE ROJE"
+        },
+        {
+            "Key": 4164999888,
+            "Value": "Mapa geologiczna z siatką w skali 1:100"
+        },
+        {
+            "Key": 4166707680,
+            "Value": "Porzuconą artylerię SZSZ można aktywować ponownie, aby uzyskać wsparcie z ziemi."
+        },
+        {
+            "Key": 4167754760,
+            "Value": "AKTYWOWAĆ SKANOWANIE SEJSMICZNE?"
+        },
+        {
+            "Key": 4168553130,
+            "Value": "ZNEUTRALIZUJ DZIAŁO ORBITALNE"
+        },
+        {
+            "Key": 4169747191,
+            "Value": "PRZEŚLIJ PAKIET DANYCH"
+        },
+        {
+            "Key": 4171468053,
+            "Value": "Wyzwólcie planetę roju, aby uniemożliwić rozprzestrzenianie się posępności, i zbierzcie jak najwięcej E-711."
+        },
+        {
+            "Key": 4176568594,
+            "Value": "Odeprzyjcie siły wroga, próbujące zdobyć to miasto."
+        },
+        {
+            "Key": 4176745187,
+            "Value": "ROZPOCZNIJ TRANSFER MOCY"
+        },
+        {
+            "Key": 4183229977,
+            "Value": "Przejdź na miejsce odbioru i rozpocznij rozpylanie termicydu"
+        },
+        {
+            "Key": 4184186012,
+            "Value": "Uzupełnienia helldiversów"
+        },
+        {
+            "Key": 4192316357,
+            "Value": "Podaj kod, aby rozpocząć proces aktywacji"
+        },
+        {
+            "Key": 4193304862,
+            "Value": "CZAS MISJI: #MINUTES:#SECONDS"
+        },
+        {
+            "Key": 4194145910,
+            "Value": "Teczka"
+        },
+        {
+            "Key": 4195621337,
+            "Value": "TRWA OSTATNI TEST"
+        },
+        {
+            "Key": 4199732194,
+            "Value": "Aktywuj wiertło Niszczyciel Rojów"
+        },
+        {
+            "Key": 4202494871,
+            "Value": "POBIERZCIE DANE SKANOWANIA GLEBY"
+        },
+        {
+            "Key": 4206114036,
+            "Value": "Podnoszenie wieży satelitarnej"
+        },
+        {
+            "Key": 4206715437,
+            "Value": "Głęboko wewnątrz jaskiń terminidów, nad jeziorkiem tajemniczej substancji podobnej do E-710, inżynierowie bojowi SZSZ rozmieścili szybką modułową platformę wiertniczą. Duża aktywność terminidów sprawiła, że ten obszar stał się ekstremalnie niebezpieczny, co uniemożliwia ekstrakcję.\n\nRuszajcie na planetę roju i ręcznie aktywujcie odwiert. Osłaniajcie proces ekstrakcji do czasu, aż substancja zostanie bezpiecznie odebrana drogą powietrzną."
+        },
+        {
+            "Key": 4211765665,
+            "Value": "Użyjcie przenośnej hellbomby, aby zniszczyć płuco roju"
+        },
+        {
+            "Key": 4214767359,
+            "Value": "Z tego regionu docierają do nas raporty o przywódcach roju, którzy wykazują niebezpieczne nowe mutacje.\n\nZnajdź i wyeliminuj te osobniki, zanim zdołają się rozmnożyć."
+        },
+        {
+            "Key": 4215067358,
+            "Value": "WYELIMINUJ SZTURMOWCA"
+        },
+        {
+            "Key": 4218405003,
+            "Value": "System terminala luku wahadłowca"
+        },
+        {
+            "Key": 4220528586,
+            "Value": "ZNISZCZ SIEĆ TRANSMISYJNĄ"
+        },
+        {
+            "Key": 4229860194,
+            "Value": "Namierz i wyeliminuj przywódcę roju."
+        },
+        {
+            "Key": 4234884333,
+            "Value": "Terminal"
+        },
+        {
+            "Key": 4237091623,
+            "Value": "WYKRYTO PRZEPALONE BEZPIECZNIKI"
+        },
+        {
+            "Key": 4240780626,
+            "Value": "JEDNOSTKA KONTROLNA GENERATORA"
+        },
+        {
+            "Key": 4243103919,
+            "Value": "Użyj terminala, aby zablokować współrzędne celu"
+        },
+        {
+            "Key": 4246890330,
+            "Value": "Ogromna sieć podziemnych rojów pozwoliła terminidom w tym regionie solidnie się okopać i rozmnożyć.\n\nNa szczęście ten rój niedawno przeszedł w stan krótkiej hibernacji. Zinfiltruj i zniszcz jak najwięcej osobników, zanim terminidy odzyskają pełnię sił."
+        },
+        {
+            "Key": 4254765959,
+            "Value": "Dziękujemy za waszą służbę"
+        },
+        {
+            "Key": 4268641564,
+            "Value": "NAWIĄŻ POŁĄCZENIE KOMUNIKACYJNE"
+        },
+        {
+            "Key": 4271378695,
+            "Value": "Użyj terminala, aby otworzyć klapę silosu"
+        },
+        {
+            "Key": 4272049039,
+            "Value": "SUMA: +#AMOUNT mln"
+        },
+        {
+            "Key": 4280970126,
+            "Value": "Pocisk atomowy"
+        },
+        {
+            "Key": 4283980414,
+            "Value": "Zniszczono duży posterunek automatów"
+        },
+        {
+            "Key": 4285890418,
+            "Value": "Utracono połączenie z siecią"
+        },
+        {
+            "Key": 4286421936,
+            "Value": "WYELIMINUJ BIEGACZA FABRYCZNEGO AUTOMATÓW"
+        },
+        {
+            "Key": 4287527265,
+            "Value": "Broń silosu baterii 03"
+        },
+        {
+            "Key": 4290448000,
+            "Value": "W tej chwili stacja nie działa"
+        }
+    ]
+}

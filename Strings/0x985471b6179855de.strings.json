@@ -1,0 +1,386 @@
+{
+    "Version": 1,
+    "Language": {
+        "Hash": "0x4a2ca9c9",
+        "KnownName": "pt",
+        "KnownFriendlyName": "Portuguese (Europe)"
+    },
+    "Items": [
+        {
+            "Key": 7350021,
+            "Value": "O longo braço da Justiça"
+        },
+        {
+            "Key": 28572979,
+            "Value": "Completa uma missão em Difícil ou superior sem que ninguém dispare a arma primária ou de suporte."
+        },
+        {
+            "Key": 74724350,
+            "Value": "Completa o Treino Básico."
+        },
+        {
+            "Key": 235196461,
+            "Value": "Mata 100 inimigos durante a mesma missão usando dano de fogo."
+        },
+        {
+            "Key": 240084251,
+            "Value": "O poder da Democracia"
+        },
+        {
+            "Key": 243360535,
+            "Value": "Desempenha um recarregamento assistido em outro colega de equipa."
+        },
+        {
+            "Key": 254510718,
+            "Value": "Segura na minha principal, eu vou-me a eles!"
+        },
+        {
+            "Key": 279570205,
+            "Value": "Obtém todos os troféus de Helldivers 2."
+        },
+        {
+            "Key": 331887065,
+            "Value": "As amostras são as melhores amigas de um mergulhador"
+        },
+        {
+            "Key": 421687485,
+            "Value": "Totalmente operacional"
+        },
+        {
+            "Key": 432134967,
+            "Value": "Às vezes, a minha inteligência assusta-me"
+        },
+        {
+            "Key": 442059879,
+            "Value": "Personaliza o teu Helldiver com uma nova capa, armadura e capacete."
+        },
+        {
+            "Key": 472312330,
+            "Value": "A ciência é feita em quantidade"
+        },
+        {
+            "Key": 490276034,
+            "Value": "Extrai depois do tempo chegar a zero."
+        },
+        {
+            "Key": 552362711,
+            "Value": "Extrai com pelo menos 15 amostras comuns."
+        },
+        {
+            "Key": 752968066,
+            "Value": "Pacote de 1000 (750 + 250 bónus) Super Créditos"
+        },
+        {
+            "Key": 788445221,
+            "Value": "Pacote de 2100 (1500 + 600 bónus) Super Créditos"
+        },
+        {
+            "Key": 854221043,
+            "Value": "Extrai de uma missão com pelo menos 15 amostras raras entre a equipa."
+        },
+        {
+            "Key": 911872437,
+            "Value": "Pacote de 150 Super Créditos"
+        },
+        {
+            "Key": 921854660,
+            "Value": "Quanto maiores são..."
+        },
+        {
+            "Key": 1031312853,
+            "Value": "Olhasse para cima!"
+        },
+        {
+            "Key": 1071140672,
+            "Value": "Extracinar a Zona Rural"
+        },
+        {
+            "Key": 1104401796,
+            "Value": "Pronto, empatámos"
+        },
+        {
+            "Key": 1144600268,
+            "Value": "Navega!"
+        },
+        {
+            "Key": 1256112630,
+            "Value": "Jogo Rápido"
+        },
+        {
+            "Key": 1266360816,
+            "Value": "Arrebenta com disparos ambos os braços de um Hulk, e extrai enquanto ele está vivo."
+        },
+        {
+            "Key": 1280579303,
+            "Value": "É a única forma de termos a certeza..."
+        },
+        {
+            "Key": 1328589529,
+            "Value": "Usa 6 estratagemas de barragem orbital ao mesmo tempo no mesmo lugar."
+        },
+        {
+            "Key": 1332152835,
+            "Value": "Às vezes, a minha inteligência assusta-me"
+        },
+        {
+            "Key": 1427976274,
+            "Value": "Joga 1 Missão de Inseto."
+        },
+        {
+            "Key": 1456717076,
+            "Value": "Pacote de 375 Super Créditos"
+        },
+        {
+            "Key": 1476181576,
+            "Value": "Completa uma missão, mas não extraias."
+        },
+        {
+            "Key": 1478360991,
+            "Value": "Alcança o nível máximo num módulo de nave."
+        },
+        {
+            "Key": 1488816523,
+            "Value": "Pessoas fixes não olh - AAAAH!"
+        },
+        {
+            "Key": 1495807816,
+            "Value": "Perseguição é ilegal"
+        },
+        {
+            "Key": 1538898674,
+            "Value": "Derrota um Titã de Bílis"
+        },
+        {
+            "Key": 1647024014,
+            "Value": "Cura outro jogador usando estimulantes."
+        },
+        {
+            "Key": 1741663299,
+            "Value": "Regresso Explosivo!"
+        },
+        {
+            "Key": 1841056965,
+            "Value": "Chega para todos!"
+        },
+        {
+            "Key": 1842016181,
+            "Value": "Completa pelo menos 100 missões."
+        },
+        {
+            "Key": 1874589215,
+            "Value": "As amostras são amigas dos mergulhadores"
+        },
+        {
+            "Key": 1954310570,
+            "Value": "Mata-o com fogo!"
+        },
+        {
+            "Key": 1956109868,
+            "Value": "Espalha Democracia Liderada"
+        },
+        {
+            "Key": 2020130716,
+            "Value": "Segura a minha principal, eu vou-me a eles!"
+        },
+        {
+            "Key": 2049351693,
+            "Value": "Fica com ferimentos em todos os membros ao mesmo tempo."
+        },
+        {
+            "Key": 2258743961,
+            "Value": "Estampador de Insetos"
+        },
+        {
+            "Key": 2311231392,
+            "Value": "Super Cidadão"
+        },
+        {
+            "Key": 2346618264,
+            "Value": "Dispara pelo menos 150 projéteis de uma rajada, matando pelo menos 10 inimigos."
+        },
+        {
+            "Key": 2367885192,
+            "Value": "Extrai com um esquadrão completo numa missão de dificuldade Difícil ou superior."
+        },
+        {
+            "Key": 2474948923,
+            "Value": "A Democracia ainda tem planos para ti"
+        },
+        {
+            "Key": 2480962503,
+            "Value": "O trabalho está feito!"
+        },
+        {
+            "Key": 2502670206,
+            "Value": "Promove Sinergia"
+        },
+        {
+            "Key": 2537357154,
+            "Value": "Enquanto usas um propulsor de salto, espatifa-te no chão como um fantoche."
+        },
+        {
+            "Key": 2538735225,
+            "Value": "Mata um Carregador com uma cápsula de reabastecimento."
+        },
+        {
+            "Key": 2570980737,
+            "Value": "A Epítome da Super Terra"
+        },
+        {
+            "Key": 2599416825,
+            "Value": "Joga pelo menos 50 missões."
+        },
+        {
+            "Key": 2664916455,
+            "Value": "Jogo Rápido com amigos"
+        },
+        {
+            "Key": 2692147882,
+            "Value": "Melhora pelo menos 1 nível em todos os módulos da nave."
+        },
+        {
+            "Key": 2700797469,
+            "Value": "Estás a fazer a tua parte"
+        },
+        {
+            "Key": 2715791332,
+            "Value": "Completa 10 objetivos táticos."
+        },
+        {
+            "Key": 2742712394,
+            "Value": "Extrai de uma missão com pelo menos 15 amostras raras entre a equipa."
+        },
+        {
+            "Key": 2764315601,
+            "Value": "Mergulho para o Inferno"
+        },
+        {
+            "Key": 2771110748,
+            "Value": "Começa uma sessão de jogo rápido apenas com amigos"
+        },
+        {
+            "Key": 2816087179,
+            "Value": "Completa um objetivo tático de Colmeia de Perseguidores."
+        },
+        {
+            "Key": 2817236126,
+            "Value": "O que não te mata..."
+        },
+        {
+            "Key": 2877533264,
+            "Value": "Não há nada maior do que a Liberdade"
+        },
+        {
+            "Key": 2932688770,
+            "Value": "Estava tudo planeado!"
+        },
+        {
+            "Key": 2943934930,
+            "Value": "Patriota"
+        },
+        {
+            "Key": 2964567034,
+            "Value": "Começa uma sessão de jogo rápido"
+        },
+        {
+            "Key": 3045882396,
+            "Value": "Mata 150 inimigos durante a mesma missão."
+        },
+        {
+            "Key": 3086803146,
+            "Value": "Joga 1 Missão de Robô."
+        },
+        {
+            "Key": 3143868727,
+            "Value": "Extratamente!"
+        },
+        {
+            "Key": 3164004999,
+            "Value": "Mata 25 inimigos com um estratagema."
+        },
+        {
+            "Key": 3167134455,
+            "Value": "Joga uma missão de defesa de planeta."
+        },
+        {
+            "Key": 3175499143,
+            "Value": "Eles costumam aparecer de noite..."
+        },
+        {
+            "Key": 3211646015,
+            "Value": "Completa uma missão Blitz inteira na dificuldade Extrema e extrai em menos de 6 min."
+        },
+        {
+            "Key": 3215974987,
+            "Value": "Sucateiro de Robôs"
+        },
+        {
+            "Key": 3328163412,
+            "Value": "Desapareceu em 360 segundos!"
+        },
+        {
+            "Key": 3377781636,
+            "Value": "Completa uma missão inteira na dificuldade de Difícil ou superior sem que ninguém dispare as suas armas primárias ou de suporte."
+        },
+        {
+            "Key": 3383073796,
+            "Value": "Atira de volta uma granada ativa."
+        },
+        {
+            "Key": 3385453702,
+            "Value": "Agora vai ser a Sério"
+        },
+        {
+            "Key": 3508298212,
+            "Value": "Extrai de uma missão durante a noite."
+        },
+        {
+            "Key": 3525879475,
+            "Value": "Para o bem de todos!"
+        },
+        {
+            "Key": 3546336164,
+            "Value": "Extrai com um esquadrão completo numa missão de dificuldade Difícil ou superior."
+        },
+        {
+            "Key": 3552395834,
+            "Value": "Mata 5000 inimigos."
+        },
+        {
+            "Key": 3606813900,
+            "Value": "Mesmo a tempo"
+        },
+        {
+            "Key": 3625397401,
+            "Value": "Completa uma missão na dificuldade Extrema ou superior sem que ninguém morra."
+        },
+        {
+            "Key": 3655668821,
+            "Value": "Voa pelo menos 25 metros devido à onda de choque de uma explosão."
+        },
+        {
+            "Key": 3679744062,
+            "Value": "Abre bem!"
+        },
+        {
+            "Key": 3690650666,
+            "Value": "Mata um alvo a mais de 100 m de distância."
+        },
+        {
+            "Key": 3884685493,
+            "Value": "Completa uma missão Blitz inteira na dificuldade Extrema e extrai em menos de 6 min."
+        },
+        {
+            "Key": 3959584611,
+            "Value": "Rapaz jeitoso"
+        },
+        {
+            "Key": 3982625721,
+            "Value": "Derrota um Hulk."
+        },
+        {
+            "Key": 4011519829,
+            "Value": "Mata um guerreiro inseto com uma espingarda a 1 m de distância."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "Version": 1,
+    "Language": {
+        "Hash": "0xe5c65a36",
+        "KnownName": "ms",
+        "KnownFriendlyName": "Spanish (Mexico)"
+    },
+    "Items": [
+        {
+            "Key": 636332646,
+            "Value": "MUY DIFÍCIL"
+        },
+        {
+            "Key": 1653518103,
+            "Value": "Estratagema"
+        },
+        {
+            "Key": 2006772999,
+            "Value": "FÁCIL"
+        },
+        {
+            "Key": 2873087446,
+            "Value": "INCURSIÓN EN EL INFIERNO"
+        },
+        {
+            "Key": 3348405905,
+            "Value": "INTERMEDIO"
+        },
+        {
+            "Key": 3876836908,
+            "Value": "DIFÍCIL"
+        }
+    ]
+}

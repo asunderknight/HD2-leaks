@@ -1539,6 +1539,10 @@
             "Value": "Arm Patch"
         },
         {
+            "Key": 834600132,
+            "Value": "Activating these <i=1>Reinforcement Pods</i> increases your <i=1>Reinforcement Budget</i>. \n\nReinforcements will deploy directly from a <i=1>Reinforcement Pod</i> site."
+        },
+        {
             "Key": 835580544,
             "Value": "You have attained the rank of ASPIRANT."
         },
@@ -1773,6 +1777,10 @@
         {
             "Key": 949000562,
             "Value": "Resuming Hosting."
+        },
+        {
+            "Key": 949098447,
+            "Value": "Super Destroyer withdraws in #MINUTES:#SECONDS"
         },
         {
             "Key": 952171788,
@@ -2873,6 +2881,10 @@
         {
             "Key": 1660961539,
             "Value": "Auto"
+        },
+        {
+            "Key": 1661508052,
+            "Value": "When the enemy successfully calls for reinforcements, <i=1>Threat Level</i> increases.\n\nThis means higher enemy presence for the duration of the mission. "
         },
         {
             "Key": 1664794115,
@@ -4095,6 +4107,10 @@
             "Value": "CALL THE HELLDIVERS"
         },
         {
+            "Key": 2417654263,
+            "Value": "Super Destroyer Unavailable"
+        },
+        {
             "Key": 2418889021,
             "Value": "FENRIR III LOST\nThe defense of Fenrir III has failed. Terminids now infest its once-pristine surface."
         },
@@ -4189,6 +4205,10 @@
         {
             "Key": 2481293071,
             "Value": "SNIPER RIFLE"
+        },
+        {
+            "Key": 2484985017,
+            "Value": "Without the Destroyer nearby, normal Reinforcements are unavailable.\n\nClusters of <i=1>Reinforcement Pods</i> have been deployed throughout the area. Once activated, you will be able to utilize those reinforcements."
         },
         {
             "Key": 2489938042,
@@ -4421,6 +4441,10 @@
         {
             "Key": 2627863304,
             "Value": "Magazine"
+        },
+        {
+            "Key": 2634473139,
+            "Value": "Low Orbit Compromised"
         },
         {
             "Key": 2634740248,
@@ -5672,7 +5696,7 @@
         },
         {
             "Key": 3460849909,
-            "Value": "Changing the <i=1>ATTACHMENTS</i> on your weapon will affect its stats and properties. Changing the <i=1>PATTERN</i> will affect its visuals.\n\nUse your weapon in order to level it up and unlock more mods using <i=1>REQUISITION</i>"
+            "Value": "Changing the <i=1>ATTACHMENTS</i> on your weapon will affect its stats and properties. Changing the <i=1>PATTERN</i> will affect its visuals. \n\nUse your weapon in order to level it up and unlock more mods using <i=1>REQUISITION</i>"
         },
         {
             "Key": 3463600927,
@@ -6087,6 +6111,10 @@
             "Value": "Open <c=FFFFE900>STRATAGEM MENU</c> and enter code for <c=FFFFE900>ORBITAL PRECISION STRIKE</c> and throw <c=FFFFE900>BEACON</c> at target."
         },
         {
+            "Key": 3718459561,
+            "Value": "This is a <i=1>Commando</i> Mission.\nThis far behind enemy lines, hostiles are everywhere. Every time they call for reinforcements, <i=1>Threat Level</i> increases. Higher <i=1>Threat Level</i> means more hostile units in the area."
+        },
+        {
             "Key": 3719625712,
             "Value": "APPLY NAME"
         },
@@ -6245,6 +6273,10 @@
         {
             "Key": 3799803411,
             "Value": "WEAPON EXPERIMENTATION\nThe Jump Pack stratagem has been temporarily authorized for use by all Helldivers."
+        },
+        {
+            "Key": 3803997722,
+            "Value": "The Super Destroyer cannot remain in this area for long.\n\nEach Helldiver may call it back once per mission using the <i=1>CALL IN SUPER DESTROYER</i> Stratagem."
         },
         {
             "Key": 3807102993,
@@ -6676,7 +6708,7 @@
         },
         {
             "Key": 4052131195,
-            "Value": "Show player profile"
+            "Value": "SHOW PLAYER PROFILE"
         },
         {
             "Key": 4053983656,
@@ -8795,6 +8827,10 @@
             "Value": "{0.00->1.91}I am so sorry. {2.64->5.17}I promise I will memorialize you in my journal."
         },
         {
+            "Key": 300917809,
+            "Value": "{0.00->2.34}Turns out the bots are mining for platinum.{2.61->8.87}Platinum is normally very rare, but on these lava planets, its everywhere.{9.42->11.58}If I remember my chemistry,{12.03->15.75}that has something to do with the...lava."
+        },
+        {
             "Key": 300998616,
             "Value": "{0.02->1.64}The Angel's Venture system"
         },
@@ -9967,6 +10003,10 @@
             "Value": "{0.01->0.98}Fire in the hole."
         },
         {
+            "Key": 484462088,
+            "Value": "{0.04->1.78}Super Destroyer leaving low orbit."
+        },
+        {
             "Key": 485418670,
             "Value": "{0.00->2.64}So much of our land is occupied. {3.06->4.89}We must take it back."
         },
@@ -10229,6 +10269,10 @@
         {
             "Key": 528455383,
             "Value": "{0.00->4.24}The average Helldiver mission approaches the cost of a Liberty-class Cruiser. {4.88->7.81}Just goes to show how critical our mission is to the war effort."
+        },
+        {
+            "Key": 529897038,
+            "Value": "{0.00->5.63}We know not what the Automatons seek with all their digging and industrial processing.{6.14->10.47}But whatever it is, it belongs to the citizens of Super Earth."
         },
         {
             "Key": 530299362,
@@ -10901,6 +10945,10 @@
         {
             "Key": 665609750,
             "Value": "{0.00->0.93}Reinforcing."
+        },
+        {
+            "Key": 666027532,
+            "Value": "{0.00->6.25}The fires will consume their bodies, but their memory is incombustible."
         },
         {
             "Key": 666555497,
@@ -11847,6 +11895,10 @@
             "Value": "{0.02->0.26}[Land from Wall]"
         },
         {
+            "Key": 841910804,
+            "Value": "{0.03->6.06}Seize the Automatons' ill-gotten gains. They will fuel the expansion of Freedom."
+        },
+        {
             "Key": 841994390,
             "Value": "{0.00->2.51}Recruit expired. Deploy dive team."
         },
@@ -11869,6 +11921,10 @@
         {
             "Key": 845267755,
             "Value": "{0.02->2.62}Duty! Fealty! Obedience!"
+        },
+        {
+            "Key": 846372507,
+            "Value": "{0.00->1.90}Mining lava planets...{3.06->4.76}the bots will exploit anything."
         },
         {
             "Key": 848303978,
@@ -12719,6 +12775,10 @@
             "Value": "{1.27->3.68}I forget the rest, but it's great to turn wrenches to."
         },
         {
+            "Key": 999708362,
+            "Value": "{0.00->3.37}Reports of Illuminate delving have surfaced as well.{3.78->10.96}Unsurprising, that all servants of Tyranny should seek the company of worms and underdwellers."
+        },
+        {
             "Key": 999860795,
             "Value": "{0.00->0.87}Enemies inbound."
         },
@@ -13295,6 +13355,10 @@
             "Value": "{0.02->0.77}It's them!"
         },
         {
+            "Key": 1112031147,
+            "Value": "{0.20->5.71}The Automatons are also synthesizing some sort of super-dense bio-fluid down there.{6.35->8.79}As for where they get the biomass to make it:{9.25->11.21}use your imagination."
+        },
+        {
             "Key": 1112894256,
             "Value": "{0.00->2.78}Lots of enemies killed, lots of samples collected. {3.48->5.24}That's a good mission in my book."
         },
@@ -13417,6 +13481,10 @@
         {
             "Key": 1133759312,
             "Value": "{0.00->1.75}Freedom requires firepower."
+        },
+        {
+            "Key": 1134140708,
+            "Value": "{0.00->4.01}You have quenched the fires of the Automaton war machine."
         },
         {
             "Key": 1134533047,
@@ -13633,6 +13701,10 @@
         {
             "Key": 1171731074,
             "Value": "{0.00->0.74}50 meters."
+        },
+        {
+            "Key": 1172646803,
+            "Value": "{0.00->5.20}We have unearthed Automaton mining operations on uninhabitable lava planets. The{5.82->11.48}Automatons have constructed an entire industry under cover of ash and smoke."
         },
         {
             "Key": 1173492874,
@@ -14129,6 +14201,10 @@
         {
             "Key": 1260130564,
             "Value": "{0.00->3.26}Decreased visibility—should help obscure our movements."
+        },
+        {
+            "Key": 1260769276,
+            "Value": "{0.06->5.86}When they told me Helldivers were going to start doing stealth missions, I said: about time.{6.30->8.03}The Helldivers can do anything."
         },
         {
             "Key": 1261207272,
@@ -15611,6 +15687,10 @@
             "Value": "{0.00->3.01}I swear those freaks are getting stronger every day."
         },
         {
+            "Key": 1524148730,
+            "Value": "{0.03->4.49}We'll have to thank the Automatons for mining these resources for us."
+        },
+        {
             "Key": 1525283168,
             "Value": "{0.01->3.57}FOR SUPER EAAAAARRRTTHHHH!"
         },
@@ -15729,6 +15809,10 @@
         {
             "Key": 1548777981,
             "Value": "{0.02->1.51}Take cover!"
+        },
+        {
+            "Key": 1549761643,
+            "Value": "{7.65->10.65}Freedom's Greetings, I'm Coretta Kelly.{11.38->17.53}New information sheds light on the grisly aims of Automaton lava planet operations.{18.07->21.13}Samples of a synthetic liquid being produced on these{21.13->24.35}planets has been recovered by the Helldivers.{24.61->30.62}Scientific analysis has revealed this biological fluid to be full of amino acids,{30.62->36.74}nutrients, and stem cells - all apparently harvested from organic life forms.{37.74->38.49}Disturbingly,{38.49->44.44}scientists have verified beyond any doubt that the biological compounds were harvested{44.44->53.50}exclusively from Super Earth citizens - the majority of whom might have almost certainly been small, small children.{54.04->57.88}The Super Earth Association for Childhood Safety released{57.88->61.71}a statement condemning the Automaton actions.{62.12->67.05}Additionally, Automatons have been discovered to be mining large amounts of platinum ore.{67.57->73.31}The Helldivers have been ordered to seize this material in order to prevent its use for socialist aims.{73.83->77.38}That's Liberty's Latest; I'm Coretta Kelly."
         },
         {
             "Key": 1550917994,
@@ -16231,6 +16315,10 @@
             "Value": "{0.02->1.58}Dirty Xenophobes."
         },
         {
+            "Key": 1658442673,
+            "Value": "{0.42->5.41}The Automatons' ravenous extraction of this planet continues uncontested."
+        },
+        {
             "Key": 1658826517,
             "Value": "{0.00->3.14}The Terminids profilerate out of control on this planet. {3.69->5.73}Get down there and eradicate them."
         },
@@ -16675,6 +16763,10 @@
             "Value": "{0.00->0.95}Objective equipment."
         },
         {
+            "Key": 1745200917,
+            "Value": "{0.05->7.32}What use could the bots have for planets covered in lava? I bet they're melting...something..."
+        },
+        {
             "Key": 1745486445,
             "Value": "{0.00->2.11}You're here to save us, I know it!"
         },
@@ -16737,6 +16829,10 @@
         {
             "Key": 1755823329,
             "Value": "{0.00->0.83}We're stuck!"
+        },
+        {
+            "Key": 1756572830,
+            "Value": "{7.57->10.90}Freedom's Greetings, I'm Coretta Kelly.{11.31->15.01}Covert Helldiver reconnaissance has unearthed widespread{15.02->18.27}Automaton mining on uninhabited Lava Planets.{18.35->23.72}The Helldivers, completely evading detection thanks to their elite training,{23.87->27.84}discovered evidence of ongoing operations on multiple worlds.{28.59->33.84}These magma-covered planets are considered inhospitable to most forms of life.{34.25->43.46}While details of the enemy's objectives are still unclear, the Helldivers have been ordered to immediately deploy to interdict these activities.{44.22->49.60}Later: A new study shows that feeling unsafe or worried could be YOUR fault.{50.03->53.54}That's Liberty's Latest; I'm Coretta Kelly."
         },
         {
             "Key": 1756915557,
@@ -16937,6 +17033,10 @@
         {
             "Key": 1785217033,
             "Value": "{0.00->1.68}Rare sample acquired."
+        },
+        {
+            "Key": 1785421007,
+            "Value": "{0.00->0.83}Helldiver.{1.24->4.96}A vast Automaton mining enterprise has been discovered.{5.47->10.41}Their expansionism and exploitation can be tolerated no longer."
         },
         {
             "Key": 1786294934,
@@ -17729,6 +17829,10 @@
         {
             "Key": 1954180793,
             "Value": "{0.00->1.29}A temporary setback. {1.77->2.82}We will fight on."
+        },
+        {
+            "Key": 1954311761,
+            "Value": "{0.05->3.36}This is Coretta Kelly with All you Need to Know.{3.36->7.67}Archaeological digs continue on former Illuminate-held planets.{7.67->15.95}Super Earth reconstruction efforts continue to give moderate-value citizens from all over the Galaxy a chance to visit our greatest planet.{16.34->21.08}One high-voltage electrician's review: \"\"Better than I ever imagined.\"\"{21.10->28.56}And: the ever-productive residents of the Eaglewise Retirement Home have gotten their hooks in the Super Earth Flag.{28.73->30.91}Their crochet hooks, that is!{31.11->38.35}Their new Flag project is expected to take six months to complete, and cover half a Freedomball field when done.{38.56->41.42}And that, is All You Need to Know."
         },
         {
             "Key": 1954421217,
@@ -19719,6 +19823,10 @@
             "Value": "{0.00->6.81}The Democratic Council ensures that all elected leaders act in accordance to the values we all {6.81->7.28}share."
         },
         {
+            "Key": 2328596078,
+            "Value": "{0.10->6.63}This is Coretta Kelly with All you Need to Know.  C.O.B. Genetics is expanding its cloning division{6.63->9.55}to meet growing demands for hexatuskal elephants.{9.76->16.14}And: hit series I Was Reborn As A Teenage Star Destroyer But My Helldiver Is Too Cute, has been{16.14->17.73}renewed for a record-breaking{17.73->19.06}78th season.{19.55->22.11}And that, is All You Need to Know."
+        },
+        {
             "Key": 2329312982,
             "Value": "{0.07->2.14}They just can't tolerate our Freedom."
         },
@@ -19823,8 +19931,16 @@
             "Value": "{0.03->0.35}Slimy freaks!"
         },
         {
+            "Key": 2350908725,
+            "Value": "{0.00->3.87}The Automatons ambitions go up in smoke."
+        },
+        {
             "Key": 2351474212,
             "Value": "{0.00->0.86}Need to reload!"
+        },
+        {
+            "Key": 2354883149,
+            "Value": "{0.00->2.16}We return empty-handed,{2.57->6.38}while the Automatons forge ever-increasing power."
         },
         {
             "Key": 2355572509,
@@ -20291,6 +20407,10 @@
             "Value": "{0.00->1.19}Calling in extraction!"
         },
         {
+            "Key": 2428842342,
+            "Value": "{0.34->5.90}The fires of their forges are nothing compared to the Freedom in your hearts."
+        },
+        {
             "Key": 2428974662,
             "Value": "{0.00->2.25}Combat Walker should be there any second!"
         },
@@ -20417,6 +20537,10 @@
         {
             "Key": 2456379350,
             "Value": "{0.02->0.48}Sample."
+        },
+        {
+            "Key": 2457219794,
+            "Value": "{0.06->14.31}The Automatons also appear to be utilizing the heat of these lava worlds to synthesize some sort of primordial soup: a liquid dense with amino acids, stem cells, and glucose.{14.31->17.24}All the ingredients of organic life."
         },
         {
             "Key": 2457297650,
@@ -24219,6 +24343,10 @@
             "Value": "{0.01->0.77}Be ready!"
         },
         {
+            "Key": 3115729109,
+            "Value": "{0.07->7.48}Welcome, Helldiver. The Automaton scheme begins to take shape. Your service is needed."
+        },
+        {
             "Key": 3116921094,
             "Value": "{0.00->4.96}Did you know? No one has ever truly rebelled against Super Earth. {5.37->11.82}Our top scientists have proven that all \"rebels\" were actually acting under Illuminate mind control."
         },
@@ -27107,6 +27235,10 @@
             "Value": "{0.00->2.16}You are a paragon of Liberty."
         },
         {
+            "Key": 3631750936,
+            "Value": "{0.00->7.94}That the Automatons would expend such effort synthesizing the conditions of life raises innumerable questions.{8.48->11.60}But our orders are not to interrogate these mysteries.{11.86->15.23}It is to destroy the threat they pose."
+        },
+        {
             "Key": 3631756764,
             "Value": "{0.00->1.21}The Veil system"
         },
@@ -27669,10 +27801,6 @@
         {
             "Key": 3731781055,
             "Value": "{0.00->1.67}Now things can get back to normal."
-        },
-        {
-            "Key": 3731884962,
-            "Value": "{0.00->5.49}Breathe in courage. Breathe out the Gloom of the mind.{6.48->13.87}Breathe in gentleness toward children. Breathe out the spores of fear.{15.01->21.78}Breathe in the crisp air of the Super Destroyer's oxygenation system. Breathe{22.39->27.17}out any trace of empathy toward alien creatures."
         },
         {
             "Key": 3732832793,
@@ -29743,6 +29871,10 @@
             "Value": "{0.02->2.60}Thank Super Earth for the Helldivers!"
         },
         {
+            "Key": 4102683150,
+            "Value": "{0.06->3.54}These lava planets are totally inhospitable to most life.{4.09->7.34}Barren wastelands. We can't let the bots have them."
+        },
+        {
             "Key": 4102855602,
             "Value": "{0.00->3.07}Expunge these Xenophobes from our galaxy."
         },
@@ -29769,6 +29901,10 @@
         {
             "Key": 4105633008,
             "Value": "{0.01->3.42}I'm okay, I'm okay."
+        },
+        {
+            "Key": 4106158667,
+            "Value": "{0.05->5.09}The chief object of the Automaton mining appears to be platinum.{5.09->8.27}One of the rarer elements in our galaxy.{8.27->13.54}Unreactive, precious, and corrosion-resistant at high temperatures.{13.54->19.66}Which of these attributes drives the Automatons to such metalliferous cupidity?"
         },
         {
             "Key": 4106723460,
@@ -30421,6 +30557,10 @@
         {
             "Key": 4234292192,
             "Value": "{0.00->2.50}We destroyed the Illuminate once.{2.53->5.17}Now, we will do it again."
+        },
+        {
+            "Key": 4234690513,
+            "Value": "{0.06->4.29}The Automatons are stealing from our citizens. We can't let them get away with it."
         },
         {
             "Key": 4234915385,
@@ -33715,6 +33855,10 @@
             "Value": "KEPLER-396b"
         },
         {
+            "Key": 1531056520,
+            "Value": "REDACTED REGIMENT"
+        },
+        {
             "Key": 1531255622,
             "Value": "Raiders"
         },
@@ -33976,7 +34120,7 @@
         },
         {
             "Key": 1710870229,
-            "Value": "K-ICXXVI"
+            "Value": "K"
         },
         {
             "Key": 1713165955,
@@ -35252,11 +35396,11 @@
         },
         {
             "Key": 2700729919,
-            "Value": "FURY-I"
+            "Value": "FURY"
         },
         {
             "Key": 2700736388,
-            "Value": "MOX SECUNDUS"
+            "Value": "MOX"
         },
         {
             "Key": 2701211260,
@@ -37095,6 +37239,10 @@
             "Value": "WORKHOUSE 239-C"
         },
         {
+            "Key": 4013364623,
+            "Value": "Redacted Regiment"
+        },
+        {
             "Key": 4016445878,
             "Value": "FLESHMOB"
         },
@@ -37551,10 +37699,6 @@
             "Value": "Not much is known about this planet."
         },
         {
-            "Key": 7084113,
-            "Value": "<i=1>Ammo</i> boxes contain <i=1>less</i> ammunition."
-        },
-        {
             "Key": 9138940,
             "Value": "Number of stims each Helldiver deploys with increased by #V_ONE."
         },
@@ -37597,6 +37741,14 @@
         {
             "Key": 27832939,
             "Value": "The Orbital Laser stratagem is temporarily available to all Helldivers."
+        },
+        {
+            "Key": 28815540,
+            "Value": "Battlefield pickups on this planet contain <i=1>#AMOUNT%</i> less ammo."
+        },
+        {
+            "Key": 30763115,
+            "Value": "STRATAGEM SURPLUS"
         },
         {
             "Key": 32304560,
@@ -37697,6 +37849,10 @@
         {
             "Key": 100511399,
             "Value": "Call For Enlistments Sent To All Citizen Classes."
+        },
+        {
+            "Key": 102495720,
+            "Value": "FASTER EXTRACTION"
         },
         {
             "Key": 103735208,
@@ -37867,8 +38023,16 @@
             "Value": "This black hole is all that remains of the hopes and dreams of the colonists who could have built a life here. Our enemies would sooner see the entire galaxy sucked into an endless void than allow our way of life to prosper."
         },
         {
+            "Key": 214921793,
+            "Value": "EXPLOSIVES SHORTAGE"
+        },
+        {
             "Key": 216069095,
             "Value": "NEW OPERATION AVAILABLE"
+        },
+        {
+            "Key": 216109097,
+            "Value": "<i=1>Extraction time</i> against the <i=1>Illuminate</i> is <i=1>#V_ONE</i> seconds faster."
         },
         {
             "Key": 222371685,
@@ -37903,10 +38067,6 @@
             "Value": "Total Number of Successful Campaigns"
         },
         {
-            "Key": 243191521,
-            "Value": "STRATAGEM SURPLUS"
-        },
-        {
             "Key": 244997209,
             "Value": "The market never sets on Trustor's capital world."
         },
@@ -37931,6 +38091,10 @@
             "Value": "START NEW LOBBY"
         },
         {
+            "Key": 258430200,
+            "Value": "<i=1>Eagle Rearm</i> time is <i=1>#AMOUNT</i> seconds slower on this planet."
+        },
+        {
             "Key": 264253128,
             "Value": "The REQ payout for destroying enemy Outposts is increased by 20%."
         },
@@ -37948,7 +38112,7 @@
         },
         {
             "Key": 271258196,
-            "Value": "Number of grenades each Helldiver deploys with increased by #V_ONE."
+            "Value": "Number of grenades each Helldiver deploys with increased by <i=1>#V_ONE</i>."
         },
         {
             "Key": 276825548,
@@ -38135,10 +38299,6 @@
             "Value": "SAMPLES:"
         },
         {
-            "Key": 408492564,
-            "Value": "EXPERIMENTAL HIP POUCHES"
-        },
-        {
             "Key": 409186856,
             "Value": "Not much is known about this planet."
         },
@@ -38148,7 +38308,7 @@
         },
         {
             "Key": 420079450,
-            "Value": "Number of grenades each Helldiver deploys with decreased by #V_ONE."
+            "Value": "Number of grenades each Helldiver deploys with decreased by <i=1>#V_ONE</i>."
         },
         {
             "Key": 421418845,
@@ -38223,6 +38383,10 @@
             "Value": "Caution: loyal civilians are on the battlefield."
         },
         {
+            "Key": 463730113,
+            "Value": "<i=1>Extraction time</i> against the <i=1>Automatons</i> is <i=1>#V_ONE</i> seconds slower."
+        },
+        {
             "Key": 466139221,
             "Value": "Total XP"
         },
@@ -38261,6 +38425,10 @@
         {
             "Key": 488739268,
             "Value": "The hallowed halls of the Chamber of Taxation stretch round the circumference of Pöpli IV."
+        },
+        {
+            "Key": 493602973,
+            "Value": "FASTER EAGLE REARM"
         },
         {
             "Key": 496937874,
@@ -38335,10 +38503,6 @@
             "Value": "Heavy Outposts"
         },
         {
-            "Key": 522217417,
-            "Value": "<i=1>Ammo</i> boxes contain more ammunition."
-        },
-        {
             "Key": 522971768,
             "Value": "The REQ value of completed Primary Objectives has been reduced by 10%."
         },
@@ -38403,6 +38567,10 @@
             "Value": "For every dead Helldiver, 50 REQ will be deducted from the total Mission payout."
         },
         {
+            "Key": 559292408,
+            "Value": "LOW ORBIT SUPERIORITY"
+        },
+        {
             "Key": 560244346,
             "Value": "Not much is known about this planet."
         },
@@ -38435,10 +38603,6 @@
             "Value": "The Orbital Railcannon stratagem is temporarily available to all Helldivers."
         },
         {
-            "Key": 588515429,
-            "Value": "SUPPLY CHAIN CHALLENGES"
-        },
-        {
             "Key": 588827542,
             "Value": "The DSS deploys <i=1>Eagle Strafing Runs</i> during missions."
         },
@@ -38461,6 +38625,10 @@
         {
             "Key": 593729951,
             "Value": "Swarm"
+        },
+        {
+            "Key": 593904749,
+            "Value": "INCREASED IMPACT"
         },
         {
             "Key": 595660226,
@@ -38591,10 +38759,6 @@
             "Value": "Not much is known about this planet."
         },
         {
-            "Key": 670070393,
-            "Value": "HIGH RECRUITMENT"
-        },
-        {
             "Key": 670506704,
             "Value": "Named after some islands back on Old Earth, this showcases primitive flora with it's own sense of beauty."
         },
@@ -38645,6 +38809,10 @@
         {
             "Key": 714992586,
             "Value": "Total Accidentals"
+        },
+        {
+            "Key": 715753515,
+            "Value": "Stim capacity for all Helldivers increased by <i=1>#V_ONE</i> on this planet."
         },
         {
             "Key": 715841083,
@@ -38781,6 +38949,10 @@
         {
             "Key": 796263081,
             "Value": "Exploration Vessel Claims to Have Detected Illuminate-like Energy Signature."
+        },
+        {
+            "Key": 798143765,
+            "Value": "SLOWER EAGLE REARM"
         },
         {
             "Key": 800130244,
@@ -38991,6 +39163,10 @@
             "Value": "9"
         },
         {
+            "Key": 926675872,
+            "Value": "<i=1>Eagle Rearm</i> time is <i=1>#AMOUNT</i> seconds faster on this planet."
+        },
+        {
             "Key": 929394276,
             "Value": "The Tesla Tower stratagem is temporarily available to all Helldivers."
         },
@@ -39113,6 +39289,10 @@
         {
             "Key": 996991993,
             "Value": "Medal payout per mission for all Helldivers reduced by #V_ONE."
+        },
+        {
+            "Key": 999030979,
+            "Value": "<i=1>Eagle Rearm</i> time is <i=1>#V_ONE</i> seconds faster on all planets."
         },
         {
             "Key": 1004277842,
@@ -39243,6 +39423,10 @@
             "Value": "#RACE"
         },
         {
+            "Key": 1095379698,
+            "Value": "DAMAGED FACTORIES"
+        },
+        {
             "Key": 1095630749,
             "Value": "PROXIMITY TO MERIDIA CRITICAL"
         },
@@ -39285,6 +39469,10 @@
         {
             "Key": 1118917483,
             "Value": "<c=FF336666>HELLDIVERS: #VALUE</c>"
+        },
+        {
+            "Key": 1122436356,
+            "Value": "Battlefield pickups on all planets contain <i=1>#AMOUNT%</i> more ammo."
         },
         {
             "Key": 1122786168,
@@ -39337,6 +39525,10 @@
         {
             "Key": 1155954398,
             "Value": "Not much is known about this planet."
+        },
+        {
+            "Key": 1156936261,
+            "Value": "<i=1>Extraction time</i> against the <i=1>Illuminate</i> is <i=1>#V_ONE</i> seconds slower."
         },
         {
             "Key": 1169005836,
@@ -39435,6 +39627,10 @@
             "Value": "RECON CAMPAIGN"
         },
         {
+            "Key": 1225158720,
+            "Value": "LOWER STIM CAPACITY"
+        },
+        {
             "Key": 1227007866,
             "Value": "RS-422 Railgun stratagem availability has ended."
         },
@@ -39483,8 +39679,16 @@
             "Value": "Not much is known about this planet."
         },
         {
+            "Key": 1261799441,
+            "Value": "STRATAGEM CONSERVATION"
+        },
+        {
             "Key": 1262604028,
             "Value": "Many ships that attempt to enter Pathfinder space are either never heard from again or end up somewhere else entirely. Surprisingly, this fact hasn't discouraged people from traveling to the system. Instead, it's given rise to a whole new sport known as slip-racing. Ships line up at the edge of the Pathfinder wormhole and shoot through in unison. Whoever winds up furthest from the starting point wins!\n\nNote: in order to be eligible for a Pathfinder slip-race victory, your ship must be located within 6 years of the start of the race. Ships relocated to beyond the edge of the race's military-grade sensors are considered lost."
+        },
+        {
+            "Key": 1264650473,
+            "Value": "<i=1>Liberation Impact</i> from completed missions on this planet is <i=1>#V_ONE%</i> greater on this planet."
         },
         {
             "Key": 1269775050,
@@ -39599,12 +39803,20 @@
             "Value": "Warning: Starting a new Operation will abandon your currently active Operation"
         },
         {
+            "Key": 1348005262,
+            "Value": "This is a <i=1>Commando</i> Operation. It contains <i=1>Commando</i> missions.\n\nIn <i=1>Commando</i> missions, access to your Super Destroyer and Stratagems will be limited. Choose your engagements carefully."
+        },
+        {
             "Key": 1351068056,
             "Value": "Extracting"
         },
         {
             "Key": 1351573785,
             "Value": "Not much is known about this planet."
+        },
+        {
+            "Key": 1351614953,
+            "Value": "COMMANDO OPERATION"
         },
         {
             "Key": 1352658065,
@@ -39705,10 +39917,6 @@
         {
             "Key": 1411615216,
             "Value": "Reinforcement increase is no longer in effect."
-        },
-        {
-            "Key": 1414808501,
-            "Value": "LOW ORBIT SUPERIORITY"
         },
         {
             "Key": 1420949209,
@@ -40139,6 +40347,10 @@
             "Value": "SEARCHING FOR MISSIONS IN PROGRESS"
         },
         {
+            "Key": 1710418119,
+            "Value": "FASTER EAGLE REARM"
+        },
+        {
             "Key": 1711370733,
             "Value": "Increased Enemy Presence"
         },
@@ -40259,6 +40471,10 @@
             "Value": "Not much is known about this planet."
         },
         {
+            "Key": 1791460633,
+            "Value": "Battlefield pickups on this planet contain <i=1>#AMOUNT%</i> more ammo."
+        },
+        {
             "Key": 1794880589,
             "Value": "Not much is known about this planet."
         },
@@ -40335,10 +40551,6 @@
             "Value": "Not much is known about this planet."
         },
         {
-            "Key": 1842722237,
-            "Value": "STRATAGEM CONSERVATION"
-        },
-        {
             "Key": 1843987253,
             "Value": "Not much is known about this planet."
         },
@@ -40348,7 +40560,7 @@
         },
         {
             "Key": 1857535277,
-            "Value": "Stim capacity for all Helldivers decreased by #V_ONE."
+            "Value": "Stim capacity for all Helldivers decreased by <i=1>#V_ONE</i> on all planets."
         },
         {
             "Key": 1860113674,
@@ -40515,10 +40727,6 @@
             "Value": "Not much is known about this planet."
         },
         {
-            "Key": 1962232551,
-            "Value": "WASTE REDUCTION INITIATIVE"
-        },
-        {
             "Key": 1971579583,
             "Value": "Not much is known about this planet."
         },
@@ -40639,6 +40847,10 @@
             "Value": "EXOSUIT RESERVES"
         },
         {
+            "Key": 2051090765,
+            "Value": "Battlefield pickups on all planets contain <i=1>#AMOUNT%</i> less ammo."
+        },
+        {
             "Key": 2051691805,
             "Value": "The <i=1>#V_ONE</i> stratagem is unavailable to all Helldivers."
         },
@@ -40705,6 +40917,10 @@
         {
             "Key": 2077769934,
             "Value": " Fault For Deadly Hoverboarding Accidents."
+        },
+        {
+            "Key": 2077824803,
+            "Value": "SLOWER EXTRACTION"
         },
         {
             "Key": 2083657875,
@@ -40797,6 +41013,10 @@
         {
             "Key": 2131143183,
             "Value": "COMPROMISED INTEL PACKAGES"
+        },
+        {
+            "Key": 2133287516,
+            "Value": "EXPERIMENTAL INITIATIVE"
         },
         {
             "Key": 2135009396,
@@ -41087,6 +41307,10 @@
             "Value": "Most Illuminates Killed"
         },
         {
+            "Key": 2305057086,
+            "Value": "SLOWER EXTRACTION"
+        },
+        {
             "Key": 2305672355,
             "Value": "<i=1>Medical Supply Stratagem</i> available on all missions."
         },
@@ -41135,6 +41359,10 @@
             "Value": "Enemy forces are trying to claim this planet! Push them back by playing special missions during the specified time frame, or the planet will fall to the enemy."
         },
         {
+            "Key": 2343909414,
+            "Value": "<i=1>Extraction time</i> against the <i=1>Automatons</i> is <i=1>#V_ONE</i> seconds faster."
+        },
+        {
             "Key": 2346647635,
             "Value": "Experience gain for all Helldivers increased by #V_ONE%."
         },
@@ -41173,6 +41401,10 @@
         {
             "Key": 2371122801,
             "Value": "SEAF Fight Against Bots Augmented By Limited Helldiver Operations."
+        },
+        {
+            "Key": 2371571610,
+            "Value": "FASTER EXTRACTION"
         },
         {
             "Key": 2371709060,
@@ -41337,6 +41569,10 @@
         {
             "Key": 2481837058,
             "Value": "Repel"
+        },
+        {
+            "Key": 2488091525,
+            "Value": "CONTESTED ORBIT"
         },
         {
             "Key": 2489679843,
@@ -41571,6 +41807,10 @@
             "Value": "The Weir was discovered entirely by accident when a ship slipped through an unknown wormhole and crashlanded. Through wit and sheer Super Earth determination, the lone survivor was able to craft a communications array and call for help. Unfortunately, the first people to respond were pirates who promptly murdered him, and control of the planet fell into chaos until it was liberated by the SEAF in 2074."
         },
         {
+            "Key": 2646332237,
+            "Value": "SLOWER EAGLE REARM"
+        },
+        {
             "Key": 2648438993,
             "Value": "Not much is known about this planet."
         },
@@ -41612,7 +41852,7 @@
         },
         {
             "Key": 2679897061,
-            "Value": "Stim capacity for all Helldivers increased by #V_ONE."
+            "Value": "Stim capacity for all Helldivers increased by <i=1>#V_ONE</i> on all planets."
         },
         {
             "Key": 2683120236,
@@ -41651,6 +41891,10 @@
             "Value": "Not much is known about this planet."
         },
         {
+            "Key": 2714423684,
+            "Value": "SLOWER EXTRACTION"
+        },
+        {
             "Key": 2715016726,
             "Value": "Melee damage is temporarily increased by #V_ONE%."
         },
@@ -41665,6 +41909,10 @@
         {
             "Key": 2724329671,
             "Value": "SEAF REINFORCEMENTS"
+        },
+        {
+            "Key": 2725532411,
+            "Value": "LOW RECRUITMENT"
         },
         {
             "Key": 2727007226,
@@ -41767,6 +42015,10 @@
             "Value": "<c=FFFF3939>VERY HIGH</c>"
         },
         {
+            "Key": 2779744625,
+            "Value": "EXPLOSIVES SURPLUS"
+        },
+        {
             "Key": 2782937074,
             "Value": "Automaton Sympathizers Killed in Breathtaking Raid; Collateral Damage Heroically Minimized."
         },
@@ -41809,6 +42061,10 @@
         {
             "Key": 2805628145,
             "Value": "ACID STORMS"
+        },
+        {
+            "Key": 2806921132,
+            "Value": "HIGH RECRUITMENT"
         },
         {
             "Key": 2807101694,
@@ -42071,10 +42327,6 @@
             "Value": "The entry point from whence all the Illuminate come from in the galaxy. There's no telling what on this planet makes them able to reach closer to Super Earth, but it is sure to be for offensive purposes."
         },
         {
-            "Key": 2978562338,
-            "Value": "EXPERIMENTAL INITIATIVE"
-        },
-        {
             "Key": 2980169751,
             "Value": "Orbital Airburst Strike stratagem availability has ended."
         },
@@ -42131,6 +42383,10 @@
             "Value": "Periods of high temperatures <i=1>increase stamina drain</i> and <i=1>speed up heat buildup in weapons</i>."
         },
         {
+            "Key": 3007670585,
+            "Value": "Stim capacity for all Helldivers decreased by <i=1>#V_ONE</i> on this planet."
+        },
+        {
             "Key": 3012888276,
             "Value": "COMMUNITY OVERVIEW"
         },
@@ -42175,8 +42431,16 @@
             "Value": "ATMOSPHERIC STERILIZATION"
         },
         {
+            "Key": 3033480714,
+            "Value": "HIGHER STIM CAPACITY"
+        },
+        {
             "Key": 3036081418,
             "Value": "WEAPONS EXPERIMENTATION"
+        },
+        {
+            "Key": 3038375954,
+            "Value": "SLOWER EXTRACTION"
         },
         {
             "Key": 3041244548,
@@ -42188,7 +42452,7 @@
         },
         {
             "Key": 3049055479,
-            "Value": "Though the nearby <i=1>Gloom Base</i> provides logistical support, the spore cover on this planet is heavy enough to cause issues for all landing pelicans.\nExtraction times are increased by <i=1>20 seconds.</i>\n"
+            "Value": "Though the nearby <i=1>Gloom Base</i> provides logistical support, the spore cover on this planet is heavy enough to cause issues for all landing Pelicans.\nExtraction times are increased by <i=1>20 seconds.</i>\n"
         },
         {
             "Key": 3049338773,
@@ -42201,6 +42465,10 @@
         {
             "Key": 3067367692,
             "Value": "SEAF UNITS IN AREA"
+        },
+        {
+            "Key": 3069741418,
+            "Value": "SUPPLY CHAIN CHALLENGES"
         },
         {
             "Key": 3071335446,
@@ -42221,10 +42489,6 @@
         {
             "Key": 3084882531,
             "Value": "Super Earth is the blinding beacon that radiates the light of democracy through the cosmos, the sprawling heart that beats in time to mankind's quest for total galactic liberation. Here live the wealthy, important and proud. Here live those who have pulled themselves up by their bootstraps and achieved their dreams. Here live the citizens of Super Earth."
-        },
-        {
-            "Key": 3085453425,
-            "Value": "EXPLOSIVES SURPLUS"
         },
         {
             "Key": 3087338564,
@@ -42277,10 +42541,6 @@
         {
             "Key": 3103904605,
             "Value": "Reinforcement reduction is no longer in effect."
-        },
-        {
-            "Key": 3110277580,
-            "Value": "DAMAGED FACTORIES"
         },
         {
             "Key": 3112086663,
@@ -42391,6 +42651,10 @@
             "Value": "SHOW ORDERS"
         },
         {
+            "Key": 3176411850,
+            "Value": "LOWER STIM CAPACITY"
+        },
+        {
             "Key": 3178802138,
             "Value": "The Mortar Sentry stratagem is temporarily available to all Helldivers."
         },
@@ -42405,6 +42669,10 @@
         {
             "Key": 3198058331,
             "Value": "Evacuated in:"
+        },
+        {
+            "Key": 3203613723,
+            "Value": "FASTER EXTRACTION"
         },
         {
             "Key": 3205119654,
@@ -42495,8 +42763,16 @@
             "Value": "LARGE ATTACK INCREASE"
         },
         {
+            "Key": 3257328072,
+            "Value": "GRENADE POUCH SHORTAGE"
+        },
+        {
             "Key": 3257677184,
             "Value": "Enemies Killed"
+        },
+        {
+            "Key": 3258064410,
+            "Value": "<i=1>Extraction time</i> against the <i=1>Terminids</i> is <i=1>#V_ONE</i> seconds slower."
         },
         {
             "Key": 3258667075,
@@ -42643,12 +42919,12 @@
             "Value": "Completing this operation has an impact on the Illuminate Fleet Strength."
         },
         {
-            "Key": 3371885955,
-            "Value": "EXPLOSIVES SHORTAGE"
-        },
-        {
             "Key": 3372276277,
             "Value": "Complete operations in #SECTOR"
+        },
+        {
+            "Key": 3373261145,
+            "Value": "LESS BATTLEFIELD AMMO"
         },
         {
             "Key": 3376195384,
@@ -42665,6 +42941,10 @@
         {
             "Key": 3381496091,
             "Value": "The FLAM-40 Flamethrower stratagem is temporarily available to all Helldivers."
+        },
+        {
+            "Key": 3386335381,
+            "Value": "FASTER EXTRACTION"
         },
         {
             "Key": 3392515629,
@@ -42689,10 +42969,6 @@
         {
             "Key": 3409341309,
             "Value": "<i=1>Mission payout</i> reduced by <i=1>5%</i>"
-        },
-        {
-            "Key": 3409725421,
-            "Value": "LOW RECRUITMENT"
         },
         {
             "Key": 3411407988,
@@ -42811,6 +43087,10 @@
             "Value": "Protect"
         },
         {
+            "Key": 3486982023,
+            "Value": "EXPERIMENTAL HIP POUCHES"
+        },
+        {
             "Key": 3487732002,
             "Value": "Orbital Walking Barrage stratagem availability has ended."
         },
@@ -42852,7 +43132,7 @@
         },
         {
             "Key": 3514565128,
-            "Value": "INCREASED SUPPLIES"
+            "Value": "MORE BATTLEFIELD AMMO"
         },
         {
             "Key": 3515520839,
@@ -42939,10 +43219,6 @@
             "Value": "Gloom particles interfere with landing Pelicans, increasing extraction times by <i=1>20 seconds.</i>"
         },
         {
-            "Key": 3554256659,
-            "Value": "EXPERIMENTAL CARGO POCKETS"
-        },
-        {
             "Key": 3555193024,
             "Value": "Helldivers will receive <i=1>additional booster packs</i>."
         },
@@ -42965,6 +43241,10 @@
         {
             "Key": 3567262339,
             "Value": "Intense snowstorms <i=1>reduce visibility</i>."
+        },
+        {
+            "Key": 3572099144,
+            "Value": "HIGHER STIM CAPACITY"
         },
         {
             "Key": 3575339405,
@@ -43023,10 +43303,6 @@
             "Value": "The growing concern over the use of GMO have caused drops in production."
         },
         {
-            "Key": 3612924764,
-            "Value": "CONTESTED ORBIT"
-        },
-        {
             "Key": 3613667837,
             "Value": "Not much is known about this planet."
         },
@@ -43037,6 +43313,10 @@
         {
             "Key": 3614892168,
             "Value": "ORDER OVERVIEW"
+        },
+        {
+            "Key": 3616364457,
+            "Value": "<i=1>Extraction time</i> on this planet is <i=1>#V_ONE</i> seconds faster on this planet."
         },
         {
             "Key": 3618045903,
@@ -43119,8 +43399,16 @@
             "Value": "New Study Finds Super Eagle to be Most Democratic Bird."
         },
         {
+            "Key": 3667791748,
+            "Value": "INSPIRED LABORERS"
+        },
+        {
             "Key": 3670045382,
             "Value": "Not much is known about this planet."
+        },
+        {
+            "Key": 3670656870,
+            "Value": "MORE BATTLEFIELD AMMO"
         },
         {
             "Key": 3671853690,
@@ -43137,6 +43425,10 @@
         {
             "Key": 3673381184,
             "Value": "Number of uses of <i=1>#V_ONE</i> stratagem is temporarily reduced by #V_TWO."
+        },
+        {
+            "Key": 3680443513,
+            "Value": "Constant eruptions keep this planet covered in lava flows and utterly inhospitable to Democratic life. It also makes it a treasure trove of rare minerals."
         },
         {
             "Key": 3680923929,
@@ -43199,6 +43491,10 @@
             "Value": "#SHORT - #LONG"
         },
         {
+            "Key": 3711039703,
+            "Value": "<i=1>Eagle Rearm</i> time is <i=1>#V_ONE</i> seconds slower on all planets."
+        },
+        {
             "Key": 3714868912,
             "Value": "FINAL CHARGE"
         },
@@ -43245,6 +43541,10 @@
         {
             "Key": 3762112087,
             "Value": "Not much is known about this planet."
+        },
+        {
+            "Key": 3764194516,
+            "Value": "<i=1>Extraction time</i> on this planet is <i=1>#V_ONE</i> seconds slower on this planet."
         },
         {
             "Key": 3764648044,
@@ -43335,6 +43635,10 @@
             "Value": "The Eagle Airstrike stratagem is temporarily available to all Helldivers."
         },
         {
+            "Key": 3825744973,
+            "Value": "LIBERTY DAY CELEBRATION"
+        },
+        {
             "Key": 3833236254,
             "Value": "WEAPONS EXPERIMENTATION"
         },
@@ -43380,7 +43684,7 @@
         },
         {
             "Key": 3861654825,
-            "Value": "DECREASED SUPPLIES"
+            "Value": "LESS BATTLEFIELD AMMO"
         },
         {
             "Key": 3862338222,
@@ -43463,6 +43767,10 @@
             "Value": "XP"
         },
         {
+            "Key": 3908391598,
+            "Value": "<i=1>Extraction time</i> against the <i=1>Terminids</i> is <i=1>#V_ONE</i> seconds faster."
+        },
+        {
             "Key": 3910555043,
             "Value": "MEGA CITY"
         },
@@ -43533,6 +43841,10 @@
         {
             "Key": 3987183872,
             "Value": "OPERATION IMPACT"
+        },
+        {
+            "Key": 3988232937,
+            "Value": "Super Earth, our home, is the center of Liberty Day Festivities. Together, all citizens can watch on television the annual Defense Parade, the Justice Executions, and of course, the Freedom Fireworks. \n\nOn this special day, Helldivers are encouraged to visit Super Earth and watch this year's fireworks from their Super Destroyers."
         },
         {
             "Key": 3991486518,
@@ -43887,20 +44199,12 @@
             "Value": "ELECTRONIC COUNTERMEASURES"
         },
         {
-            "Key": 4240023177,
-            "Value": "GRENADE POUCH SHORTAGE"
-        },
-        {
             "Key": 4240196127,
             "Value": "Health regeneration no longer in effect."
         },
         {
             "Key": 4240961977,
             "Value": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
-        },
-        {
-            "Key": 4243009745,
-            "Value": "INSPIRED LABORERS"
         },
         {
             "Key": 4245057976,
@@ -44005,6 +44309,10 @@
         {
             "Key": 17580256,
             "Value": "Incendiary Mines"
+        },
+        {
+            "Key": 20063808,
+            "Value": "A throwable anti-personnel mine, capable of adhering to most surfaces. Upon deployment, emits lights and sounds which attract nearby hostiles to its proximity-activated detonator."
         },
         {
             "Key": 20882451,
@@ -44155,6 +44463,10 @@
             "Value": "GS-17 FRONTIER MARSHAL"
         },
         {
+            "Key": 83689656,
+            "Value": "[REDACTED]"
+        },
+        {
             "Key": 85169903,
             "Value": "Additional mounts for bombs allows for one more strike before the Eagle has to return and rearm."
         },
@@ -44303,6 +44615,10 @@
             "Value": "A plasma igniter that reduces the vertical recoil created when firing."
         },
         {
+            "Key": 141161975,
+            "Value": "SUPPRESSOR"
+        },
+        {
             "Key": 142076512,
             "Value": "15x100mm Plasma"
         },
@@ -44317,6 +44633,10 @@
         {
             "Key": 143783336,
             "Value": "#NAME #TYPE #PIECE"
+        },
+        {
+            "Key": 146591054,
+            "Value": "Triangulation Veil"
         },
         {
             "Key": 149163679,
@@ -44611,6 +44931,10 @@
             "Value": "W.A.S.P. LAUNCHER BACKPACK"
         },
         {
+            "Key": 267001981,
+            "Value": "This cape celebrates the one Veridical Ideology—Managed Democracy—a truth so self-evident, it requires no proof beyond the unwavering obedience of its champions."
+        },
+        {
             "Key": 268032670,
             "Value": "An improved formula for napalm fuel is used, resulting in a significantly longer burn time on the ground."
         },
@@ -44897,6 +45221,10 @@
         {
             "Key": 373357431,
             "Value": "NOT YET IMPLEMENTED The 'KNIGHT' is a submachine gun with an extreme rate of fire and an advanced recoil-dampening system. Capable of putting its entire magazine on target within seconds, this weapon is best used on close to medium range.\n\nThe bullets quickly lose speed and as such decrease impact force on longer distances. In the SEAF this weapon is mostly issued to vehicle and flight crews as well as supporting personnel."
+        },
+        {
+            "Key": 373655897,
+            "Value": "R-72"
         },
         {
             "Key": 374820182,
@@ -45451,6 +45779,10 @@
             "Value": "GS-11 Democracy's Deputy"
         },
         {
+            "Key": 598780185,
+            "Value": "Armor inspired by the legend of the Sanctioner, a figure known only through a bizarrely unanimous patchwork of stifled whispers. As told, this fearsome, covert arbiter of primeval Justice delivered final, state-approved verdicts in the chaotic years before the Federation's founding."
+        },
+        {
             "Key": 599422663,
             "Value": "High-Speed Servos"
         },
@@ -45521,6 +45853,10 @@
         {
             "Key": 622789768,
             "Value": "EXO-45"
+        },
+        {
+            "Key": 623612841,
+            "Value": "Suppressor"
         },
         {
             "Key": 624817623,
@@ -45769,6 +46105,10 @@
         {
             "Key": 714923769,
             "Value": "Atomizes caustic chemicals into a fine mist that liquifies sensitive electronics and tissues. Blinds and slows most enemies."
+        },
+        {
+            "Key": 715614302,
+            "Value": "A backpack containing six adhesive C4 charges and a handheld wireless electronic detonator. Charges can be deployed and detonated individually, or as multiple simultaneous blasts."
         },
         {
             "Key": 715927899,
@@ -46107,6 +46447,10 @@
             "Value": "EAGLE'S FURY"
         },
         {
+            "Key": 849272024,
+            "Value": "RS-100 SANCTIONER"
+        },
+        {
             "Key": 850731546,
             "Value": "MISSILE PERFORMANCE"
         },
@@ -46141,6 +46485,10 @@
         {
             "Key": 863548083,
             "Value": "15x100mm FRAGMENTATION"
+        },
+        {
+            "Key": 865901582,
+            "Value": "GILDED QUILL"
         },
         {
             "Key": 865908403,
@@ -46493,6 +46841,10 @@
         {
             "Key": 1001350245,
             "Value": "FASTER DEPLOYMENT"
+        },
+        {
+            "Key": 1002465957,
+            "Value": "RS-89 SHADOW PARAGON"
         },
         {
             "Key": 1004228550,
@@ -46855,6 +47207,10 @@
             "Value": "At Ease"
         },
         {
+            "Key": 1147397142,
+            "Value": "A fully automatic assault rifle featuring a non-removable suppressor and subsonic ammunition. Slower rounds allow low-profile operation."
+        },
+        {
             "Key": 1148083630,
             "Value": "Beacon of Mercy"
         },
@@ -46897,6 +47253,10 @@
         {
             "Key": 1155286393,
             "Value": "SC-34 Infiltrator"
+        },
+        {
+            "Key": 1155728923,
+            "Value": "Gilded Quill"
         },
         {
             "Key": 1156037646,
@@ -46981,6 +47341,10 @@
         {
             "Key": 1185066006,
             "Value": "B-27 FORTIFIED COMMANDO"
+        },
+        {
+            "Key": 1185748997,
+            "Value": "A dart-firing pistol. Each of its six rounds administers a gaseous chemical agent, harmful to hostiles whether organic or artificial, that also induces a state of delirium in the target."
         },
         {
             "Key": 1185995338,
@@ -47112,7 +47476,7 @@
         },
         {
             "Key": 1244754797,
-            "Value": "A heavily-armored walking exosuit equipped with a rocket launcher and a heavy machine gun."
+            "Value": "A heavily-armored walking exosuit equipped with a rocket launcher and a gatling gun."
         },
         {
             "Key": 1245073310,
@@ -47495,6 +47859,10 @@
             "Value": "INCREASED MAGAZINE CAPACITY"
         },
         {
+            "Key": 1400346687,
+            "Value": "RS-67 NULL CIPHER"
+        },
+        {
             "Key": 1400787797,
             "Value": "A larger rocket pod allows for more rockets to be fired each run, increasing the chance that the target will be taken out."
         },
@@ -47541,6 +47909,10 @@
         {
             "Key": 1416711028,
             "Value": "REDEEMER"
+        },
+        {
+            "Key": 1417553908,
+            "Value": "United in Equality"
         },
         {
             "Key": 1418558378,
@@ -47617,6 +47989,14 @@
         {
             "Key": 1443709731,
             "Value": "LAS-7"
+        },
+        {
+            "Key": 1444669283,
+            "Value": "VERIDICAL IDEOLOGY"
+        },
+        {
+            "Key": 1446063753,
+            "Value": "AR-59"
         },
         {
             "Key": 1447724304,
@@ -47761,6 +48141,10 @@
         {
             "Key": 1485721627,
             "Value": "STUN"
+        },
+        {
+            "Key": 1489041550,
+            "Value": "This vision-disruptive pattern cloaks the silent crusaders whose untraceable deeds are a pure expression of true Freedom: freedom from accountability."
         },
         {
             "Key": 1489603174,
@@ -47983,6 +48367,10 @@
             "Value": "The heavy machine gun can now switch between three different fire rates to conserve ammo or increase the damage output."
         },
         {
+            "Key": 1585416923,
+            "Value": "SMOKESCREEN"
+        },
+        {
             "Key": 1586874850,
             "Value": "100kg Bomb"
         },
@@ -48097,6 +48485,10 @@
         {
             "Key": 1643867402,
             "Value": "PUNISHER PLASMA"
+        },
+        {
+            "Key": 1643905163,
+            "Value": "P-35"
         },
         {
             "Key": 1643982568,
@@ -48249,6 +48641,10 @@
         {
             "Key": 1696692036,
             "Value": "Armor-piercing explosive rounds, effective against light vehicle armor."
+        },
+        {
+            "Key": 1696831565,
+            "Value": "TM-1"
         },
         {
             "Key": 1696952059,
@@ -48563,6 +48959,10 @@
             "Value": "INCREASED STORAGE"
         },
         {
+            "Key": 1822256274,
+            "Value": "DETONATE"
+        },
+        {
             "Key": 1825206923,
             "Value": "LIGHTENED CASING"
         },
@@ -48709,6 +49109,10 @@
         {
             "Key": 1880175574,
             "Value": "A modified Liberator firing concussive rounds which do less damage but stagger enemies."
+        },
+        {
+            "Key": 1880424678,
+            "Value": "Pillar of the Abyss"
         },
         {
             "Key": 1880455446,
@@ -48943,6 +49347,10 @@
             "Value": "Inside the collar is embroidered: \"Wherever I may plant my shield, know that I will never yield,\" and \"machine washable.\""
         },
         {
+            "Key": 1970153390,
+            "Value": "Censor"
+        },
+        {
             "Key": 1972178326,
             "Value": "Courtly Bow"
         },
@@ -48985,6 +49393,10 @@
         {
             "Key": 1983191482,
             "Value": "The muted colors and relaxed, high-mobility fit make this a favorite among long-distance snipers and hide-and-seek champions alike."
+        },
+        {
+            "Key": 1985611308,
+            "Value": "A smoke grenade that rapidly deploys a small, dense cloud. Allows for rapid personal concealment and exfiltration."
         },
         {
             "Key": 1986695707,
@@ -49223,6 +49635,10 @@
             "Value": "Larger Search Radius"
         },
         {
+            "Key": 2077736904,
+            "Value": "TRIANGULATION VEIL"
+        },
+        {
             "Key": 2079436940,
             "Value": "ANTI-AIR"
         },
@@ -49285,6 +49701,10 @@
         {
             "Key": 2092226836,
             "Value": "40mm FLAK CANNON"
+        },
+        {
+            "Key": 2093158570,
+            "Value": "This armor, coated in radar-absorbent polymers and a null-signature heat baffle, reportedly turns its wearer into a sensor ghost—a claim attributed to individuals who, curiously, appear to have never existed."
         },
         {
             "Key": 2093520486,
@@ -49421,6 +49841,10 @@
         {
             "Key": 2126950968,
             "Value": "NEW EXPLOSIVE FILLER"
+        },
+        {
+            "Key": 2128004169,
+            "Value": "Armor befitting infiltrators of all caliber. Inspired by mythical Democracy-dispensers, whose meticulously undocumented operations remain an inspiration to all students of stealth."
         },
         {
             "Key": 2129711499,
@@ -49669,6 +50093,10 @@
         {
             "Key": 2226140047,
             "Value": "GS-11 DEMOCRACY'S DEPUTY"
+        },
+        {
+            "Key": 2229240372,
+            "Value": "DEPLOY"
         },
         {
             "Key": 2230439364,
@@ -50227,6 +50655,10 @@
             "Value": "EXTENDED MAGAZINE"
         },
         {
+            "Key": 2420165896,
+            "Value": "B/MD"
+        },
+        {
             "Key": 2424163971,
             "Value": "TORCHER"
         },
@@ -50527,6 +50959,10 @@
             "Value": "A shotgun used in colonies to hunt and protect from threats."
         },
         {
+            "Key": 2545384143,
+            "Value": "LURE MINE"
+        },
+        {
             "Key": 2545832384,
             "Value": "The thumper is equipped with a piston, used for sending out strong vibrations into the ground, which disrupt nearby bug nests."
         },
@@ -50733,6 +51169,10 @@
         {
             "Key": 2647399470,
             "Value": "Inspired by the trailblazing agents of the Super Earth Terraforming Company. These rugged adventurers surveyed hostile new planets during the post-GW1 Great Expansion era, preparing the untamed frontier for rapid and efficient assimilation."
+        },
+        {
+            "Key": 2647716199,
+            "Value": "A mid-range precision rifle. Equipped with an integrated suppressor and subsonic rounds for barely-detectable operation."
         },
         {
             "Key": 2647844829,
@@ -51071,6 +51511,10 @@
             "Value": "Orbital Smoke Strike"
         },
         {
+            "Key": 2769135006,
+            "Value": "RS-100 Sanctioner"
+        },
+        {
             "Key": 2770058262,
             "Value": "Stun Baton"
         },
@@ -51081,6 +51525,10 @@
         {
             "Key": 2772178636,
             "Value": "INCENDIARY MINES"
+        },
+        {
+            "Key": 2772570910,
+            "Value": "C4 Pack"
         },
         {
             "Key": 2773753195,
@@ -51133,6 +51581,10 @@
         {
             "Key": 2781604833,
             "Value": "Ergonomic Drum"
+        },
+        {
+            "Key": 2782065547,
+            "Value": "G-89"
         },
         {
             "Key": 2786999754,
@@ -51371,6 +51823,10 @@
             "Value": "CW-22 KODIAK"
         },
         {
+            "Key": 2860078854,
+            "Value": "PILLAR OF THE ABYSS"
+        },
+        {
             "Key": 2863703793,
             "Value": "A tube red dot sight with 2x magnification, good for hitting small targets consistently over medium range."
         },
@@ -51461,6 +51917,10 @@
         {
             "Key": 2898696143,
             "Value": "IMPATIENT"
+        },
+        {
+            "Key": 2899640133,
+            "Value": "CENSOR"
         },
         {
             "Key": 2900528531,
@@ -51875,6 +52335,10 @@
             "Value": "Larger Magazines"
         },
         {
+            "Key": 3055483883,
+            "Value": "UNITED IN EQUALITY"
+        },
+        {
             "Key": 3058249690,
             "Value": "FS-11 EXECUTIONER"
         },
@@ -52197,6 +52661,10 @@
         {
             "Key": 3154833986,
             "Value": "NOT IMPLEMENTED The Expendable Anti-Tank is a one shot support weapon specialized at taking out armored targets. Though you can carry only one, they are cheap and easy to deploy and can serve as a great on demand anti-armor weapon should you encounter unexpected enemy armor."
+        },
+        {
+            "Key": 3160067283,
+            "Value": "REDUCED SIGNATURE"
         },
         {
             "Key": 3161943025,
@@ -52561,6 +53029,10 @@
         {
             "Key": 3303112030,
             "Value": "Each purchase of this cape comes with a complimentary will and testament amendment form, which guarantees the soon-to-be-deceased a prominent spot on the Wall of Martyrs."
+        },
+        {
+            "Key": 3303496283,
+            "Value": "The golden, piercing quills symbolize the deadly and poetic Justice delivered to seditious oppositionists. Silent sanctions, delivered with unerring precision and incontestable deniability."
         },
         {
             "Key": 3306288095,
@@ -53183,6 +53655,10 @@
             "Value": "THORACIC COLLISION EXULTATION MANEUVER"
         },
         {
+            "Key": 3518850509,
+            "Value": "RE-EDUCATOR"
+        },
+        {
             "Key": 3519672519,
             "Value": "Loading Drills"
         },
@@ -53329,6 +53805,10 @@
         {
             "Key": 3575945766,
             "Value": "Some soldiers report picking up strange radio interference when wearing this armor near alien artifacts."
+        },
+        {
+            "Key": 3578495106,
+            "Value": "RS-67 Null Cipher"
         },
         {
             "Key": 3579339289,
@@ -53539,6 +54019,10 @@
             "Value": "Based on the ceremonial pennant flags of early Super Earth, which now adorn the entrance to each Ministry."
         },
         {
+            "Key": 3666626223,
+            "Value": "Re-educator"
+        },
+        {
             "Key": 3672796864,
             "Value": "An experimental compressed explosive is used instead of the standard, giving a much bigger boom. Explosion radius is increased from 10m to 12m. "
         },
@@ -53573,6 +54057,10 @@
         {
             "Key": 3677140801,
             "Value": "AX/TX-13"
+        },
+        {
+            "Key": 3677938169,
+            "Value": "To honor the heartfelt siblinghood of the heroes who stood together, bled together, and laid down their lives together in defense of Equality-On-Sea, all Helldivers are awarded one (1) commemorative polyester cape."
         },
         {
             "Key": 3678248605,
@@ -53617,6 +54105,10 @@
         {
             "Key": 3686957532,
             "Value": "FLEET ADMIRAL"
+        },
+        {
+            "Key": 3687426286,
+            "Value": "TARGET SIGHTED"
         },
         {
             "Key": 3692999116,
@@ -53717,6 +54209,10 @@
         {
             "Key": 3740246275,
             "Value": "Gives less recoil."
+        },
+        {
+            "Key": 3740465736,
+            "Value": "Smokescreen"
         },
         {
             "Key": 3741166472,
@@ -53951,6 +54447,10 @@
             "Value": "FLAMETHROWER"
         },
         {
+            "Key": 3821806431,
+            "Value": "Lure Mine"
+        },
+        {
             "Key": 3822174712,
             "Value": "A heavier version of the Breaker shotgun, with higher damage at the cost of recoil and maneuverability."
         },
@@ -53985,6 +54485,10 @@
         {
             "Key": 3835273275,
             "Value": "The Laser Cannon is equipped with a better heatsink and can fire for a longer time before it needs to cool down."
+        },
+        {
+            "Key": 3837575192,
+            "Value": "Target Sighted"
         },
         {
             "Key": 3837994681,
@@ -54279,6 +54783,10 @@
             "Value": "CE-81 JUGGERNAUT"
         },
         {
+            "Key": 3949936246,
+            "Value": "RS-89 Shadow Paragon"
+        },
+        {
             "Key": 3950887010,
             "Value": "4x Combat Scope"
         },
@@ -54505,6 +55013,10 @@
         {
             "Key": 4037877717,
             "Value": "INCREASED STORAGE"
+        },
+        {
+            "Key": 4040092621,
+            "Value": "Veridical Ideology"
         },
         {
             "Key": 4042984776,
@@ -54959,6 +55471,10 @@
             "Value": "12g Scatter Shot"
         },
         {
+            "Key": 4201323204,
+            "Value": "A cape inspired by hypothetical covert operatives—pillars of Democratic order, operating in the hostile abyss where Liberty's light cannot yet reach."
+        },
+        {
             "Key": 4201645655,
             "Value": "Adjudicator"
         },
@@ -55033,6 +55549,10 @@
         {
             "Key": 4226697606,
             "Value": "FRAG"
+        },
+        {
+            "Key": 4226754563,
+            "Value": "C4 PACK"
         },
         {
             "Key": 4229070637,
@@ -56527,6 +57047,10 @@
             "Value": "TOGGLE MICROPHONE"
         },
         {
+            "Key": 280230815,
+            "Value": "Gloom Base Bravo"
+        },
+        {
             "Key": 283076138,
             "Value": "WEAPON DETAILS"
         },
@@ -57171,6 +57695,10 @@
             "Value": "SHIP MANAGEMENT"
         },
         {
+            "Key": 661319112,
+            "Value": "Super Gloom Base Alpha"
+        },
+        {
             "Key": 662796926,
             "Value": "Adjusts how much acceleration is applied to the controller camera control. Higher values mean much higher sensitivity when the sticks are at max range."
         },
@@ -57189,6 +57717,10 @@
         {
             "Key": 669593876,
             "Value": "GENERATE"
+        },
+        {
+            "Key": 671544406,
+            "Value": "The former site of the Deep Mantle Forge Complex, stolen by the Automatons and destroyed."
         },
         {
             "Key": 672612253,
@@ -57233,6 +57765,10 @@
         {
             "Key": 716447849,
             "Value": "Scales the distance and screen sizes at which objects are drawn. Reducing this improves CPU performance."
+        },
+        {
+            "Key": 717015403,
+            "Value": "Center of Science (Destroyed)"
         },
         {
             "Key": 717825012,
@@ -57485,6 +58021,10 @@
         {
             "Key": 843419660,
             "Value": "Quality Profile"
+        },
+        {
+            "Key": 847733001,
+            "Value": "E-710 Farms"
         },
         {
             "Key": 852429409,
@@ -57827,6 +58367,10 @@
             "Value": "TOGGLE HUD"
         },
         {
+            "Key": 1057123789,
+            "Value": "The former site of the Center of Science. Once a beacon of technology, it now lies in ruins following a violent Terminid assault."
+        },
+        {
             "Key": 1059428164,
             "Value": "Enabling this setting makes bright surfaces glow."
         },
@@ -58077,6 +58621,10 @@
         {
             "Key": 1195432865,
             "Value": "CHANGE EQUIPMENT (SHORT)"
+        },
+        {
+            "Key": 1195480985,
+            "Value": "An experimental lab has been constructed on this planet to synthesize Dark Fluid from E-711."
         },
         {
             "Key": 1197227568,
@@ -58915,6 +59463,10 @@
             "Value": "SHOCK TROOPER PACK"
         },
         {
+            "Key": 1717653672,
+            "Value": "The second manned site established in Gloom-infested space."
+        },
+        {
             "Key": 1718818796,
             "Value": "The relay towers on this planet are important to Automaton communications."
         },
@@ -58933,6 +59485,10 @@
         {
             "Key": 1730119987,
             "Value": "BOOSTER"
+        },
+        {
+            "Key": 1731183300,
+            "Value": "Equips Hellpods to deploy smokescreens on impact, obscuring Helldiver deployment."
         },
         {
             "Key": 1732551315,
@@ -59135,6 +59691,10 @@
             "Value": "Backup Crew"
         },
         {
+            "Key": 1849785256,
+            "Value": "Concealed Insertion"
+        },
+        {
             "Key": 1855211481,
             "Value": "MISSION STRATAGEM PERMIT"
         },
@@ -59287,6 +59847,10 @@
             "Value": "SHIP RANK LEVEL #LEVEL"
         },
         {
+            "Key": 1954197593,
+            "Value": "This fully-upgraded facility enables deep operations within the Gloom. Operations on surrounding planets will be significantly supported."
+        },
+        {
             "Key": 1955083248,
             "Value": "MELEE"
         },
@@ -59329,6 +59893,10 @@
         {
             "Key": 1979291018,
             "Value": "SLIMLINE BOMB CASINGS"
+        },
+        {
+            "Key": 1982258300,
+            "Value": "The former site of the AM Defense Factory Hub. AM Defense was fortuitously able to reclaim its losses through insurance; the lives that were lost, however, can never be adequately compensated for."
         },
         {
             "Key": 1982728820,
@@ -59759,6 +60327,10 @@
             "Value": "REPORT"
         },
         {
+            "Key": 2189342716,
+            "Value": "Factory Hub (Destroyed)"
+        },
+        {
             "Key": 2190298508,
             "Value": "Cheating"
         },
@@ -59813,6 +60385,10 @@
         {
             "Key": 2224862582,
             "Value": "BLOCKED PLAYERS"
+        },
+        {
+            "Key": 2226079853,
+            "Value": "Enables an extensive logistics network to operate within the Gloom, negating adverse Gloom effects on surrounding planets."
         },
         {
             "Key": 2226531684,
@@ -60127,6 +60703,10 @@
             "Value": "Select when an on-screen option will be shown. Default behavior is to only display the on-screen keyboard if a keyboard was not used to enter the text input state. May require Steam Big Picture mode on PC."
         },
         {
+            "Key": 2401426028,
+            "Value": "CONCEALED INSERTION"
+        },
+        {
             "Key": 2401556349,
             "Value": "Allows Helldivers to traverse difficult terrain with ease."
         },
@@ -60371,6 +60951,14 @@
             "Value": "Upgrade your ship modules to enhance the capabilities of your Stratagems! It's the perfect way to turn samples into Liberty."
         },
         {
+            "Key": 2520880460,
+            "Value": "Dark Fluid Synthesis Laboratory"
+        },
+        {
+            "Key": 2523019553,
+            "Value": "Center for Citizen Surveillance (Destroyed)"
+        },
+        {
             "Key": 2523202457,
             "Value": "Increases orbital targeting speed by updating cannon targeting software to premium version."
         },
@@ -60583,6 +61171,14 @@
             "Value": "Helldiver Armor Customization"
         },
         {
+            "Key": 2635225528,
+            "Value": "Gloom Outpost Bravo"
+        },
+        {
+            "Key": 2639736168,
+            "Value": "Site For Vengeful Contemplation of Tyranny's Crimes"
+        },
+        {
             "Key": 2642638685,
             "Value": "MOVE BACK"
         },
@@ -60633,6 +61229,10 @@
         {
             "Key": 2676755704,
             "Value": "Stamina Enhancement"
+        },
+        {
+            "Key": 2684434865,
+            "Value": "A highly secure facility for the safe growth and breeding of Terminids and low-risk extraction of E-710 is located here."
         },
         {
             "Key": 2686156913,
@@ -60741,6 +61341,10 @@
         {
             "Key": 2728372259,
             "Value": "Inverts up and down control of mouse direction in First Person View (FPV)."
+        },
+        {
+            "Key": 2728865019,
+            "Value": "The former site of the Center for Citizen Surveillance. The tragic loss of the facility further evidences the critical imperative of comprehensive domestic surveillance."
         },
         {
             "Key": 2731309671,
@@ -61035,6 +61639,10 @@
             "Value": "ZOOM OUT"
         },
         {
+            "Key": 2866294438,
+            "Value": "The former site of the Xenoentomology Center, destroyed by the Terminids. Many scientists were horrifically massacred in the unprovoked attack."
+        },
+        {
             "Key": 2867341805,
             "Value": "HIDDEN"
         },
@@ -61159,6 +61767,10 @@
             "Value": "SHIP MODULE:"
         },
         {
+            "Key": 2927807501,
+            "Value": "This fully-upgraded facility enables deep operations within the Gloom. Operations on surrounding planets will be significantly supported."
+        },
+        {
             "Key": 2928246556,
             "Value": "ORDER DETAILS"
         },
@@ -61229,6 +61841,10 @@
         {
             "Key": 2966292393,
             "Value": "#COUNTs"
+        },
+        {
+            "Key": 2966433229,
+            "Value": "Extensive mining and drilling operations are taking place to comb this former Hive World for all traces of the highly valuable substance known as E-711."
         },
         {
             "Key": 2966569319,
@@ -62271,6 +62887,10 @@
             "Value": "WEAPON CUSTOMIZATION"
         },
         {
+            "Key": 3554352793,
+            "Value": "Deep Mantle Forge Complex (Destroyed)"
+        },
+        {
             "Key": 3558858480,
             "Value": "Render Distance"
         },
@@ -62285,6 +62905,10 @@
         {
             "Key": 3566811523,
             "Value": "Primary Objective Visibility"
+        },
+        {
+            "Key": 3567969782,
+            "Value": "The Meridian Wormhole was created by the Illuminate and wielded to destroy entire planets and threaten Super Earth itself. Here, authorized visitors may view the destructive singularity and remind themselves why our enemies deserve total annihilation."
         },
         {
             "Key": 3569034914,
@@ -62559,6 +63183,10 @@
             "Value": "Super Earth Ministry of Truth"
         },
         {
+            "Key": 3726809868,
+            "Value": "Here, citizens in well-insulated worksuits operate facilities liberated from the Automatons, and repurposed to sustainably extract rare materials from the highly volcanic planet."
+        },
+        {
             "Key": 3728286212,
             "Value": "AVAILABLE AT <i=1>LEVEL #RANK</i>"
         },
@@ -62787,6 +63415,10 @@
             "Value": "<i=1>Enemy resistance on this Hive World is lowered.</i>"
         },
         {
+            "Key": 3848186075,
+            "Value": "E-711 Extraction Facility"
+        },
+        {
             "Key": 3849358231,
             "Value": "Language"
         },
@@ -62865,6 +63497,10 @@
         {
             "Key": 3891699662,
             "Value": "SPRING-LOADED HINGES"
+        },
+        {
+            "Key": 3892609265,
+            "Value": "Extreme Temperature Extraction Plant"
         },
         {
             "Key": 3894063849,
@@ -63055,6 +63691,10 @@
             "Value": "#DAYS Days Left"
         },
         {
+            "Key": 3979919195,
+            "Value": "Xenoentomology Center (Destroyed)"
+        },
+        {
             "Key": 3980566610,
             "Value": "SHIP MODULE"
         },
@@ -63097,6 +63737,10 @@
         {
             "Key": 3997337233,
             "Value": "A limited-time expedition is being conducted into the Gloom on this planet, at significant cost."
+        },
+        {
+            "Key": 3998055819,
+            "Value": "Super Gloom Base Bravo"
         },
         {
             "Key": 3998730464,
@@ -65747,6 +66391,10 @@
             "Value": "#COUNT confirmed kills"
         },
         {
+            "Key": 50109409,
+            "Value": "APPROPRIATE REFINERY"
+        },
+        {
             "Key": 50882734,
             "Value": "INTELLIGENCE EXTRACTED:"
         },
@@ -65783,12 +66431,24 @@
             "Value": "ERADICATE MUTATED NESTS"
         },
         {
+            "Key": 76819432,
+            "Value": "Swiftly secure the platinum at this site and extract before enemy reinforcements overwhelm you."
+        },
+        {
             "Key": 81814212,
             "Value": "An SSSD Hard Drive containing valuable data was lost at this location following an ambush of a SEAF squad. It must be recovered."
         },
         {
+            "Key": 85108748,
+            "Value": "Transport shuttle incoming"
+        },
+        {
             "Key": 85322608,
             "Value": "Wait for artillery system to initiate"
+        },
+        {
+            "Key": 87612306,
+            "Value": "Organic plasma is synthesized in these vats. Siphon it for scientific analysis."
         },
         {
             "Key": 91078680,
@@ -65807,8 +66467,16 @@
             "Value": "RESCUE SCIENCE TEAMS"
         },
         {
+            "Key": 110821011,
+            "Value": "OVERWRITE CORE PROTOCOLS"
+        },
+        {
             "Key": 114886262,
             "Value": "CAPTURE AUTOMATON TERRITORY"
+        },
+        {
+            "Key": 118371087,
+            "Value": "DOCUMENT EVIDENCE"
         },
         {
             "Key": 119095182,
@@ -65821,10 +66489,6 @@
         {
             "Key": 120796772,
             "Value": "COLLECT SAMPLES"
-        },
-        {
-            "Key": 122381140,
-            "Value": "Once the Mobile Extraction Rig is secured, use it to extract the resources in this area."
         },
         {
             "Key": 124201287,
@@ -65853,6 +66517,10 @@
         {
             "Key": 147835329,
             "Value": "#ERROR!"
+        },
+        {
+            "Key": 158061641,
+            "Value": "EXTRACT INTEL"
         },
         {
             "Key": 161452983,
@@ -65979,6 +66647,10 @@
             "Value": "Restart the pumps located in this region."
         },
         {
+            "Key": 280534572,
+            "Value": "FUSION BATTERY"
+        },
+        {
             "Key": 285652382,
             "Value": "ELIMINATE BILE TITAN"
         },
@@ -66001,6 +66673,10 @@
         {
             "Key": 301829205,
             "Value": "Proceed to facility gate"
+        },
+        {
+            "Key": 302478499,
+            "Value": "MINING SITE COORDINATES"
         },
         {
             "Key": 303008397,
@@ -66035,6 +66711,10 @@
             "Value": "Activate terminal"
         },
         {
+            "Key": 322244446,
+            "Value": "The Automatons are stealing the minerals of this planet from our citizens at this quarry. Take it back."
+        },
+        {
             "Key": 328518441,
             "Value": "All Objectives Completed"
         },
@@ -66059,10 +66739,6 @@
             "Value": "CONFIRMING COORDINATES"
         },
         {
-            "Key": 355073112,
-            "Value": "SECURE MOBILE EXTRACTION RIG"
-        },
-        {
             "Key": 357436400,
             "Value": "Low Death Count Bonus"
         },
@@ -66085,6 +66761,10 @@
         {
             "Key": 363904388,
             "Value": "Defend Battery Silo 01"
+        },
+        {
+            "Key": 367155459,
+            "Value": "SEIZE INDUSTRIAL COMPLEX"
         },
         {
             "Key": 369469234,
@@ -66157,6 +66837,10 @@
         {
             "Key": 417698738,
             "Value": "Payout already received"
+        },
+        {
+            "Key": 427985058,
+            "Value": "INTEL PACKAGE"
         },
         {
             "Key": 429291484,
@@ -66299,6 +66983,10 @@
             "Value": "Pick up supplies and load Liberator"
         },
         {
+            "Key": 534530899,
+            "Value": "Lock the hose to the transfer pump"
+        },
+        {
             "Key": 536616162,
             "Value": "#MISSION_TYPE: #MISSION_NAME"
         },
@@ -66325,6 +67013,10 @@
         {
             "Key": 552388957,
             "Value": "Grotesque Monoliths now pepper this city, boldly empowering the Illuminate through unknown means. Their inscrutability is an affront to Liberty. They must be destroyed."
+        },
+        {
+            "Key": 556037519,
+            "Value": "Demolition sequence initiated"
         },
         {
             "Key": 556769669,
@@ -66372,7 +67064,7 @@
         },
         {
             "Key": 583831193,
-            "Value": "Honorable Duty"
+            "Value": "Outstanding Patriotism"
         },
         {
             "Key": 593930033,
@@ -66389,6 +67081,10 @@
         {
             "Key": 604043691,
             "Value": "Destroy ammunition stockpiles"
+        },
+        {
+            "Key": 606403742,
+            "Value": "Establishing link..."
         },
         {
             "Key": 607964299,
@@ -66448,7 +67144,7 @@
         },
         {
             "Key": 653025412,
-            "Value": "#ENTITY IS OUT OF RANGE"
+            "Value": "#ENTITY is out of range"
         },
         {
             "Key": 653331449,
@@ -66515,8 +67211,16 @@
             "Value": "Lightning Spires"
         },
         {
+            "Key": 703225368,
+            "Value": "The Automatons use a highly-advanced keycard security system. A keycard located here will grant access to their secure containment unit."
+        },
+        {
             "Key": 704813543,
             "Value": "RETRIEVE THE GENERAL'S ORDERS"
+        },
+        {
+            "Key": 706503498,
+            "Value": "A high-definition tactical video camera has been deployed to this location. It is critical to recording evidence of the enemy's crimes."
         },
         {
             "Key": 713672151,
@@ -66579,6 +67283,10 @@
             "Value": "Turn all valves indicated by the terminal"
         },
         {
+            "Key": 756729094,
+            "Value": "Place switches to indicated positions"
+        },
+        {
             "Key": 759124456,
             "Value": "BRING #ENTITY TO HIVE"
         },
@@ -66619,8 +67327,16 @@
             "Value": "VERIFY TRANSFER CHECKSUM"
         },
         {
+            "Key": 778517830,
+            "Value": "COMMANDO OPERATION"
+        },
+        {
             "Key": 782436802,
             "Value": "MISSION REWARDS"
+        },
+        {
+            "Key": 783509927,
+            "Value": "Establish connection to Super Destroyer to secure reinforcements"
         },
         {
             "Key": 785844264,
@@ -66633,6 +67349,10 @@
         {
             "Key": 793095850,
             "Value": "DEPLOY SEISMIC PROBE"
+        },
+        {
+            "Key": 799787116,
+            "Value": "The Automatons are synthesizing some kind of nutrient-dense plasma from organic material. Undeniable intel shows 100% of this organic material came from loyal citizens with high potential and excellent facial symmetry. The purpose of this plasma is yet unknown, but its production is extremely costly.\n\nDue to enemy anti-air, this mission must be extremely rapid. Destroy the Bio-Processors that fuel plasma synthesis, then extract."
         },
         {
             "Key": 802464482,
@@ -66683,12 +67403,12 @@
             "Value": "Drill Status: Stable"
         },
         {
-            "Key": 839352736,
-            "Value": "Utilize the Mobile Extraction Rig to extract the mysterious substance from all identified sites."
-        },
-        {
             "Key": 841369837,
             "Value": "Silo Power Module"
+        },
+        {
+            "Key": 844757833,
+            "Value": "Infiltrate this site to acquire high-value intel, and extract with it in your possession."
         },
         {
             "Key": 845126010,
@@ -66703,12 +67423,20 @@
             "Value": "An illegal propaganda broadcast has been traced to this location."
         },
         {
+            "Key": 855357990,
+            "Value": "A heavily-guarded cache of high-grade platinum is located here. The material is the rightful property of Super Earth and its citizens, and it is your duty to reclaim it. \n\nLocal reinforcements will activate as soon as your presence is detected. Get in, reclaim the material, and get out."
+        },
+        {
             "Key": 856398682,
             "Value": "Drill may disturb subterranean creatures"
         },
         {
             "Key": 858415206,
             "Value": "SILO HATCH LOCKED"
+        },
+        {
+            "Key": 863574571,
+            "Value": "COMMANDO OPERATION"
         },
         {
             "Key": 865432226,
@@ -66733,6 +67461,10 @@
         {
             "Key": 893045708,
             "Value": "Kill the Terminid"
+        },
+        {
+            "Key": 897195810,
+            "Value": "Destroy the Bio-Processors that fuel synthesis of organic plasma, then extract."
         },
         {
             "Key": 897258492,
@@ -66831,6 +67563,10 @@
             "Value": "Confirm depth using drill interface"
         },
         {
+            "Key": 959258356,
+            "Value": "Gather nearby assets and place them in the container"
+        },
+        {
             "Key": 959618138,
             "Value": "Pull transformer unit lever"
         },
@@ -66895,6 +67631,10 @@
             "Value": "EMERGENCY EVACUATION"
         },
         {
+            "Key": 1021441989,
+            "Value": "MAIN COMPONENTS"
+        },
+        {
             "Key": 1026152227,
             "Value": "LOAD ARTILLERY SHELLS"
         },
@@ -66925,6 +67665,10 @@
         {
             "Key": 1048553999,
             "Value": "Use terminal to sabotage Control Tower"
+        },
+        {
+            "Key": 1062726371,
+            "Value": "DESTROY BIO-PROCESSORS"
         },
         {
             "Key": 1063103250,
@@ -66959,6 +67703,10 @@
             "Value": "EARN YOUR HELLDIVER CAPE"
         },
         {
+            "Key": 1084439566,
+            "Value": "Smelting"
+        },
+        {
             "Key": 1084788693,
             "Value": "RAISE FLAG OF SUPER EARTH"
         },
@@ -66977,6 +67725,10 @@
         {
             "Key": 1095612653,
             "Value": "INPUT ACTIVATION SEQUENCE"
+        },
+        {
+            "Key": 1103087785,
+            "Value": "THREAT LEVEL: LOW"
         },
         {
             "Key": 1104170543,
@@ -67095,6 +67847,10 @@
             "Value": "System Access Module"
         },
         {
+            "Key": 1185874471,
+            "Value": "INSTALL ROOTKIT"
+        },
+        {
             "Key": 1190235804,
             "Value": "Reduce the bug population by any means necessary."
         },
@@ -67105,6 +67861,10 @@
         {
             "Key": 1190975309,
             "Value": "RECLAIM CITY"
+        },
+        {
+            "Key": 1191354573,
+            "Value": "LINK HELLPODS TO DESTROYER"
         },
         {
             "Key": 1195041927,
@@ -67283,6 +68043,10 @@
             "Value": "Activate terminal"
         },
         {
+            "Key": 1329086705,
+            "Value": "Infiltrate the site and acquire undeniable evidence of the enemy's unforgivable crimes."
+        },
+        {
             "Key": 1330906044,
             "Value": "Utilize the GATER to extract the E-711 from all identified sites."
         },
@@ -67301,6 +68065,10 @@
         {
             "Key": 1342077885,
             "Value": "DAILY REWARD"
+        },
+        {
+            "Key": 1344003897,
+            "Value": "Secure a black box containing critical intel from a downed SEAF recon aircraft."
         },
         {
             "Key": 1344755793,
@@ -67375,6 +68143,10 @@
             "Value": "Victory"
         },
         {
+            "Key": 1374843215,
+            "Value": "Intel has pinpointed the storage of two highly valuable products at this location: high-grade platinum and fusion batteries. Produced at extremely high cost, the materials are intended to facilitate the mass murder of innocent civilians. It is imperative that they are seized before this can happen.\n\nRaid the facility. Secure and extract platinum bars and fusion batteries on-site."
+        },
+        {
             "Key": 1375464804,
             "Value": "Escort and protect researchers as they travel to the evacuation zone."
         },
@@ -67415,6 +68187,10 @@
             "Value": "Fuel"
         },
         {
+            "Key": 1401793427,
+            "Value": "A cache of 99% purity platinum is located here. The Automatons intend to use this valuable metal to endanger Democracy. Seize it."
+        },
+        {
             "Key": 1404839977,
             "Value": "Destroy the Automatons' orbital cannons in the area."
         },
@@ -67445,6 +68221,10 @@
         {
             "Key": 1436046545,
             "Value": "Free trapped colonists and escort them to safe evacuation."
+        },
+        {
+            "Key": 1437066282,
+            "Value": "Release the hose"
         },
         {
             "Key": 1439210511,
@@ -67505,6 +68285,10 @@
         {
             "Key": 1472930399,
             "Value": "CURRENCY"
+        },
+        {
+            "Key": 1477149023,
+            "Value": "The Automatons are conducting mineral surveys to identify rich ore veins to recklessly exploit. It is critical that we secure those sites first, so that this planet's resources are used responsibly. \n\nExpropriate the coordinates of this region's prospective sites from the Automatons, and extract site samples to assess their potential."
         },
         {
             "Key": 1479552987,
@@ -67599,6 +68383,10 @@
             "Value": "Allow shuttles to collect deposited fuel from reserves."
         },
         {
+            "Key": 1559577929,
+            "Value": "SECURE BLACK BOX"
+        },
+        {
             "Key": 1560124544,
             "Value": "Boot the terminal"
         },
@@ -67639,6 +68427,10 @@
             "Value": "Use Stratagem: <i=1>#ENTITY</i>"
         },
         {
+            "Key": 1585667401,
+            "Value": "Deploy deep behind enemy lines. Certain missions will have severely limited Super Destroyer support."
+        },
+        {
             "Key": 1589424449,
             "Value": "Activate terminal"
         },
@@ -67647,8 +68439,16 @@
             "Value": "SEIZE THE CIVILIAN SATELLITE TOWERS"
         },
         {
+            "Key": 1592504616,
+            "Value": "COMMANDO"
+        },
+        {
             "Key": 1592613774,
             "Value": "RECOVER SSSD"
+        },
+        {
+            "Key": 1594707715,
+            "Value": "BATTERY STORAGE STATION CONSOLE"
         },
         {
             "Key": 1595355818,
@@ -67723,6 +68523,10 @@
             "Value": "Destroy Automaton infrastructure to cripple their troop production capabilities."
         },
         {
+            "Key": 1641002756,
+            "Value": "DISRUPT SOCIALIST INDUSTRY"
+        },
+        {
             "Key": 1642197796,
             "Value": "Access Codes"
         },
@@ -67759,6 +68563,10 @@
             "Value": "Rocket Launch in Progress"
         },
         {
+            "Key": 1660885238,
+            "Value": "ANNEX QUARRY"
+        },
+        {
             "Key": 1673130948,
             "Value": "Locate Pump Site"
         },
@@ -67769,6 +68577,14 @@
         {
             "Key": 1673923679,
             "Value": "FUSE 2"
+        },
+        {
+            "Key": 1676571676,
+            "Value": "The bio-processors here are the first step in synthesis of organic plasma. They must be destroyed."
+        },
+        {
+            "Key": 1679544793,
+            "Value": "REFINERY CENTRAL CONTROL"
         },
         {
             "Key": 1691572204,
@@ -67797,6 +68613,10 @@
         {
             "Key": 1705537422,
             "Value": "Ready to initiate reloading sequence for M723 Orbital Slag Shell"
+        },
+        {
+            "Key": 1705611194,
+            "Value": "Find mining sites identified by the Automatons and extract samples to assess their potential."
         },
         {
             "Key": 1706024967,
@@ -67855,6 +68675,10 @@
             "Value": "An Automaton Air Base is located in this region. Dropships are undergoing maintenance at this facility, leaving them vulnerable."
         },
         {
+            "Key": 1748495489,
+            "Value": "Intel indicates a massive and covert Automaton industrial undertaking, which the enemy has taken extreme measures to keep hidden. Further intel is located on the ground at this location. Low orbit interdiction weaponry makes prolonged Destroyer deployment impossible. Once deployed, you're on your own.\n\nThis operation is extremely dangerous. But it is imperative we identify the nature and locations of the Automaton scheme. "
+        },
+        {
             "Key": 1751374118,
             "Value": "ELIMINATE AUTOMATON HULKS"
         },
@@ -67881,6 +68705,10 @@
         {
             "Key": 1763202421,
             "Value": "REPEL INVASION"
+        },
+        {
+            "Key": 1765705860,
+            "Value": "SWITCH 2"
         },
         {
             "Key": 1767301278,
@@ -68039,6 +68867,10 @@
             "Value": "Insufficient fuel"
         },
         {
+            "Key": 1874084773,
+            "Value": "Load Fusion Batteries into Cargo Container"
+        },
+        {
             "Key": 1880335159,
             "Value": "The TCS is ready. Secure this planet from the bugs forevermore."
         },
@@ -68047,8 +68879,16 @@
             "Value": "FACILITY OPERATION INACTIVE"
         },
         {
+            "Key": 1893894578,
+            "Value": "DESTROY FREIGHTERS"
+        },
+        {
             "Key": 1895124532,
             "Value": "DRILLING IN PROGRESS"
+        },
+        {
+            "Key": 1895607022,
+            "Value": "SECURE TACTICAL VIDEO CAMERA"
         },
         {
             "Key": 1897839356,
@@ -68211,6 +69051,10 @@
             "Value": "Conduct a geological survey to identify valuable ore veins."
         },
         {
+            "Key": 2037673288,
+            "Value": "Refinery products are shipped for further processing via freighters docked here. Destroy them."
+        },
+        {
             "Key": 2039095996,
             "Value": "This Terminid hive node emits a dense fog which reduces visibility."
         },
@@ -68223,6 +69067,10 @@
             "Value": "Fire mode settings"
         },
         {
+            "Key": 2053347620,
+            "Value": "Extract with tactical video camera"
+        },
+        {
             "Key": 2053793640,
             "Value": "Please don't touch moving parts"
         },
@@ -68231,8 +69079,24 @@
             "Value": "Illuminate Harvesters are patrolling this city block. Seek and destroy the roaming menace."
         },
         {
+            "Key": 2057996380,
+            "Value": "High-value intel of the enemy's plans is hard-coded onto devices that high-confidence intel indicates is located at this location. \n\nInfiltrate the site, acquire the intel, and extract with it in your possession."
+        },
+        {
             "Key": 2063895312,
             "Value": "Fortification Class"
+        },
+        {
+            "Key": 2064052499,
+            "Value": "KEYCARD"
+        },
+        {
+            "Key": 2064403217,
+            "Value": "Enemy defenses in this area make prolonged Super Destroyer deployment impossible for certain missions. Be prepared to operate with severely limited Super Destroyer support."
+        },
+        {
+            "Key": 2066712812,
+            "Value": "Use terminal to complete takeover"
         },
         {
             "Key": 2067123077,
@@ -68249,6 +69113,10 @@
         {
             "Key": 2070314061,
             "Value": "Destroy the Shrieker Nest"
+        },
+        {
+            "Key": 2071327434,
+            "Value": "TACTICAL VIDEO CAMERA"
         },
         {
             "Key": 2073441684,
@@ -68269,6 +69137,10 @@
         {
             "Key": 2090959963,
             "Value": "A heavily reinforced Automaton convoy is expected to cross through this region. Intercept and destroy the convoy before it leaves the mission area."
+        },
+        {
+            "Key": 2094520759,
+            "Value": "No Reinforcement Pods available"
         },
         {
             "Key": 2095994991,
@@ -68317,6 +69189,10 @@
         {
             "Key": 2141540131,
             "Value": "Locate and destroy Automaton Fabricators."
+        },
+        {
+            "Key": 2143284501,
+            "Value": "Hellpods will be deployed to this location upon mission launch. Due to the Super Destroyer's absence, normal reinforcement will be unavailable. \n\nSecuring this site will give access to additional reinforcements, who will deploy directly from this location."
         },
         {
             "Key": 2144732626,
@@ -68407,6 +69283,10 @@
             "Value": "Activating this generator will supply critically-needed power to SEAF devices in the region."
         },
         {
+            "Key": 2197847436,
+            "Value": "Seize the Automaton industrial complex in the name of Managed Democracy."
+        },
+        {
             "Key": 2204289064,
             "Value": "Evacuation shuttle en route"
         },
@@ -68429,6 +69309,10 @@
         {
             "Key": 2216916513,
             "Value": "Elapsed time on surface"
+        },
+        {
+            "Key": 2219413559,
+            "Value": "SABOTAGE ORGO-PLASMA SYNTHESIS"
         },
         {
             "Key": 2232151788,
@@ -68457,6 +69341,10 @@
         {
             "Key": 2246173906,
             "Value": "There are millions of kilometers of Terminid tunnels beneath the surface of this planet. A detailed subterranean mapping is necessary to identify critical targets.\n\nUtilize a repurposed Prospecting Drill to collect samples of the infested mantle. Analyses will identify properties of local Terminid structures."
+        },
+        {
+            "Key": 2249405204,
+            "Value": "Incriminating evidence recorded"
         },
         {
             "Key": 2250960762,
@@ -68503,6 +69391,10 @@
             "Value": "Manually realign the satellite tower"
         },
         {
+            "Key": 2266806766,
+            "Value": "The downed SEAF aircraft is located here. Its black box contains crucial intel."
+        },
+        {
             "Key": 2267878169,
             "Value": "RESTORE AIR QUALITY"
         },
@@ -68529,6 +69421,10 @@
         {
             "Key": 2285267100,
             "Value": "Do not point artillery at anything you do not wish to destroy"
+        },
+        {
+            "Key": 2288844056,
+            "Value": "A SEAF Reconnaissance aircraft was just shot down at this site. The aircraft had identified critical intelligence of enemy force allocations. \n\nInfiltrate the area and secure the black box containing the intel."
         },
         {
             "Key": 2290530748,
@@ -68581,6 +69477,10 @@
         {
             "Key": 2316288590,
             "Value": "The Automaton offensive has taken this area, leaving one of our top secret research stations surrounded by the enemy.\n\nUse your clearance to unlock the emergency bunker doors, and defend the facility staff as they transfer to the evacuation shuttle."
+        },
+        {
+            "Key": 2318467471,
+            "Value": "Station active"
         },
         {
             "Key": 2318515204,
@@ -68671,6 +69571,10 @@
             "Value": "The extractors over this massive repository of crude oil have ceased functioning and must be re-activated."
         },
         {
+            "Key": 2368120173,
+            "Value": "SWITCH 4"
+        },
+        {
             "Key": 2370408778,
             "Value": "Beware of blinding blizzards and deep snow."
         },
@@ -68696,11 +69600,19 @@
         },
         {
             "Key": 2383338337,
-            "Value": "Unremarkable Performance"
+            "Value": "Superior Valor"
+        },
+        {
+            "Key": 2383887678,
+            "Value": "EXTRACT ORGANIC PLASMA"
         },
         {
             "Key": 2385167251,
-            "Value": "Disappointing Service"
+            "Value": "Honorable Duty"
+        },
+        {
+            "Key": 2388077047,
+            "Value": "THREAT LEVEL: MAXIMUM"
         },
         {
             "Key": 2391925668,
@@ -68784,7 +69696,7 @@
         },
         {
             "Key": 2467146338,
-            "Value": "Superior Valor"
+            "Value": "Truly Exceptional Heroism"
         },
         {
             "Key": 2468140080,
@@ -68793,6 +69705,10 @@
         {
             "Key": 2468339199,
             "Value": "ANTI-AIR EMPLACEMENT"
+        },
+        {
+            "Key": 2468812125,
+            "Value": "Use terminal to complete sabotage"
         },
         {
             "Key": 2470414457,
@@ -68823,6 +69739,10 @@
             "Value": "Bring the three battery silos online, then initiate the dispersion of Termicide."
         },
         {
+            "Key": 2492072473,
+            "Value": "PLATINUM BAR"
+        },
+        {
             "Key": 2493471413,
             "Value": "Surveillance suggests a Brood Commander is in this location."
         },
@@ -68839,6 +69759,10 @@
             "Value": "We have identified a number of heavily-guarded bunkers in this region. We suspect they contain Command Nodes central to linking in to the Automaton Transmission Stream.\n\nDestroy the bunkers, and cut the bots off from the flow of information."
         },
         {
+            "Key": 2506614173,
+            "Value": "EXTRACT INTEL"
+        },
+        {
             "Key": 2507454049,
             "Value": "Please keep limbs away from moving drill parts"
         },
@@ -68849,6 +69773,10 @@
         {
             "Key": 2510614687,
             "Value": "SYSTEM ERROR"
+        },
+        {
+            "Key": 2510839207,
+            "Value": "REINFORCEMENT PODS"
         },
         {
             "Key": 2525564346,
@@ -68887,6 +69815,10 @@
             "Value": "MELEE KILLS:"
         },
         {
+            "Key": 2543912374,
+            "Value": "THREAT LEVEL: HIGH"
+        },
+        {
             "Key": 2547152065,
             "Value": "The Automatons have gained ground in this region, constructing a vast network of Fabricators which allow them to replicate extremely rapidly.\n\nWe have detected a narrow window of maintenance, giving us a chance to strike at their facilities. Destroy all that you can."
         },
@@ -68895,12 +69827,12 @@
             "Value": "Terminid Control System"
         },
         {
-            "Key": 2555575705,
-            "Value": "Find Terminid Charger"
+            "Key": 2554856065,
+            "Value": "OBTAIN COORDINATES"
         },
         {
-            "Key": 2568866401,
-            "Value": "Enter the Mobile Extraction Rig"
+            "Key": 2555575705,
+            "Value": "Find Terminid Charger"
         },
         {
             "Key": 2569398198,
@@ -68964,7 +69896,7 @@
         },
         {
             "Key": 2596970518,
-            "Value": "Outstanding Patriotism"
+            "Value": "Gallantry Beyond Measure"
         },
         {
             "Key": 2597423876,
@@ -69003,6 +69935,10 @@
             "Value": "DESTROY ILLUMINATE WARP SHIP"
         },
         {
+            "Key": 2619320064,
+            "Value": "COLLECT MINERAL DATA"
+        },
+        {
             "Key": 2621362674,
             "Value": "Establish connection to SEAF network"
         },
@@ -69019,12 +69955,20 @@
             "Value": "Extract with SSSD"
         },
         {
+            "Key": 2632570592,
+            "Value": "Once acquired, bring the footage to this location for secure extraction."
+        },
+        {
             "Key": 2634629103,
             "Value": "Database downloading"
         },
         {
             "Key": 2645065579,
             "Value": "Use drill interface to deploy Nuclear Payload"
+        },
+        {
+            "Key": 2646602779,
+            "Value": "Find the downed SEAF recon aircraft"
         },
         {
             "Key": 2648549122,
@@ -69049,6 +69993,10 @@
         {
             "Key": 2665110557,
             "Value": "Drill Status: Critically Damaged"
+        },
+        {
+            "Key": 2666542614,
+            "Value": "Disrupt production of organic plasma and secure samples of the liquid for further analysis."
         },
         {
             "Key": 2669057553,
@@ -69185,6 +70133,10 @@
         {
             "Key": 2760899332,
             "Value": "LOCK TARGET COORDINATES"
+        },
+        {
+            "Key": 2762045800,
+            "Value": "SWITCH 5"
         },
         {
             "Key": 2768917302,
@@ -69347,6 +70299,10 @@
             "Value": "Locate and eliminate the Automaton Factory Strider"
         },
         {
+            "Key": 2907608837,
+            "Value": "Crushing"
+        },
+        {
             "Key": 2909063579,
             "Value": "Stable"
         },
@@ -69365,6 +70321,10 @@
         {
             "Key": 2918259917,
             "Value": "Use the Cannon to shoot down the Overship"
+        },
+        {
+            "Key": 2919420525,
+            "Value": "ACQUIRE EVIDENCE"
         },
         {
             "Key": 2920986948,
@@ -69401,10 +70361,6 @@
         {
             "Key": 2932445209,
             "Value": "INTEL EXTRACTED"
-        },
-        {
-            "Key": 2939043982,
-            "Value": "MOBILE EXTRACTION RIG"
         },
         {
             "Key": 2939559118,
@@ -69523,6 +70479,10 @@
             "Value": "Login required"
         },
         {
+            "Key": 3032463011,
+            "Value": "SWITCH 3"
+        },
+        {
             "Key": 3042714175,
             "Value": "EVACUATE PRIORITY CITIZENS"
         },
@@ -69539,8 +70499,16 @@
             "Value": "Searching for problems. Please wait."
         },
         {
+            "Key": 3057905493,
+            "Value": "DESTROY BIO-PROCESSORS"
+        },
+        {
             "Key": 3058010335,
             "Value": "Eliminate Charger"
+        },
+        {
+            "Key": 3061226967,
+            "Value": "Load Platinum Bars into Cargo Container"
         },
         {
             "Key": 3062607332,
@@ -69573,6 +70541,10 @@
         {
             "Key": 3089029877,
             "Value": "The recon aircraft is located here. Its precious black box must be recovered."
+        },
+        {
+            "Key": 3100570863,
+            "Value": "ORGANIC PLASMA FLOW BLOCKED"
         },
         {
             "Key": 3102562666,
@@ -69639,8 +70611,16 @@
             "Value": "Transport Black Box to Communications Relay"
         },
         {
+            "Key": 3138429204,
+            "Value": "Extract with Intel Package"
+        },
+        {
             "Key": 3139947901,
             "Value": "SPORE SPEWER"
+        },
+        {
+            "Key": 3141709354,
+            "Value": "CONFISCATE ASSETS"
         },
         {
             "Key": 3152259079,
@@ -69703,6 +70683,10 @@
             "Value": "MAIN OBJECTIVES"
         },
         {
+            "Key": 3196977326,
+            "Value": "BATTERY DISPERSAL INTERFACE"
+        },
+        {
             "Key": 3199974650,
             "Value": "Please log in"
         },
@@ -69747,12 +70731,20 @@
             "Value": "Find Terminid Bile Titan"
         },
         {
+            "Key": 3239007371,
+            "Value": "We have located a key facility in the Automaton's mining operations. Platinum ore is extracted, refined, and shipped to other facilities for further processing. \n\nThese assets have been deemed forfeit to the Federation. Seize them."
+        },
+        {
             "Key": 3242249721,
             "Value": "Confirm"
         },
         {
             "Key": 3247307197,
             "Value": "SHUTTLE LEAVING WITH VEHICLE"
+        },
+        {
+            "Key": 3248706805,
+            "Value": "There is reason to believe this facility holds undeniable proof of socialist war crimes. Weapons of mass destruction, breaches of interstellar humanitarian law, unspeakable threats to our citizens. Held deep behind enemy lines.\n\nYou must bring the truth to light. Infiltrate the site and obtain footage of this wrongdoing. Our citizens must see the true face of the enemy."
         },
         {
             "Key": 3250980093,
@@ -69781,10 +70773,6 @@
         {
             "Key": 3267783984,
             "Value": "#COUNT XP TO NEXT LEVEL"
-        },
-        {
-            "Key": 3269330624,
-            "Value": "A Mobile Extraction Rig has been deployed to this area, where multiple high-value substance reservoirs have been identified.\n\nYou have been summarily certified as Expert Large Vehicle Operators. Deploy to the area and utilize the Mobile Extraction Rig to extract the mysterious substance from all identified locations."
         },
         {
             "Key": 3270977612,
@@ -69839,6 +70827,10 @@
             "Value": "BUNKER HATCH LOCKED"
         },
         {
+            "Key": 3305068834,
+            "Value": "CALL IN SUPER DESTROYER"
+        },
+        {
             "Key": 3306914533,
             "Value": "We have received credible reports of brutal Automaton Hulks in the region. Destroying them would weaken the Automaton command structure.\n\nLocate the Hulks, and eliminate them."
         },
@@ -69873,6 +70865,10 @@
         {
             "Key": 3326816535,
             "Value": "Purge site of Terminid Matter"
+        },
+        {
+            "Key": 3327391057,
+            "Value": "Concrete, undeniable evidence of unspeakable Automaton atrocities are located here. Capture them with the tactical video camera so the truth can be brought to light."
         },
         {
             "Key": 3328841511,
@@ -69927,6 +70923,10 @@
             "Value": "Orbital infrared scans have detected the waste heat of an Automaton Factory Strider in this region. If it is allowed to persist, the planet will be overrun with mechanical monstrosities before long.\n\nEnd it."
         },
         {
+            "Key": 3346432464,
+            "Value": "BLACK BOX"
+        },
+        {
             "Key": 3347495776,
             "Value": "SEARCH AND DESTROY"
         },
@@ -69951,6 +70951,10 @@
             "Value": "Use Resupply Stratagem to call in supplies"
         },
         {
+            "Key": 3363315792,
+            "Value": "SWITCH 1"
+        },
+        {
             "Key": 3364251595,
             "Value": "Destroy #COUNT armored tanks or armored troop transports"
         },
@@ -69965,6 +70969,10 @@
         {
             "Key": 3385979084,
             "Value": "Eliminate Factory Strider"
+        },
+        {
+            "Key": 3388756109,
+            "Value": "Use terminal to commandeer refinery"
         },
         {
             "Key": 3391266100,
@@ -69984,7 +70992,7 @@
         },
         {
             "Key": 3395090182,
-            "Value": "System Processing..."
+            "Value": "SYSTEM PROCESSING..."
         },
         {
             "Key": 3399935348,
@@ -70027,8 +71035,16 @@
             "Value": "Cleared Heavy Illuminate Encampment"
         },
         {
+            "Key": 3413068530,
+            "Value": "Transferring data from SSSD"
+        },
+        {
             "Key": 3414478064,
             "Value": "PLACEHOLDER"
+        },
+        {
+            "Key": 3416752180,
+            "Value": "This is a potential platinum-rich site identified by the Automatons. Take a site sample to determine its viability."
         },
         {
             "Key": 3419620263,
@@ -70059,6 +71075,10 @@
             "Value": "Destroy Antenna transmitters"
         },
         {
+            "Key": 3438445098,
+            "Value": "Call in a large container to load up with liberated goods for secure extraction."
+        },
+        {
             "Key": 3441049493,
             "Value": "Deploy to the Supercolony, call down the Dark Fluid Vessel, and insert it at each of the payload sites to help destroy the planet."
         },
@@ -70073,6 +71093,10 @@
         {
             "Key": 3445857369,
             "Value": "Be advised that you will shortly expire if you are reading this"
+        },
+        {
+            "Key": 3455941334,
+            "Value": "Coordinates of potential ore strains, identified by the Automatons, are located here. Seize them."
         },
         {
             "Key": 3460898800,
@@ -70127,10 +71151,6 @@
             "Value": "Tactically eliminate all obstacles standing in the way of peace."
         },
         {
-            "Key": 3482387991,
-            "Value": "A Mobile Extraction Rig has been deployed to this area, where multiple E-711 reservoirs have been identified.\n\nYou have been summarily certified as Expert Large Vehicle Operators. Deploy to the area and utilize the Mobile Extraction Rig to extract E-711 from all identified locations."
-        },
-        {
             "Key": 3484875339,
             "Value": "LAUNCH ICBM"
         },
@@ -70181,6 +71201,10 @@
         {
             "Key": 3533302151,
             "Value": "This city is under attack. It cannot be allowed to fall to the forces of oppression."
+        },
+        {
+            "Key": 3534933252,
+            "Value": "COLLECT BLACK BOX"
         },
         {
             "Key": 3537061153,
@@ -70239,8 +71263,16 @@
             "Value": "OBJECTIVE LOCATION UNKNOWN"
         },
         {
+            "Key": 3592860045,
+            "Value": "A cache of cutting-edge fusion batteries are located here. They are made with stolen materials. Seize them."
+        },
+        {
             "Key": 3609805218,
             "Value": "UPLOAD BLACK BOX DATA"
+        },
+        {
+            "Key": 3615493305,
+            "Value": "Operate deep in enemy territory to uncover what vast operation the Automatons want to keep out of Liberty's sight."
         },
         {
             "Key": 3617271490,
@@ -70323,6 +71355,10 @@
             "Value": "A massive Terminid Nursery has been discovered here, crawling with millions of freshly-hatched larvae, mere weeks from ravenous adulthood. They must be wiped out, before they reach maturity even if we must sacrifice the city to do so.\n\nTerminid Nurseries consist of one or more Nursery Chambers. Use the Hive Breaker Drill to deliver a nuclear extermination device to each one."
         },
         {
+            "Key": 3678406658,
+            "Value": "Main Refinery Components Listed"
+        },
+        {
             "Key": 3680203702,
             "Value": "You will deploy to the surface of the Supercolony in vicinity of former TCS nodes, where the crust has been weakened. Once on the surface, call down the Dark Fluid Vessel and deliver it to each Payload site.\n\nThe Supercolony is like nothing you have deployed to before. Expect extreme resistance. All of Super Earth is counting on you."
         },
@@ -70387,12 +71423,24 @@
             "Value": "SYSTEM BOOTING"
         },
         {
+            "Key": 3717530748,
+            "Value": "Transfer in progress"
+        },
+        {
+            "Key": 3717706265,
+            "Value": "Intel Package"
+        },
+        {
             "Key": 3724716379,
             "Value": "EVACUATE HIGH-VALUE ASSETS"
         },
         {
             "Key": 3725770996,
             "Value": "No Deaths"
+        },
+        {
+            "Key": 3728828182,
+            "Value": "Raw ore is refined into high-grade platinum at this refinery. Seize control of it."
         },
         {
             "Key": 3732427795,
@@ -70423,10 +71471,6 @@
             "Value": "Access relay controls"
         },
         {
-            "Key": 3744021940,
-            "Value": "The Mobile Extraction Rig is located here."
-        },
-        {
             "Key": 3764267998,
             "Value": "#WAVES waves completed"
         },
@@ -70453,6 +71497,10 @@
         {
             "Key": 3791375433,
             "Value": "TRANSMISSION STATION UPLOAD READY"
+        },
+        {
+            "Key": 3791703638,
+            "Value": "Extract with Black Box"
         },
         {
             "Key": 3795512643,
@@ -70495,10 +71543,6 @@
             "Value": "DEFEND PLANET"
         },
         {
-            "Key": 3830784808,
-            "Value": "Utilize the Mobile Extraction Rig to extract the E-711 from all identified sites."
-        },
-        {
             "Key": 3835920908,
             "Value": "PLANETARY DEFENSE CANNON RAISING…"
         },
@@ -70531,8 +71575,16 @@
             "Value": "Please log in"
         },
         {
+            "Key": 3847588790,
+            "Value": "SEIZE HIGH-GRADE PLATINUM"
+        },
+        {
             "Key": 3848177901,
             "Value": "SHUTTLE ENROUTE"
+        },
+        {
+            "Key": 3851493511,
+            "Value": "THREAT LEVEL: MODERATE"
         },
         {
             "Key": 3853228634,
@@ -70595,6 +71647,10 @@
             "Value": "Eradicated Heavy Bug Nest"
         },
         {
+            "Key": 3906982366,
+            "Value": "Confiscate platinum and fusion batteries at this site."
+        },
+        {
             "Key": 3908101367,
             "Value": "Secure the SSSD containing the top-secret <c=FFFFE900>Cannon Access Codes</c>."
         },
@@ -70647,12 +71703,20 @@
             "Value": "INPUT LAUNCH CODE"
         },
         {
+            "Key": 3962314254,
+            "Value": "RETRIEVE KEYCARD"
+        },
+        {
             "Key": 3965369850,
             "Value": "#NAME"
         },
         {
             "Key": 3967915737,
             "Value": "ACTIVATE TERMICIDE TOWER"
+        },
+        {
+            "Key": 3968375375,
+            "Value": "Halt the extensive Automaton industrial operations on this lava-covered planet. Annex their facilities and seize their stolen goods."
         },
         {
             "Key": 3968858894,
@@ -70727,6 +71791,10 @@
             "Value": "Activate terminal"
         },
         {
+            "Key": 4003196211,
+            "Value": "We have discovered extensive Automaton mining and processing operations on this previously uninhabited planet. This lava-covered world is rich in mineral resources, but constant eruptions and a noxious atmosphere makes it unsuitable for human habitation. \n\nThe Automatons are recklessly exploiting the natural riches of this planet, stealing them from our citizens and transforming them into tools of Socialist oppression. We must stop them, annex their industry, and seize their stolen goods."
+        },
+        {
             "Key": 4004026431,
             "Value": "CRITICAL SYSTEMS INTERFACE"
         },
@@ -70787,6 +71855,14 @@
             "Value": "Destroy the Cognitive Disruptor's power supply."
         },
         {
+            "Key": 4060481832,
+            "Value": "SEIZE FUSION BATTERIES"
+        },
+        {
+            "Key": 4065130128,
+            "Value": "Retrieve coordinates"
+        },
+        {
             "Key": 4069339786,
             "Value": "The Automatons have heavily industrialized this region and are producing a nonstop supply of fresh troops. \n\nDestroy their infrastructure and kill as many bots as you can."
         },
@@ -70807,6 +71883,10 @@
             "Value": "HOLD CITY"
         },
         {
+            "Key": 4078219332,
+            "Value": "RAPID ACQUISITION"
+        },
+        {
             "Key": 4080344030,
             "Value": "Destroy Command Bunker"
         },
@@ -70823,6 +71903,10 @@
             "Value": "Automatons in this region pose an undeniable and multifaceted threat to Liberty. Do whatever it takes to defend our way of life."
         },
         {
+            "Key": 4094579242,
+            "Value": "The Automatons are synthesizing some kind of nutrient-dense plasma from organic material. Undeniable intel shows 100% of this organic material came from loyal citizens with high potential and excellent facial symmetry. The purpose of this plasma is yet unknown, but its production is extremely costly.\n\nDisrupt the plasma production and secure samples of the liquid for further analysis."
+        },
+        {
             "Key": 4097714902,
             "Value": "Samples Found"
         },
@@ -70837,6 +71921,14 @@
         {
             "Key": 4106526805,
             "Value": "An Automaton Hulk was last reported in this location."
+        },
+        {
+            "Key": 4113146532,
+            "Value": "ANNEX UNTAPPED MINERAL SITES"
+        },
+        {
+            "Key": 4114284942,
+            "Value": "EXTRACT WITH FOOTAGE"
         },
         {
             "Key": 4114740790,
@@ -70903,6 +71995,10 @@
             "Value": "NEUTRALIZE ORBITAL CANNON"
         },
         {
+            "Key": 4169211635,
+            "Value": "THREAT LEVEL: SUBSTANTIAL"
+        },
+        {
             "Key": 4169747191,
             "Value": "TRANSMIT DATA PACKAGE"
         },
@@ -70921,6 +72017,10 @@
         {
             "Key": 4176745187,
             "Value": "INITIATE POWER TRANSFER"
+        },
+        {
+            "Key": 4181311944,
+            "Value": "Purification"
         },
         {
             "Key": 4183229977,
@@ -71019,12 +72119,20 @@
             "Value": "ESTABLISH COMMUNICATION UPLINK"
         },
         {
+            "Key": 4270246281,
+            "Value": "CARGO CONTAINER"
+        },
+        {
             "Key": 4271378695,
             "Value": "Use terminal to open silo hatch"
         },
         {
             "Key": 4272049039,
             "Value": "TOTAL: +#AMOUNT M"
+        },
+        {
+            "Key": 4279826208,
+            "Value": "The high-value intel is located here. It is locked inside a secure containment unit."
         },
         {
             "Key": 4280970126,

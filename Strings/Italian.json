@@ -95,6 +95,10 @@
             "Value": "Mine incendiarie"
         },
         {
+            "Key": 20063808,
+            "Value": "Una mina antiuomo lanciabile, in grado di aderire alla maggior parte delle superfici. Quando viene lanciata, emette luci e suoni che attraggono i nemici vicini verso il suo detonatore di prossimità."
+        },
+        {
             "Key": 20882451,
             "Value": "G-109"
         },
@@ -217,6 +221,10 @@
         {
             "Key": 83359279,
             "Value": "SCERIFFO DI FRONTIERA GS-17"
+        },
+        {
+            "Key": 83689656,
+            "Value": "[OSCURATO]"
         },
         {
             "Key": 88479674,
@@ -347,12 +355,20 @@
             "Value": "Un potente fucile a pompa a doppio caricatore, con penetrazione limitata della corazza. Ideale per bersagli piccoli e veloci."
         },
         {
+            "Key": 141161975,
+            "Value": "SOPPRESSORE"
+        },
+        {
             "Key": 142076512,
             "Value": "Plasma 15x100mm"
         },
         {
             "Key": 142525292,
             "Value": "SERVOASSISTITO"
+        },
+        {
+            "Key": 146591054,
+            "Value": "Velo della triangolazione"
         },
         {
             "Key": 149163679,
@@ -603,6 +619,10 @@
             "Value": "ZAINO LANCIAMISSILI V.E.S.P.A."
         },
         {
+            "Key": 267001981,
+            "Value": "Questo mantello celebra l'unica Ideologia Veridica: la \nDemocrazia Controllata, una verità così evidente da non necessitare di prove al di là dell'incondizionata obbedienza dei suoi campioni."
+        },
+        {
             "Key": 270843764,
             "Value": "POTENZA SCUDO AUMENTATA"
         },
@@ -845,6 +865,10 @@
         {
             "Key": 373320745,
             "Value": "HELLJUMPER A-9"
+        },
+        {
+            "Key": 373655897,
+            "Value": "R-72"
         },
         {
             "Key": 375454065,
@@ -1299,6 +1323,10 @@
             "Value": "Vicesceriffo democratico GS-11"
         },
         {
+            "Key": 598780185,
+            "Value": "Corazza ispirata alla leggenda del Sanzionatore, una figura nota soltanto grazie a un bizzarro mosaico di sussurri soffocati. Si narra che questo temibile arbitro segreto di Giustizia primigenia emettesse verdetti definitivi e approvati dallo stato nei caotici anni precedenti alla fondazione della Federazione."
+        },
+        {
             "Key": 599422663,
             "Value": "Servomotore ad alta velocità"
         },
@@ -1361,6 +1389,10 @@
         {
             "Key": 622789768,
             "Value": "EXO-45"
+        },
+        {
+            "Key": 623612841,
+            "Value": "Soppressore"
         },
         {
             "Key": 624817623,
@@ -1573,6 +1605,10 @@
         {
             "Key": 714923769,
             "Value": "Vaporizza sostanze chimiche corrosive fino a formare una nebbia sottile in grado di liquefare i dispositivi elettronici sensibili e i tessuti. Acceca e rallenta la maggior parte dei nemici."
+        },
+        {
+            "Key": 715614302,
+            "Value": "Uno zaino contenente sei cariche C4 adesive e un detonatore elettronico wireless manuale. Le cariche possono essere installate e fatte detonare singolarmente o simultaneamente."
         },
         {
             "Key": 715927899,
@@ -1871,6 +1907,10 @@
             "Value": "FURIA DEGLI EAGLE"
         },
         {
+            "Key": 849272024,
+            "Value": "RS-100 SANZIONATORE"
+        },
+        {
             "Key": 850731546,
             "Value": "PRESTAZIONI MISSILI"
         },
@@ -1901,6 +1941,10 @@
         {
             "Key": 863548083,
             "Value": "FRAMMENTAZIONE 15x100mm"
+        },
+        {
+            "Key": 865901582,
+            "Value": "PENNA DORATA"
         },
         {
             "Key": 865908403,
@@ -2189,6 +2233,10 @@
         {
             "Key": 1001350245,
             "Value": "AREA DI STORDIMENTO PIÙ AMPIA"
+        },
+        {
+            "Key": 1002465957,
+            "Value": "RS-89 PALADINO DELL'OMBRA"
         },
         {
             "Key": 1004228550,
@@ -2483,6 +2531,10 @@
             "Value": "Riposo"
         },
         {
+            "Key": 1147397142,
+            "Value": "Un fucile d'assalto automatico dotato di un silenziatore non removibile e munizioni subsoniche. Munizioni più lente garantiscono un funzionamento di basso profilo."
+        },
+        {
             "Key": 1148083630,
             "Value": "Faro di pietà"
         },
@@ -2521,6 +2573,10 @@
         {
             "Key": 1155286393,
             "Value": "SC-34 Infiltrato"
+        },
+        {
+            "Key": 1155728923,
+            "Value": "Penna dorata"
         },
         {
             "Key": 1156093318,
@@ -2589,6 +2645,10 @@
         {
             "Key": 1185066006,
             "Value": "B-27 COMMANDO FORTIFICATO"
+        },
+        {
+            "Key": 1185748997,
+            "Value": "Una pistola spara-dardi. Ciascuno dei sei proiettili rilascia un agente chimico gassoso, dannoso per gli avversari sia organici che artificiali, che induce inoltre uno stato di delirio nel bersaglio."
         },
         {
             "Key": 1185995338,
@@ -2700,7 +2760,7 @@
         },
         {
             "Key": 1244754797,
-            "Value": "Un esoscheletro deambulante pesantemente corazzato, dotato di un lanciarazzi e di una mitragliatrice pesante."
+            "Value": "Un esoscheletro deambulante pesantemente corazzato, dotato di un lanciarazzi e di una mitragliatrice gatling."
         },
         {
             "Key": 1248707192,
@@ -3035,6 +3095,10 @@
             "Value": "MAGGIORE CAPACITÀ DEL CARICATORE"
         },
         {
+            "Key": 1400346687,
+            "Value": "RS-67 CIFRA NULLA"
+        },
+        {
             "Key": 1401700439,
             "Value": "EREDITÀ DI MIRANDA"
         },
@@ -3077,6 +3141,10 @@
         {
             "Key": 1416711028,
             "Value": "REDENTORE"
+        },
+        {
+            "Key": 1417553908,
+            "Value": "Uniti nell'Uguaglianza"
         },
         {
             "Key": 1418558378,
@@ -3149,6 +3217,14 @@
         {
             "Key": 1443709731,
             "Value": "LAS-7"
+        },
+        {
+            "Key": 1444669283,
+            "Value": "IDEOLOGIA VERIDICA"
+        },
+        {
+            "Key": 1446063753,
+            "Value": "AR-59"
         },
         {
             "Key": 1447724304,
@@ -3281,6 +3357,10 @@
         {
             "Key": 1485721627,
             "Value": "STORDENTE"
+        },
+        {
+            "Key": 1489041550,
+            "Value": "Il motivo visivamente disturbante nasconde i silenziosi crociati i cui atti non tracciabili sono pura espressione della vera Libertà: la libertà dalla responsabilità."
         },
         {
             "Key": 1491792151,
@@ -3447,6 +3527,10 @@
             "Value": "Attacco aereo Eagle"
         },
         {
+            "Key": 1585416923,
+            "Value": "CORTINA FUMOGENA"
+        },
+        {
             "Key": 1586874850,
             "Value": "Bomba da 100kg"
         },
@@ -3545,6 +3629,10 @@
         {
             "Key": 1643867402,
             "Value": "PLASMA PUNITORE"
+        },
+        {
+            "Key": 1643905163,
+            "Value": "P-35"
         },
         {
             "Key": 1643982568,
@@ -3657,6 +3745,10 @@
         {
             "Key": 1694926820,
             "Value": "Nucleo in super uranio 5.5x50mm"
+        },
+        {
+            "Key": 1696831565,
+            "Value": "TM-1"
         },
         {
             "Key": 1696952059,
@@ -3939,6 +4031,10 @@
             "Value": "SPAZIO AUMENTATO"
         },
         {
+            "Key": 1822256274,
+            "Value": "FAI ESPLODERE"
+        },
+        {
             "Key": 1825206923,
             "Value": "INVOLUCRO ALLEGGERITO"
         },
@@ -4073,6 +4169,10 @@
         {
             "Key": 1880175574,
             "Value": "Un Liberatore modificato con proiettili a percussione che infliggono danni minori, ma stordiscono i nemici."
+        },
+        {
+            "Key": 1880424678,
+            "Value": "Pilastri dell'abisso"
         },
         {
             "Key": 1880455446,
@@ -4251,6 +4351,10 @@
             "Value": "All'interno del colletto è ricamata la frase: \"Dovunque pianti il mio scudo, sappiate che non mi arrenderò mai!\" e \"Lavabile in lavatrice\"."
         },
         {
+            "Key": 1970153390,
+            "Value": "Censore"
+        },
+        {
             "Key": 1972178326,
             "Value": "Inchino"
         },
@@ -4289,6 +4393,10 @@
         {
             "Key": 1983191482,
             "Value": "I colori tenui e la vestibilità rilassata, adatta ad un'alta mobilità, ne fanno uno dei preferiti dai cecchini a lunga distanza e dai campioni di nascondino."
+        },
+        {
+            "Key": 1985611308,
+            "Value": "Una granata fumogena che rilascia una nube piccola e densa. Permette un rapido occultamento personale e l'esfiltrazione."
         },
         {
             "Key": 1986695707,
@@ -4483,6 +4591,10 @@
             "Value": "Raggio di ricerca più ampio"
         },
         {
+            "Key": 2077736904,
+            "Value": "VELO DELLA TRIANGOLAZIONE"
+        },
+        {
             "Key": 2079436940,
             "Value": "ANTIAEREO"
         },
@@ -4537,6 +4649,10 @@
         {
             "Key": 2092226836,
             "Value": "CANNONE FLAK DA 40mm"
+        },
+        {
+            "Key": 2093158570,
+            "Value": "Questa corazza, ricoperta da polimeri radar-assorbenti e un deflettore con impronta termica nulla, trasforma chi la indossa in un vero e proprio fantasma sensoriale, una caratteristica attribuita a individui che, curiosamente, sembrano non essere mai esistiti."
         },
         {
             "Key": 2093520486,
@@ -4661,6 +4777,10 @@
         {
             "Key": 2126950968,
             "Value": "NUOVO CONTENUTO ESPLOSIVO"
+        },
+        {
+            "Key": 2128004169,
+            "Value": "Corazza adatta a infiltratori di ogni calibro. Ispirata dai mitici dispensatori di Democrazia le cui operazioni accuratamente non documentate restano un'ispirazione per tutti gli studenti di furtività."
         },
         {
             "Key": 2129711499,
@@ -4881,6 +5001,10 @@
         {
             "Key": 2226140047,
             "Value": "VICESCERIFFO DEMOCRATICO GS-11"
+        },
+        {
+            "Key": 2229240372,
+            "Value": "DISPIEGA"
         },
         {
             "Key": 2230439364,
@@ -5335,6 +5459,10 @@
             "Value": "CARICATORE ESTESO"
         },
         {
+            "Key": 2420165896,
+            "Value": "B/MD"
+        },
+        {
             "Key": 2424163971,
             "Value": "PIROMANE"
         },
@@ -5599,6 +5727,10 @@
             "Value": "ESTRAZIONE DI GAS NATURALE"
         },
         {
+            "Key": 2545384143,
+            "Value": "MINA ESCA"
+        },
+        {
             "Key": 2549383367,
             "Value": "ALTAMENTE ESPLOSIVA"
         },
@@ -5765,6 +5897,10 @@
         {
             "Key": 2647399470,
             "Value": "Ispirato ai pionieri della Compagnia di Terraformazione della Super Terra. Questi esperti avventurieri hanno esplorato nuovi pianeti ostili durante l'era della Grande Espansione post-Prima Guerra Galattica, per preparare la frontiera incontaminata a un'assimilazione rapida ed efficiente."
+        },
+        {
+            "Key": 2647716199,
+            "Value": "Un fucile di precisione a media gittata. Dotato di silenziatore integrato e munizioni subsoniche per operazioni quasi impercettibili."
         },
         {
             "Key": 2647844829,
@@ -6075,6 +6211,10 @@
             "Value": "Barriera fumogena orbitale"
         },
         {
+            "Key": 2769135006,
+            "Value": "RS-100 Sanzionatore"
+        },
+        {
             "Key": 2770058262,
             "Value": "Manganello stordente"
         },
@@ -6085,6 +6225,10 @@
         {
             "Key": 2772178636,
             "Value": "MINE INCENDIARIE"
+        },
+        {
+            "Key": 2772570910,
+            "Value": "Pacchetto C4"
         },
         {
             "Key": 2773753195,
@@ -6129,6 +6273,10 @@
         {
             "Key": 2781604833,
             "Value": "Tamburo ergonomico"
+        },
+        {
+            "Key": 2782065547,
+            "Value": "G-89"
         },
         {
             "Key": 2786999754,
@@ -6331,6 +6479,10 @@
             "Value": "CW-22 KODIAK"
         },
         {
+            "Key": 2860078854,
+            "Value": "PILASTRI DELL'ABISSO"
+        },
+        {
             "Key": 2863703793,
             "Value": "Un tubo red dot con ingrandimento 2x, ottimo per colpire bersagli piccoli con precisione a gittata media."
         },
@@ -6409,6 +6561,10 @@
         {
             "Key": 2898696143,
             "Value": "IMPAZIENTE"
+        },
+        {
+            "Key": 2899640133,
+            "Value": "CENSORE"
         },
         {
             "Key": 2900528531,
@@ -6739,6 +6895,10 @@
             "Value": "Caricatori più grandi"
         },
         {
+            "Key": 3055483883,
+            "Value": "UNITI NELL'UGUAGLIANZA"
+        },
+        {
             "Key": 3058249690,
             "Value": "FS-11 CARNEFICE"
         },
@@ -7013,6 +7173,10 @@
         {
             "Key": 3153686785,
             "Value": "Cacciatore di taglie"
+        },
+        {
+            "Key": 3160067283,
+            "Value": "IMPRONTA RIDOTTA"
         },
         {
             "Key": 3161943025,
@@ -7319,6 +7483,10 @@
             "Value": "Ogni mantello è accompagnato da un modulo di modifica del testamento, che garantisce al futuro defunto un posto di primo piano sul Muro dei Martiri."
         },
         {
+            "Key": 3303496283,
+            "Value": "Le dorate penne affilate simboleggiano la letale e poetica Giustizia inflitta ai sediziosi oppositori. Sanzioni silenziose, comminate con precisione infallibile e assoluta negabilità."
+        },
+        {
             "Key": 3306288095,
             "Value": "FRENO DI BOCCA IGNITORE PLASMA"
         },
@@ -7493,6 +7661,10 @@
         {
             "Key": 3361168857,
             "Value": "AMMIRAGLIO TESCHIO"
+        },
+        {
+            "Key": 3363562662,
+            "Value": "Un raggio laser allineato con la canna dell'arma per coadiuvare la mira."
         },
         {
             "Key": 3366160039,
@@ -7823,6 +7995,10 @@
             "Value": "MANOVRA DI COLLISIONE TORACICA"
         },
         {
+            "Key": 3518850509,
+            "Value": "RIEDUCATORE"
+        },
+        {
             "Key": 3519672519,
             "Value": "Esercitazioni di caricamento"
         },
@@ -7933,6 +8109,10 @@
         {
             "Key": 3575945766,
             "Value": "Alcuni soldati hanno riferito di aver percepito strane interferenze radio quando hanno indossato questa corazza in prossimità di manufatti alieni."
+        },
+        {
+            "Key": 3578495106,
+            "Value": "RS-67 Cifra nulla"
         },
         {
             "Key": 3579339289,
@@ -8111,6 +8291,10 @@
             "Value": "Si ispira alle bandiere cerimoniali risalenti agli albori della Super Terra, che ora adornano l'ingresso di ogni Ministero."
         },
         {
+            "Key": 3666626223,
+            "Value": "Rieducatore"
+        },
+        {
             "Key": 3674314040,
             "Value": "MIRINO REFLEX MK2"
         },
@@ -8137,6 +8321,10 @@
         {
             "Key": 3677140801,
             "Value": "AX/TX-13"
+        },
+        {
+            "Key": 3677938169,
+            "Value": "Per onorare il sincero spirito di fratellanza degli eroi che hanno combattuto insieme, versato sangue insieme e sacrificato la propria vita insieme in difesa di Uguaglianza sul Mare, tutti gli Helldiver riceveranno in dono un (1) mantello commemorativo in poliestere."
         },
         {
             "Key": 3678248605,
@@ -8177,6 +8365,10 @@
         {
             "Key": 3686957532,
             "Value": "GRANDE AMMIRAGLIO"
+        },
+        {
+            "Key": 3687426286,
+            "Value": "BERSAGLIO AVVISTATO"
         },
         {
             "Key": 3692999116,
@@ -8261,6 +8453,10 @@
         {
             "Key": 3738181443,
             "Value": "RICARICA RAPIDA"
+        },
+        {
+            "Key": 3740465736,
+            "Value": "Cortina fumogena"
         },
         {
             "Key": 3741166472,
@@ -8479,6 +8675,10 @@
             "Value": "LANCIAFIAMME"
         },
         {
+            "Key": 3821806431,
+            "Value": "Mina esca"
+        },
+        {
             "Key": 3822174712,
             "Value": "Una versione più pesante del fucile Spezzaossa, che infligge danni più elevati sacrificando il rinculo e la manovrabilità."
         },
@@ -8501,6 +8701,10 @@
         {
             "Key": 3834075640,
             "Value": "Cannone a rotaia"
+        },
+        {
+            "Key": 3837575192,
+            "Value": "Bersaglio avvistato"
         },
         {
             "Key": 3837994681,
@@ -8747,6 +8951,10 @@
             "Value": "CE-81 COLOSSO"
         },
         {
+            "Key": 3949936246,
+            "Value": "RS-89 Paladino dell'ombra"
+        },
+        {
             "Key": 3950887010,
             "Value": "Mirino telescopico da combattimento 4x"
         },
@@ -8941,6 +9149,10 @@
         {
             "Key": 4037877717,
             "Value": "SPAZIO AUMENTATO"
+        },
+        {
+            "Key": 4040092621,
+            "Value": "Ideologia Veridica"
         },
         {
             "Key": 4042984776,
@@ -9256,7 +9468,7 @@
         },
         {
             "Key": 4177020126,
-            "Value": "Chi le indossa ha una chance del <c=#COLOR>#BONUS</c> di non subire gravi ferite agli arti."
+            "Value": "Chi la indossa ha una chance del <c=#COLOR>#BONUS</c> di non subire gravi ferite agli arti."
         },
         {
             "Key": 4178190608,
@@ -9317,6 +9529,10 @@
         {
             "Key": 4201282979,
             "Value": "Colpo a dispersione 12g"
+        },
+        {
+            "Key": 4201323204,
+            "Value": "Un mantello ispirato a ipotetici agenti sotto copertura; pilastri dell'ordine democratico operanti in abissi ostili dove la luce della Libertà non è ancora arrivata."
         },
         {
             "Key": 4201645655,
@@ -9381,6 +9597,10 @@
         {
             "Key": 4226697606,
             "Value": "A FRAMMENTAZIONE"
+        },
+        {
+            "Key": 4226754563,
+            "Value": "PACCHETTO C4"
         },
         {
             "Key": 4229070637,
@@ -9571,6 +9791,14 @@
             "Value": "Lo stratagemma Laser orbitale è temporaneamente disponibile per tutti gli Helldiver."
         },
         {
+            "Key": 28815540,
+            "Value": "Le munizioni raccoglibili sul campo diminuiranno del <i=1>#AMOUNT%</i> su questo pianeta."
+        },
+        {
+            "Key": 30763115,
+            "Value": "SURPLUS DI STRATAGEMMI"
+        },
+        {
             "Key": 32304560,
             "Value": "NASCONDI ORDINI"
         },
@@ -9649,6 +9877,10 @@
         {
             "Key": 100511399,
             "Value": "Chiamata all'arruolamento inviata ai cittadini di tutte le classi."
+        },
+        {
+            "Key": 102495720,
+            "Value": "ESTRAZIONE PIÙ RAPIDA"
         },
         {
             "Key": 103735208,
@@ -9783,8 +10015,16 @@
             "Value": "Questo buco nero è tutto ciò che rimane dei sogni e delle speranze dei coloni che avrebbero potuto costruirsi una vita qui. I nostri nemici preferirebbero vedere l’intera galassia risucchiata in un vuoto eterno piuttosto che veder prosperare il nostro stile di vita."
         },
         {
+            "Key": 214921793,
+            "Value": "CARENZA DI ESPLOSIVI"
+        },
+        {
             "Key": 216069095,
             "Value": "NUOVA OPERAZIONE DISPONIBILE"
+        },
+        {
+            "Key": 216109097,
+            "Value": "<i=1>Tempo di estrazione</i> contro gli <i=1>Illuminati</i> più veloce di <i=1>#V_ONE</i> secondi."
         },
         {
             "Key": 222371685,
@@ -9811,10 +10051,6 @@
             "Value": "CAPOVOLGIMENTO IMPROVVISO"
         },
         {
-            "Key": 243191521,
-            "Value": "SURPLUS DI STRATAGEMMI"
-        },
-        {
             "Key": 246067354,
             "Value": "Sconosciuto"
         },
@@ -9829,6 +10065,10 @@
         {
             "Key": 257436714,
             "Value": "Scoperti segni di vita senziente su Okul VI: debellati in modo sicuro."
+        },
+        {
+            "Key": 258430200,
+            "Value": "Il tempo di <i=1>Riarmo Eagle</i> è di <i=1>#AMOUNT</i> secondi più lento su questo pianeta."
         },
         {
             "Key": 265269866,
@@ -10007,10 +10247,6 @@
             "Value": "CAMPIONI"
         },
         {
-            "Key": 408492564,
-            "Value": "SACCHE DA CINTURA SPERIMENTALI"
-        },
-        {
             "Key": 409186856,
             "Value": "Sconosciuto"
         },
@@ -10087,6 +10323,10 @@
             "Value": "Cittadini leali si trovano sul campo di battaglia."
         },
         {
+            "Key": 463730113,
+            "Value": "<i=1>Tempo di estrazione</i> contro gli <i=1>Automaton</i> più lento di <i=1>#V_ONE</i> secondi."
+        },
+        {
             "Key": 467439839,
             "Value": "ESTREMO"
         },
@@ -10109,6 +10349,10 @@
         {
             "Key": 486634204,
             "Value": "IMPOSSIBILE"
+        },
+        {
+            "Key": 493602973,
+            "Value": "RIARMO EAGLE PIÙ VELOCE"
         },
         {
             "Key": 496937874,
@@ -10199,6 +10443,10 @@
             "Value": "Nemici pesantemente corazzati"
         },
         {
+            "Key": 559292408,
+            "Value": "SUPERIORITÀ IN ORBITA BASSA"
+        },
+        {
             "Key": 560244346,
             "Value": "Sconosciuto"
         },
@@ -10227,10 +10475,6 @@
             "Value": "Lo stratagemma Cannone a rotaia orbitale è temporaneamente disponibile per tutti gli Helldiver."
         },
         {
-            "Key": 588515429,
-            "Value": "DIFFICOLTÀ DELLA CATENA DI RIFORNIMENTO"
-        },
-        {
             "Key": 588827542,
             "Value": "La SSD effettua <i=1>mitragliamenti a tappeto con Eagle</i> durante le missioni."
         },
@@ -10245,6 +10489,10 @@
         {
             "Key": 593729951,
             "Value": "Sciame"
+        },
+        {
+            "Key": 593904749,
+            "Value": "IMPATTO AUMENTATO"
         },
         {
             "Key": 597619832,
@@ -10311,10 +10559,6 @@
             "Value": "Sconosciuto"
         },
         {
-            "Key": 670070393,
-            "Value": "RECLUTAMENTO ELEVATO"
-        },
-        {
             "Key": 671564727,
             "Value": "Sconosciuto"
         },
@@ -10349,6 +10593,10 @@
         {
             "Key": 710821004,
             "Value": "Sconosciuto"
+        },
+        {
+            "Key": 715753515,
+            "Value": "La quantità di stimolanti in dotazione agli Helldiver è aumentata di <i=1>#V_ONE</i> su questo pianeta."
         },
         {
             "Key": 715841083,
@@ -10453,6 +10701,10 @@
         {
             "Key": 796263081,
             "Value": "Nave da esplorazione sostiene il rilevamento di un segnale di energia simile a quella degli Illuminati."
+        },
+        {
+            "Key": 798143765,
+            "Value": "RIARMO EAGLE PIÙ LENTO"
         },
         {
             "Key": 800984942,
@@ -10627,6 +10879,10 @@
             "Value": "9"
         },
         {
+            "Key": 926675872,
+            "Value": "Il tempo di <i=1>Riarmo Eagle</i> è di <i=1>#AMOUNT</i> secondi più veloce su questo pianeta."
+        },
+        {
             "Key": 929394276,
             "Value": "Lo stratagemma Torre Tesla è temporaneamente disponibile per tutti gli Helldiver."
         },
@@ -10727,6 +10983,10 @@
             "Value": "Le medaglie guadagnate per missione da tutti gli Helldiver sono ridotte di #V_ONE."
         },
         {
+            "Key": 999030979,
+            "Value": "Il tempo di <i=1>Riarmo Eagle</i> è di <i=1>#V_ONE</i> secondi più veloce su tutti i pianeti."
+        },
+        {
             "Key": 1004277842,
             "Value": "Sulla superficie di questo pianeta si possono trovare ghiaccio e rocce ricoperte di muschio."
         },
@@ -10823,6 +11083,10 @@
             "Value": "#RACE"
         },
         {
+            "Key": 1095379698,
+            "Value": "FABBRICHE DANNEGGIATE"
+        },
+        {
             "Key": 1095630749,
             "Value": "PROSSIMITÀ AL PUNTO CRITICO DI MERIDIA"
         },
@@ -10867,6 +11131,10 @@
             "Value": "<c=FF336666>HELLDIVER: #VALUE</c>"
         },
         {
+            "Key": 1122436356,
+            "Value": "Le munizioni raccoglibili sul campo aumenteranno del <i=1>#AMOUNT%</i> su tutti i pianeti."
+        },
+        {
             "Key": 1122786168,
             "Value": "FURIA TERMINIDE"
         },
@@ -10909,6 +11177,10 @@
         {
             "Key": 1155954398,
             "Value": "Sconosciuto"
+        },
+        {
+            "Key": 1156936261,
+            "Value": "<i=1>Tempo di estrazione</i> contro gli <i=1>Illuminati</i> più lento di <i=1>#V_ONE</i> secondi."
         },
         {
             "Key": 1175249090,
@@ -10987,6 +11259,10 @@
             "Value": "CAMPAGNA DI RICOGNIZIONE"
         },
         {
+            "Key": 1225158720,
+            "Value": "QUANTITÀ STIMOLANTI RIDOTTA"
+        },
+        {
             "Key": 1227007866,
             "Value": "Lo stratagemma Cannone a rotaia RS-422 non è più disponibile."
         },
@@ -11029,6 +11305,14 @@
         {
             "Key": 1260781333,
             "Value": "Sconosciuto"
+        },
+        {
+            "Key": 1261799441,
+            "Value": "PRESERVAZIONE DEGLI STRATAGEMMI"
+        },
+        {
+            "Key": 1264650473,
+            "Value": "<i=1>Impatto di liberazione</i> per il completamento delle missioni su questo pianeta aumentato del <i=1>#V_ONE%</i>."
         },
         {
             "Key": 1269775050,
@@ -11123,12 +11407,20 @@
             "Value": "Attenzione: l'avvio di una nuova operazione ti farà abbandonare l'operazione attiva"
         },
         {
+            "Key": 1348005262,
+            "Value": "Questa è un'operazione <i=1>Commando</i>. Include missioni <i=1>Commando</i>.\n\nNelle missioni <i=1>Commando</i>, l'accesso al Super Destroyer e agli stratagemmi è limitato. Scegliere le proprie battaglie con prudenza."
+        },
+        {
             "Key": 1351068056,
             "Value": "Estrazione"
         },
         {
             "Key": 1351573785,
             "Value": "Sconosciuto"
+        },
+        {
+            "Key": 1351614953,
+            "Value": "OPERAZIONE COMMANDO"
         },
         {
             "Key": 1352658065,
@@ -11221,10 +11513,6 @@
         {
             "Key": 1411615216,
             "Value": "L'aumento di rinforzi non è più attivo."
-        },
-        {
-            "Key": 1414808501,
-            "Value": "SUPERIORITÀ IN ORBITA BASSA"
         },
         {
             "Key": 1427924894,
@@ -11527,6 +11815,10 @@
             "Value": "RICERCA DI MISSIONI IN CORSO"
         },
         {
+            "Key": 1710418119,
+            "Value": "RIARMO EAGLE PIÙ VELOCE"
+        },
+        {
             "Key": 1711370733,
             "Value": "Presenza nemica aumentata"
         },
@@ -11635,6 +11927,10 @@
             "Value": "Sconosciuto"
         },
         {
+            "Key": 1791460633,
+            "Value": "Le munizioni raccoglibili sul campo aumenteranno del <i=1>#AMOUNT%</i> su questo pianeta."
+        },
+        {
             "Key": 1794880589,
             "Value": "Sconosciuto"
         },
@@ -11691,10 +11987,6 @@
             "Value": "Sconosciuto"
         },
         {
-            "Key": 1842722237,
-            "Value": "PRESERVAZIONE DEGLI STRATAGEMMI"
-        },
-        {
             "Key": 1843987253,
             "Value": "Sconosciuto"
         },
@@ -11704,7 +11996,7 @@
         },
         {
             "Key": 1857535277,
-            "Value": "La capienza di stimolanti di tutti gli Helldiver è ridotta di #V_ONE."
+            "Value": "La quantità di stimolanti in dotazione agli Helldiver è ridotta di <i=1>#V_ONE</i> su tutti i pianeti."
         },
         {
             "Key": 1860113674,
@@ -11721,6 +12013,10 @@
         {
             "Key": 1865943011,
             "Value": "Approvata la legge sulla \"libertà di espressione\". "
+        },
+        {
+            "Key": 1866044944,
+            "Value": "La vicina <i=1>Base Ombra</i> fornisce supporto logistico a questo <i=1>mondo alveare</i>, mitigando parte delle sue estreme difficoltà logistiche.\nI tempi di estrazione sono aumentati di <i=1>30 secondi</i> e i tempi di riarmo degli Eagle sono aumentati del <i=1>20%</i>."
         },
         {
             "Key": 1867310690,
@@ -11847,10 +12143,6 @@
             "Value": "Sconosciuto"
         },
         {
-            "Key": 1962232551,
-            "Value": "RIDUZIONE DEGLI SPRECHI"
-        },
-        {
             "Key": 1971579583,
             "Value": "Sconosciuto"
         },
@@ -11939,6 +12231,10 @@
             "Value": "RISERVE DI ESOSCHELETRI"
         },
         {
+            "Key": 2051090765,
+            "Value": "Le munizioni raccoglibili sul campo diminuiranno del <i=1>#AMOUNT%</i> su tutti i pianeti."
+        },
+        {
             "Key": 2051691805,
             "Value": "Lo stratagemma <i=1>#V_ONE</i> non è disponibile a tutti gli Helldiver."
         },
@@ -11997,6 +12293,10 @@
         {
             "Key": 2077769934,
             "Value": " Responsabile degli incidenti mortali con gli hoverboard."
+        },
+        {
+            "Key": 2077824803,
+            "Value": "ESTRAZIONE PIÙ LENTA"
         },
         {
             "Key": 2087852427,
@@ -12061,6 +12361,10 @@
         {
             "Key": 2129095230,
             "Value": "SPERIMENTAZIONE SULLE ARMI"
+        },
+        {
+            "Key": 2133287516,
+            "Value": "INIZIATIVA SPERIMENTALE"
         },
         {
             "Key": 2135009396,
@@ -12287,6 +12591,10 @@
             "Value": "Sconosciuto"
         },
         {
+            "Key": 2305057086,
+            "Value": "ESTRAZIONE PIÙ LENTA"
+        },
+        {
             "Key": 2307358133,
             "Value": "Sconosciuto"
         },
@@ -12323,6 +12631,10 @@
             "Value": "Il nemico sta cercando di conquistare questo pianeta! Respingilo giocando missioni speciali nel periodo di tempo specificato, o il pianeta cadrà in mano sua."
         },
         {
+            "Key": 2343909414,
+            "Value": "<i=1>Tempo di estrazione</i> contro gli <i=1>Automaton</i> più veloce di <i=1>#V_ONE</i> secondi."
+        },
+        {
             "Key": 2346647635,
             "Value": "L'esperienza guadagnata da tutti gli Helldiver è aumentata del #V_ONE%."
         },
@@ -12353,6 +12665,10 @@
         {
             "Key": 2371122801,
             "Value": "La FAST combatte l'aumento dei bot con operazioni Helldiver limitate."
+        },
+        {
+            "Key": 2371571610,
+            "Value": "ESTRAZIONE PIÙ RAPIDA"
         },
         {
             "Key": 2371709060,
@@ -12495,6 +12811,10 @@
             "Value": "Respingi"
         },
         {
+            "Key": 2488091525,
+            "Value": "ORBITA CONTESA"
+        },
+        {
             "Key": 2489679843,
             "Value": "DIFFICOLTÀ"
         },
@@ -12521,6 +12841,10 @@
         {
             "Key": 2504204569,
             "Value": "L'Università della Super Terra adotta un nuovo test standardizzato di patriottismo per le ammissioni"
+        },
+        {
+            "Key": 2508685465,
+            "Value": "La flotta logistica della vicina <i=1>Base Ombra</i> supporta il personale operativo su questo pianeta, contrastando tutti gli effetti negativi dell'<i=1>Ombra</i>."
         },
         {
             "Key": 2510020937,
@@ -12671,6 +12995,10 @@
             "Value": "Le tempeste di sabbia fitte <i=1>riducono la visibilità</i>."
         },
         {
+            "Key": 2646332237,
+            "Value": "RIARMO EAGLE PIÙ LENTO"
+        },
+        {
             "Key": 2648438993,
             "Value": "Sconosciuto"
         },
@@ -12704,7 +13032,7 @@
         },
         {
             "Key": 2679897061,
-            "Value": "La capienza di stimolanti di tutti gli Helldiver è aumentata di #V_ONE."
+            "Value": "La quantità di stimolanti in dotazione agli Helldiver è aumentata di <i=1>#V_ONE</i> su tutti i pianeti."
         },
         {
             "Key": 2683120236,
@@ -12735,6 +13063,10 @@
             "Value": "Sconosciuto"
         },
         {
+            "Key": 2714423684,
+            "Value": "ESTRAZIONE PIÙ LENTA"
+        },
+        {
             "Key": 2715016726,
             "Value": "I danni da corpo a corpo sono temporaneamente aumentati del #V_ONE%."
         },
@@ -12749,6 +13081,10 @@
         {
             "Key": 2724329671,
             "Value": "RINFORZI FAST"
+        },
+        {
+            "Key": 2725532411,
+            "Value": "RECLUTAMENTO RIDOTTO"
         },
         {
             "Key": 2727007226,
@@ -12831,6 +13167,10 @@
             "Value": "<c=FFFF3939>MOLTO ALTA</c>"
         },
         {
+            "Key": 2779744625,
+            "Value": "SURPLUS DI ESPLOSIVI"
+        },
+        {
             "Key": 2782937074,
             "Value": "Sostenitori degli Automaton uccisi in un raid: danni collaterali eroicamente ridotti al minimo."
         },
@@ -12865,6 +13205,10 @@
         {
             "Key": 2805628145,
             "Value": "TEMPESTE ACIDE"
+        },
+        {
+            "Key": 2806921132,
+            "Value": "RECLUTAMENTO ELEVATO"
         },
         {
             "Key": 2807101694,
@@ -13083,10 +13427,6 @@
             "Value": "SPERIMENTAZIONE SULLE ARMI"
         },
         {
-            "Key": 2978562338,
-            "Value": "INIZIATIVA SPERIMENTALE"
-        },
-        {
             "Key": 2980169751,
             "Value": "Lo stratagemma Attacco orbitale con esplosione aerea non è più disponibile."
         },
@@ -13131,6 +13471,10 @@
             "Value": "Le alte temperature <i=1>aumentano il consumo di resistenza</i> e <i=1>velocizzano il surriscaldamento delle armi</i>."
         },
         {
+            "Key": 3007670585,
+            "Value": "La quantità di stimolanti in dotazione agli Helldiver è ridotta di <i=1>#V_ONE</i> su questo pianeta."
+        },
+        {
             "Key": 3013802117,
             "Value": "AVANZAMENTO RICERCA SULL'OMBRA"
         },
@@ -13167,12 +13511,24 @@
             "Value": "STERILIZZAZIONE ATMOSFERICA"
         },
         {
+            "Key": 3033480714,
+            "Value": "QUANTITÀ STIMOLANTI AUMENTATA"
+        },
+        {
             "Key": 3036081418,
             "Value": "SPERIMENTAZIONE SULLE ARMI"
         },
         {
+            "Key": 3038375954,
+            "Value": "ESTRAZIONE PIÙ LENTA"
+        },
+        {
             "Key": 3041244548,
             "Value": "Sconosciuto"
+        },
+        {
+            "Key": 3049055479,
+            "Value": "Sebbene la vicina <i=1>Base Ombra</i> fornisca supporto logistico, la concentrazione di spore su questo pianeta è sufficiente a rendere problematico l'atterraggio dei Pelican.\nI tempi di estrazione sono aumentati di <i=1>20 secondi</i>.\n"
         },
         {
             "Key": 3049338773,
@@ -13187,6 +13543,10 @@
             "Value": "UNITÀ FAST NELL'AREA"
         },
         {
+            "Key": 3069741418,
+            "Value": "DIFFICOLTÀ DELLA CATENA DI RIFORNIMENTO"
+        },
+        {
             "Key": 3071335446,
             "Value": "Sconosciuto"
         },
@@ -13197,10 +13557,6 @@
         {
             "Key": 3082330525,
             "Value": "Lo stratagemma Lanciagranate GL-6 è temporaneamente disponibile per tutti gli Helldiver."
-        },
-        {
-            "Key": 3085453425,
-            "Value": "SURPLUS DI ESPLOSIVI"
         },
         {
             "Key": 3087338564,
@@ -13237,10 +13593,6 @@
         {
             "Key": 3103904605,
             "Value": "La riduzione di rinforzi non è più attiva."
-        },
-        {
-            "Key": 3110277580,
-            "Value": "FABBRICHE DANNEGGIATE"
         },
         {
             "Key": 3112086663,
@@ -13311,6 +13663,10 @@
             "Value": "MOSTRA ORDINI"
         },
         {
+            "Key": 3176411850,
+            "Value": "QUANTITÀ STIMOLANTI RIDOTTA"
+        },
+        {
             "Key": 3178802138,
             "Value": "Lo stratagemma Sentinella con mortaio è temporaneamente disponibile per tutti gli Helldiver."
         },
@@ -13325,6 +13681,10 @@
         {
             "Key": 3198058331,
             "Value": "Si evacua tra:"
+        },
+        {
+            "Key": 3203613723,
+            "Value": "ESTRAZIONE PIÙ RAPIDA"
         },
         {
             "Key": 3205119654,
@@ -13383,8 +13743,16 @@
             "Value": "AVANZAMENTO EVENTO DI LIBERAZIONE"
         },
         {
+            "Key": 3257328072,
+            "Value": "CARENZA DI SACCHE PER GRANATE"
+        },
+        {
             "Key": 3257677184,
             "Value": "Nemici uccisi"
+        },
+        {
+            "Key": 3258064410,
+            "Value": "<i=1>Tempo di estrazione</i> contro i <i=1>Terminidi</i> più lento di <i=1>#V_ONE</i> secondi."
         },
         {
             "Key": 3258667075,
@@ -13503,12 +13871,12 @@
             "Value": "Completare questa operazione avrà un impatto sulla forza della flotta degli Illuminati."
         },
         {
-            "Key": 3371885955,
-            "Value": "CARENZA DI ESPLOSIVI"
-        },
-        {
             "Key": 3372276277,
             "Value": "Completa le operazioni nel Settore #SECTOR"
+        },
+        {
+            "Key": 3373261145,
+            "Value": "MENO MUNIZIONI SUL CAMPO"
         },
         {
             "Key": 3376195384,
@@ -13523,16 +13891,16 @@
             "Value": "Lo stratagemma Lanciafiamme FLAM-40 è temporaneamente disponibile per tutti gli Helldiver."
         },
         {
+            "Key": 3386335381,
+            "Value": "ESTRAZIONE PIÙ RAPIDA"
+        },
+        {
             "Key": 3398823357,
             "Value": "Fino a nuovo avviso, tutti gli Helldiver rigenerano passivamente la salute a un ritmo del #V_ONE% al secondo."
         },
         {
             "Key": 3401809146,
             "Value": "MISSIONE SUICIDA"
-        },
-        {
-            "Key": 3409725421,
-            "Value": "RECLUTAMENTO RIDOTTO"
         },
         {
             "Key": 3411407988,
@@ -13607,6 +13975,10 @@
             "Value": "Proteggi"
         },
         {
+            "Key": 3486982023,
+            "Value": "SACCHE DA CINTURA SPERIMENTALI"
+        },
+        {
             "Key": 3487732002,
             "Value": "Lo stratagemma Sbarramento orbitale mobile non è più disponibile."
         },
@@ -13641,6 +14013,10 @@
         {
             "Key": 3508750577,
             "Value": "Sconosciuto"
+        },
+        {
+            "Key": 3514565128,
+            "Value": "PIÙ MUNIZIONI SUL CAMPO"
         },
         {
             "Key": 3515520839,
@@ -13707,10 +14083,6 @@
             "Value": "Le particelle dell'Ombra interferiscono con l'atterraggio dei Pelican, aumentando i tempi di estrazione di <i=1>20 secondi</i>."
         },
         {
-            "Key": 3554256659,
-            "Value": "TASCONI SPERIMENTALI"
-        },
-        {
             "Key": 3559900755,
             "Value": "CAMPAGNA DI INVASIONE"
         },
@@ -13721,6 +14093,10 @@
         {
             "Key": 3567262339,
             "Value": "Le tempeste di neve violente <i=1>riducono la visibilità</i>."
+        },
+        {
+            "Key": 3572099144,
+            "Value": "QUANTITÀ STIMOLANTI AUMENTATA"
         },
         {
             "Key": 3575339405,
@@ -13747,10 +14123,6 @@
             "Value": "ATTIVITÀ VULCANICA"
         },
         {
-            "Key": 3612924764,
-            "Value": "ORBITA CONTESA"
-        },
-        {
             "Key": 3613667837,
             "Value": "Sconosciuto"
         },
@@ -13761,6 +14133,10 @@
         {
             "Key": 3614892168,
             "Value": "RIEPILOGO DELL'ORDINE"
+        },
+        {
+            "Key": 3616364457,
+            "Value": "<i=1>Tempo di estrazione</i> su questo pianeta più veloce di <i=1>#V_ONE</i> secondi."
         },
         {
             "Key": 3625902892,
@@ -13831,8 +14207,16 @@
             "Value": "Un nuovo studio rivela che la Super Aquila è l'uccello più democratico."
         },
         {
+            "Key": 3667791748,
+            "Value": "LAVORATORI ISPIRATI"
+        },
+        {
             "Key": 3670045382,
             "Value": "Sconosciuto"
+        },
+        {
+            "Key": 3670656870,
+            "Value": "PIÙ MUNIZIONI SUL CAMPO"
         },
         {
             "Key": 3671853690,
@@ -13849,6 +14233,10 @@
         {
             "Key": 3673381184,
             "Value": "Il numero di utilizzi dello stratagemma <i=1>#V_ONE</i> è temporaneamente ridotto di #V_TWO."
+        },
+        {
+            "Key": 3680443513,
+            "Value": "Le costanti eruzioni mantengono questo pianeta coperto di flussi di lava e pertanto inospitale alla vita democratica. Lo rendono inoltre una fonte inesauribile di minerali rari."
         },
         {
             "Key": 3680923929,
@@ -13903,6 +14291,10 @@
             "Value": "#SHORT - #LONG"
         },
         {
+            "Key": 3711039703,
+            "Value": "Il tempo di <i=1>Riarmo Eagle</i> è di <i=1>#V_ONE</i> secondi più lento su tutti i pianeti."
+        },
+        {
             "Key": 3714868912,
             "Value": "CARICA FINALE"
         },
@@ -13937,6 +14329,10 @@
         {
             "Key": 3762112087,
             "Value": "Sconosciuto"
+        },
+        {
+            "Key": 3764194516,
+            "Value": "<i=1>Tempo di estrazione</i> su questo pianeta più lento di <i=1>#V_ONE</i> secondi."
         },
         {
             "Key": 3765717289,
@@ -14011,6 +14407,10 @@
             "Value": "Lo stratagemma Attacco aereo Eagle è temporaneamente disponibile per tutti gli Helldiver."
         },
         {
+            "Key": 3825744973,
+            "Value": "FESTA DELLA LIBERTÀ"
+        },
+        {
             "Key": 3833236254,
             "Value": "SPERIMENTAZIONE SULLE ARMI"
         },
@@ -14037,6 +14437,10 @@
         {
             "Key": 3859521726,
             "Value": "CONTROLLO DELLA SUPER TERRA"
+        },
+        {
+            "Key": 3861654825,
+            "Value": "MENO MUNIZIONI SUL CAMPO"
         },
         {
             "Key": 3862338222,
@@ -14085,6 +14489,10 @@
         {
             "Key": 3903115201,
             "Value": "Lo stratagemma Laser orbitale non è più disponibile."
+        },
+        {
+            "Key": 3908391598,
+            "Value": "<i=1>Tempo di estrazione</i> contro i <i=1>Terminidi</i> più veloce di <i=1>#V_ONE</i> secondi."
         },
         {
             "Key": 3910555043,
@@ -14141,6 +14549,10 @@
         {
             "Key": 3987183872,
             "Value": "IMPATTO OPERAZIONE"
+        },
+        {
+            "Key": 3988232937,
+            "Value": "La Super Terra, la nostra casa, è il fulcro della Festa della Libertà. Tutti i cittadini potranno assistere insieme in televisione all'annuale parata della Difesa, alle esecuzioni di Giustizia, e naturalmente ai fuochi d'artificio della Libertà. \n\nIn questo giorno speciale gli Helldiver sono incoraggiati a visitare la Super Terra e ad assistere ai fuochi d'artificio dai loro Super Destroyer."
         },
         {
             "Key": 3991486518,
@@ -14435,20 +14847,12 @@
             "Value": "CONTROMISURE ELETTRONICHE"
         },
         {
-            "Key": 4240023177,
-            "Value": "CARENZA DI SACCHE PER GRANATE"
-        },
-        {
             "Key": 4240196127,
             "Value": "La rigenerazione della salute non è più attiva."
         },
         {
             "Key": 4240961977,
             "Value": "Un'alga cremisi si è diffusa senza controllo in tutto il pianeta, colorando completamente di rosso le colline rocciose. Il rosso ha mascherato il sangue degli eroi, versato per difendere il pianeta dalla tirannia."
-        },
-        {
-            "Key": 4243009745,
-            "Value": "LAVORATORI ISPIRATI"
         },
         {
             "Key": 4247313880,
@@ -16599,6 +17003,10 @@
             "Value": "ATTIVA/DISATTIVA MICROFONO"
         },
         {
+            "Key": 280230815,
+            "Value": "Base Bravo Ombra"
+        },
+        {
             "Key": 284920123,
             "Value": "RIGENERAZIONE RESISTENZA"
         },
@@ -17111,6 +17519,10 @@
             "Value": "GESTIONE DELLA NAVE"
         },
         {
+            "Key": 661319112,
+            "Value": "Super Base Alfa Ombra"
+        },
+        {
             "Key": 662796926,
             "Value": "Regola la quantità di accelerazione applicata al controllo della visuale tramite controller. Valori più alti significano una sensibilità molto più elevata quando le levette sono spinte al massimo."
         },
@@ -17129,6 +17541,10 @@
         {
             "Key": 669593876,
             "Value": "MOSTRA"
+        },
+        {
+            "Key": 671544406,
+            "Value": "La vecchia sede della Fucina del mantello profondo, rubata dagli Automaton e distrutta."
         },
         {
             "Key": 672612253,
@@ -17165,6 +17581,10 @@
         {
             "Key": 716447849,
             "Value": "Proporziona la distanza e le dimensioni dello schermo con le quali vengono disegnati gli oggetti. La riduzione di questo valore migliora le prestazioni della CPU."
+        },
+        {
+            "Key": 717015403,
+            "Value": "Centro scientifico (distrutto)"
         },
         {
             "Key": 717825012,
@@ -17369,6 +17789,10 @@
         {
             "Key": 843419660,
             "Value": "Profilo qualità"
+        },
+        {
+            "Key": 847733001,
+            "Value": "Fattorie E-710"
         },
         {
             "Key": 852429409,
@@ -17627,6 +18051,10 @@
             "Value": "ATTIVA HUD"
         },
         {
+            "Key": 1057123789,
+            "Value": "La vecchia sede del Centro scientifico. Un tempo faro di tecnologia, ora giace in rovina in seguito a un violento attacco Terminide."
+        },
+        {
             "Key": 1059428164,
             "Value": "Attivando questa impostazione, le superfici illuminate emettono bagliori."
         },
@@ -17809,6 +18237,10 @@
         {
             "Key": 1195432865,
             "Value": "CAMBIA EQUIPAGGIAMENTO (CORTO)"
+        },
+        {
+            "Key": 1195480985,
+            "Value": "Su questo pianeta è stato costruito un laboratorio sperimentale per sintetizzare il Fluido oscuro dall'E-711."
         },
         {
             "Key": 1197227568,
@@ -18459,6 +18891,10 @@
             "Value": "La forza lavoro di questo pianeta produce beni essenziali allo sforzo bellico e alla prosperità della Super Terra."
         },
         {
+            "Key": 1717653672,
+            "Value": "Il secondo avamposto con personale umano nello spazio occupato dall'Ombra."
+        },
+        {
             "Key": 1718818796,
             "Value": "Le torri-ripetitori su questo pianeta sono importanti per le comunicazioni degli Automaton."
         },
@@ -18473,6 +18909,10 @@
         {
             "Key": 1725267452,
             "Value": "CENTRO DI ADDESTRAMENTO FAST DI BASE"
+        },
+        {
+            "Key": 1731183300,
+            "Value": "Equipaggia gli Hellpod con barriere fumogene che si attivano all'impatto, oscurando il dispiegamento degli Helldiver."
         },
         {
             "Key": 1734039293,
@@ -18639,6 +19079,10 @@
             "Value": "Gli orbitali di <i=1>Sbarramento</i> sparano <i=1>#VALUE</i> salve aggiuntive per sbarramento."
         },
         {
+            "Key": 1849785256,
+            "Value": "Inserimento nascosto"
+        },
+        {
             "Key": 1855211481,
             "Value": "PERMESSO PER STRATAGEMMI OPERATIVI"
         },
@@ -18751,6 +19195,10 @@
             "Value": "+"
         },
         {
+            "Key": 1954197593,
+            "Value": "Questa struttura dotata delle migliori attrezzature permette operazioni in profondità all'interno dell'Ombra. Le operazioni sui pianeti circostanti saranno adeguatamente supportate."
+        },
+        {
             "Key": 1955083248,
             "Value": "CORPO A CORPO"
         },
@@ -18781,6 +19229,10 @@
         {
             "Key": 1974299360,
             "Value": "©2024 Sony Interactive Entertainment LLC. Developed by Arrowhead Game Studios AB. Helldivers 2 is a registered trademark of Sony Interactive Entertainment LLC and related companies in the U.S. and other countries."
+        },
+        {
+            "Key": 1982258300,
+            "Value": "La vecchia sede del polo industriale della AM Defense. La AM Defense è riuscita a recuperare le sue perdite, grazie alle assicurazioni; le vite perdute, purtroppo, non potranno mai essere compensate adeguatamente."
         },
         {
             "Key": 1982728820,
@@ -19151,6 +19603,10 @@
             "Value": "SEGNALA"
         },
         {
+            "Key": 2189342716,
+            "Value": "Polo industriale (distrutto)"
+        },
+        {
             "Key": 2190298508,
             "Value": "Uso di cheat"
         },
@@ -19193,6 +19649,10 @@
         {
             "Key": 2224862582,
             "Value": "GIOCATORI BLOCCATI"
+        },
+        {
+            "Key": 2226079853,
+            "Value": "Permette a una estesa rete logistica di operare all'interno dell'Ombra, annullandone gli effetti negativi sui pianeti circostanti."
         },
         {
             "Key": 2227427360,
@@ -19443,6 +19903,10 @@
             "Value": "Selezionata quando viene visualizzata un'opzione su schermo. Il comportamento predefinito prevede la visualizzazione della tastiera su schermo solo se non è stata utilizzata una tastiera per inserire lo stato di immissione del testo. Potrebbe richiedere la modalità Big Picture di Steam su PC."
         },
         {
+            "Key": 2401426028,
+            "Value": "INSERIMENTO NASCOSTO"
+        },
+        {
             "Key": 2401556349,
             "Value": "Permette agli Helldiver di attraversare con facilità terreni difficili."
         },
@@ -19619,6 +20083,14 @@
             "Value": "Potenzia i moduli della tua nave per migliorare le potenzialità dei tuoi stratagemmi! È il modo perfetto per trasformare i campioni in Libertà."
         },
         {
+            "Key": 2520880460,
+            "Value": "Laboratorio di sintesi del Fluido oscuro"
+        },
+        {
+            "Key": 2523019553,
+            "Value": "Centro per la sicurezza e la sorveglianza dei cittadini (distrutto)"
+        },
+        {
             "Key": 2523202457,
             "Value": "Aumenta la velocità di puntamento orbitale aggiornando il software di puntamento dei cannoni alla versione premium."
         },
@@ -19787,6 +20259,14 @@
             "Value": "Visibilità raccolta campione"
         },
         {
+            "Key": 2635225528,
+            "Value": "Avamposto Bravo Ombra"
+        },
+        {
+            "Key": 2639736168,
+            "Value": "Sito per la contemplazione vendicativa dei crimini della Tirannia"
+        },
+        {
             "Key": 2642638685,
             "Value": "INDIETRO"
         },
@@ -19833,6 +20313,10 @@
         {
             "Key": 2676755704,
             "Value": "Miglioramento della resistenza"
+        },
+        {
+            "Key": 2684434865,
+            "Value": "Qui si trova una struttura di massima sicurezza per l'allevamento sicuro di Terminidi e l'estrazione di E-710 a basso rischio."
         },
         {
             "Key": 2686156913,
@@ -19905,6 +20389,10 @@
         {
             "Key": 2728372259,
             "Value": "Inverte l'alto e il basso nel controllo della direzione con il mouse quando la visuale è in prima persona (FPV)."
+        },
+        {
+            "Key": 2728865019,
+            "Value": "La vecchia sede del Centro per la sicurezza e la sorveglianza dei cittadini. La tragica perdita di questa struttura evidenzia ulteriormente l'importanza di una sorveglianza interna totale."
         },
         {
             "Key": 2731309671,
@@ -20111,6 +20599,10 @@
             "Value": "ZOOM INDIETRO"
         },
         {
+            "Key": 2866294438,
+            "Value": "La vecchia sede del Centro di xeno-entomologia, distrutto dai Terminidi. Molti scienziati sono stati massacrati in quell'immotivato attacco."
+        },
+        {
             "Key": 2867341805,
             "Value": "NASCOSTA"
         },
@@ -20199,6 +20691,10 @@
             "Value": "Framerate obiettivo della scalatura dinamica della risoluzione."
         },
         {
+            "Key": 2927807501,
+            "Value": "Questa struttura dotata delle migliori attrezzature permette operazioni in profondità all'interno dell'Ombra. Le operazioni sui pianeti circostanti saranno adeguatamente supportate."
+        },
+        {
             "Key": 2928246556,
             "Value": "DETTAGLI DELL'ORDINE"
         },
@@ -20257,6 +20753,10 @@
         {
             "Key": 2957047785,
             "Value": "CONTINUA"
+        },
+        {
+            "Key": 2966433229,
+            "Value": "Su questo ex mondo alveare sono in corso estese operazioni minerarie ed estrattive allo scopo di recuperare ogni traccia della preziosa sostanza nota come E-711."
         },
         {
             "Key": 2966569319,
@@ -21067,6 +21567,10 @@
             "Value": "Seleziona la visibilità della barra della resistenza durante il gioco."
         },
         {
+            "Key": 3554352793,
+            "Value": "Fucina del mantello profondo (distrutta)"
+        },
+        {
             "Key": 3558858480,
             "Value": "Distanza di rendering"
         },
@@ -21081,6 +21585,10 @@
         {
             "Key": 3566811523,
             "Value": "Visibilità obiettivo primario"
+        },
+        {
+            "Key": 3567969782,
+            "Value": "Il wormhole di Meridia è stato creato dagli Illuminati per distruggere interi pianeti e minacciare la Super Terra stessa. Qui i visitatori autorizzati possono osservare quel fenomeno distruttivo e ricordare a sé stessi perché i nostri nemici meritano di essere annientati."
         },
         {
             "Key": 3569034914,
@@ -21315,6 +21823,10 @@
             "Value": "Ministero della Verità della Super Terra"
         },
         {
+            "Key": 3726809868,
+            "Value": "Su questo pianeta dall'intensa attività vulcanica, cittadini dotati di tute da lavoro ben isolate lavorano in strutture liberate dagli Automaton e riconvertite per l'estrazione sostenibile di materiali rari."
+        },
+        {
             "Key": 3728286212,
             "Value": "DISPONIBILE AL <i=1>LIVELLO #RANK</i>"
         },
@@ -21503,6 +22015,10 @@
             "Value": "<i=1>La resistenza del nemico su questo mondo alveare è ridotta.</i>"
         },
         {
+            "Key": 3848186075,
+            "Value": "Impianto di estrazione E-711"
+        },
+        {
             "Key": 3849358231,
             "Value": "Lingua"
         },
@@ -21565,6 +22081,10 @@
         {
             "Key": 3888437942,
             "Value": "In attesa..."
+        },
+        {
+            "Key": 3892609265,
+            "Value": "Impianto di estrazione ad alte temperature"
         },
         {
             "Key": 3894063849,
@@ -21719,6 +22239,10 @@
             "Value": "#DAYS giorni rimasti"
         },
         {
+            "Key": 3979919195,
+            "Value": "Centro di xeno-entomologia (distrutto)"
+        },
+        {
             "Key": 3980566610,
             "Value": "MODULO DELLA NAVE"
         },
@@ -21761,6 +22285,10 @@
         {
             "Key": 3997337233,
             "Value": "Su questo pianeta è in corso una costosa spedizione temporanea all'interno dell'Ombra."
+        },
+        {
+            "Key": 3998055819,
+            "Value": "Super Base Bravo Ombra"
         },
         {
             "Key": 3998730464,
@@ -25219,6 +25747,10 @@
             "Value": "KEPLER-396b"
         },
         {
+            "Key": 1531056520,
+            "Value": "REGGIMENTO FANTASMA"
+        },
+        {
             "Key": 1531255622,
             "Value": "Incursori"
         },
@@ -25480,7 +26012,7 @@
         },
         {
             "Key": 1710870229,
-            "Value": "K-ICXXVI"
+            "Value": "K"
         },
         {
             "Key": 1713165955,
@@ -26736,11 +27268,11 @@
         },
         {
             "Key": 2700729919,
-            "Value": "FURY-I"
+            "Value": "FURY"
         },
         {
             "Key": 2700736388,
-            "Value": "MOX SECUNDUS"
+            "Value": "MOX"
         },
         {
             "Key": 2701211260,
@@ -28559,6 +29091,10 @@
             "Value": "OSPIZIO 239-C"
         },
         {
+            "Key": 4013364623,
+            "Value": "Reggimento Fantasma"
+        },
+        {
             "Key": 4016445878,
             "Value": "MASSADICARNE"
         },
@@ -29419,6 +29955,10 @@
             "Value": "#COUNT uccisioni confermate"
         },
         {
+            "Key": 50109409,
+            "Value": "APPROPRIARSI DELLA RAFFINERIA"
+        },
+        {
             "Key": 50882734,
             "Value": "INFORMAZIONI RECUPERATE:"
         },
@@ -29451,12 +29991,24 @@
             "Value": "DEBELLARE I NIDI DI INSETTI MUTATI"
         },
         {
+            "Key": 76819432,
+            "Value": "Impadronirsi velocemente del platino presente nel sito e procedere all'estrazione prima che arrivino i rinforzi nemici."
+        },
+        {
             "Key": 81814212,
             "Value": "Una squadra della FAST ha smarrito un prezioso hard drive SSSD in questo luogo a causa di un'imboscata. Recuperate l'hard drive."
         },
         {
+            "Key": 85108748,
+            "Value": "Shuttle di trasporto in arrivo"
+        },
+        {
             "Key": 85322608,
             "Value": "Attendi che il sistema di artiglieria si avvii"
+        },
+        {
+            "Key": 87612306,
+            "Value": "In queste vasche viene sintetizzato il plasma organico. Dobbiamo estrarlo per sottoporlo ad analisi scientifiche."
         },
         {
             "Key": 91078680,
@@ -29475,8 +30027,16 @@
             "Value": "SALVA LE SQUADRE DI RICERCA SCIENTIFICA"
         },
         {
+            "Key": 110821011,
+            "Value": "SOVRASCRITTURA PROTOCOLLI NUCLEO"
+        },
+        {
             "Key": 114886262,
             "Value": "CONQUISTA TERRITORIO DEGLI AUTOMATON"
+        },
+        {
+            "Key": 118371087,
+            "Value": "DOCUMENTARE LE PROVE"
         },
         {
             "Key": 119095182,
@@ -29499,6 +30059,10 @@
             "Value": "Temperatura"
         },
         {
+            "Key": 130689954,
+            "Value": "Gli Automaton hanno una postazione con mortaio in questa zona. Spareranno a chiunque si avvicini."
+        },
+        {
             "Key": 135130779,
             "Value": "ATTIVA IL TRASFORMATORE"
         },
@@ -29509,6 +30073,10 @@
         {
             "Key": 147835329,
             "Value": "#ERROR!"
+        },
+        {
+            "Key": 158061641,
+            "Value": "ESTRARRE LE INFORMAZIONI"
         },
         {
             "Key": 161452983,
@@ -29619,6 +30187,10 @@
             "Value": "Riavviare le pompe in questa zona."
         },
         {
+            "Key": 280534572,
+            "Value": "BATTERIA A FUSIONE"
+        },
+        {
             "Key": 285652382,
             "Value": "ELIMINA IL TITANO RABBIOSO"
         },
@@ -29637,6 +30209,10 @@
         {
             "Key": 301829205,
             "Value": "Prosegui verso l'ingresso della struttura"
+        },
+        {
+            "Key": 302478499,
+            "Value": "COORDINATE DEL SITO MINERARIO"
         },
         {
             "Key": 303008397,
@@ -29669,6 +30245,10 @@
         {
             "Key": 321917691,
             "Value": "Attiva il terminale"
+        },
+        {
+            "Key": 322244446,
+            "Value": "In questa cava, gli Automaton stanno depredando i minerali di questo pianeta, sottraendoli ai nostri concittadini. Riprendiamocela."
         },
         {
             "Key": 328518441,
@@ -29713,6 +30293,10 @@
         {
             "Key": 363904388,
             "Value": "Difendere il silo 01"
+        },
+        {
+            "Key": 367155459,
+            "Value": "CONQUISTARE IL COMPLESSO INDUSTRIALE"
         },
         {
             "Key": 369469234,
@@ -29785,6 +30369,10 @@
         {
             "Key": 417698738,
             "Value": "Ricompensa già ricevuta"
+        },
+        {
+            "Key": 427985058,
+            "Value": "PACCHETTO INFORMAZIONI"
         },
         {
             "Key": 429291484,
@@ -29915,6 +30503,10 @@
             "Value": "Prendi i rifornimenti e carica il Liberatore"
         },
         {
+            "Key": 534530899,
+            "Value": "Fissa il tubo alla pompa di trasferimento"
+        },
+        {
             "Key": 536616162,
             "Value": "#MISSION_TYPE: #MISSION_NAME"
         },
@@ -29941,6 +30533,10 @@
         {
             "Key": 552388957,
             "Value": "La città è disseminata di grotteschi monoliti in grado, a quanto pare, di rafforzare gli Illuminati. La loro imperscrutabilità è un affronto alla Libertà. Devono essere distrutti."
+        },
+        {
+            "Key": 556037519,
+            "Value": "Sequenza di demolizione avviata"
         },
         {
             "Key": 556769669,
@@ -29984,7 +30580,7 @@
         },
         {
             "Key": 583831193,
-            "Value": "Servizio onorevole"
+            "Value": "Eccezionale patriottismo"
         },
         {
             "Key": 593930033,
@@ -30001,6 +30597,10 @@
         {
             "Key": 604043691,
             "Value": "Distruggi le scorte di munizioni"
+        },
+        {
+            "Key": 606403742,
+            "Value": "Collegamento in corso..."
         },
         {
             "Key": 607964299,
@@ -30056,7 +30656,7 @@
         },
         {
             "Key": 653025412,
-            "Value": "#ENTITY FUORI PORTATA"
+            "Value": "#ENTITY fuori portata"
         },
         {
             "Key": 653331449,
@@ -30123,8 +30723,16 @@
             "Value": "Guglie elettriche"
         },
         {
+            "Key": 703225368,
+            "Value": "Gli Automaton usano un sistema di sicurezza con chiavi elettroniche altamente avanzate. Una chiave elettronica localizzata qui garantirà l'accesso alla loro unità di contenimento."
+        },
+        {
             "Key": 704813543,
             "Value": "RECUPERA GLI ORDINI DEL GENERALE"
+        },
+        {
+            "Key": 706503498,
+            "Value": "Una videocamera tattica ad alta definizione è stata installata in questa posizione. È essenziale registrare prove dei crimini del nemico."
         },
         {
             "Key": 713672151,
@@ -30183,6 +30791,10 @@
             "Value": "Gira tutte le valvole indicate dal terminale"
         },
         {
+            "Key": 756729094,
+            "Value": "Piazzare gli interruttori nelle posizioni indicate"
+        },
+        {
             "Key": 759173569,
             "Value": "Grazie per la pazienza"
         },
@@ -30219,8 +30831,16 @@
             "Value": "VERIFICA IL CHECKSUM DEL TRASFERIMENTO"
         },
         {
+            "Key": 778517830,
+            "Value": "OPERAZIONE COMMANDO"
+        },
+        {
             "Key": 782436802,
             "Value": "RICOMPENSE MISSIONE"
+        },
+        {
+            "Key": 783509927,
+            "Value": "Stabilire una connessione col Super Destroyer per ricevere i rinforzi"
         },
         {
             "Key": 785844264,
@@ -30233,6 +30853,10 @@
         {
             "Key": 793095850,
             "Value": "LANCIO SONDA SISMICA"
+        },
+        {
+            "Key": 799787116,
+            "Value": "Gli Automaton stanno sintetizzando una forma di plasma nutritivo da del materiale organico. Informazioni attendibili mostrano che questo materiale organico proviene al 100% da cittadini leali dotati di alto potenziale ed eccellente simmetria facciale. Lo scopo di questo plasma è ancora sconosciuto, ma la sua produzione è estremamente costosa.\n\nA causa della difesa antiaerea nemica, la missione deve essere estremamente rapida. Distruggere i bioprocessori che alimentano la sintesi del plasma organico, poi procedere all'estrazione."
         },
         {
             "Key": 802464482,
@@ -30287,6 +30911,10 @@
             "Value": "Modulo di alimentazione silo"
         },
         {
+            "Key": 844757833,
+            "Value": "Infiltrati in questo sito per recuperare le informazioni preziose, e procedi all'estrazione quando ne sei in possesso."
+        },
+        {
             "Key": 845126010,
             "Value": "TRASMISSIONE DATI"
         },
@@ -30299,12 +30927,20 @@
             "Value": "Una trasmissione propagandistica illegale è stata fatta risalire a questa posizione."
         },
         {
+            "Key": 855357990,
+            "Value": "Qui si trova una riserva di platino di alta qualità ben sorvegliata. Il materiale è di legittima proprietà della Super Terra e dei suoi cittadini: è vostro dovere recuperarlo. \n\nNon appena la vostra presenza verrà rilevata, si attiveranno i rinforzi presenti sul luogo. Gli ordini sono chiari: entrare, prendere il materiale e uscire."
+        },
+        {
             "Key": 856398682,
             "Value": "La trivella potrebbe disturbare le creature del sottosuolo"
         },
         {
             "Key": 858415206,
             "Value": "PORTELLO DEL SILO BLOCCATO"
+        },
+        {
+            "Key": 863574571,
+            "Value": "OPERAZIONE COMMANDO"
         },
         {
             "Key": 865432226,
@@ -30329,6 +30965,10 @@
         {
             "Key": 893045708,
             "Value": "Uccidi il Terminide"
+        },
+        {
+            "Key": 897195810,
+            "Value": "Distruggere i bioprocessori che alimentano la sintesi del plasma organico, poi andare all'estrazione."
         },
         {
             "Key": 897258492,
@@ -30423,6 +31063,10 @@
             "Value": "Conferma la profondità usando l'interfaccia della trivella"
         },
         {
+            "Key": 959258356,
+            "Value": "Raccogli le risorse intorno a te e mettile nel contenitore"
+        },
+        {
             "Key": 959618138,
             "Value": "Tira la leva dell'unità trasformatore"
         },
@@ -30483,6 +31127,10 @@
             "Value": "EVACUAZIONE DI EMERGENZA"
         },
         {
+            "Key": 1021441989,
+            "Value": "COMPONENTI PRINCIPALI"
+        },
+        {
             "Key": 1026152227,
             "Value": "CARICA I PROIETTILI DI ARTIGLIERIA"
         },
@@ -30509,6 +31157,10 @@
         {
             "Key": 1048553999,
             "Value": "Usa il terminale per sabotare la torre di controllo"
+        },
+        {
+            "Key": 1062726371,
+            "Value": "DISTRUGGERE I BIOPROCESSORI"
         },
         {
             "Key": 1063103250,
@@ -30539,6 +31191,10 @@
             "Value": "GUADAGNATI IL MANTELLO DA HELLDIVER"
         },
         {
+            "Key": 1084439566,
+            "Value": "Fusione"
+        },
+        {
             "Key": 1084788693,
             "Value": "PIANTA LA BANDIERA DELLA SUPER TERRA"
         },
@@ -30557,6 +31213,10 @@
         {
             "Key": 1095612653,
             "Value": "INSERISCI LA SEQUENZA DI ATTIVAZIONE"
+        },
+        {
+            "Key": 1103087785,
+            "Value": "LIVELLO DI MINACCIA: BASSO"
         },
         {
             "Key": 1104170543,
@@ -30675,6 +31335,10 @@
             "Value": "Modulo di accesso al sistema"
         },
         {
+            "Key": 1185874471,
+            "Value": "INSTALLAZIONE ROOTKIT"
+        },
+        {
             "Key": 1190235804,
             "Value": "Riduci la popolazione terminide con ogni mezzo."
         },
@@ -30685,6 +31349,10 @@
         {
             "Key": 1190975309,
             "Value": "RICONQUISTA DELLA CITTÀ"
+        },
+        {
+            "Key": 1191354573,
+            "Value": "COLLEGA HELLPOD AL DESTROYER"
         },
         {
             "Key": 1195041927,
@@ -30847,6 +31515,10 @@
             "Value": "Attiva il terminale"
         },
         {
+            "Key": 1329086705,
+            "Value": "Infiltrati nel sito e acquisisci prove inconfutabili degli imperdonabili crimini del nemico."
+        },
+        {
             "Key": 1330906044,
             "Value": "Utilizzare l'ARGO per estrarre l'E-711 da tutti i siti identificati."
         },
@@ -30865,6 +31537,10 @@
         {
             "Key": 1342077885,
             "Value": "RICOMPENSA GIORNALIERA"
+        },
+        {
+            "Key": 1344003897,
+            "Value": "Recuperare una scatola nera contenente informazioni importanti da un velivolo FAST abbattuto."
         },
         {
             "Key": 1344755793,
@@ -30927,6 +31603,10 @@
             "Value": "Vittoria"
         },
         {
+            "Key": 1374843215,
+            "Value": "L'intelligence ha individuato qui la presenza di due prodotti di alto valore: platino di alta qualità e batterie a fusione. Questi materiali, che hanno un costo di produzione estremamente alto, serviranno per perpetrare l'omicidio di massa di civili innocenti. È essenziale che vengano requisiti prima che questo accada.\n\nAssaltare la struttura. Appropriarsi ed estrarre i lingotti di platino e le batterie a fusione presenti nel sito."
+        },
+        {
             "Key": 1375464804,
             "Value": "Scorta e proteggi i ricercatori mentre si spostano verso la zona di evacuazione."
         },
@@ -30947,6 +31627,10 @@
             "Value": "INFORMAZIONI RECUPERATE DA"
         },
         {
+            "Key": 1387930949,
+            "Value": "Questa postazione antiaerea impedisce alla Libertà di diffondersi nei cieli di questo pianeta. Occorre eliminarla prima che altre famiglie siano costrette ad assistere a cerimonie funebri in memoria dei nostri caduti."
+        },
+        {
             "Key": 1390962095,
             "Value": "Elimina la Variante"
         },
@@ -30961,6 +31645,10 @@
         {
             "Key": 1401129762,
             "Value": "Carburante"
+        },
+        {
+            "Key": 1401793427,
+            "Value": "Qui si trova una riserva di platino puro al 99%. Gli Automaton intendono usare questo materiale per mettere in pericolo la Democrazia. Dobbiamo confiscarlo."
         },
         {
             "Key": 1404839977,
@@ -30993,6 +31681,10 @@
         {
             "Key": 1436046545,
             "Value": "Liberare i coloni intrappolati e scortarli a un punto di evacuazione sicura."
+        },
+        {
+            "Key": 1437066282,
+            "Value": "Libera il tubo"
         },
         {
             "Key": 1449175215,
@@ -31045,6 +31737,10 @@
         {
             "Key": 1472930399,
             "Value": "VALUTA"
+        },
+        {
+            "Key": 1477149023,
+            "Value": "Gli Automaton stanno conducendo indagini minerarie per identificare ricche vene di minerali da sfruttare sconsideratamente. È essenziale per noi conquistare quei siti per primi, affinché le risorse del pianeta possano essere usate responsabilmente. \n\nEspropriare le coordinate dei siti minerari di questa regione identificati dagli Automaton ed estrarre dei campioni per valutarne le potenzialità."
         },
         {
             "Key": 1479552987,
@@ -31128,7 +31824,11 @@
         },
         {
             "Key": 1557419619,
-            "Value": "Permette agli shuttle di estrarre il carburante stoccato nelle riserve."
+            "Value": "Permetti agli shuttle di estrarre il carburante stoccato nelle riserve."
+        },
+        {
+            "Key": 1559577929,
+            "Value": "PRENDERE LA SCATOLA NERA"
         },
         {
             "Key": 1561295478,
@@ -31167,6 +31867,10 @@
             "Value": "Usa lo stratagemma: <i=1>#ENTITY</i>"
         },
         {
+            "Key": 1585667401,
+            "Value": "Dispiegarsi in profondità dietro le linee nemiche. Alcune missioni avranno un supporto di Super Destroyer fortemente limitato."
+        },
+        {
             "Key": 1589424449,
             "Value": "Attiva il terminale"
         },
@@ -31175,8 +31879,16 @@
             "Value": "IMPADRONISCITI DELLE TORRI SATELLITARI CIVILI"
         },
         {
+            "Key": 1592504616,
+            "Value": "COMMANDO"
+        },
+        {
             "Key": 1592613774,
             "Value": "RECUPERARE L'SSSD"
+        },
+        {
+            "Key": 1594707715,
+            "Value": "CONSOLE STAZIONE DI STOCCAGGIO BATTERIE"
         },
         {
             "Key": 1595355818,
@@ -31247,6 +31959,10 @@
             "Value": "Distruggi le infrastrutture degli Automaton per danneggiare la loro produzione militare."
         },
         {
+            "Key": 1641002756,
+            "Value": "FERMARE L'INDUSTRIA SOCIALISTA"
+        },
+        {
             "Key": 1642197796,
             "Value": "Codici di accesso"
         },
@@ -31283,6 +31999,10 @@
             "Value": "Lancio di razzi in corso"
         },
         {
+            "Key": 1660885238,
+            "Value": "ANNETTERE LA CAVA"
+        },
+        {
             "Key": 1673130948,
             "Value": "Individuare il sito di estrazione"
         },
@@ -31293,6 +32013,14 @@
         {
             "Key": 1673923679,
             "Value": "FUSIBILE 2"
+        },
+        {
+            "Key": 1676571676,
+            "Value": "Questi bioprocessori sono il primo passo per la sintesi del plasma organico. Devono essere distrutti."
+        },
+        {
+            "Key": 1679544793,
+            "Value": "CONTROLLO DELLA RAFFINERIA CENTRALE"
         },
         {
             "Key": 1691572204,
@@ -31321,6 +32049,10 @@
         {
             "Key": 1705537422,
             "Value": "Pronti a iniziare la sequenza di ricarica per il proiettile orbitale M723"
+        },
+        {
+            "Key": 1705611194,
+            "Value": "Trovare i siti minerari identificati dagli Automaton ed estrarre dei campioni per valutarne le potenzialità."
         },
         {
             "Key": 1706024967,
@@ -31379,6 +32111,10 @@
             "Value": "In questa regione è presente una base aerea Automaton. Vi viene effettuata la manutenzione delle navi da trasporto, che quindi sono vulnerabili."
         },
         {
+            "Key": 1748495489,
+            "Value": "Le informazioni di intelligence indicano una massiccia operazione industriale segreta degli Automaton, che il nemico ha fatto di tutto per tenere nascosta. Ulteriori informazioni possono essere recuperate sul terreno in questa posizione. Gli armamenti di interdizione in orbita bassa rendono impossibile lo schieramento prolungato dei Destroyer. Una volta a terra, non avrai supporto.\n\nQuesta operazione è estremamente pericolosa. Ma è essenziale per noi identificare la natura e la posizione dei piani degli Automaton. "
+        },
+        {
             "Key": 1751374118,
             "Value": "ELIMINARE I GIGANTI AUTOMATON"
         },
@@ -31405,6 +32141,10 @@
         {
             "Key": 1763202421,
             "Value": "RESPINGI L'INVASIONE"
+        },
+        {
+            "Key": 1765705860,
+            "Value": "INTERRUTTORE 2"
         },
         {
             "Key": 1767301278,
@@ -31559,6 +32299,10 @@
             "Value": "Carburante insufficiente"
         },
         {
+            "Key": 1874084773,
+            "Value": "Riponi le batterie a fusione nel contenitore di carico"
+        },
+        {
             "Key": 1880335159,
             "Value": "L'SCT è pronto. È ora di disinfestare questo pianeta una volta per tutte."
         },
@@ -31567,8 +32311,16 @@
             "Value": "OPERAZIONE STRUTTURA INATTIVA"
         },
         {
+            "Key": 1893894578,
+            "Value": "DISTRUGGERE LE NAVI DA CARICO"
+        },
+        {
             "Key": 1895124532,
             "Value": "TRIVELLAZIONE IN CORSO"
+        },
+        {
+            "Key": 1895607022,
+            "Value": "ACQUISIRE LA VIDEOCAMERA TATTICA"
         },
         {
             "Key": 1897839356,
@@ -31723,12 +32475,20 @@
             "Value": "Effettua un rilevamento geologico per individuare vene minerarie preziose."
         },
         {
+            "Key": 2037673288,
+            "Value": "I prodotti della raffineria vengono spediti per successive lavorazioni per mezzo delle navi da carico ormeggiate qui. Distruggile."
+        },
+        {
             "Key": 2039095996,
             "Value": "Questo alveare centrale dei Terminidi produce una nebbia densa che riduce la visibilità."
         },
         {
             "Key": 2045888767,
             "Value": "Rifornisci le munizioni"
+        },
+        {
+            "Key": 2053347620,
+            "Value": "Estrazione con videocamera tattica"
         },
         {
             "Key": 2053793640,
@@ -31739,8 +32499,24 @@
             "Value": "Le Mietitrici degli Illuminati pattugliano questo isolato. Trovate e distruggete questa minaccia."
         },
         {
+            "Key": 2057996380,
+            "Value": "Sappiamo per certo che in questo luogo sono presenti dispositivi contenenti informazioni codificate di alto valore sui piani nemici. \n\nInfiltrati in questo sito, acquisisci le informazioni, e procedi all'estrazione quando ne sei in possesso."
+        },
+        {
             "Key": 2063895312,
             "Value": "Classe della fortificazione"
+        },
+        {
+            "Key": 2064052499,
+            "Value": "CHIAVE ELETTRONICA"
+        },
+        {
+            "Key": 2064403217,
+            "Value": "Le difese nemiche in quest'area impediscono il dispiegamento prolungato dei Super Destroyer in certe missioni. Prepararsi a entrare in azione con un supporto limitato da parte dei Super Destroyer."
+        },
+        {
+            "Key": 2066712812,
+            "Value": "Usare il terminale per completare l'acquisizione"
         },
         {
             "Key": 2067123077,
@@ -31757,6 +32533,10 @@
         {
             "Key": 2070314061,
             "Value": "Distruggi il nido di Urlatori"
+        },
+        {
+            "Key": 2071327434,
+            "Value": "VIDEOCAMERA TATTICA"
         },
         {
             "Key": 2073441684,
@@ -31777,6 +32557,10 @@
         {
             "Key": 2090959963,
             "Value": "Un convoglio Automaton pesantemente difeso attraverserà questa regione. Intercettare e distruggere il convoglio prima che lasci l'area della missione."
+        },
+        {
+            "Key": 2094520759,
+            "Value": "Nessun Pod di rinforzo disponibile"
         },
         {
             "Key": 2095994991,
@@ -31825,6 +32609,10 @@
         {
             "Key": 2141540131,
             "Value": "Individua e distruggi gli assemblatori degli Automaton."
+        },
+        {
+            "Key": 2143284501,
+            "Value": "Gli Hellpod verranno schierati a questa posizione al lancio della missione. A causa dell'assenza del Super Destroyer, i normali rinforzi non saranno disponibili. \n\nConquistare questo sito consentirà l'accesso a ulteriori rinforzi, che saranno dispiegati direttamente da questa posizione."
         },
         {
             "Key": 2144732626,
@@ -31911,6 +32699,10 @@
             "Value": "Attivare il generatore fornisce l'energia estremamente necessaria ai dispositivi FAST nella regione."
         },
         {
+            "Key": 2197847436,
+            "Value": "Conquistare il complesso industriale degli Automaton nel nome della democrazia controllata."
+        },
+        {
             "Key": 2204289064,
             "Value": "Shuttle di evacuazione in arrivo"
         },
@@ -31933,6 +32725,10 @@
         {
             "Key": 2216916513,
             "Value": "Tempo trascorso sulla superficie"
+        },
+        {
+            "Key": 2219413559,
+            "Value": "SABOTARE LA SINTESI DELL'ORGO-PLASMA"
         },
         {
             "Key": 2232151788,
@@ -31961,6 +32757,10 @@
         {
             "Key": 2246173906,
             "Value": "Sotto la superficie di questo pianeta si nasconde una rete di tunnel Terminide lunga milioni di chilometri. Per identificare gli obiettivi strategici dovremo effettuare una dettagliata mappatura del sottosuolo.\n\nUtilizzate una trivella da prospezione modificata per raccogliere campioni del mantello infestato. Le analisi identificheranno le proprietà delle strutture Terminidi locali."
+        },
+        {
+            "Key": 2249405204,
+            "Value": "Prove incriminanti registrate"
         },
         {
             "Key": 2250960762,
@@ -32007,6 +32807,10 @@
             "Value": "Riallinea manualmente la torre satellitare"
         },
         {
+            "Key": 2266806766,
+            "Value": "Il velivolo FAST abbattuto è localizzato qui. La sua scatola nera contiene informazioni cruciali."
+        },
+        {
             "Key": 2267878169,
             "Value": "RIPRISTINARE LA QUALITÀ DELL'ARIA"
         },
@@ -32029,6 +32833,10 @@
         {
             "Key": 2284698652,
             "Value": "MAPPARE I TUNNEL DEI TERMINIDI"
+        },
+        {
+            "Key": 2288844056,
+            "Value": "Un velivolo di ricognizione FAST è stato appena abbattuto in questa posizione. Il velivolo aveva registrato importanti informazioni sulla posizione delle forze nemiche. \n\nInfiltrati nell'area e metti al sicuro la scatola nera contenente le informazioni."
         },
         {
             "Key": 2290530748,
@@ -32081,6 +32889,10 @@
         {
             "Key": 2316288590,
             "Value": "L'offensiva degli Automaton ha colpito tutta l'area e una delle nostre stazioni di ricerca più segrete ora è circondata dal nemico.\n\nUsate l'autorizzazione per sbloccare le porte del bunker di emergenza e difendete il personale della struttura mentre si sposta verso lo shuttle di evacuazione."
+        },
+        {
+            "Key": 2318467471,
+            "Value": "Stazione attiva"
         },
         {
             "Key": 2318515204,
@@ -32167,6 +32979,10 @@
             "Value": "Le pompe su questo enorme deposito di greggio hanno smesso di funzionare e devono essere riattivate."
         },
         {
+            "Key": 2368120173,
+            "Value": "INTERRUTTORE 4"
+        },
+        {
             "Key": 2370408778,
             "Value": "Attenzione alle bufere accecanti e alla neve alta."
         },
@@ -32184,11 +33000,19 @@
         },
         {
             "Key": 2383338337,
-            "Value": "Prestazione non degna di nota"
+            "Value": "Valore superiore"
+        },
+        {
+            "Key": 2383887678,
+            "Value": "ESTRARRE IL PLASMA ORGANICO"
         },
         {
             "Key": 2385167251,
-            "Value": "Servizio deludente"
+            "Value": "Servizio onorevole"
+        },
+        {
+            "Key": 2388077047,
+            "Value": "LIVELLO DI MINACCIA: MASSIMO"
         },
         {
             "Key": 2391925668,
@@ -32272,7 +33096,7 @@
         },
         {
             "Key": 2467146338,
-            "Value": "Valore superiore"
+            "Value": "Incredibile eroismo"
         },
         {
             "Key": 2468140080,
@@ -32281,6 +33105,10 @@
         {
             "Key": 2468339199,
             "Value": "POSTAZIONI ANTIAEREE DEGLI AUTOMATON"
+        },
+        {
+            "Key": 2468812125,
+            "Value": "Usare il terminale per completare il sabotaggio"
         },
         {
             "Key": 2470414457,
@@ -32311,6 +33139,10 @@
             "Value": "Mettere in funzione i tre silos, quindi avviare la nebulizzazione del Terminicida."
         },
         {
+            "Key": 2492072473,
+            "Value": "LINGOTTO DI PLATINO"
+        },
+        {
             "Key": 2493471413,
             "Value": "La sorveglianza ritiene che un Comandante di covata si trovi qui."
         },
@@ -32323,6 +33155,10 @@
             "Value": "Abbiamo identificato numerosi bunker altamente sorvegliati in questa regione. Sospettiamo che contengano nodi di comando fondamentali per collegarsi al flusso di trasmissioni degli Automaton.\n\nDistruggete i bunker e isolate i bot dal flusso di informazioni."
         },
         {
+            "Key": 2506614173,
+            "Value": "ESTRARRE LE INFORMAZIONI"
+        },
+        {
             "Key": 2507454049,
             "Value": "Tieni gli arti lontani dalle parti in movimento della trivella"
         },
@@ -32333,6 +33169,10 @@
         {
             "Key": 2510614687,
             "Value": "ERRORE DI SISTEMA"
+        },
+        {
+            "Key": 2510839207,
+            "Value": "POD DI RINFORZI"
         },
         {
             "Key": 2525564346,
@@ -32371,12 +33211,20 @@
             "Value": "UCCISIONI CORPO A CORPO:"
         },
         {
+            "Key": 2543912374,
+            "Value": "LIVELLO DI MINACCIA: ALTO"
+        },
+        {
             "Key": 2547152065,
             "Value": "Gli Automaton hanno guadagnato terreno in questa regione, costruendo una rete estesa di Assemblatori che permette loro di replicarsi molto velocemente.\n\nAbbiamo individuato una piccola finestra di manutenzione, che ci dà la possibilità di colpire le loro strutture. Distruggete tutto il possibile."
         },
         {
             "Key": 2554621228,
             "Value": "Sistema di controllo dei Terminidi"
+        },
+        {
+            "Key": 2554856065,
+            "Value": "OTTENERE LE COORDINATE"
         },
         {
             "Key": 2555575705,
@@ -32444,7 +33292,7 @@
         },
         {
             "Key": 2596970518,
-            "Value": "Eccezionale patriottismo"
+            "Value": "Incommensurabile coraggio"
         },
         {
             "Key": 2597423876,
@@ -32483,6 +33331,10 @@
             "Value": "DISTRUGGI LA GORGONAVE DEGLI ILLUMINATI"
         },
         {
+            "Key": 2619320064,
+            "Value": "RACCOGLIERE DATI MINERARI"
+        },
+        {
             "Key": 2621362674,
             "Value": "Stabilisci la connessione alla rete FAST"
         },
@@ -32495,12 +33347,20 @@
             "Value": "Estrazione con SSSD"
         },
         {
+            "Key": 2632570592,
+            "Value": "Una volta acquisita, portare il materiale filmato a questa posizione per procedere a un'estrazione sicura."
+        },
+        {
             "Key": 2634629103,
             "Value": "Download del database"
         },
         {
             "Key": 2645065579,
             "Value": "Usa l'interfaccia della trivella per dispiegare la carica nucleare"
+        },
+        {
+            "Key": 2646602779,
+            "Value": "Trovare il velivolo da ricognizione FAST abbattuto"
         },
         {
             "Key": 2648549122,
@@ -32525,6 +33385,10 @@
         {
             "Key": 2665110557,
             "Value": "Stato trivella: gravemente danneggiata"
+        },
+        {
+            "Key": 2666542614,
+            "Value": "Distruggere la produzione di plasma organico e acquisire campioni del liquido per ulteriori analisi."
         },
         {
             "Key": 2669057553,
@@ -32637,6 +33501,10 @@
         {
             "Key": 2760899332,
             "Value": "FISSA LE COORDINATE DEL BERSAGLIO"
+        },
+        {
+            "Key": 2762045800,
+            "Value": "INTERRUTTORE 5"
         },
         {
             "Key": 2768917302,
@@ -32787,6 +33655,10 @@
             "Value": "Trova ed elimina lo Zampelunghe operaio Automaton"
         },
         {
+            "Key": 2907608837,
+            "Value": "Schiacciamento"
+        },
+        {
             "Key": 2909063579,
             "Value": "Stabile"
         },
@@ -32805,6 +33677,10 @@
         {
             "Key": 2918259917,
             "Value": "Usare il cannone per abbattere l'Ipernave"
+        },
+        {
+            "Key": 2919420525,
+            "Value": "ACQUISIRE PROVE"
         },
         {
             "Key": 2920986948,
@@ -32951,6 +33827,10 @@
             "Value": "È necessario l'accesso"
         },
         {
+            "Key": 3032463011,
+            "Value": "INTERRUTTORE 3"
+        },
+        {
             "Key": 3042714175,
             "Value": "EVACUAZIONE DEI CITTADINI PRIORITARI"
         },
@@ -32967,8 +33847,16 @@
             "Value": "Ricerca di errori in corso. Attendere."
         },
         {
+            "Key": 3057905493,
+            "Value": "DISTRUGGERE I BIOPROCESSORI"
+        },
+        {
             "Key": 3058010335,
             "Value": "Elimina l'Ariete"
+        },
+        {
+            "Key": 3061226967,
+            "Value": "Riponi i lingotti di platino nel contenitore di carico"
         },
         {
             "Key": 3062607332,
@@ -33001,6 +33889,10 @@
         {
             "Key": 3089029877,
             "Value": "Il velivolo da ricognizione è localizzato qui. La sua preziosa scatola nera dev'essere recuperata."
+        },
+        {
+            "Key": 3100570863,
+            "Value": "FLUSSO DEL PLASMA ORGANICO BLOCCATO"
         },
         {
             "Key": 3102562666,
@@ -33063,8 +33955,16 @@
             "Value": "Trasportare la scatola nera al relay di comunicazione"
         },
         {
+            "Key": 3138429204,
+            "Value": "Estrazione con pacchetto informazioni"
+        },
+        {
             "Key": 3139947901,
             "Value": "SPARA-SPORE"
+        },
+        {
+            "Key": 3141709354,
+            "Value": "CONFISCARE I MATERIALI"
         },
         {
             "Key": 3152259079,
@@ -33123,6 +34023,10 @@
             "Value": "OBIETTIVI PRINCIPALI"
         },
         {
+            "Key": 3196977326,
+            "Value": "INTERFACCIA DISPERSIONE BATTERIE"
+        },
+        {
             "Key": 3199974650,
             "Value": "Effettua l'accesso"
         },
@@ -33167,12 +34071,20 @@
             "Value": "Trova il Titano rabbioso"
         },
         {
+            "Key": 3239007371,
+            "Value": "Abbiamo localizzato un'importante struttura delle operazioni minerarie Automaton. Il minerale di platino viene estratto, raffinato e spedito ad altre fabbriche per successive lavorazioni. \n\nQuesti materiali sono stati dichiarati proprietà della Federazione. Dobbiamo appropriarcene."
+        },
+        {
             "Key": 3242249721,
             "Value": "Conferma"
         },
         {
             "Key": 3247307197,
             "Value": "SHUTTLE IN PARTENZA COL VEICOLO"
+        },
+        {
+            "Key": 3248706805,
+            "Value": "Ci sono motivi per credere che questa struttura nasconda prove innegabili dei crimini di guerra socialisti. Armi di distruzione di massa, violazione delle leggi umanitarie interstellari, indicibili minacce ai nostri concittadini. Nascoste in profondità dietro le linee nemiche.\n\nDevi portare alla luce la verità. Infiltrati nel sito e raccogli prove delle loro malefatte. I nostri cittadini devono vedere la vera faccia del nemico."
         },
         {
             "Key": 3250980093,
@@ -33255,6 +34167,10 @@
             "Value": "PORTELLO DEL BUNKER BLOCCATO"
         },
         {
+            "Key": 3305068834,
+            "Value": "CHIAMA SUPER DESTROYER"
+        },
+        {
             "Key": 3306914533,
             "Value": "Abbiamo ricevuto segnalazioni affidabili di brutali Giganti Automaton nella regione. Distruggendoli indeboliremmo la gerarchia di comando Automaton.\n\nIndividuate i Giganti ed eliminateli."
         },
@@ -33289,6 +34205,10 @@
         {
             "Key": 3326816535,
             "Value": "Eliminare la materia Terminide dal sito"
+        },
+        {
+            "Key": 3327391057,
+            "Value": "Qui sono state localizzate prove concrete e innegabili delle indicibili atrocità commesse dagli Automaton. Registrale con la videocamera tattica in modo che la verità possa venire alla luce."
         },
         {
             "Key": 3328841511,
@@ -33339,6 +34259,10 @@
             "Value": "Le scansioni orbitali a infrarossi hanno rilevato il calore residuo di uno Zampelunghe operaio Automaton in questa regione. Se agirà indisturbato, a breve il pianeta sarà invaso da mostri meccanici.\n\nTerminatelo."
         },
         {
+            "Key": 3346432464,
+            "Value": "SCATOLA NERA"
+        },
+        {
             "Key": 3347495776,
             "Value": "CERCA E DISTRUGGI"
         },
@@ -33363,6 +34287,10 @@
             "Value": "Usa lo stratagemma Rifornimento per richiedere dei rifornimenti"
         },
         {
+            "Key": 3363315792,
+            "Value": "INTERRUTTORE 1"
+        },
+        {
             "Key": 3364339856,
             "Value": "La FAST ha segnalato avvistamenti di Arieti affetti da mutazioni nuove e pericolose in questa regione.\n\nQuesti esemplari devono essere eliminati prima che le mutazioni si diffondano."
         },
@@ -33373,6 +34301,10 @@
         {
             "Key": 3385979084,
             "Value": "Elimina lo Zampelunghe operaio"
+        },
+        {
+            "Key": 3388756109,
+            "Value": "Usa il terminale per prendere il controllo della raffineria"
         },
         {
             "Key": 3391266100,
@@ -33392,7 +34324,7 @@
         },
         {
             "Key": 3395090182,
-            "Value": "Elaborazione sistema..."
+            "Value": "ELABORAZIONE SISTEMA..."
         },
         {
             "Key": 3399935348,
@@ -33435,6 +34367,14 @@
             "Value": "Accampamento Illuminati pesante sgomberato"
         },
         {
+            "Key": 3413068530,
+            "Value": "Trasferimento dati da SSSD"
+        },
+        {
+            "Key": 3416752180,
+            "Value": "Questo è un sito potenzialmente ricco di platino identificato dagli Automaton. Prelevare un campione del sito per determinarne la fattibilità."
+        },
+        {
             "Key": 3419620263,
             "Value": "VANO APERTO"
         },
@@ -33459,6 +34399,10 @@
             "Value": "Distruggi le antenne di trasmissione"
         },
         {
+            "Key": 3438445098,
+            "Value": "Richiama un grosso contenitore per il carico e l'estrazione dei beni confiscati."
+        },
+        {
             "Key": 3441049493,
             "Value": "Raggiungi la Supercolonia, richiama il contenitore di Fluido oscuro e inseriscilo in ogni sito di carico per contribuire a distruggere il pianeta."
         },
@@ -33473,6 +34417,10 @@
         {
             "Key": 3445857369,
             "Value": "Se leggi questo, significa che il tempo sta per scadere"
+        },
+        {
+            "Key": 3455941334,
+            "Value": "Qui si trovano le coordinate di potenziali filoni minerari identificati dagli Automaton. Dobbiamo appropriarcene."
         },
         {
             "Key": 3460898800,
@@ -33575,6 +34523,10 @@
             "Value": "Questa città è sotto attacco. Non deve cadere davanti alle forze dell'oppressione."
         },
         {
+            "Key": 3534933252,
+            "Value": "RECUPERARE LA SCATOLA NERA"
+        },
+        {
             "Key": 3537061153,
             "Value": "Muoviti in un simulatore di battaglia iperrealistico"
         },
@@ -33631,8 +34583,16 @@
             "Value": "POSIZIONE DELL'OBIETTIVO IGNOTA"
         },
         {
+            "Key": 3592860045,
+            "Value": "Qui si trova una riserva di batterie a fusione di nuova generazione. Sono state prodotte con materiali rubati. Dobbiamo appropriarcene."
+        },
+        {
             "Key": 3609805218,
             "Value": "CARICA I DATI DELLA SCATOLA NERA"
+        },
+        {
+            "Key": 3615493305,
+            "Value": "Opera in territorio nemico per svelare una vasta operazione che gli Automaton vogliono tenere lontana dagli occhi della Libertà."
         },
         {
             "Key": 3617271490,
@@ -33711,6 +34671,10 @@
             "Value": "Qui è stato scoperto un enorme nido di Terminidi, in cui pullulano milioni di larve appena nate, a poche settimane dal raggiungere la famelica età adulta. È necessario eliminarle prima che maturino, anche se questo dovesse comportare il sacrificio della città.\n\nI nidi dei Terminidi sono formati da una o più camere di incubazione. Usare la trivella frangi-alveare per lanciare una testata nucleare in ciascuna di esse."
         },
         {
+            "Key": 3678406658,
+            "Value": "Elenco componenti principali della raffineria"
+        },
+        {
             "Key": 3680203702,
             "Value": "Raggiungerai la superficie della Supercolonia in prossimità di ex nodi SCT, dove la crosta è stata indebolita. Una volta sul posto, richiama il contenitore di Fluido oscuro e consegnalo a ogni sito di carico.\n\nLa Supercolonia è diversa da tutto ciò che abbiamo affrontato finora. È probabile che incontrerai una forte resistenza. L'intera Super Terra conta su di te."
         },
@@ -33771,12 +34735,24 @@
             "Value": "AVVIO DEL SISTEMA"
         },
         {
+            "Key": 3717530748,
+            "Value": "Trasferimento in corso"
+        },
+        {
+            "Key": 3717706265,
+            "Value": "Pacchetto informazioni"
+        },
+        {
             "Key": 3724716379,
             "Value": "TRASPORTO BENI DI VALORE"
         },
         {
             "Key": 3725770996,
             "Value": "Nessun decesso"
+        },
+        {
+            "Key": 3728828182,
+            "Value": "In questa raffineria il minerale grezzo viene trasformato in platino di alta qualità. Prendine il controllo."
         },
         {
             "Key": 3732427795,
@@ -33833,6 +34809,10 @@
         {
             "Key": 3791375433,
             "Value": "STAZIONE DI TRASMISSIONE PRONTA PER IL CARICAMENTO"
+        },
+        {
+            "Key": 3791703638,
+            "Value": "Estrazione con la scatola nera"
         },
         {
             "Key": 3795512643,
@@ -33895,8 +34875,16 @@
             "Value": "Effettua l'accesso"
         },
         {
+            "Key": 3847588790,
+            "Value": "CONFISCARE IL PLATINO DI ALTA QUALITÀ"
+        },
+        {
             "Key": 3848177901,
             "Value": "SHUTTLE IN ARRIVO"
+        },
+        {
+            "Key": 3851493511,
+            "Value": "LIVELLO DI MINACCIA: MODERATO"
         },
         {
             "Key": 3853228634,
@@ -33959,6 +34947,10 @@
             "Value": "Nido di Insetti pesante debellato"
         },
         {
+            "Key": 3906982366,
+            "Value": "Confiscare il platino e le batterie a fusione presenti nel sito."
+        },
+        {
             "Key": 3908101367,
             "Value": "Ritrovare l'hard disk SSSD contenente i <c=FFFFE900>codici di accesso</c> segreti."
         },
@@ -34007,12 +34999,20 @@
             "Value": "INSERISCI CODICE DI LANCIO"
         },
         {
+            "Key": 3962314254,
+            "Value": "RECUPERARE LA CHIAVE ELETTRONICA"
+        },
+        {
             "Key": 3965369850,
             "Value": "#NAME"
         },
         {
             "Key": 3967915737,
             "Value": "ATTIVARE LA TORRE DEL TERMINICIDA"
+        },
+        {
+            "Key": 3968375375,
+            "Value": "Fermare le estese attività industriali Automaton su questo pianeta ricoperto di lava. Annettere le loro strutture industriali e sequestrare i beni rubati."
         },
         {
             "Key": 3968858894,
@@ -34083,6 +35083,10 @@
             "Value": "Attiva il terminale"
         },
         {
+            "Key": 4003196211,
+            "Value": "Abbiamo scoperto estese operazioni di estrazione e lavorazione Automaton su questo pianeta precedentemente disabitato. Questo mondo ricoperto di lava è ricco di risorse minerarie, ma le continue eruzioni e l'atmosfera tossica lo rendono inabitabile per l'uomo. \n\nGli Automaton stanno incautamente sfruttando le ricchezze naturali del pianeta, sottraendole ai nostri concittadini e trasformandole in strumenti di oppressione socialista. Dobbiamo fermarli, impadronirci delle loro industrie e sequestrare i beni rubati."
+        },
+        {
             "Key": 4004026431,
             "Value": "INTERFACCIA DEI SISTEMI CRITICI"
         },
@@ -34143,6 +35147,14 @@
             "Value": "Distruggere l'alimentazione del disturbatore cognitivo."
         },
         {
+            "Key": 4060481832,
+            "Value": "CONFISCARE LE BATTERIE A FUSIONE"
+        },
+        {
+            "Key": 4065130128,
+            "Value": "Recuperare le coordinate"
+        },
+        {
             "Key": 4069339786,
             "Value": "Gli Automaton hanno installato le loro fabbriche in tutta la regione e sfornano senza sosta truppe fresche con cui schiacciare la Libertà. \n\nDistruggi le loro infrastrutture e uccidi più bot possibili."
         },
@@ -34163,6 +35175,10 @@
             "Value": "DIFESA DELLA CITTÀ"
         },
         {
+            "Key": 4078219332,
+            "Value": "ACQUISIZIONE RAPIDA"
+        },
+        {
             "Key": 4080344030,
             "Value": "Distruggi il bunker di comando"
         },
@@ -34179,6 +35195,10 @@
             "Value": "Gli Automaton rappresentano un'innegabile e sfaccettata minaccia alla Libertà. Fai tutto il possibile per difendere il nostro stile di vita."
         },
         {
+            "Key": 4094579242,
+            "Value": "Gli Automaton stanno sintetizzando una forma di plasma nutritivo da del materiale organico. Informazioni attendibili mostrano che questo materiale organico proviene al 100% da cittadini leali dotati di alto potenziale ed eccellente simmetria facciale. Lo scopo di questo plasma è ancora sconosciuto, ma la sua produzione è estremamente costosa.\n\nDistruggere la produzione e acquisire campioni del liquido per ulteriori analisi."
+        },
+        {
             "Key": 4097714902,
             "Value": "Campioni trovati"
         },
@@ -34193,6 +35213,14 @@
         {
             "Key": 4106526805,
             "Value": "È stata segnalata la presenza di un Gigante Automaton."
+        },
+        {
+            "Key": 4113146532,
+            "Value": "ANNETTERE SITI MINERARI VERGINI"
+        },
+        {
+            "Key": 4114284942,
+            "Value": "ESTRAZIONE CON FILMATI"
         },
         {
             "Key": 4114740790,
@@ -34259,6 +35287,10 @@
             "Value": "NEUTRALIZZA IL CANNONE ORBITALE"
         },
         {
+            "Key": 4169211635,
+            "Value": "LIVELLO DI MINACCIA: MOLTO ALTO"
+        },
+        {
             "Key": 4169747191,
             "Value": "TRASMETTI IL PACCHETTO DATI"
         },
@@ -34273,6 +35305,10 @@
         {
             "Key": 4176745187,
             "Value": "AVVIA TRASFERIMENTO DI ENERGIA"
+        },
+        {
+            "Key": 4181311944,
+            "Value": "Purificazione"
         },
         {
             "Key": 4183229977,
@@ -34367,12 +35403,20 @@
             "Value": "STABILISCI UPLINK DI COMUNICAZIONE"
         },
         {
+            "Key": 4270246281,
+            "Value": "CONTENITORE DI CARICO"
+        },
+        {
             "Key": 4271378695,
             "Value": "Usa il terminale per aprire il portello del silo"
         },
         {
             "Key": 4272049039,
             "Value": "TOTALE: +#AMOUNT M"
+        },
+        {
+            "Key": 4279826208,
+            "Value": "Qui sono state localizzate informazioni di estremo valore. Sono chiuse dentro un'unità di contenimento sicura."
         },
         {
             "Key": 4280970126,
@@ -35516,7 +36560,7 @@
         },
         {
             "Key": 649545523,
-            "Value": "ENTRA NELLA TORRETTA"
+            "Value": "USA LA TORRETTA"
         },
         {
             "Key": 653034020,
@@ -35863,6 +36907,10 @@
             "Value": "Patch per il braccio"
         },
         {
+            "Key": 834600132,
+            "Value": "Attivando questi <i=1>Pod di rinforzo</i> aumenta il <i=1>budget dei rinforzi</i>. \n\nI rinforzi provengono direttamente da un sito per <i=1>Pod di rinforzo</i>."
+        },
+        {
             "Key": 835580544,
             "Value": "Hai raggiunto il grado di ASPIRANTE."
         },
@@ -36085,6 +37133,10 @@
         {
             "Key": 949000562,
             "Value": "Ripresa dell'hosting."
+        },
+        {
+            "Key": 949098447,
+            "Value": "Il Super Destroyer si ritirerà tra #MINUTES:#SECONDS"
         },
         {
             "Key": 952171788,
@@ -37113,6 +38165,10 @@
         {
             "Key": 1660961539,
             "Value": "Auto"
+        },
+        {
+            "Key": 1661508052,
+            "Value": "Quando il nemico chiama i rinforzi, il <i=1>livello di minaccia</i> aumenta.\n\nQuesto significa maggiore presenza nemica per tutta la durata della missione. "
         },
         {
             "Key": 1664794115,
@@ -38267,6 +39323,10 @@
             "Value": "CHIAMATE GLI HELLDIVER"
         },
         {
+            "Key": 2417654263,
+            "Value": "Super Destroyer non disponibile"
+        },
+        {
             "Key": 2418889021,
             "Value": "FENRIR III PERDUTO\nLa difesa di Fenrir III è fallita. I Terminidi ora infestano la sua superficie un tempo incontaminata."
         },
@@ -38357,6 +39417,10 @@
         {
             "Key": 2481293071,
             "Value": "FUCILE DA CECCHINO"
+        },
+        {
+            "Key": 2484985017,
+            "Value": "Senza il Destroyer nelle vicinanze, i rinforzi normali non sono disponibili.\n\nSono stati dispiegati blocchi di <i=1>Pod di rinforzo</i> in tutta l'area. È possibile usare questi rinforzi, una volta attivati."
         },
         {
             "Key": 2489938042,
@@ -38585,6 +39649,10 @@
         {
             "Key": 2627863304,
             "Value": "Caricatore"
+        },
+        {
+            "Key": 2634473139,
+            "Value": "Orbita bassa compromessa"
         },
         {
             "Key": 2634740248,
@@ -40155,6 +41223,10 @@
             "Value": "Apri il <c=FFFFE900>MENU STRATAGEMMI</c>, inserisci il codice dell'<c=FFFFE900>ATTACCO ORBITALE DI PRECISIONE</c> e lancia il <c=FFFFE900>RAGGIO</c> contro il bersaglio."
         },
         {
+            "Key": 3718459561,
+            "Value": "Questa è una missione <i=1>Commando</i>.\nNel cuore del territorio nemico, gli avversari sono ovunque. Ogni volta che il nemico chiama i rinforzi, il<i=1>livello di minaccia</i> aumenta. Maggiore è il <i=1>livello di minaccia</i>, più numerose saranno le unità ostili nell'area."
+        },
+        {
             "Key": 3719625712,
             "Value": "APPLICA NOME"
         },
@@ -40305,6 +41377,10 @@
         {
             "Key": 3799803411,
             "Value": "SPERIMENTAZIONE SULLE ARMI\nLo stratagemma Jetpack è temporaneamente a disposizione di tutti gli Helldiver."
+        },
+        {
+            "Key": 3803997722,
+            "Value": "Il Super Destroyer non può rimanere nell'area a lungo.\n\nOgni Helldiver può richiamarlo una volta per missione usando lo stratagemma <i=1>CHIAMA SUPER DESTROYER</i>."
         },
         {
             "Key": 3807102993,
@@ -40716,7 +41792,7 @@
         },
         {
             "Key": 4052131195,
-            "Value": "Mostra profilo giocatore"
+            "Value": "MOSTRA PROFILO GIOCATORE"
         },
         {
             "Key": 4053983656,
@@ -42767,6 +43843,10 @@
             "Value": "{0.00->1.44}Il sistema Krakatwo"
         },
         {
+            "Key": 300917809,
+            "Value": "{0.00->2.90}Pare che i bot stiano estraendo del platino.{3.19->8.62}Il platino è un metallo raro, ma su questi pianeti lavici... è ovunque.{8.81->14.60}E se la chimica non mi inganna, c'entra qualcosa con la… la lava."
+        },
+        {
             "Key": 300998616,
             "Value": "{0.00->1.79}Il sistema Angel's Venture"
         },
@@ -43879,6 +44959,10 @@
             "Value": "{0.00->1.04}Lancio granata."
         },
         {
+            "Key": 484462088,
+            "Value": "{0.04->1.78}Il Super Destroyer sta lasciando l'orbita."
+        },
+        {
             "Key": 485418670,
             "Value": "{0.00->2.64}Hanno occupato molti territori.{3.06->4.89} Dobbiamo riprenderceli."
         },
@@ -44129,6 +45213,10 @@
         {
             "Key": 528455383,
             "Value": "{0.00->5.60}La missione standard di un Helldiver si avvicina al costo di un Incrociatore di classe Libertà. {5.88->8.16}Dimostra quanto siamo importanti per la guerra."
+        },
+        {
+            "Key": 529897038,
+            "Value": "{0.00->5.44}Non sappiamo cosa cerchino gli Automaton con i loro scavi e processi industriali.{5.95->11.03}Ma qualunque cosa sia, appartiene ai cittadini della Super Terra."
         },
         {
             "Key": 530299362,
@@ -44777,6 +45865,10 @@
         {
             "Key": 665609750,
             "Value": "{0.00->0.93}Rinforzi."
+        },
+        {
+            "Key": 666027532,
+            "Value": "{0.00->6.60}Le fiamme consumano i loro corpi, ma la loro memoria non brucerà mai."
         },
         {
             "Key": 666555497,
@@ -45675,6 +46767,10 @@
             "Value": "{0.08->4.57}Forse gli Illuminati volevano convertire i nostri cittadini in leali sudditi,{4.95->10.09} ma la fedeltà dei cittadini alla Super Terra non si piega tanto facilmente.{10.69->12.18}E i brutali Senzavoto ne {12.57->13.53}sono la conseguenza."
         },
         {
+            "Key": 841910804,
+            "Value": "{0.03->6.06}Confiscate i guadagni illeciti degli Automaton. Alimenteranno l'espansione della Libertà."
+        },
+        {
             "Key": 841994390,
             "Value": "{0.00->2.55}Recluta morta. Serve squadra d'immersione."
         },
@@ -45697,6 +46793,10 @@
         {
             "Key": 845267755,
             "Value": "{0.02->2.62}Dovere! Fedeltà! Obbedienza!"
+        },
+        {
+            "Key": 846372507,
+            "Value": "{0.00->2.28}Estrazioni sui pianeti lavici...{3.05->4.76}quei bot non si fermano mai."
         },
         {
             "Key": 848303978,
@@ -46527,6 +47627,10 @@
             "Value": "{0.06->3.54}Non ricordo il resto, ma il ritmo è perfetto per avvitare."
         },
         {
+            "Key": 999708362,
+            "Value": "{0.00->3.37}Sono giunti rapporti su scavi svolti dagli Illuminati.{3.78->7.27}Non sorprende che tutti i servitori della Tirannia{7.27->10.96}cerchino la compagnia di vermi e creature sotterranee."
+        },
+        {
             "Key": 999860795,
             "Value": "{0.00->0.87}Nemici in arrivo."
         },
@@ -47079,6 +48183,10 @@
             "Value": "{0.00->0.73}Sono loro!"
         },
         {
+            "Key": 1112031147,
+            "Value": "{0.00->5.56}Gli Automaton stanno anche sintetizzando una sorta di biofluido super denso laggiù.{5.87->10.60}Per sapere dove trovano la biomassa per produrlo, usate l'immaginazione."
+        },
+        {
             "Key": 1112894256,
             "Value": "{0.00->5.13}Molti nemici uccisi, molti campioni raccolti. Per quanto mi riguarda, è un'ottima missione."
         },
@@ -47193,6 +48301,10 @@
         {
             "Key": 1133759312,
             "Value": "{0.00->1.98}La Libertà richiede potenza di fuoco."
+        },
+        {
+            "Key": 1134140708,
+            "Value": "{0.00->4.54}Avete sedato le fiamme della macchina da guerra Automaton."
         },
         {
             "Key": 1134533047,
@@ -47405,6 +48517,10 @@
         {
             "Key": 1171731074,
             "Value": "{0.00->0.74}50 metri."
+        },
+        {
+            "Key": 1172646803,
+            "Value": "{0.00->5.92}Abbiamo scoperto delle operazioni minerarie Automaton su pianeti lavici inospitali.{6.36->12.13}Gli Automaton hanno costruito un'intera industria sotto una coltre di cenere e fumo."
         },
         {
             "Key": 1173492874,
@@ -47885,6 +49001,10 @@
         {
             "Key": 1260130564,
             "Value": "{0.00->3.42}Visibilità ridotta. Contribuirà a occultare i nostri movimenti."
+        },
+        {
+            "Key": 1260769276,
+            "Value": "{0.06->6.00}Quando ho saputo che gli Helldiver avrebbero cominciato a svolgere missioni furtive, ho detto: era ora.{6.15->8.03}Gli Helldiver possono fare tutto."
         },
         {
             "Key": 1261207272,
@@ -49295,6 +50415,10 @@
             "Value": "{0.00->3.01}Santa Libertà, questi mostri diventano sempre più forti."
         },
         {
+            "Key": 1524148730,
+            "Value": "{0.03->4.40}Dovremo ringraziare gli Automaton per aver estratto le risorse per noi."
+        },
+        {
             "Key": 1525283168,
             "Value": "{0.00->3.39}PER LA SUPER TERRAAAAAH!"
         },
@@ -49401,6 +50525,10 @@
         {
             "Key": 1548777981,
             "Value": "{0.02->1.51}Al riparo!"
+        },
+        {
+            "Key": 1549761643,
+            "Value": "{7.45->10.24}Libertà e notizie, con Coretta Kelly.{11.56->16.97}Emergono nuovi dettagli sugli atroci scopi delle operazioni Automaton sui pianeti lavici.{18.15->23.99}Gli Helldiver hanno recuperato alcuni campioni di un liquido sintetico prodotto su questi pianeti.{24.85->32.51}Le analisi rivelano che questo fluido biologico è ricco di amminoacidi, nutrienti e cellule staminali.{33.24->36.66}Il tutto apparentemente estratto da organismi viventi.{37.49->42.90}Gli scienziati hanno accertato al di là di ogni dubbio che tutti i composti biologici{43.24->47.29}sono stati ricavati esclusivamente da cittadini della Super Terra,{47.89->53.38}la maggior parte dei quali erano quasi sicuramente bambini molto, molto piccoli.{53.90->60.84}L'Associazione per la protezione dei bambini della Super Terra condanna fermamente le azioni degli Automaton.{61.92->67.04}Inoltre, gli Automaton starebbero estraendo grandi quantità di platino grezzo.{67.45->73.33}Gli Helldiver hanno l'ordine di sequestrare il materiale così che non venga usato per scopi socialisti.{73.85->76.68}Per ora è tutto, da Coretta Kelly."
         },
         {
             "Key": 1550917994,
@@ -49863,6 +50991,10 @@
             "Value": "{0.02->1.58}Maledetti xenofobi."
         },
         {
+            "Key": 1658442673,
+            "Value": "{0.00->5.41}La vorace estrazione degli Automaton su questo pianeta continua indiscussa."
+        },
+        {
             "Key": 1658826517,
             "Value": "{0.00->5.74}I Terminidi proliferano fuori controllo su questo pianeta. Scendete laggiù e sterminateli."
         },
@@ -50295,6 +51427,10 @@
             "Value": "{0.00->0.95}Equipaggiamento."
         },
         {
+            "Key": 1745200917,
+            "Value": "{0.00->7.74}Cosa se ne fanno i bot dei pianeti coperti di lava? Scommetto che stanno fondendo... qualcosa..."
+        },
+        {
             "Key": 1745486445,
             "Value": "{0.00->2.11}Siete qui per salvarci, lo so!"
         },
@@ -50345,6 +51481,10 @@
         {
             "Key": 1755823329,
             "Value": "{0.00->0.83}Siamo bloccati!"
+        },
+        {
+            "Key": 1756572830,
+            "Value": "{7.51->10.30}Libertà e notizie, con Coretta Kelly.{11.18->18.46}Le ricognizioni degli Helldiver hanno rivelato l'esistenza di vaste miniere Automaton su pianeti lavici disabitati.{19.01->27.16}Gli Helldiver, passati inosservati grazie al loro eccellente addestramento, hanno trovato le prove di scavi in corso su diversi pianeti.{28.43->33.30}Si ritiene che questi mondi di lava siano inospitali per quasi ogni forma di vita.{34.31->42.82}Sebbene gli obiettivi del nemico siano ancora nebulosi, gli Helldiver hanno l'ordine di schierarsi immediatamente per sventare tali attività.{44.03->49.19}A seguire: gli esperti dicono che paura e dubbio sono sintomi di dissidenza.{49.95->52.93}Per ora è tutto, da Coretta Kelly."
         },
         {
             "Key": 1756915557,
@@ -50533,6 +51673,10 @@
         {
             "Key": 1785217033,
             "Value": "{0.00->1.58}Acquisito campione raro."
+        },
+        {
+            "Key": 1785421007,
+            "Value": "{0.00->0.83}Helldiver.{1.24->4.96}È stata scoperta una vasta operazione mineraria Automaton.{5.47->10.41}Il loro espansionismo e il loro sfruttamento non possono più essere tollerati."
         },
         {
             "Key": 1786909233,
@@ -51281,6 +52425,10 @@
         {
             "Key": 1954180793,
             "Value": "{0.00->2.78}Un semplice intoppo. Non ci arrenderemo."
+        },
+        {
+            "Key": 1954311761,
+            "Value": "{0.05->3.36}Sono Coretta Kelly, con E questo è tutto.{3.36->7.67}Continuano gli scavi archeologici sui pianeti ex-Illuminati.{7.67->11.30}Grazie agli sforzi di ricostruzione della Super Terra,{11.30->16.94}anche i coloni di classe media potranno visitare il nostro glorioso pianeta natale.{16.94->21.78}Per citare un elettricista marziano: \"Meglio di quanto potessi immaginare\".{21.78->22.26}Infine,{22.26->26.10}i produttivi residenti dell'Ospizio Acquilasaggia hanno{26.10->29.53}messo gli uncini sulla bandiera della Super Terra.{29.53->31.45}Si parla di uncinetto, ovviamente!{31.45->35.00}Impiegheranno circa sei mesi per ultimare il progetto,{35.00->39.07}che una volta finito coprirà metà di un campo da Freedomball.{39.07->41.33}E questo è davvero tutto."
         },
         {
             "Key": 1954421217,
@@ -53167,6 +54315,10 @@
             "Value": "{0.00->5.93}Il Consiglio Democratico vigila affinché i leader eletti agiscano in conformità con i valori che {5.93->7.43}tutti noi condividiamo."
         },
         {
+            "Key": 2328596078,
+            "Value": "{0.00->3.00}Sono Coretta Kelly, con E questo è tutto.{3.69->9.49}C.O.B. Genetics amplierà il programma di clonazione per soddisfare la richiesta di elefanti esazannuti.{9.82->18.88}Inoltre, la nota serie \"Sono diventato un Destroyer adolescente ma il mio Helldiver è troppo carino\" è stata rinnovata per la 78° stagione.{19.73->21.99}E questo è davvero tutto."
+        },
+        {
             "Key": 2329312982,
             "Value": "{0.00->2.03}Non capiranno mai la nostra Libertà."
         },
@@ -53267,8 +54419,16 @@
             "Value": "{0.03->0.35}Viscida feccia!"
         },
         {
+            "Key": 2350908725,
+            "Value": "{0.00->3.87}Le ambizioni degli Automaton sono andate in fumo."
+        },
+        {
             "Key": 2351474212,
             "Value": "{0.00->0.94}Servono munizioni!"
+        },
+        {
+            "Key": 2354883149,
+            "Value": "{0.00->1.76}Torniamo a mani vuote,{2.32->6.56}e il potere degli Automaton è sempre maggiore."
         },
         {
             "Key": 2355572509,
@@ -53707,6 +54867,10 @@
             "Value": "{0.00->1.33}Richiedo un'estrazione!"
         },
         {
+            "Key": 2428842342,
+            "Value": "{0.00->5.90}Le fiamme delle loro forge non sono nulla contro la fiamma della Libertà nei vostri cuori."
+        },
+        {
             "Key": 2431410298,
             "Value": "{0.02->1.49}Viscida feccia!"
         },
@@ -53829,6 +54993,10 @@
         {
             "Key": 2456379350,
             "Value": "{0.02->0.48}Campione."
+        },
+        {
+            "Key": 2457219794,
+            "Value": "{0.00->4.73}Sembra anche che gli Automaton stiano usando il calore dei mondi lavici{5.03->14.32}per sintetizzare una sorta di zuppa primordiale: un liquido denso pieno di amminoacidi, cellule staminali e glucosio.{14.90->17.24}Gli ingredienti della vita organica."
         },
         {
             "Key": 2457297650,
@@ -57407,6 +58575,10 @@
             "Value": "{0.01->0.77}State pronti!"
         },
         {
+            "Key": 3115729109,
+            "Value": "{0.07->7.48}Salute, Helldiver. I complotti Automaton iniziano a prendere forma. È richiesto il vostro aiuto."
+        },
+        {
             "Key": 3116921094,
             "Value": "{0.00->4.01}Lo sapevate? Nessuno si è mai veramente ribellato alla Super Terra. {4.47->10.02}I nostri migliori scienziati hanno dimostrato che tutti i \"ribelli\" hanno in realtà agito sotto il {10.02->11.84}controllo mentale degli Illuminati."
         },
@@ -60163,6 +61335,10 @@
             "Value": "{0.03->2.20}Sei un esempio di Libertà."
         },
         {
+            "Key": 3631750936,
+            "Value": "{0.00->6.98}Il grande sforzo degli Automaton nel sintetizzare le condizioni della vita fa sorgere innumerevoli dubbi.{7.71->11.34}Ma gli ordini non sono quelli di ponderare tali misteri.{11.99->15.02}Sono di distruggere la minaccia che incarnano."
+        },
+        {
             "Key": 3631756764,
             "Value": "{0.00->1.22}Il sistema Velo"
         },
@@ -60701,10 +61877,6 @@
         {
             "Key": 3731781055,
             "Value": "{0.00->1.73}Ora si può tornare alla normalità."
-        },
-        {
-            "Key": 3731884962,
-            "Value": "{0.00->5.51}Inspira coraggio. Espira l'Ombra dalla mente.{6.56->14.00}Inspira la gentilezza verso i bambini. Espira le spore della paura.{15.01->20.90}Inspira l'aria del sistema di ossigenazione del Super Destroyer.{22.00->27.17}Espira qualunque traccia di empatia verso le creature aliene."
         },
         {
             "Key": 3732832793,
@@ -62683,6 +63855,10 @@
             "Value": "{0.02->2.60}Grazie alla Super Terra per gli Helldiver!"
         },
         {
+            "Key": 4102683150,
+            "Value": "{0.06->3.54}Questi pianeti lavici sono inospitali per quasi ogni cosa.{4.09->7.60}Lande desolate. I bot non devono averle."
+        },
+        {
             "Key": 4102855602,
             "Value": "{0.00->3.07}Cancellate questi xenofobi dalla galassia."
         },
@@ -62709,6 +63885,10 @@
         {
             "Key": 4105633008,
             "Value": "{0.63->3.42}Sto bene, sto bene."
+        },
+        {
+            "Key": 4106158667,
+            "Value": "{0.00->4.13}Il primo obiettivo delle estrazioni Automaton sembra il platino.{4.57->7.14}Uno degli elementi più rari della galassia.{7.50->12.99}Non reattivo, prezioso e resistente alla corrosione ad alte temperature.{13.53->19.66}Quale di questi attributi solletica la cupidigia metallifera degli Automaton?"
         },
         {
             "Key": 4106723460,
@@ -63345,6 +64525,10 @@
         {
             "Key": 4234292192,
             "Value": "{0.00->2.83}Abbiamo distrutto gli Illuminati una volta.{3.59->4.78} E lo faremo ancora."
+        },
+        {
+            "Key": 4234690513,
+            "Value": "{0.06->4.53}Gli Automaton stanno rubando dai nostri cittadini. Non possiamo permetterlo."
         },
         {
             "Key": 4234915385,

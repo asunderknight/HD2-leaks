@@ -10639,6 +10639,10 @@
             "Value": "OPERACJA NIEUDANA"
         },
         {
+            "Key": 2663773781,
+            "Value": "Pobieranie danych geodezyjnych..."
+        },
+        {
             "Key": 2665279633,
             "Value": "Nieznany"
         },
@@ -12539,10 +12543,6 @@
             "Value": "{0.02->1.15}Gdzie są statki ewakuacyjne?"
         },
         {
-            "Key": 1762316,
-            "Value": "{0.00->3.72}Moim priorytetem numer 1 jest upewnienie się, że hellpody nie nawalą w trakcie akcji."
-        },
-        {
             "Key": 1860297,
             "Value": "{0.00->1.29}Układ Shete"
         },
@@ -12695,10 +12695,6 @@
             "Value": "{0.04->0.68}Ruchy!"
         },
         {
-            "Key": 30564190,
-            "Value": "{0.00->0.95}Miałam nadzieję, że tak będzie."
-        },
-        {
             "Key": 31041893,
             "Value": "{0.00->3.47}Świat potrzebuje od was eksterminowania w słusznej sprawie, helldiversi."
         },
@@ -12731,10 +12727,6 @@
             "Value": "{0.03->2.53}To świetna rzecz, bo nie będę musiała pracować w nadgodzinach."
         },
         {
-            "Key": 39278993,
-            "Value": "{0.00->0.50}W porządku."
-        },
-        {
             "Key": 40900108,
             "Value": "{0.05->1.89}Poświęć chwilę,{3.04->5.69} by sobie przypomnieć jeden prosty fakt – każdy helldivers jest twoim przyjacielem.{7.02->8.69} Co do jednego."
         },
@@ -12761,10 +12753,6 @@
         {
             "Key": 44149677,
             "Value": "{0.00->2.69}To właśnie flaga Super Ziemi, rekrucie!{3.08->4.89} Zatknij ją na wyznaczonym obszarze."
-        },
-        {
-            "Key": 44602783,
-            "Value": "{0.00->0.69}Niedobrze."
         },
         {
             "Key": 44739226,
@@ -12935,10 +12923,6 @@
             "Value": "{0.01->2.21}Nadchodzą. Wybierzcie cele!"
         },
         {
-            "Key": 76544457,
-            "Value": "{0.03->2.88}Tak jest. Pozbyć się tych ksenofobów z naszej galaktyki."
-        },
-        {
             "Key": 77119355,
             "Value": "{0.15->1.69}Zwizualizuj sobie flagę.{3.67->4.24} Zobacz,{5.08->6.64} jak owija się wokół twoich nóg,{8.10->8.93} rąk,{10.50->11.28} ciała,{13.04->14.00} twarzy.{16.08->17.29} Nic ci nie grozi."
         },
@@ -13035,10 +13019,6 @@
             "Value": "{0.00->2.73}Nasi wrogowie odcięli nam drogę do tej planety.{3.30->5.16} Wojna nas wyprzedziła."
         },
         {
-            "Key": 95570429,
-            "Value": "{0.00->3.09}Ale systemy ochrony szybko wykryły tych drani."
-        },
-        {
             "Key": 95588497,
             "Value": "{0.00->1.19}Zmniejszona widoczność.{1.65->3.22} Może zamaskować nasze ruchy."
         },
@@ -13119,10 +13099,6 @@
             "Value": "{0.05->2.40}Przez całe dnie konstruowaliśmy boty, ze wszystkiego, co tylko mogliśmy znaleźć."
         },
         {
-            "Key": 113471127,
-            "Value": "{0.00->3.10}A kiedy helldivers z nią skończył, pyk, wylatywała w kosmos."
-        },
-        {
             "Key": 114188389,
             "Value": "{0.01->2.07}RANY! Szkoda, że nie umiem tak strzelać!"
         },
@@ -13165,10 +13141,6 @@
         {
             "Key": 120220774,
             "Value": "{0.00->1.86}Broń wsparcia, do mnie."
-        },
-        {
-            "Key": 120605704,
-            "Value": "{0.03->2.14}To je nauczy myśleć niezależnie."
         },
         {
             "Key": 120939043,
@@ -13259,10 +13231,6 @@
             "Value": "{0.00->1.15}Oznaczam punkt odbioru."
         },
         {
-            "Key": 135512602,
-            "Value": "{0.00->2.26}Nie możemy pozwolić, żeby panoszyli się na tej planecie."
-        },
-        {
             "Key": 136244454,
             "Value": "{0.00->1.60}Proszę o atak orbitalny!"
         },
@@ -13319,10 +13287,6 @@
             "Value": "{0.03->0.85}Wróg!"
         },
         {
-            "Key": 145101367,
-            "Value": "{0.00->1.94}Nie chcę, żeby wysłano mnie na rozmowę z oficerem lojalności."
-        },
-        {
             "Key": 147668436,
             "Value": "{0.00->0.83}Ekwipunek potwierdzony."
         },
@@ -13357,10 +13321,6 @@
         {
             "Key": 153339114,
             "Value": "{0.01->2.60}GRANAT! Zbierzcie się razem, dziwadła!"
-        },
-        {
-            "Key": 153464988,
-            "Value": "{0.00->2.39}Te kalmary chyba wcale nie są takie zaawansowane."
         },
         {
             "Key": 156434313,
@@ -13487,10 +13447,6 @@
             "Value": "{0.00->1.25}Układ Skitter"
         },
         {
-            "Key": 185492280,
-            "Value": "{0.09->3.90}Musimy ich powstrzymać, zanim narzucą swoją tyranię całej galaktyce. Fuj."
-        },
-        {
             "Key": 185540472,
             "Value": "{0.00->0.21}E-{0.57->3.22}710, najwspanialsze źródło energii w galaktyce."
         },
@@ -13561,10 +13517,6 @@
         {
             "Key": 194509523,
             "Value": "{0.00->0.29}Damy radę."
-        },
-        {
-            "Key": 194917691,
-            "Value": "{0.00->1.80}Dokładnie to, na co zasłużyły kalmary."
         },
         {
             "Key": 198560376,
@@ -13691,10 +13643,6 @@
             "Value": "{0.00->0.95}Jeden padł!"
         },
         {
-            "Key": 227098357,
-            "Value": "{0.00->1.37}To jest naprawdę niesamowite."
-        },
-        {
             "Key": 227261510,
             "Value": "{0.01->1.65}Swobodo, ocal mnie!"
         },
@@ -13743,10 +13691,6 @@
             "Value": "{0.02->1.69}Zwycięstwo czeka na nas!"
         },
         {
-            "Key": 235402899,
-            "Value": "{0.09->3.89}Ten stół standaryzuje wielkości planet, ale tak naprawdę – one mocno się od siebie różnią."
-        },
-        {
             "Key": 237311531,
             "Value": "{0.06->0.66}Żryjcie!{1.51->2.27} ŻRYJCIEEEEEE!"
         },
@@ -13769,10 +13713,6 @@
         {
             "Key": 241267271,
             "Value": "{0.00->0.49}Próbka."
-        },
-        {
-            "Key": 242070013,
-            "Value": "{0.00->1.52}Wolność zawsze zwycięża."
         },
         {
             "Key": 242151988,
@@ -13843,20 +13783,12 @@
             "Value": "{0.00->1.42}Układ Pherkad"
         },
         {
-            "Key": 252380797,
-            "Value": "{0.00->3.76}Pozwalamy rojowi rosnąć, żebyśmy mogli zmienić robale w E-710."
-        },
-        {
             "Key": 252499808,
             "Value": "{0.00->0.49}Charlie"
         },
         {
             "Key": 253347508,
             "Value": "{0.00->0.47}Strażnik."
-        },
-        {
-            "Key": 253544433,
-            "Value": "{0.03->0.78}A to pech."
         },
         {
             "Key": 254343880,
@@ -13927,16 +13859,8 @@
             "Value": "{0.00->1.13}Rozmieszczamy pole minowe."
         },
         {
-            "Key": 270577852,
-            "Value": "{0.00->3.13}Krzyż na drogę. Te pożerające mózgi ksenofoby tutaj zdecydowanie nie pasowały."
-        },
-        {
             "Key": 270846573,
             "Value": "{0.00->1.91}Nowa bateria, więcej wolności."
-        },
-        {
-            "Key": 271084220,
-            "Value": "{0.09->2.48}Nie wierzę, że wróg znalazł się na progu Super Ziemi..."
         },
         {
             "Key": 272438892,
@@ -14117,10 +14041,6 @@
         {
             "Key": 307866966,
             "Value": "{0.00->1.30}Układ Prasa"
-        },
-        {
-            "Key": 308166763,
-            "Value": "{0.00->1.17}Nie jest łatwo, prawda?"
         },
         {
             "Key": 310018209,
@@ -14415,10 +14335,6 @@
             "Value": "{0.02->1.01}Wzywam sprzęt."
         },
         {
-            "Key": 357015292,
-            "Value": "{0.00->0.85}Muszę to wypróbować."
-        },
-        {
             "Key": 357120047,
             "Value": "{0.00->1.49}Wykonaliście rozkazy.{1.88->3.95} Możecie wracać z honorem."
         },
@@ -14477,10 +14393,6 @@
         {
             "Key": 367528942,
             "Value": "{0.00->2.44}Pociski NIE przestrzelą osłon!{2.44->3.09}Rozumiecie?"
-        },
-        {
-            "Key": 367692865,
-            "Value": "{0.00->2.29}Nienasmarowane mordercze boty nie miały szans."
         },
         {
             "Key": 367752661,
@@ -14643,10 +14555,6 @@
             "Value": "{0.03->1.61}Dzisiaj w stołówce mamy dzień smażonej ryby.{2.43->3.96} Nie wiem, z jakich planet przywożą te rybki,{3.96->6.80} ale właściwie mnie to nie obchodzi. Są smażone, więc wszystko gra."
         },
         {
-            "Key": 411875370,
-            "Value": "{0.00->1.00}Nie rozumiem...{1.53->4.27} To musi być sabotaż ze strony sympatyków automatów."
-        },
-        {
             "Key": 411998469,
             "Value": "{0.00->2.10}Znaleźli nas! Uciekać!!!"
         },
@@ -14707,10 +14615,6 @@
             "Value": "{0.00->1.44}Wzywam uzupełnienia!"
         },
         {
-            "Key": 417455801,
-            "Value": "{0.00->4.01}Każda operacja przybliża automaty do ostatecznej klęski."
-        },
-        {
             "Key": 418251535,
             "Value": "{0.11->0.73}Wolność ma u {1.71->3.32}ciebie dług."
         },
@@ -14721,10 +14625,6 @@
         {
             "Key": 420862481,
             "Value": "{0.04->1.01}Teraz jesteśmy bezpieczni!"
-        },
-        {
-            "Key": 421501906,
-            "Value": "{0.00->2.82}Helldiversi ich powstrzymają. Stawiam na to własne obywatelstwo."
         },
         {
             "Key": 422155874,
@@ -14783,24 +14683,12 @@
             "Value": "{0.00->1.75}Wybierz operację."
         },
         {
-            "Key": 431579146,
-            "Value": "{0.00->2.15}Faszyści wymknęli się spod kontroli!"
-        },
-        {
             "Key": 431960330,
             "Value": "{0.00->0.71}Przedmiot krytyczny."
         },
         {
             "Key": 432143958,
             "Value": "{0.00->1.17}Wzywam wahadłowiec."
-        },
-        {
-            "Key": 432207597,
-            "Value": "{0.00->4.80}Udało nam się, helldiversie! Usunęliśmy te socjalistyczne mordercze boty z naszej galaktyki!"
-        },
-        {
-            "Key": 432452691,
-            "Value": "{0.00->2.36}Wiesz co? Ten hellbot jest bardzo podobny do demokracji.{2.72->6.43} Jeśli ma działać właściwie, ktoś musi nasmarować mechanizmy."
         },
         {
             "Key": 432811797,
@@ -15223,10 +15111,6 @@
             "Value": "{0.00->1.67}Ten pancerz jest kuloodporny, tak?{2.95->3.64}Tak?"
         },
         {
-            "Key": 493074184,
-            "Value": "{0.00->1.69}Cóż, nic nie jest wieczne.{2.10->3.17} Oprócz Super Ziemi."
-        },
-        {
             "Key": 493109999,
             "Value": "{0.00->1.24}Układ Fori"
         },
@@ -15261,10 +15145,6 @@
         {
             "Key": 495643346,
             "Value": "{0.00->2.08}Oświeceni uważają się za lepszych od nas. {2.58->3.68}Udowodnijcie, że tak nie jest."
-        },
-        {
-            "Key": 497338398,
-            "Value": "{0.00->1.79}Nareszcie jakieś dobre wieści."
         },
         {
             "Key": 497814906,
@@ -15443,10 +15323,6 @@
             "Value": "{0.13->7.88}Alert: Obrona obecnie orbitowanej planety przed inwazją automatów zakończyła się tymczasową porażką.{8.53->11.65} Planeta znajduje się obecnie pod kontrolą automatów."
         },
         {
-            "Key": 531477129,
-            "Value": "{0.19->2.48}Głupie robale myślały, że pokonają helldiversów."
-        },
-        {
             "Key": 531904806,
             "Value": "{0.00->0.40}Dziewięć."
         },
@@ -15523,10 +15399,6 @@
             "Value": "{0.00->0.91}Zostawiam przesyłkę."
         },
         {
-            "Key": 551373051,
-            "Value": "{0.00->1.93}Teraz ich ciała są przywiązane do asteroidy."
-        },
-        {
             "Key": 551652154,
             "Value": "{0.00->0.36}Ruchy."
         },
@@ -15597,10 +15469,6 @@
         {
             "Key": 562701691,
             "Value": "{0.01->3.96}Hellbomba zabezpieczona. Dajcie helldiversom przestrzeń do działania."
-        },
-        {
-            "Key": 563661937,
-            "Value": "{0.00->4.40}Sztab generalny Super Ziemi docenił nasze sukcesy w walce z automatami."
         },
         {
             "Key": 564148691,
@@ -15717,10 +15585,6 @@
         {
             "Key": 588869849,
             "Value": "{0.01->3.14}Cena wolności! Reszty nie trzeba!"
-        },
-        {
-            "Key": 591198118,
-            "Value": "{0.00->1.35}Przy najbliższej okazji stawiam ci SuperBrowara."
         },
         {
             "Key": 591498935,
@@ -15955,10 +15819,6 @@
             "Value": "{0.00->1.53}Zamknij oczy.{2.21->3.48} Nic nie widź.{4.18->5.49} Bądź niczym.{7.06->10.58} To życie bez prawa do głosowania.{11.58->14.85} A teraz otwórz oczy.{15.49->22.65} Zobacz świat oczami zarejestrowanego wyborcy. Skąp się w świetle demokracji."
         },
         {
-            "Key": 642533627,
-            "Value": "{0.00->2.23}Wracajcie, skąd przybyliście, ksenofobi!"
-        },
-        {
             "Key": 642564285,
             "Value": "{0.07->2.53}I TO SIĘ NAZYWA helldivers.{2.90->5.28} Przypominasz mi młodszą wersję mnie – nieustraszonego,{5.47->9.63} niepokonanego, o dwumetrowym wzroście."
         },
@@ -16009,10 +15869,6 @@
         {
             "Key": 650414253,
             "Value": "{0.03->1.43}Ruszam do walki."
-        },
-        {
-            "Key": 650707541,
-            "Value": "{0.03->2.39}Nareszcie ich wyzwoliliśmy – raz na zawsze."
         },
         {
             "Key": 651619157,
@@ -16139,20 +15995,12 @@
             "Value": "{0.00->1.14}Wolność znów zwycięża."
         },
         {
-            "Key": 673117033,
-            "Value": "{0.05->0.95}Słodka wolności.{1.45->2.95} Dotarli aż do Super Ziemi."
-        },
-        {
             "Key": 673809913,
             "Value": "{0.07->1.26}Jesteśmy ocaleni."
         },
         {
             "Key": 674014566,
             "Value": "{0.01->0.81}Uważajcie na siebie!"
-        },
-        {
-            "Key": 676741406,
-            "Value": "{0.00->2.64}Nareszcie wybijamy te insekty bez zasad."
         },
         {
             "Key": 678144967,
@@ -16165,10 +16013,6 @@
         {
             "Key": 679142095,
             "Value": "{0.00->1.53}Wolność mnie prowadzi."
-        },
-        {
-            "Key": 680028257,
-            "Value": "{0.00->1.92}Nareszcie odzyskujemy to, co nasze."
         },
         {
             "Key": 682525806,
@@ -16193,10 +16037,6 @@
         {
             "Key": 687688309,
             "Value": "{0.01->1.40}Utrzymać nacisk!"
-        },
-        {
-            "Key": 691174521,
-            "Value": "{0.07->3.18}Hej, jeśli zobaczysz gdzieś malutką śrubkę,{3.57->3.95} daj mi znać."
         },
         {
             "Key": 691816548,
@@ -16229,10 +16069,6 @@
         {
             "Key": 698105634,
             "Value": "{0.00->0.84}Słodka wolności,{1.25->2.29} jesteśmy ocaleni!"
-        },
-        {
-            "Key": 698435652,
-            "Value": "{0.00->1.29}Nic o tym nie wiem."
         },
         {
             "Key": 699787044,
@@ -16351,10 +16187,6 @@
             "Value": "{0.01->1.20}Co to było? Zdawało mi się?"
         },
         {
-            "Key": 717304851,
-            "Value": "{0.00->1.64}Nie martw się, nie grzebałam w tej grze, ani nic."
-        },
-        {
             "Key": 717412962,
             "Value": "{0.13->2.26}Szybkość jest esencją wojny.{2.72->3.55} Dobra robota."
         },
@@ -16443,10 +16275,6 @@
             "Value": "{0.00->1.55}Niepodległość zaaplikowana!"
         },
         {
-            "Key": 732143495,
-            "Value": "{0.00->3.44}Nie mogę się doczekać, kiedy policzą robale zabite w tej operacji."
-        },
-        {
             "Key": 732823509,
             "Value": "{0.00->1.19}Damy radę."
         },
@@ -16457,10 +16285,6 @@
         {
             "Key": 734636730,
             "Value": "{0.00->0.40}W prawo."
-        },
-        {
-            "Key": 735043040,
-            "Value": "{0.06->0.55}Hm."
         },
         {
             "Key": 736535457,
@@ -16481,10 +16305,6 @@
         {
             "Key": 738413070,
             "Value": "{0.01->1.37}ŁUUUUUUU!!!"
-        },
-        {
-            "Key": 739240659,
-            "Value": "{0.49->2.63}Nie ma to jak obsługa terminala wolności."
         },
         {
             "Key": 739326597,
@@ -17331,10 +17151,6 @@
             "Value": "{0.00->2.65}Przeklęta noga mnie spowalnia."
         },
         {
-            "Key": 900630958,
-            "Value": "{0.03->2.37}Wkrótce przerobimy te robale na paliwo rakietowe."
-        },
-        {
             "Key": 900914871,
             "Value": "{0.00->0.45}Siedem."
         },
@@ -17627,10 +17443,6 @@
             "Value": "{0.00->2.56}Rządy terroru oświeconych dziś się skończą."
         },
         {
-            "Key": 949764264,
-            "Value": "{0.19->1.91}Uwielbiam dzień wyborów."
-        },
-        {
             "Key": 950347806,
             "Value": "{0.03->0.76}Co to jest?"
         },
@@ -17681,10 +17493,6 @@
         {
             "Key": 957226993,
             "Value": "{0.00->1.45}Przewaga liczebna!"
-        },
-        {
-            "Key": 957313749,
-            "Value": "{0.00->2.26}Aktualizuję firmware tego hellbota."
         },
         {
             "Key": 958033528,
@@ -17759,20 +17567,12 @@
             "Value": "{0.00->1.03}Misja była nieudana,{1.45->5.07} ale wasz powrót oznacza, że odzyskaliśmy to, co najcenniejsze."
         },
         {
-            "Key": 981689437,
-            "Value": "{0.00->1.55}Co za wspaniała akcja!"
-        },
-        {
             "Key": 981705580,
             "Value": "{0.00->0.68}Podaję kod:"
         },
         {
             "Key": 982015667,
             "Value": "{0.01->0.99}Zabijają bez ostrzeżenia!"
-        },
-        {
-            "Key": 982880324,
-            "Value": "{0.00->2.73}Właśnie wypełniłam ankietę preferencji demokratycznych na wybory."
         },
         {
             "Key": 983780744,
@@ -18023,10 +17823,6 @@
             "Value": "{0.00->1.74}Co oni wam zrobili?!"
         },
         {
-            "Key": 1045839546,
-            "Value": "{0.03->4.27}Jakiś czas temu grupa dysydentów zhakowała telewizory na statku i nadała jakieś antydemokratyczne{4.27->4.62}brednie."
-        },
-        {
             "Key": 1046622705,
             "Value": "{0.00->0.87}Umocnienia."
         },
@@ -18065,10 +17861,6 @@
         {
             "Key": 1052318691,
             "Value": "{0.00->1.50}Już myślałam, że wam się nie uda.{2.07->2.94} Na szczęście się myliłam."
-        },
-        {
-            "Key": 1052747408,
-            "Value": "{1.48->2.48}Za każdym razem się wzruszam."
         },
         {
             "Key": 1053373770,
@@ -18133,10 +17925,6 @@
         {
             "Key": 1065685144,
             "Value": "{0.00->0.93}Zlecam atak orbitalny!"
-        },
-        {
-            "Key": 1066197144,
-            "Value": "{0.00->2.37}Ci ohydni faszyści nie chcą się zatrzymać."
         },
         {
             "Key": 1067706932,
@@ -18207,10 +17995,6 @@
             "Value": "{0.00->2.03}Odliczanie do startu zakończone. Musimy odlatywać!"
         },
         {
-            "Key": 1084307182,
-            "Value": "{0.40->4.74}Kalmary chyba mogą na chwilę odetchnąć, ale lepiej niech uważają na przyssawki, bo my wrócimy."
-        },
-        {
             "Key": 1085994554,
             "Value": "{0.09->6.54}Rozciągnij ciało. Rozciągnij umysł.{7.48->15.13}Niech błądzi, niech się zachwyca nad chwałą swobody.{16.11->24.35}Tu ciekawość jest bezpieczna. Gdy myślimy o tym, co już wiemy."
         },
@@ -18221,10 +18005,6 @@
         {
             "Key": 1086364141,
             "Value": "{0.00->0.79}Muszę przeładować!"
-        },
-        {
-            "Key": 1086767040,
-            "Value": "{0.00->1.70}Jeszcze kilka takich operacji,{2.12->3.84} a robale dosłownie wymrą."
         },
         {
             "Key": 1088662987,
@@ -18279,10 +18059,6 @@
             "Value": "{0.00->1.43}Wzywam zaopatrzenie."
         },
         {
-            "Key": 1099558873,
-            "Value": "{0.00->2.19}Te faszystowskie insekty zapłacą nam za to."
-        },
-        {
             "Key": 1100174832,
             "Value": "{0.46->4.14}*prycha* Świetny pomysł. Każdy z dnia na dzień zostanie ekspertem od polityki.{4.51->5.53} Zdrajcy i durnie."
         },
@@ -18331,10 +18107,6 @@
             "Value": "{0.05->2.65}Wy jesteście podpałką, a wolność jest zapałką!"
         },
         {
-            "Key": 1106434227,
-            "Value": "{0.00->3.42}Są zaprogramowane wyłącznie, żeby zabijać. Dlatego nie umierają."
-        },
-        {
             "Key": 1106681202,
             "Value": "{0.00->0.52}Pojazd."
         },
@@ -18361,10 +18133,6 @@
         {
             "Key": 1109235026,
             "Value": "{0.00->1.10}Demokracja dostarczona."
-        },
-        {
-            "Key": 1109237479,
-            "Value": "{0.00->1.19}To niedobrze."
         },
         {
             "Key": 1109412954,
@@ -18491,10 +18259,6 @@
             "Value": "{0.15->1.81}Wyobraź sobie przyszłość.{2.61->5.72} Uśmiechniętych potomków.{6.39->7.71} Super Ziemię,{7.77->10.35} z jasnymi wieżami skąpanymi w słońcu.{11.36->18.05}Twoja peleryna, zawieszona na drzewcu, kołysze się na delikatnym wietrze,{18.39->21.98}w harmonii z flagą Super Ziemi."
         },
         {
-            "Key": 1129279270,
-            "Value": "{0.03->1.95}Chyba chcą, żeby wojna nigdy się nie skończyła."
-        },
-        {
             "Key": 1130816561,
             "Value": "{0.00->0.87}Mamy sprzęt."
         },
@@ -18611,10 +18375,6 @@
             "Value": "{0.00->0.83}Zbliżają się wrogowie."
         },
         {
-            "Key": 1152826708,
-            "Value": "{0.00->2.18}Trzeba ciągle uważać, żeby automaty ich nie zhakowały."
-        },
-        {
             "Key": 1152834731,
             "Value": "{0.00->1.11}Aktywuję pakiet skoku."
         },
@@ -18637,10 +18397,6 @@
         {
             "Key": 1155808605,
             "Value": "{1.16->3.61}Dzięki ciężkiej pracy możesz osiągnąć sukces!{3.61->6.47} Oto obietnica Super Ziemi.{7.17->10.18} Oddaj nam swój pot. Oddaj nam swą krew.{10.69->14.34} Ciesz się patriotyczną odpowiedzialnością.{14.98->19.48} Udowodnij swoje oddanie dla wzmocnienia naszej federacji...{19.48->24.41} I zanim się obejrzysz, również ty osiągniesz swoje marzenia.{24.55->27.64} Super Ziemia. Wolność.{27.96->31.18} Sprawiedliwość. Demokracja...{31.51->33.59} I marzenia."
-        },
-        {
-            "Key": 1156108677,
-            "Value": "{0.00->1.78}Co najbardziej lubię w Bohaterze Manewrów?{1.78->4.84} To, że nie ma tam żadnych niepotrzebnych dialogów odciągających od rozgrywki."
         },
         {
             "Key": 1156285357,
@@ -18711,10 +18467,6 @@
             "Value": "{0.00->1.86}Mam tu nowy punkt odbioru."
         },
         {
-            "Key": 1168370158,
-            "Value": "{0.00->1.98}Trzeba uważać, żeby nasze maszyny nie zrobiły się zbyt inteligentne, prawda?"
-        },
-        {
             "Key": 1169002696,
             "Value": "{0.14->0.78}200 metrów."
         },
@@ -18749,10 +18501,6 @@
         {
             "Key": 1176100200,
             "Value": "{0.00->2.88}Rozchodzisz to! Rozchodź to!"
-        },
-        {
-            "Key": 1176887918,
-            "Value": "{0.28->1.54}Uwielbiam te ogłoszenia."
         },
         {
             "Key": 1176899579,
@@ -18851,10 +18599,6 @@
             "Value": "{0.05->0.59}Trafili mnie!{1.41->3.24} Słodka wolności... ile krwi."
         },
         {
-            "Key": 1193582753,
-            "Value": "{0.00->1.63}Ktoś mówił, że gra działa źle.{2.34->3.81} Moim zdaniem to błąd użytkownika."
-        },
-        {
             "Key": 1194567559,
             "Value": "{0.00->5.06}Nadszedł czas, aby zniszczyć despotyczną infrastrukturę automatów."
         },
@@ -18899,16 +18643,8 @@
             "Value": "{0.01->0.86}Dokąd teraz?"
         },
         {
-            "Key": 1201501445,
-            "Value": "{0.00->2.30}Wygląda na to, że chcą podbić całą galaktykę."
-        },
-        {
             "Key": 1201505010,
             "Value": "{0.62->1.99}Nie mogę się doczekać powrotu do domu.{2.50->3.90} Brakuje mi małych rzeczy..."
-        },
-        {
-            "Key": 1202027353,
-            "Value": "{0.04->4.46}Przeklęte boty. Nie chcą przyjąć wolności, choćbyśmy nie wiem jak mocno im ją oferowali."
         },
         {
             "Key": 1203018936,
@@ -18997,10 +18733,6 @@
         {
             "Key": 1215992096,
             "Value": "{0.00->0.79}Utrzymaj pozycję!"
-        },
-        {
-            "Key": 1218192312,
-            "Value": "{0.00->2.08}Operacja zakończona.{2.72->5.19} Wolność lśni dziś nieco jaśniej."
         },
         {
             "Key": 1218941421,
@@ -19147,10 +18879,6 @@
             "Value": "{0.03->1.12}Zginiemy!"
         },
         {
-            "Key": 1245882738,
-            "Value": "{0.00->3.05}Nie uwierzysz! Mój algorytmicznie wybrany kandydat wygrał wybory!"
-        },
-        {
             "Key": 1248824232,
             "Value": "{0.00->1.19}Układ Stout"
         },
@@ -19219,16 +18947,8 @@
             "Value": "{0.00->0.50}Oczywiście."
         },
         {
-            "Key": 1261590453,
-            "Value": "{0.07->2.23}Miejmy nadzieję, że to oznacza szybszy koniec wojny."
-        },
-        {
             "Key": 1261611415,
             "Value": "{0.77->2.36}Z nami nie warto zadzierać!"
-        },
-        {
-            "Key": 1262685368,
-            "Value": "{0.10->2.54}Karaluchy bez zasad nie chcą umrzeć!"
         },
         {
             "Key": 1262980546,
@@ -19599,10 +19319,6 @@
             "Value": "{0.00->1.68}Wiedziałem, że przylecicie."
         },
         {
-            "Key": 1336445610,
-            "Value": "{0.08->2.82}Dziś dzień wyborów! Najlepszy dzień w roku."
-        },
-        {
             "Key": 1336630911,
             "Value": "{0.03->1.07}To naprawdę oni!"
         },
@@ -19723,10 +19439,6 @@
             "Value": "{0.00->2.78}Utrata rekruta. Zresetować symulator pola walki."
         },
         {
-            "Key": 1352960240,
-            "Value": "{0.00->0.55}Wiesz,{0.55->2.90}że technologia zamrażania kriogenicznego została opracowana do zachowywania trofeów upolowanych{2.90->3.95}zwierząt podczas transportu na Super Ziemię?"
-        },
-        {
             "Key": 1353020578,
             "Value": "{0.05->1.57}Wiedzieliśmy, że przylecicie!"
         },
@@ -19749,10 +19461,6 @@
         {
             "Key": 1361344318,
             "Value": "{0.00->1.68}Nie mogę się doczekać, kiedy odpali."
-        },
-        {
-            "Key": 1361370149,
-            "Value": "{0.02->1.26}Teraz powinno być nam nieco łatwiej."
         },
         {
             "Key": 1362227291,
@@ -19817,10 +19525,6 @@
         {
             "Key": 1374851885,
             "Value": "{0.00->1.64}Senator John Killjoy Jr.{1.64->6.96}przestrzega: „Oświeceni powrócili, a wraz z nimi zagrożenie całkowitą anihilacją.{6.96->12.70} Dlatego twierdzę: musimy anihilować ich pierwsi!”"
-        },
-        {
-            "Key": 1375885041,
-            "Value": "{0.04->2.68}Uff. Lubię zajmować się hellpodami."
         },
         {
             "Key": 1376588814,
@@ -20023,10 +19727,6 @@
             "Value": "{0.00->2.01}Z drogi!"
         },
         {
-            "Key": 1407150479,
-            "Value": "{0.00->1.29}Udana operacja,{1.75->2.33}a wraz z nią – {2.76->4.23}wyraz wdzięczności."
-        },
-        {
             "Key": 1407741760,
             "Value": "{0.03->0.80}4!"
         },
@@ -20049,10 +19749,6 @@
         {
             "Key": 1409596585,
             "Value": "{0.00->0.58}Strażnik."
-        },
-        {
-            "Key": 1411065457,
-            "Value": "{0.07->2.83}To tylko kwestia czasu, kiedy helldiversi ich wykończą."
         },
         {
             "Key": 1411863842,
@@ -20223,10 +19919,6 @@
             "Value": "{0.00->1.95}Demokracja nas chroni!"
         },
         {
-            "Key": 1444779766,
-            "Value": "{0.62->1.54}Cieszę się, że to już koniec."
-        },
-        {
             "Key": 1445717057,
             "Value": "{0.00->4.68}Musimy uwolnić naszą galaktykę zarówno od plagi robali, jak i botów."
         },
@@ -20287,10 +19979,6 @@
             "Value": "{0.00->1.37}Proszę o przeładowanie drużynowe."
         },
         {
-            "Key": 1457799314,
-            "Value": "{0.00->1.81}Jeśli na hologramie pojawi się moja twarz,{2.52->3.24} daj mi znać."
-        },
-        {
             "Key": 1458835028,
             "Value": "{0.01->1.58}Tam! Znaleźli nas!"
         },
@@ -20317,14 +20005,6 @@
         {
             "Key": 1461125602,
             "Value": "{0.00->0.75}Potrzebuję świeżego W.E.C.-a"
-        },
-        {
-            "Key": 1462474059,
-            "Value": "{0.00->0.75}Rozumiem..."
-        },
-        {
-            "Key": 1462731674,
-            "Value": "{0.04->3.64}Ciekawe, jak idzie kampania wyzwolenia na planecie macierzystej robali."
         },
         {
             "Key": 1462965157,
@@ -20437,10 +20117,6 @@
         {
             "Key": 1487207345,
             "Value": "{0.01->1.87}Jak w telewizji!!!"
-        },
-        {
-            "Key": 1487645610,
-            "Value": "{0.00->3.18}To miłe uczucie wiedzieć, że myślę tak, jak inni obywatele."
         },
         {
             "Key": 1488450937,
@@ -20635,10 +20311,6 @@
             "Value": "{0.00->2.14}Oni oddają za nas życie!{2.36->3.53}Niech to nie pójdzie na marne!"
         },
         {
-            "Key": 1527173216,
-            "Value": "{0.00->2.95}Ksenofobi bez zasad nie tolerują naszych wartości."
-        },
-        {
             "Key": 1528005171,
             "Value": "{0.00->2.82}Pochodnia wolności przechodzi z rąk do rąk{2.96->5.51}od jednego poległego bohatera do kolejnego.{5.57->8.89}Mogą ją trzymać przez godzinę albo przez minutę,{8.95->12.20}ale zawsze jest ktoś, kto nie pozwoli jej zgasnąć."
         },
@@ -20709,10 +20381,6 @@
         {
             "Key": 1544799466,
             "Value": "{0.14->0.76}Koniec amunicji."
-        },
-        {
-            "Key": 1545110772,
-            "Value": "{0.05->1.74}Te robale już są martwe."
         },
         {
             "Key": 1545652720,
@@ -20819,20 +20487,12 @@
             "Value": "{0.25->1.10}Jesteśmy bezpieczni!"
         },
         {
-            "Key": 1577087340,
-            "Value": "{0.00->2.31}Może teraz robale zrozumieją, gdzie ich miejsce."
-        },
-        {
             "Key": 1578372712,
             "Value": "{0.00->0.72}Wygrywasz."
         },
         {
             "Key": 1578374203,
             "Value": "{0.00->2.88}Pokażcie im, o co walczymy, helldiversi!"
-        },
-        {
-            "Key": 1579756247,
-            "Value": "{0.03->2.88}Przecież helldiversi nie pozwolą wygrać tym faszystom."
         },
         {
             "Key": 1581140790,
@@ -20991,10 +20651,6 @@
             "Value": "{0.02->2.56}Pierwsza linia! Skoncentrować się na pierwszej linii!"
         },
         {
-            "Key": 1615182628,
-            "Value": "{0.00->4.24}Zostaliśmy wyróżnieni za nasze wysiłki w kierunku uwolnienia galaktyki od automatów."
-        },
-        {
             "Key": 1615331487,
             "Value": "{0.01->2.94}Będziemy pamiętali o twoim poświęceniu, helldiversie!"
         },
@@ -21025,10 +20681,6 @@
         {
             "Key": 1621623678,
             "Value": "{0.01->1.26}Hej, zaczekajcie na mnie!"
-        },
-        {
-            "Key": 1621627276,
-            "Value": "{0.00->2.92}Helldiversie! Nie zwracaj na mnie uwagi. Po prostu uzupełniam kriochłodziwo."
         },
         {
             "Key": 1621825926,
@@ -21109,10 +20761,6 @@
         {
             "Key": 1637539393,
             "Value": "{0.00->1.26}Układ Borea"
-        },
-        {
-            "Key": 1638865607,
-            "Value": "{0.00->1.35}Nie, to niemożliwe..."
         },
         {
             "Key": 1639096181,
@@ -21271,10 +20919,6 @@
             "Value": "{0.01->3.07}Samoobrona jest naszym demokratycznym prawem."
         },
         {
-            "Key": 1670614271,
-            "Value": "{0.00->1.47}Demokracja znów zwycięża."
-        },
-        {
             "Key": 1670657176,
             "Value": "{0.00->4.43}Choć jesteśmy najpotężniejszą siłą, jaką kiedykolwiek widział wszechświat,{5.08->9.54} jesteśmy jednocześnie zaledwie skromnymi sługami zarządzanej demokracji."
         },
@@ -21313,10 +20957,6 @@
         {
             "Key": 1676808843,
             "Value": "{0.05->3.90}Oświeceni nie mogą dalej plugawić naszych terytoriów."
-        },
-        {
-            "Key": 1676948431,
-            "Value": "{0.00->2.53}Jest tu znacznie więcej przewodów, niż można by się było spodziewać."
         },
         {
             "Key": 1678055606,
@@ -21359,10 +20999,6 @@
             "Value": "{1.01->2.38}Dobrze ci tak."
         },
         {
-            "Key": 1683617149,
-            "Value": "{0.00->0.94}Zagoniliśmy ich do narożnika."
-        },
-        {
             "Key": 1687023741,
             "Value": "{0.02->2.99}*ech* Ale to tylko marzenie. Wiadomo, że trzeba zabić ich wszystkich."
         },
@@ -21383,10 +21019,6 @@
             "Value": "{0.00->1.10}Prosto w cel!"
         },
         {
-            "Key": 1693430614,
-            "Value": "{0.26->2.12}Nie znoszę tych podłych ksenofobów."
-        },
-        {
             "Key": 1694544037,
             "Value": "{0.00->1.96}Wkrótce będzie po wszystkim."
         },
@@ -21401,10 +21033,6 @@
         {
             "Key": 1695742030,
             "Value": "{0.00->1.95}Proszę o zaawansowane uzbrojenie!"
-        },
-        {
-            "Key": 1695819650,
-            "Value": "{0.00->2.10}Dajemy tym robotom zakosztować wolności."
         },
         {
             "Key": 1696385870,
@@ -21469,10 +21097,6 @@
         {
             "Key": 1708018764,
             "Value": "{0.00->1.53}Widzę posterunek wroga."
-        },
-        {
-            "Key": 1708074332,
-            "Value": "{0.00->1.63}Dobra nauczka dla faszystów."
         },
         {
             "Key": 1708782907,
@@ -21635,16 +21259,8 @@
             "Value": "{0.00->2.11}Ocalicie nas! To było pewne!"
         },
         {
-            "Key": 1746272893,
-            "Value": "{0.00->1.87}Założę się, że wszystkie zlikwidujemy."
-        },
-        {
             "Key": 1747248017,
             "Value": "{0.00->0.95}Zaczynam wyzwalanie."
-        },
-        {
-            "Key": 1747495669,
-            "Value": "{0.00->2.28}Super Ziemia nareszcie wyzwala planetę macierzystą oświeconych."
         },
         {
             "Key": 1747716282,
@@ -21695,10 +21311,6 @@
             "Value": "{0.00->1.22}Nigdy o tym nie zapomnę."
         },
         {
-            "Key": 1758199093,
-            "Value": "{0.00->2.18}Ta operacja pozwoli nam trochę odetchnąć.{2.78->3.86} Dostaliśmy też pochwałę."
-        },
-        {
             "Key": 1758237299,
             "Value": "{0.00->1.70}Trzeba było zostać w domach, szumowiny!"
         },
@@ -21745,10 +21357,6 @@
         {
             "Key": 1765193378,
             "Value": "{0.05->1.61}Ble, zabierzcie to!"
-        },
-        {
-            "Key": 1766091249,
-            "Value": "{0.00->1.47}Nie mogę się doczekać, kiedy wszyscy umrą."
         },
         {
             "Key": 1766284033,
@@ -21911,10 +21519,6 @@
             "Value": "{0.13->2.66}Posępność pozostaje pod jarzmem,{3.30->5.76}a jej zasoby nie są wykorzystywane."
         },
         {
-            "Key": 1791866211,
-            "Value": "{0.00->3.74}Skoro robale zostały wyzwolone, znów będziemy mogli nimi rządzić i wskażemy im ich miejsce."
-        },
-        {
             "Key": 1791969589,
             "Value": "{0.00->0.95}Używam terminalu."
         },
@@ -21991,10 +21595,6 @@
             "Value": "{0.00->0.38}Nie!"
         },
         {
-            "Key": 1804979418,
-            "Value": "{0.00->0.56}Helldiversie!{1.00->2.24}Super Ziemia została zaatakowana!{2.66->3.75} Potrzebujemy cię na dole!"
-        },
-        {
             "Key": 1805632691,
             "Value": "{0.00->0.93}Nigdy nie zniszczycie naszego stylu życia."
         },
@@ -22045,10 +21645,6 @@
         {
             "Key": 1813723298,
             "Value": "{0.03->1.78}Cofnijcie się, podłe kalmary!"
-        },
-        {
-            "Key": 1815741511,
-            "Value": "{0.00->1.09}Nas broni demokracja."
         },
         {
             "Key": 1815796883,
@@ -22123,10 +21719,6 @@
             "Value": "{0.01->1.73}Wykrwawiam się!"
         },
         {
-            "Key": 1834046428,
-            "Value": "{0.00->1.14}A ty masz już za sobą głosowanie, helldiversie?"
-        },
-        {
             "Key": 1834110165,
             "Value": "{0.03->1.04}Bezmyślne dziwadła!"
         },
@@ -22145,10 +21737,6 @@
         {
             "Key": 1836140962,
             "Value": "{0.02->3.91}Podróże kosmiczne odbywają się w trzech wymiarach, więc teoretycznie trudno się połapać,{3.91->4.54} gdzie co jest."
-        },
-        {
-            "Key": 1836978332,
-            "Value": "{0.00->2.56}Drukował całą mapę 3D od nowa."
         },
         {
             "Key": 1839124789,
@@ -22487,10 +22075,6 @@
             "Value": "{0.00->0.25}Cofnijcie się, podłe kalmary!"
         },
         {
-            "Key": 1919467674,
-            "Value": "{0.00->1.22}Oczywiście,{1.60->2.23} Super Ziemia jest największa."
-        },
-        {
             "Key": 1923505271,
             "Value": "{0.06->1.06}Cudowne uczucie."
         },
@@ -22579,10 +22163,6 @@
             "Value": "{0.00->0.76}Uzupełnienie."
         },
         {
-            "Key": 1943491246,
-            "Value": "{0.00->2.94}Ta operacja zmieni bieg wojny.{3.35->4.76} Zdecydowanie."
-        },
-        {
             "Key": 1943762234,
             "Value": "{0.00->3.64}Wróg chciałby zmienić to miasto w konurbację tyranii.{4.10->5.53}Nie pozwólcie mu na to!"
         },
@@ -22637,10 +22217,6 @@
         {
             "Key": 1954421217,
             "Value": "{0.00->1.60}Tyrania jest rakiem,{1.97->3.88} a zarządzana demokracja lekarstwem.{4.60->8.02} Wy, helldiversi, podajecie to lekarstwo."
-        },
-        {
-            "Key": 1955227490,
-            "Value": "{0.03->1.12}Zbliżają się wybory!"
         },
         {
             "Key": 1955527448,
@@ -22751,10 +22327,6 @@
             "Value": "{0.03->1.42}Układ Andar"
         },
         {
-            "Key": 1976718560,
-            "Value": "{0.07->2.60}Zadrzyjcie z bykiem wolności, a nadzieje was na rogi swobody."
-        },
-        {
             "Key": 1977183176,
             "Value": "{0.00->0.95}I ostatni."
         },
@@ -22839,10 +22411,6 @@
             "Value": "{0.02->3.03}Demokracja doprowadziła mnie do tego ciekawego miejsca."
         },
         {
-            "Key": 1995819377,
-            "Value": "{0.00->1.95}Nigdy więcej nie zagrożą demokracji."
-        },
-        {
             "Key": 1995842767,
             "Value": "{0.00->3.53}Słodka wolności! Helldiversi im pokażą!"
         },
@@ -22885,10 +22453,6 @@
         {
             "Key": 1998929564,
             "Value": "{0.00->0.25}Jesteśmy bezpieczni?"
-        },
-        {
-            "Key": 1999941432,
-            "Value": "{0.04->2.04}Uruchomiłam wyszukiwarkę SI na tym hellbocie."
         },
         {
             "Key": 2000736780,
@@ -23103,10 +22667,6 @@
             "Value": "{0.00->2.80}Ich ciała spłoną wraz z samym miastem."
         },
         {
-            "Key": 2037945061,
-            "Value": "{0.10->0.83}Nie rozumiem tego.{1.40->2.65} Nie chcą być wolni?"
-        },
-        {
             "Key": 2039399911,
             "Value": "{0.00->1.62}Kroczę pewnie, ku demokracji."
         },
@@ -23129,10 +22689,6 @@
         {
             "Key": 2046536808,
             "Value": "{0.01->1.37}Nie mogą was widzieć."
-        },
-        {
-            "Key": 2051023217,
-            "Value": "{0.00->1.50}To miło, że Super Ziemia wyposaża was w sprzęt,{1.50->2.85}który pozwala wam przetrwać na powierzchniach planet."
         },
         {
             "Key": 2051156313,
@@ -23487,10 +23043,6 @@
             "Value": "{0.44->1.04}Terminidy!"
         },
         {
-            "Key": 2130689106,
-            "Value": "{0.00->0.92}Wielka wolności.{1.44->3.95} Nie wierzę, że wróg myśli, że może sobie najechać Super Ziemię."
-        },
-        {
             "Key": 2132619361,
             "Value": "{0.00->0.37}W górę."
         },
@@ -23583,10 +23135,6 @@
             "Value": "{0.00->1.22}Zostawiam cenny przedmiot."
         },
         {
-            "Key": 2145537516,
-            "Value": "{0.07->2.10}Biedni mieszkańcy Super Ziemi."
-        },
-        {
             "Key": 2147394731,
             "Value": "{0.00->4.35}Słyszałam, że w trakcie testów system uległ uszkodzeniu i komuś wciągnęło... no wiesz...{4.87->6.71} Wyobrażasz sobie, co się mogło stać."
         },
@@ -23621,10 +23169,6 @@
         {
             "Key": 2156096229,
             "Value": "{0.00->3.71}Robale chcą zmienić tę planetę w kolejny oślizły ul.{4.18->5.78} Nie może im się powieść."
-        },
-        {
-            "Key": 2156462767,
-            "Value": "{0.00->1.71}Uwierzysz, że zbliżają się kolejne wybory?"
         },
         {
             "Key": 2156501171,
@@ -23665,10 +23209,6 @@
         {
             "Key": 2163230858,
             "Value": "{0.03->0.77}Padnij!"
-        },
-        {
-            "Key": 2165366471,
-            "Value": "{0.03->4.26}Ta operacja została zauważona przez sztab generalny Super Ziemi."
         },
         {
             "Key": 2165578645,
@@ -23895,10 +23435,6 @@
             "Value": "{7.96->10.51}Dobry wieczór, mówi Coretta Kelly.{11.01->17.12}Po ostrym skoku natężenia ciemnej energii Ministerstwo Rozwoju wydało ostrzeżenie {17.12->21.23}o ewakuacji dla planet znajdujących się w sąsiedztwie Osobliwości Meridiańskiej.{21.70->28.95}Eksperci uważają, że poprzez ciągły przepływ ciemnej energii oświeceni otworzyli portal.{29.18->32.10}Teraz przepływ ustał,{32.26->37.71}przez co niestabilna osobliwość znalazła się na skraju katastrofalnego zapadnięcia się.{38.52->40.93}Ministerstwo Prawdy twierdzi, {40.93->45.87}że „to najnowszy akt podłej eskalacji ze strony kultu oświeconych.{46.27->51.38}Super Ziemia nie będzie terroryzowana przez bombę zakrzywiającą czasoprzestrzeń”.{52.13->55.38}Obywatele wspomnianych planet powinni zgłaszać wszelkie oznaki{55.38->57.81}chorób wywołanych przez promieniowanie ciemnej energii,{57.81->62.58}takie jak czyraki, niestabilność czy utrata demokratycznych przekonań.{63.14->64.73}To były wiadomości ze świata wolności.{65.09->66.90}Mówiła Coretta Kelly."
         },
         {
-            "Key": 2220257025,
-            "Value": "{0.08->2.75}Jakby zaprogramowano im nienawiść do demokracji."
-        },
-        {
             "Key": 2221618242,
             "Value": "{0.00->0.05}Zajmę się terminalem."
         },
@@ -23931,16 +23467,8 @@
             "Value": "{0.00->0.55}Wezmę to."
         },
         {
-            "Key": 2226089841,
-            "Value": "{0.04->1.34}O to właśnie chodzi!"
-        },
-        {
             "Key": 2226438967,
             "Value": "{0.03->2.85}Poczujcie ciepłe objęcia demokracji!"
-        },
-        {
-            "Key": 2228172881,
-            "Value": "{0.00->3.70}Czytałam wczoraj SuperBadania, z których wynikało, że gry wideo zwiększają agresję."
         },
         {
             "Key": 2228495681,
@@ -24017,10 +23545,6 @@
         {
             "Key": 2239500381,
             "Value": "{0.02->1.00}Robale nadciągają!"
-        },
-        {
-            "Key": 2240253998,
-            "Value": "{0.00->2.94}Dobrze,{3.31->3.96} że podczas odbioru ktoś wezwał uzupełnienia.{4.42->5.63} Inaczej nikt by nie wrócił."
         },
         {
             "Key": 2240894258,
@@ -24127,10 +23651,6 @@
             "Value": "{0.00->0.95}Uzbrojenie gotowe."
         },
         {
-            "Key": 2259748793,
-            "Value": "{0.11->0.99}Słodka niepodległości.{1.45->3.08} Super Ziemia... zdobyta?"
-        },
-        {
             "Key": 2260245316,
             "Value": "{0.00->1.76}Żyję dla Super Ziemi!"
         },
@@ -24225,10 +23745,6 @@
         {
             "Key": 2279889836,
             "Value": "{0.00->0.67}Statki desantowe."
-        },
-        {
-            "Key": 2280188473,
-            "Value": "{0.00->1.44}Co teraz będzie z demokracją?"
         },
         {
             "Key": 2280574866,
@@ -24519,10 +24035,6 @@
             "Value": "{0.00->3.28}Mówi Coretta Kelly, a to jest program „Wszystko, co musisz wiedzieć”.{3.92->6.55}C.O.B. Genetics rozbudowuje oddział klonowania,{6.55->9.29}aby przyspieszyć produkcję niezwykle popularnych sześciociosowych słoni.{9.65->11.41}Oraz: niezwykle popularny serial {11.54->16.71}„Odrodziłem się jako nastoletni Gwiezdny Niszczyciel, ale mój helldivers jest zbyt uroczy” został wznowiony.{16.71->19.26}Trwają obecnie zdjęcia do rekordowego, 78. sezonu.{19.50->22.20}I to właśnie „Wszystko, co musisz wiedzieć”."
         },
         {
-            "Key": 2329312982,
-            "Value": "{0.07->2.14}Oni nie tolerują naszej wolności."
-        },
-        {
             "Key": 2329667314,
             "Value": "{0.01->2.31}Cóż, oni wyglądają na bezpiecznych!"
         },
@@ -24667,10 +24179,6 @@
             "Value": "{0.00->0.75}Koniec stymulantów."
         },
         {
-            "Key": 2360415502,
-            "Value": "{0.41->2.66}Jeśli nie będę uważać, dosłownie zamrozi mi ręce."
-        },
-        {
             "Key": 2361359109,
             "Value": "{0.03->1.11}Trzymajcie się ode mnie z daleka!"
         },
@@ -24721,10 +24229,6 @@
         {
             "Key": 2376648818,
             "Value": "{0.00->0.85}Mamy tu boty."
-        },
-        {
-            "Key": 2376795575,
-            "Value": "{0.04->1.63}Super Ziemia nigdy nie przegrywa."
         },
         {
             "Key": 2376906441,
@@ -24899,10 +24403,6 @@
             "Value": "{0.00->5.35}Przypominamy: pierwiastek 710 jest bezpieczny i przyjazny dla środowiska.{5.36->9.36} Wszelkie pogłoski o wycieku E-710 są rozsiewane przez dysydentów{9.36->11.82}chcących podważyć nasze wartości i styl życia."
         },
         {
-            "Key": 2401058245,
-            "Value": "{0.00->1.95}Raczej więcej tego nie rób."
-        },
-        {
             "Key": 2401257840,
             "Value": "{0.00->0.57}Nowy magazynek."
         },
@@ -24929,10 +24429,6 @@
         {
             "Key": 2405832642,
             "Value": "{0.01->2.09}Chce mi się dobrać do mózgu!"
-        },
-        {
-            "Key": 2407617426,
-            "Value": "{0.00->3.49}O rety, ten kto to zaprojektował, był geniuszem miłującym demokrację."
         },
         {
             "Key": 2408123831,
@@ -24969,10 +24465,6 @@
         {
             "Key": 2410183305,
             "Value": "{0.00->0.89}Oznaczam położenie."
-        },
-        {
-            "Key": 2411121370,
-            "Value": "{0.00->1.87}Wiesz, że kiedyś ten stół nie wyświetlał hologramów?"
         },
         {
             "Key": 2411351146,
@@ -25075,10 +24567,6 @@
             "Value": "{0.02->1.49}Oślizłe dziwadła!"
         },
         {
-            "Key": 2431924884,
-            "Value": "{0.04->2.64}Boty w ogóle nie żyją, a i tak nie umierają."
-        },
-        {
             "Key": 2432068877,
             "Value": "{0.06->2.25}Słodka wolności, moja ręka!"
         },
@@ -25097,10 +24585,6 @@
         {
             "Key": 2436333843,
             "Value": "{0.00->1.91}Jesteś za stary, aby przynosić korzyść społeczeństwu?{2.03->6.70}Zastanów się nad dobrowolnym zgłoszeniem do kadzi biorecyklingowych!"
-        },
-        {
-            "Key": 2438403146,
-            "Value": "{0.66->1.79}Teraz będzie jeszcze ciężej."
         },
         {
             "Key": 2439562860,
@@ -25291,10 +24775,6 @@
             "Value": "{0.01->1.73}Ruchy! Ruchy!"
         },
         {
-            "Key": 2479004704,
-            "Value": "{0.00->2.78}Ta operacja była ciężkim ciosem dla sił terminidów."
-        },
-        {
             "Key": 2481027521,
             "Value": "{0.00->0.60}Przeładowuję."
         },
@@ -25303,16 +24783,8 @@
             "Value": "{0.00->2.43}Umrzeć za sprawę...{3.08->5.16}największy zaszczyt..."
         },
         {
-            "Key": 2481583518,
-            "Value": "{0.09->1.72}Wkrótce ich wyzwolimy."
-        },
-        {
             "Key": 2481929350,
             "Value": "{0.00->3.26}Nasze wartości przetrwają wszystko..."
-        },
-        {
-            "Key": 2482136463,
-            "Value": "{0.00->2.33}Mam nadzieję, że wybijemy ich do nogi."
         },
         {
             "Key": 2482600557,
@@ -25325,10 +24797,6 @@
         {
             "Key": 2482864669,
             "Value": "{0.00->2.29}Przetrwajmy to. Dla Super Ziemi."
-        },
-        {
-            "Key": 2482919553,
-            "Value": "{0.00->2.11}Lepiej przywitaj go w stylu helldiversów."
         },
         {
             "Key": 2483490924,
@@ -25345,10 +24813,6 @@
         {
             "Key": 2488533144,
             "Value": "{0.01->1.22}Rzucam nadajnik zaopatrzeniowy."
-        },
-        {
-            "Key": 2488796089,
-            "Value": "{0.00->3.27}Nie każdy może być helldiversem, ale wszyscy możemy przysłużyć się sprawie."
         },
         {
             "Key": 2490871723,
@@ -25479,16 +24943,8 @@
             "Value": "{0.00->1.51}Wkrótce tu będą, tak?"
         },
         {
-            "Key": 2511966845,
-            "Value": "{0.00->1.29}Chciałabym się przelecieć jednym z nich."
-        },
-        {
             "Key": 2512785188,
             "Value": "{0.00->2.08}Ciekawe, czy to mi pomoże przy kolejnym teście SKO..."
-        },
-        {
-            "Key": 2514882016,
-            "Value": "{0.00->1.07}Lepiej wrócę do pracy."
         },
         {
             "Key": 2515018888,
@@ -25623,10 +25079,6 @@
             "Value": "{0.00->3.25}Nigdy nie sądziłem, że spotkam prawdziwych helldiversów."
         },
         {
-            "Key": 2540050405,
-            "Value": "{0.25->0.68}Krok 57: sprawdzić {1.11->2.99}poziom oleju.{4.00->4.61} Wygląda dobrze."
-        },
-        {
             "Key": 2540206722,
             "Value": "{0.03->1.94}Czy w wahadłowcu będzie dość miejsca dla nas wszystkich?"
         },
@@ -25655,10 +25107,6 @@
             "Value": "{0.00->1.66}Zbieram próbkę o dużej wartości."
         },
         {
-            "Key": 2544435877,
-            "Value": "{0.00->1.50}Masz jakiś ulubiony serial z Super Ziemi?{1.86->2.65} Ja uwielbiam wszystkie."
-        },
-        {
             "Key": 2545486010,
             "Value": "{0.02->7.23}Pamiętaj: tak długo jak walczysz dla Super Ziemi, twoje życie ma sens.{7.88->15.34}Jeśli przestaniesz, stracisz go. Ale walczysz. I ono ma sens."
         },
@@ -25675,20 +25123,12 @@
             "Value": "{0.00->3.29}Nie pozwolimy, aby nasze planety wpadły w ich brudne macki."
         },
         {
-            "Key": 2546384545,
-            "Value": "{0.04->3.10}Ciekawe, jaki kandydat zostanie dla mnie wybrany w nadchodzących wyborach."
-        },
-        {
             "Key": 2547496371,
             "Value": "{0.01->2.09}Z pozdrowieniami od Super Ziemi!"
         },
         {
             "Key": 2549368730,
             "Value": "{0.00->4.69}Gdyby mogli przemówić, nasi bohaterowie nie chcieliby, byśmy ich opłakiwali,{4.93->7.16}ale żebyśmy radowali się zwycięstwem."
-        },
-        {
-            "Key": 2550556110,
-            "Value": "{0.00->0.76}To niedobrze."
         },
         {
             "Key": 2550879358,
@@ -25739,16 +25179,8 @@
             "Value": "{0.01->2.08}Widzę wroga. Przygotować się do walki."
         },
         {
-            "Key": 2558460307,
-            "Value": "{0.00->2.48}Bez komunikatów telewizyjnych zatwierdzonych przez Super Ziemię{2.85->4.26}naprawdę nie wiedziałabym, co mam myśleć."
-        },
-        {
             "Key": 2558491171,
             "Value": "{0.00->2.38}Niewierny faszysta."
-        },
-        {
-            "Key": 2558908831,
-            "Value": "{0.00->1.03}Operacja zakończona.{1.63->3.95} Sztab generalny Super Ziemi nas pochwalił."
         },
         {
             "Key": 2562215176,
@@ -25761,10 +25193,6 @@
         {
             "Key": 2562598303,
             "Value": "{0.00->6.41}Może i zdobyli nasze Miasto Nadziei, ale nigdy nie wykorzenią nadziei z naszych serc.{7.04->9.90}Ani przekonań z naszych kręgosłupów.{10.33->14.93}Ani wiary w demokrację z naszych układów limfatycznych."
-        },
-        {
-            "Key": 2562611966,
-            "Value": "{0.12->1.21}Słodka wolności!"
         },
         {
             "Key": 2563478231,
@@ -25781,10 +25209,6 @@
         {
             "Key": 2568047541,
             "Value": "{0.00->1.16}Proszę o zaopatrzenie."
-        },
-        {
-            "Key": 2571833744,
-            "Value": "{0.00->0.78}Witaj z powrotem.{1.19->3.47} Nasi wrogowie wkrótce wytracą impet."
         },
         {
             "Key": 2571945537,
@@ -26035,10 +25459,6 @@
             "Value": "{0.00->1.27}Nareszcie! Jakiś rozkaz!"
         },
         {
-            "Key": 2617720247,
-            "Value": "{0.07->3.95}Ci fanatycy nie zatrzymają się, dopóki cała galaktyka nie będzie jadła mózgów na śniadanie."
-        },
-        {
             "Key": 2617964633,
             "Value": "{0.00->1.91}Muszę zamówić więcej hellpodów."
         },
@@ -26155,16 +25575,8 @@
             "Value": "{1.15->3.09}Wiele rąk pracuje dla wolności."
         },
         {
-            "Key": 2641094764,
-            "Value": "{0.00->1.92}Tym razem nie wrócą."
-        },
-        {
             "Key": 2641430967,
             "Value": "{0.00->0.75}Numer sześć."
-        },
-        {
-            "Key": 2641493446,
-            "Value": "{0.08->2.95}Mam nadzieję, że wybijemy te kalmary do nogi."
         },
         {
             "Key": 2641700965,
@@ -26245,10 +25657,6 @@
         {
             "Key": 2659974257,
             "Value": "{0.00->0.60}Pusto."
-        },
-        {
-            "Key": 2661308767,
-            "Value": "{0.00->4.56}Mój algorytmicznie wybrany kandydat tym razem nie wygrał,{4.56->6.10} ale hej – czasem zarządzana demokracja kroczy tajemniczymi ścieżkami."
         },
         {
             "Key": 2662763258,
@@ -26335,16 +25743,8 @@
             "Value": "{0.00->2.49}Mieszkańcy tego miasta wam dziękują."
         },
         {
-            "Key": 2674776002,
-            "Value": "{0.00->4.27}Takie operacje ostatecznie doprowadzą do klęski terminidów."
-        },
-        {
             "Key": 2674810261,
             "Value": "{0.00->0.34}Zero."
-        },
-        {
-            "Key": 2675977032,
-            "Value": "{0.00->3.15}Nie wybaczyłabym sobie, gdyby jakiś helldivers zginął z powodu zwarcia w wyposażeniu."
         },
         {
             "Key": 2677228896,
@@ -26503,10 +25903,6 @@
             "Value": "{0.01->0.99}Boty tu są!"
         },
         {
-            "Key": 2711103586,
-            "Value": "{0.00->2.91}Czasem lubię tu przychodzić i sprawdzać swoją ojczystą planetę."
-        },
-        {
             "Key": 2712647250,
             "Value": "{0.00->0.72}Dostał!"
         },
@@ -26545,10 +25941,6 @@
         {
             "Key": 2718847326,
             "Value": "{0.02->1.78}Przeklęte roboty!"
-        },
-        {
-            "Key": 2719082410,
-            "Value": "{0.00->0.87}Interesujące."
         },
         {
             "Key": 2719087323,
@@ -26641,10 +26033,6 @@
         {
             "Key": 2737556641,
             "Value": "{0.00->1.51}Układ Caramoor"
-        },
-        {
-            "Key": 2737595610,
-            "Value": "{0.13->2.20}Ciekawe, czy ludzie śnią w kriośnie."
         },
         {
             "Key": 2738607821,
@@ -26963,16 +26351,8 @@
             "Value": "{0.03->2.08}Chciałbym umieć to, co wy."
         },
         {
-            "Key": 2796475021,
-            "Value": "{0.00->1.28}Witaj z powrotem.{1.68->5.66} Każda udana operacja przybliża nas do ostatecznego zwycięstwa.{6.32->7.25} Oto twoja nagroda."
-        },
-        {
             "Key": 2796966102,
             "Value": "{0.00->1.18}Wszyscy cali?"
-        },
-        {
-            "Key": 2797490557,
-            "Value": "{0.04->1.45}Ocho, to naprawdę dobre wieści."
         },
         {
             "Key": 2798446318,
@@ -26989,10 +26369,6 @@
         {
             "Key": 2799782793,
             "Value": "{0.00->2.66}Wyrwijcie to miasto ze szponów wroga."
-        },
-        {
-            "Key": 2800082456,
-            "Value": "{0.14->0.81}Tak jest!"
         },
         {
             "Key": 2800344533,
@@ -27049,10 +26425,6 @@
         {
             "Key": 2804920504,
             "Value": "{0.00->1.72}Wygląda na to, że teraz damy im popalić.{2.21->3.56}Witaj, helldiversie."
-        },
-        {
-            "Key": 2805195465,
-            "Value": "{0.00->1.95}Dziękuję za obronę Super Ziemi, helldiversie."
         },
         {
             "Key": 2805330484,
@@ -27113,10 +26485,6 @@
         {
             "Key": 2815846456,
             "Value": "{0.01->2.11}Robale! Uciekać!"
-        },
-        {
-            "Key": 2816146334,
-            "Value": "{0.00->2.83}Ciebie też zamrozili? Czy jak? Hm, sama nie wiem,{3.78->5.22} jak to wszystko działa."
         },
         {
             "Key": 2816252108,
@@ -27279,10 +26647,6 @@
             "Value": "{0.00->1.48}Układ Diaspory"
         },
         {
-            "Key": 2841477319,
-            "Value": "{0.25->4.54}Nie rozumiem tego. Są tacy zaawansowani, a nie chcą być wolni?"
-        },
-        {
             "Key": 2842410685,
             "Value": "{0.00->2.02}Stuprocentowy współczynnik przetrwania.{2.54->3.85} Doskonale."
         },
@@ -27341,10 +26705,6 @@
         {
             "Key": 2847866291,
             "Value": "{0.00->0.44}Odmawiam."
-        },
-        {
-            "Key": 2848258950,
-            "Value": "{0.00->2.15}Nigdy nie sądziłam, że zobaczę atak na Super Ziemię."
         },
         {
             "Key": 2848522751,
@@ -27523,10 +26883,6 @@
             "Value": "{0.01->1.32}Więcej kosmitów!"
         },
         {
-            "Key": 2875446462,
-            "Value": "{0.00->1.86}Nie wiem, czy moja rodzina jest bezpieczna,{2.66->3.42} ale zawsze miło popatrzeć."
-        },
-        {
             "Key": 2876359343,
             "Value": "{0.03->1.89}Co oni wam zrobili?!"
         },
@@ -27607,10 +26963,6 @@
             "Value": "{0.01->0.99}Granat!"
         },
         {
-            "Key": 2897685677,
-            "Value": "{0.10->3.95}Kiedy te kalmary wreszcie zrozumieją, że nikt nie chce ich w naszej galaktyce?"
-        },
-        {
             "Key": 2898491947,
             "Value": "{7.97->10.39}Dobry wieczór, mówi Coretta Kelly.{10.95->15.81}Portal meridiański zapadł się bez większych konsekwencji.{16.25->21.43}Nieustraszeni helldiversi umożliwili wystrzelenie Stacji Kosmicznej „Demokracja”,{21.50->24.06}która została przekształcona w wielką bombę jądrową{24.06->26.43} i wpadła w sam środek osobliwości.{26.43->31.39}Tam doszło do detonacji ponad 10 bilionów megaton ładunku wybuchowego.{32.09->38.13}Kontrolowane zapadnięcie się portalu zapobiegło niewyobrażalnej katastrofie.{38.71->42.50}Naukowcy, którzy opracowali plan zniszczenia osobliwości,{42.50->46.25}otrzymali prezydenckie medale superwolności.{46.73->49.42}We wspólnym oświadczeniu napisali: {49.83->52.47}„Byliśmy całkowicie pewni, że proces będzie bezpieczny.{52.76->54.67}Nie jesteśmy zaskoczeni, że wszystko poszło zgodnie z planem. {54.97->56.81}Wiemy, co robimy”.{57.65->59.26}To były wiadomości ze świata wolności.{59.50->61.12}Mówiła Coretta Kelly."
         },
@@ -27661,10 +27013,6 @@
         {
             "Key": 2910491988,
             "Value": "{0.00->0.52}Przeładowuję."
-        },
-        {
-            "Key": 2910588644,
-            "Value": "{0.09->0.95}Dziękuję ci.{1.58->3.25} Dziękuję za obronę Super Ziemi."
         },
         {
             "Key": 2910923973,
@@ -27779,10 +27127,6 @@
             "Value": "{0.00->0.46}Pięć."
         },
         {
-            "Key": 2931441809,
-            "Value": "{0.00->1.30}I to w tak niskiej cenie."
-        },
-        {
             "Key": 2933076317,
             "Value": "{0.00->3.52}Wszyscy helldiversi, zgłosić się do pani kapitan."
         },
@@ -27809,10 +27153,6 @@
         {
             "Key": 2936722689,
             "Value": "{0.00->0.35}Kiedy przyleci wahadłowiec?"
-        },
-        {
-            "Key": 2937407179,
-            "Value": "{0.00->2.19}Dajemy tym kalmarom zakosztować ich własnej podłości."
         },
         {
             "Key": 2938281171,
@@ -27889,10 +27229,6 @@
         {
             "Key": 2958774375,
             "Value": "{0.00->1.19}Za rozwój!"
-        },
-        {
-            "Key": 2958964156,
-            "Value": "{0.00->3.43}Rozprzestrzenienie wolności zagwarantowane w tej operacji jest niemierzalne.{4.34->4.94} Uwierz mi,{5.32->6.15} próbowałam."
         },
         {
             "Key": 2960172600,
@@ -28103,10 +27439,6 @@
             "Value": "{0.00->3.23}Atak na zarządzaną demokrację trwa.{3.71->5.53} Ruszajmy jej na pomoc."
         },
         {
-            "Key": 2997750396,
-            "Value": "{0.00->2.64}Tak jest, boty. Wracajcie do swoich fabryk."
-        },
-        {
             "Key": 2999005199,
             "Value": "{0.02->1.77}Dobrobyt czeka na mężnych!"
         },
@@ -28177,10 +27509,6 @@
         {
             "Key": 3006421645,
             "Value": "{0.02->0.86}Mam próbkę."
-        },
-        {
-            "Key": 3007008766,
-            "Value": "{0.00->3.89}Nieważne – w końcu je wyzwolimy, nawet jeśli musielibyśmy wybić je do nogi."
         },
         {
             "Key": 3007250610,
@@ -28285,10 +27613,6 @@
         {
             "Key": 3030262389,
             "Value": "{0.03->1.30}Wolność płacze.{1.75->4.78} Ale demokracja podnosi miecz zemsty."
-        },
-        {
-            "Key": 3033463812,
-            "Value": "{0.00->2.34}Wspaniała operacja. {2.78->6.07}Została zanotowana, dodana do dziennika i... wynagrodzona."
         },
         {
             "Key": 3033710782,
@@ -28467,10 +27791,6 @@
             "Value": "{0.00->0.81}To...{1.10->1.98}jeszcze{2.16->3.06}nie koniec."
         },
         {
-            "Key": 3065532347,
-            "Value": "{0.04->1.53}Bardzo dobrze."
-        },
-        {
             "Key": 3066027788,
             "Value": "{0.00->0.87}Stanowisko wroga."
         },
@@ -28553,10 +27873,6 @@
         {
             "Key": 3077928496,
             "Value": "{0.03->1.49}Układ Asperoth"
-        },
-        {
-            "Key": 3078412406,
-            "Value": "{0.00->1.43}Nie jesteście już tacy wielcy i potężni, prawda?"
         },
         {
             "Key": 3078801131,
@@ -28729,14 +28045,6 @@
         {
             "Key": 3108437148,
             "Value": "{0.00->2.27}Nie mogę wyzwalać ze złamaną ręką."
-        },
-        {
-            "Key": 3108744337,
-            "Value": "{0.02->1.49}To chyba dlatego zainstalowali nam to na statku."
-        },
-        {
-            "Key": 3109201630,
-            "Value": "{0.00->1.50}Wkrótce kolejne wybory.{2.10->2.79} Nie mogę się doczekać."
         },
         {
             "Key": 3111026664,
@@ -28915,10 +28223,6 @@
             "Value": "{0.00->1.00}Przeładuję {1.42->1.56}ci broń!"
         },
         {
-            "Key": 3143405973,
-            "Value": "{0.00->0.53}Nie!"
-        },
-        {
             "Key": 3143407953,
             "Value": "{0.10->5.85}Czytanie z Przysięgi Obywatelskiej, wers 8:28: {6.87->13.79}Wierzymy, że nade wszystko rząd pracuje dla tych, którzy pracują dla niego."
         },
@@ -28949,10 +28253,6 @@
         {
             "Key": 3147164876,
             "Value": "{0.01->1.78}Cudowne uczucie."
-        },
-        {
-            "Key": 3147222047,
-            "Value": "{0.00->2.24}Helldiversi ich powstrzymają. Jestem pewna."
         },
         {
             "Key": 3147371862,
@@ -29031,20 +28331,12 @@
             "Value": "{0.02->1.03}Niech ktoś mi pomoże!"
         },
         {
-            "Key": 3166871589,
-            "Value": "{0.12->2.27}Nie możemy stracić kolejnej planety, nie teraz."
-        },
-        {
             "Key": 3169993656,
             "Value": "{0.00->4.27}Helldiversie – udane misje są nagradzane przez sztab generalny Super Ziemi.{4.75->6.47}Możesz użyć tych zasobów,{6.47->8.49}aby jeszcze wzmocnić swój niszczyciel."
         },
         {
             "Key": 3170042679,
             "Value": "{0.00->1.74}Próbka biologiczna zebrana."
-        },
-        {
-            "Key": 3170350889,
-            "Value": "{0.00->1.86}Ktoś tu musi sobie sprawić coś takiego."
         },
         {
             "Key": 3170873503,
@@ -29067,20 +28359,12 @@
             "Value": "{0.00->0.22}To tutaj.{0.94->1.15} Zgadza się?"
         },
         {
-            "Key": 3171501199,
-            "Value": "{0.00->1.72}To powinno wzmocnić morale załogi."
-        },
-        {
             "Key": 3173161376,
             "Value": "{0.00->0.91}Fabrykator botów."
         },
         {
             "Key": 3173874182,
             "Value": "{0.00->1.55}Wolność wymaga siły ognia."
-        },
-        {
-            "Key": 3174686565,
-            "Value": "{0.00->2.53}To dopiero dobry, solidny produkt z Super Ziemi."
         },
         {
             "Key": 3176211797,
@@ -29259,10 +28543,6 @@
             "Value": "{0.05->2.32}Nie powinniśmy być gdzieś dalej?"
         },
         {
-            "Key": 3211156511,
-            "Value": "{0.00->1.29}Nie mogę się doczekać kolejnej pogawędki."
-        },
-        {
             "Key": 3211851392,
             "Value": "{0.00->1.42}Odpocznę tutaj."
         },
@@ -29367,20 +28647,12 @@
             "Value": "{0.01->2.54}Rozpalcie płomienie sprawiedliwości!"
         },
         {
-            "Key": 3236044308,
-            "Value": "{0.00->1.95}Założę się, że to sprawka jakichś dysydentów."
-        },
-        {
             "Key": 3239715973,
             "Value": "{0.01->2.91}Jeśli się ukryjemy, zapomną o nas! Ukryć się!"
         },
         {
             "Key": 3240778877,
             "Value": "{0.00->2.12}Powtarzam: uzupełnienie gotowe."
-        },
-        {
-            "Key": 3241550390,
-            "Value": "{0.12->3.89}Tak jest, kalmary. Wracajcie do swojej oślizłej nory, z której wypełzłyście."
         },
         {
             "Key": 3243079024,
@@ -29401,10 +28673,6 @@
         {
             "Key": 3243596064,
             "Value": "{0.00->2.40}Pewnego dnia nieznajomy zapytał Danny'ego,{2.40->6.95} czy chce poznać ostatnią tajemnicę – największą ze wszystkich."
-        },
-        {
-            "Key": 3243612204,
-            "Value": "{0.00->2.63}Robale poczują skutki tej operacji."
         },
         {
             "Key": 3243634467,
@@ -29699,14 +28967,6 @@
             "Value": "{0.00->2.24}Każdy coś oddał. Niektórzy oddali wszystko."
         },
         {
-            "Key": 3288786819,
-            "Value": "{0.00->2.64}Czas skończyć z terrorem kosmitów. Takie jest moje zdanie."
-        },
-        {
-            "Key": 3291724012,
-            "Value": "{0.00->1.12}Nieprzyjemna sprawa."
-        },
-        {
             "Key": 3292313939,
             "Value": "{0.00->2.80}Zarządzana demokracja jest uważnym pasterzem,{3.37->7.15} który kieruje wolę ludu, aby ta nie zboczyła ze ścieżki bezpieczeństwa."
         },
@@ -29887,10 +29147,6 @@
             "Value": "{0.05->1.80}Układ Świdrowanej Skały"
         },
         {
-            "Key": 3317900283,
-            "Value": "{0.00->4.10}Czasem lubię przeglądać manewry i wyobrażać sobie, że walczę na powierzchni planety.{4.10->5.84} Że wyzwalam hordy wrogów."
-        },
-        {
             "Key": 3318009300,
             "Value": "{0.01->4.59}Chodzi... o mnie? Och! To... to dla mnie zaszczyt!"
         },
@@ -29967,10 +29223,6 @@
             "Value": "{0.00->1.30}Wzywam Orła."
         },
         {
-            "Key": 3330858002,
-            "Value": "{0.00->2.25}Czas, żeby helldiversi zaczęli robić to,{2.77->3.76} co robią najlepiej: szerzyć wolność."
-        },
-        {
             "Key": 3331222646,
             "Value": "{0.00->1.46}Kolejny helldivers dla sprawy."
         },
@@ -29997,10 +29249,6 @@
         {
             "Key": 3334833061,
             "Value": "{0.00->3.34}Pelikan 1 przygotowuje się do odlotu. Start wahadłowca za 20 sekund."
-        },
-        {
-            "Key": 3335051927,
-            "Value": "{0.00->1.06}Helldiversi dali radę.{1.45->2.43} Ocalili nas."
         },
         {
             "Key": 3335695379,
@@ -30237,10 +29485,6 @@
         {
             "Key": 3386005799,
             "Value": "{0.00->1.29}Brudne ksenofoby."
-        },
-        {
-            "Key": 3386837653,
-            "Value": "{0.00->1.49}Wykorzenimy plagę."
         },
         {
             "Key": 3389080806,
@@ -30483,10 +29727,6 @@
             "Value": "{0.06->1.08}Demokracja doprowadziła mnie do tego ciekawego miejsca."
         },
         {
-            "Key": 3432351805,
-            "Value": "{0.00->4.83}Te bezmózgie maszyny dostały to, na co zasłużyły: całkowitą demokratyczną anihilację."
-        },
-        {
             "Key": 3432554387,
             "Value": "{0.01->1.63}Nie uruchamiaj się ponownie!"
         },
@@ -30691,10 +29931,6 @@
             "Value": "{0.00->2.15}Roboty pożałują, że zostały wyprodukowane."
         },
         {
-            "Key": 3466100317,
-            "Value": "{0.00->2.21}Chciałabym mieć możliwość kupienia choć części takiej fajnej zbroi."
-        },
-        {
             "Key": 3466566461,
             "Value": "{0.00->0.67}Oczywiście!"
         },
@@ -30765,10 +30001,6 @@
         {
             "Key": 3476913191,
             "Value": "{0.00->1.59}Dostaniecie za swoje."
-        },
-        {
-            "Key": 3479088190,
-            "Value": "{0.00->0.61}Dobra robota."
         },
         {
             "Key": 3480228403,
@@ -30891,10 +30123,6 @@
             "Value": "{0.00->2.95}Cofnęłam wszystkie zegary na statku. Przechodzimy na czas wolności."
         },
         {
-            "Key": 3504422309,
-            "Value": "{0.00->1.64}Daliśmy tym robotom zakosztować wolności."
-        },
-        {
             "Key": 3506209550,
             "Value": "{0.00->2.70}Później będziemy ich opłakiwać. Kryć wyrwy w szyku!"
         },
@@ -30947,16 +30175,8 @@
             "Value": "{0.01->2.09}Demokracjo, zbaw nas!"
         },
         {
-            "Key": 3513159509,
-            "Value": "{0.00->1.77}*warknięcie* Nie znoszę tych faszystów!"
-        },
-        {
             "Key": 3514023805,
             "Value": "{0.00->0.56}Wycofać się!"
-        },
-        {
-            "Key": 3515346792,
-            "Value": "{0.00->3.38}Robale póki co mocno trzymają się na swojej planecie macierzystej, ale to tylko kwestia czasu,{3.38->4.80} kiedy rozgnieciemy je na dobre."
         },
         {
             "Key": 3516363389,
@@ -31095,10 +30315,6 @@
             "Value": "{0.01->1.16}Muszę przeładować!"
         },
         {
-            "Key": 3540622620,
-            "Value": "{0.00->0.39}OK."
-        },
-        {
             "Key": 3541368621,
             "Value": "{0.04->2.12}Nie pozwólcie im mnie zjeść! Proszę!"
         },
@@ -31211,20 +30427,12 @@
             "Value": "{0.01->3.76}Super Ziemio, broń nas..."
         },
         {
-            "Key": 3567326290,
-            "Value": "{0.00->2.11}Tak to już jest, gdy ktoś zadziera z Super Ziemią!"
-        },
-        {
             "Key": 3568737410,
             "Value": "{0.06->2.65}SKĄPCIE SIĘ W KRWI TYRANÓW!!!"
         },
         {
             "Key": 3573689311,
             "Value": "{0.00->2.87}Teraz i my jesteśmy częścią zwycięstwa Super Ziemi."
-        },
-        {
-            "Key": 3574911864,
-            "Value": "{0.00->0.85}Jak oni mogli wygrać?{1.69->3.34} To musiała być zdrada."
         },
         {
             "Key": 3575012639,
@@ -31305,10 +30513,6 @@
         {
             "Key": 3590944395,
             "Value": "{0.01->1.59}Obywatele!"
-        },
-        {
-            "Key": 3591081516,
-            "Value": "{0.00->1.62}Ja zawsze głosuję wcześniej, żeby nie zapomnieć."
         },
         {
             "Key": 3591226446,
@@ -31437,10 +30641,6 @@
         {
             "Key": 3613913090,
             "Value": "{0.00->0.87}Brama warp kalmarów."
-        },
-        {
-            "Key": 3614425450,
-            "Value": "{0.03->3.66}To wspaniałe, że algorytm wybierze najlepszego możliwego dla mnie kandydata."
         },
         {
             "Key": 3615655347,
@@ -31585,10 +30785,6 @@
         {
             "Key": 3636604971,
             "Value": "{0.01->1.21}Walcie ze wszystkiego, co macie!"
-        },
-        {
-            "Key": 3636957324,
-            "Value": "{0.09->2.86}Ksenofobi bez zasad nie zasługują na życie."
         },
         {
             "Key": 3637301165,
@@ -31839,10 +31035,6 @@
             "Value": "{0.00->1.46}Cel przy twojej pozycji."
         },
         {
-            "Key": 3684263090,
-            "Value": "{0.00->3.72}Kolejna chwalebna operacja w imieniu zarządzanej demokracji."
-        },
-        {
             "Key": 3684291249,
             "Value": "{0.05->2.69}3 minuty do przylotu."
         },
@@ -31963,10 +31155,6 @@
             "Value": "{0.01->1.08}Więcej kosmitów!"
         },
         {
-            "Key": 3710922437,
-            "Value": "{0.00->1.95}Totalna demokratyczna anihilacja."
-        },
-        {
             "Key": 3712767583,
             "Value": "{0.00->0.52}Wygrywasz."
         },
@@ -32077,10 +31265,6 @@
         {
             "Key": 3731340373,
             "Value": "{0.00->2.85}W drogę! Demokracja sama się nie zaprowadzi!"
-        },
-        {
-            "Key": 3731781055,
-            "Value": "{0.00->1.67}Może teraz wszystko wróci do normy."
         },
         {
             "Key": 3732832793,
@@ -32483,10 +31667,6 @@
             "Value": "{0.00->3.22}Utrata rekruta. Wysłać zespół pozbywania się szczątków ludzkich."
         },
         {
-            "Key": 3812165128,
-            "Value": "{0.09->2.95}Nareszcie żadne dzieci nie będą więcej zjadane żywcem w swoich łóżeczkach."
-        },
-        {
             "Key": 3815976100,
             "Value": "{0.80->2.88}Trzeba było zostać w domu, kalmarze!"
         },
@@ -32661,14 +31841,6 @@
         {
             "Key": 3847905915,
             "Value": "{0.28->4.31}Ekhm. Jeszcze taka uwaga...{4.56->7.62} proszę starać się strzelać krótkimi, kontrolowanymi seriami.{7.62->9.52} Taki ostrzał jest celniejszy. {9.80->10.67}Uch, dziękuję."
-        },
-        {
-            "Key": 3848444986,
-            "Value": "{0.05->2.95}Super Ziemia pewnie daje im fałszywe poczucie przewagi."
-        },
-        {
-            "Key": 3848686641,
-            "Value": "{0.04->3.85}Musimy wysłać na dół helldiversów, zanim boty zbudują więcej fabryk śmierci."
         },
         {
             "Key": 3849575040,
@@ -33039,24 +32211,12 @@
             "Value": "{0.04->1.77}Niech ktoś mi pomoże!"
         },
         {
-            "Key": 3910367757,
-            "Value": "{0.00->2.70}Może tym razem wreszcie znajdziemy ich broń masowego rażenia."
-        },
-        {
             "Key": 3911364562,
             "Value": "{0.00->1.44}Wzywam broń wsparcia."
         },
         {
-            "Key": 3911470603,
-            "Value": "{0.00->2.05}Podobno nareszcie wyzwalamy planetę macierzystą botów."
-        },
-        {
             "Key": 3912827344,
             "Value": "{0.00->1.06}Proszę o pakiet taktyczny."
-        },
-        {
-            "Key": 3912972699,
-            "Value": "{0.00->3.73}Nie mogę się już doczekać, kiedy odeślemy te ksenofobiczne potwory do plugawej dziury,{3.73->4.57} z której wypełzły."
         },
         {
             "Key": 3913338328,
@@ -33153,10 +32313,6 @@
         {
             "Key": 3930305172,
             "Value": "{0.00->3.43}Słodka wolności! Dorwali helldiversa!"
-        },
-        {
-            "Key": 3931133370,
-            "Value": "{0.00->0.62}W porządku."
         },
         {
             "Key": 3931356279,
@@ -33291,10 +32447,6 @@
             "Value": "{0.02->1.03}Zabierzcie je ode mnie!"
         },
         {
-            "Key": 3951022008,
-            "Value": "{0.00->2.67}Te socjalistyczne mordercze boty nie chcą umrzeć!"
-        },
-        {
             "Key": 3951777097,
             "Value": "{0.00->0.85}Stanowisko wroga."
         },
@@ -33419,10 +32571,6 @@
             "Value": "{0.01->1.69}Pusto! Osłaniajcie mnie!!!"
         },
         {
-            "Key": 3975159568,
-            "Value": "{0.00->2.61}Pewnego dnia odkryję, do czego one właściwie służą."
-        },
-        {
             "Key": 3976665482,
             "Value": "{0.00->1.39}Obiekt roju zniszczony."
         },
@@ -33445,10 +32593,6 @@
         {
             "Key": 3981354927,
             "Value": "{0.00->1.44}Czy tu na pewno jest bezpiecznie?"
-        },
-        {
-            "Key": 3981943540,
-            "Value": "{0.00->2.95}Są zaprogramowane wyłącznie na śmierć i zniszczenie."
         },
         {
             "Key": 3982404347,
@@ -33579,10 +32723,6 @@
             "Value": "{0.04->2.49}O jednego terrorystę mniej."
         },
         {
-            "Key": 4006424869,
-            "Value": "{0.00->2.31}Uwielbiam fakt, że mogę to oglądać przez cały dzień."
-        },
-        {
             "Key": 4008626340,
             "Value": "{0.00->1.89}Wolność. Rozwój.{2.25->3.24} Demokracja."
         },
@@ -33613,10 +32753,6 @@
         {
             "Key": 4012410486,
             "Value": "{0.02->1.70}Super Ziemia...{1.70->3.80}mnie pomści..."
-        },
-        {
-            "Key": 4014220128,
-            "Value": "{0.00->0.73}Świetna akcja."
         },
         {
             "Key": 4014969940,
@@ -33685,10 +32821,6 @@
         {
             "Key": 4033680509,
             "Value": "{0.03->1.45}Wróg na razie się trzyma,{2.03->3.95} ale w końcu pęknie."
-        },
-        {
-            "Key": 4034645587,
-            "Value": "{0.04->2.75}Już dawno powinniśmy byli obrócić tę fabrykę morderców w kupę złomu."
         },
         {
             "Key": 4034783068,
@@ -33851,10 +32983,6 @@
             "Value": "{0.00->0.51}Pojazd."
         },
         {
-            "Key": 4065201757,
-            "Value": "{0.00->4.26}Wciąż pamiętam, kiedy wypełniałam swoja pierwszą ankietę preferencji demokratycznych. Co za emocje."
-        },
-        {
             "Key": 4066734850,
             "Value": "{0.00->0.61}Oczywiście."
         },
@@ -33959,14 +33087,6 @@
             "Value": "{0.00->1.03}To jeszcze nie koniec."
         },
         {
-            "Key": 4085959035,
-            "Value": "{0.00->0.86}Nawet reklamy."
-        },
-        {
-            "Key": 4087548149,
-            "Value": "{0.22->1.70}Słodcy synowie i córki wolności..."
-        },
-        {
             "Key": 4087631023,
             "Value": "{0.04->1.97}Przeklęte roboty!"
         },
@@ -34065,10 +33185,6 @@
         {
             "Key": 4104328598,
             "Value": "{0.10->4.66}Boty rozmieściły siły uderzeniowe zwane brygadą odrzutową.{5.12->12.29} Ta rakietowa hałastra uznawana jest za „elitę” wśród wiecznie gorszych automatów."
-        },
-        {
-            "Key": 4104397786,
-            "Value": "{0.02->1.45}Miło było, ale się skończyło."
         },
         {
             "Key": 4104422553,
@@ -34391,24 +33507,12 @@
             "Value": "{0.03->1.40}To wszystko wkrótce się skończy."
         },
         {
-            "Key": 4170176555,
-            "Value": "{0.00->1.25}Dobra robota przy utrzymaniu linii frontu."
-        },
-        {
             "Key": 4170600138,
             "Value": "{0.06->1.91}Słodka wolności, moja noga!"
         },
         {
             "Key": 4170873497,
             "Value": "{0.00->1.75}Cel dodatkowy przy twojej pozycji."
-        },
-        {
-            "Key": 4171779025,
-            "Value": "{0.00->3.95}Skoro te kalmary są takie bystre, czemu jeszcze nie wymyśliły, jak umrzeć?"
-        },
-        {
-            "Key": 4172092402,
-            "Value": "{0.00->1.53}Zgadzam się z tym przekazem."
         },
         {
             "Key": 4173136279,
@@ -34439,20 +33543,12 @@
             "Value": "{0.02->2.57}Ta próbka biologiczna dostarczy doskonałych danych."
         },
         {
-            "Key": 4179403970,
-            "Value": "{0.00->2.52}Po tej operacji boty uciekają, aż się kurzy.{3.23->4.02} Brawo."
-        },
-        {
             "Key": 4179746961,
             "Value": "{0.00->1.38}Stanowisko uzbrojenia w drodze."
         },
         {
             "Key": 4180434529,
             "Value": "{0.02->1.45}Zaczynam wyzwalanie."
-        },
-        {
-            "Key": 4181106499,
-            "Value": "{0.00->1.83}Zmielimy je na E-710."
         },
         {
             "Key": 4181688902,
@@ -34485,10 +33581,6 @@
         {
             "Key": 4184718355,
             "Value": "{0.00->1.46}Wzywam uzupełnienia!"
-        },
-        {
-            "Key": 4184747767,
-            "Value": "{0.00->1.30}Właśnie dlatego ja zawsze uważam."
         },
         {
             "Key": 4185164989,
@@ -34603,10 +33695,6 @@
             "Value": "{0.02->1.15}Rzucam nadajnik zaopatrzeniowy."
         },
         {
-            "Key": 4210684843,
-            "Value": "{0.20->2.41}Słodka matko niepodległości. Super Ziemia...{3.22->3.79} upadła..."
-        },
-        {
             "Key": 4211511063,
             "Value": "{0.00->1.87}Przygotowanie do misji przerwane."
         },
@@ -34615,20 +33703,12 @@
             "Value": "{0.04->2.52}Co jest, na litość wolności?!"
         },
         {
-            "Key": 4214357243,
-            "Value": "{0.10->1.57}Ode mnie to na razie wszystko."
-        },
-        {
             "Key": 4215436431,
             "Value": "{0.03->1.27}To tutaj ląduje wahadłowiec?"
         },
         {
             "Key": 4216366863,
             "Value": "{0.00->1.23}Mam nadzieję, że to bolało."
-        },
-        {
-            "Key": 4216433234,
-            "Value": "{0.20->1.89}Zbliżają się coraz bardziej do Super Ziemi."
         },
         {
             "Key": 4216714700,
@@ -34693,10 +33773,6 @@
         {
             "Key": 4229114097,
             "Value": "{0.00->0.47}3!"
-        },
-        {
-            "Key": 4229126081,
-            "Value": "{0.00->3.64}Uwielbiam fakt, ze hellpody są bardziej zabójcze niż praktycznie każda inna broń."
         },
         {
             "Key": 4229819669,
@@ -34791,10 +33867,6 @@
             "Value": "{0.00->0.59}Oczywiście.{1.34->3.14}Niech wolność mnie prowadzi."
         },
         {
-            "Key": 4247980910,
-            "Value": "{0.00->1.48}Sprawa nam się komplikuje."
-        },
-        {
             "Key": 4248226302,
             "Value": "{0.02->1.71}Układ Przełęczy Azów"
         },
@@ -34861,10 +33933,6 @@
         {
             "Key": 4253272853,
             "Value": "{0.00->2.62}Posmakuj sprawiedliwości, roboszumowino!"
-        },
-        {
-            "Key": 4253284536,
-            "Value": "{0.00->1.52}Teraz służy do zachowywania wolności."
         },
         {
             "Key": 4253669513,

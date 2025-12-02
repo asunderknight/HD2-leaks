@@ -1332,7 +1332,7 @@
         },
         {
             "Key": 3353541931,
-            "Value": "auf <i=1>"
+            "Value": " auf <i=1>"
         },
         {
             "Key": 3360588677,
@@ -1659,6 +1659,10 @@
             "Value": "Reserve"
         },
         {
+            "Key": 77491964,
+            "Value": "40-mm-HE"
+        },
+        {
             "Key": 80576839,
             "Value": "Erhöht die Zieh-/Wegsteckgeschwindigkeit von Seitenwaffen um <c=#COLOR>#BONUS</c>."
         },
@@ -1735,6 +1739,10 @@
             "Value": "500-kg-Bombe Mk3"
         },
         {
+            "Key": 108221082,
+            "Value": "Diese alte, wahrscheinlich allegorische Darstellung der Macht über das Aalartige gilt unter Gelehrten als Symbol für die Überlegenheit der Menschheit in der Kunst der Gewalt."
+        },
+        {
             "Key": 108830821,
             "Value": "10-STERNE-GENERAL"
         },
@@ -1807,6 +1815,10 @@
             "Value": "STUFE-#TIER-UPGRADES"
         },
         {
+            "Key": 136228120,
+            "Value": "SEGELTUCH DES ENTFÖRSTERS"
+        },
+        {
             "Key": 138799023,
             "Value": "Eine schlagkräftige Pump-Action-Schrotflinte mit zwei Magazinen und eingeschränkter Panzerdurchdringung. Ideal für kleine und schnelle Ziele."
         },
@@ -1873,6 +1885,10 @@
         {
             "Key": 160113341,
             "Value": "HELLDIVER"
+        },
+        {
+            "Key": 161726187,
+            "Value": "ZEICHEN DER WÜRGESCHLANGE"
         },
         {
             "Key": 163449559,
@@ -2031,6 +2047,10 @@
             "Value": "VERBESSERTE ZIELSERVOS"
         },
         {
+            "Key": 232359449,
+            "Value": "FELSENFEST"
+        },
+        {
             "Key": 233472851,
             "Value": "DER UMHANG DER STERNE UND DES WAHLRECHTS"
         },
@@ -2141,6 +2161,10 @@
         {
             "Key": 293165154,
             "Value": "AR-20L"
+        },
+        {
+            "Key": 296742774,
+            "Value": "Eine autonome Drohne, die mit einem Flammenwerfer ausgestattet ist. Kehrt zum Auffüllen der Treibstoffkanister zum Rucksack zurück."
         },
         {
             "Key": 297881557,
@@ -2307,6 +2331,10 @@
             "Value": "Kein Unterlaufzubehör."
         },
         {
+            "Key": 369958519,
+            "Value": "MAXIGUN"
+        },
+        {
             "Key": 372008487,
             "Value": "Dieser Anzug wurde so entworfen, dass er eine Vielfalt an medizinischer Ausrüstung für den Kampf unterbringen kann. Jetzt bietet er Platz für einen großzügigen Vorrat an Spritzen."
         },
@@ -2325,6 +2353,10 @@
         {
             "Key": 373655897,
             "Value": "R-72"
+        },
+        {
+            "Key": 374686981,
+            "Value": "Der Bruch des Feindes"
         },
         {
             "Key": 375454065,
@@ -2389,6 +2421,10 @@
         {
             "Key": 404114273,
             "Value": "12x25-mm-Plasma"
+        },
+        {
+            "Key": 406963016,
+            "Value": "WIMPEL DES PARTYGASTS"
         },
         {
             "Key": 410163817,
@@ -2579,6 +2615,10 @@
             "Value": "SG-225"
         },
         {
+            "Key": 504678613,
+            "Value": "Mit ihren zwei Läufen, einem Abzug und dem Retro-Stil ist diese Schrotflinte perfekt für historische Nachstellungen."
+        },
+        {
             "Key": 506441583,
             "Value": "15x100-mm-STANDARD-RAKETE"
         },
@@ -2627,6 +2667,10 @@
             "Value": "ANFORDERUNGSZEIT"
         },
         {
+            "Key": 533278085,
+            "Value": "RS-6-DÄMONENZERSTÖRER"
+        },
+        {
             "Key": 534138438,
             "Value": "HELLDIVER-STANDARDSTIMME 4"
         },
@@ -2641,6 +2685,10 @@
         {
             "Key": 543125329,
             "Value": "VERBESSERTER NACHLADEPROZESS"
+        },
+        {
+            "Key": 543446303,
+            "Value": "RS-20-Würgeschlange"
         },
         {
             "Key": 548900746,
@@ -2907,6 +2955,10 @@
             "Value": "DIENER DER FREIHEIT"
         },
         {
+            "Key": 645907184,
+            "Value": "ZWEI IN EINS"
+        },
+        {
             "Key": 648255169,
             "Value": "10-g-Magnum-Tri-Ball"
         },
@@ -2985,6 +3037,10 @@
         {
             "Key": 674183024,
             "Value": "Brandschützer I-92"
+        },
+        {
+            "Key": 674776290,
+            "Value": "Maxigun-Rucksack"
         },
         {
             "Key": 676187033,
@@ -3479,6 +3535,10 @@
             "Value": "40-mm-HE-MÖRSER"
         },
         {
+            "Key": 905652168,
+            "Value": "Gegen die Tyrannenwolke"
+        },
+        {
             "Key": 905887718,
             "Value": "Eine präzise Artilleriesalve auf ein kleines Gebiet; perfekt geeignet, um konzentrierte feindliche Einheiten auszuschalten."
         },
@@ -3501,6 +3561,10 @@
         {
             "Key": 911637357,
             "Value": "40-mm-ANNÄHERUNGSGRANATE"
+        },
+        {
+            "Key": 913017115,
+            "Value": "RS-40-Raubbestie"
         },
         {
             "Key": 914930931,
@@ -3561,6 +3625,10 @@
         {
             "Key": 941001616,
             "Value": "FS-55-Verwüster"
+        },
+        {
+            "Key": 942247207,
+            "Value": "RS-6-Dämonenzerstörer"
         },
         {
             "Key": 944633350,
@@ -4483,6 +4551,10 @@
             "Value": "Ein modifiziertes Liberator-Gewehr, das mit einem Visier versehen ist und panzerbrechende Munition feuert, um gepanzerte Ziele auszuschalten."
         },
         {
+            "Key": 1362515695,
+            "Value": "Ein nützliches Aufräumwerkzeug, um Bäume, Hindernisse und unglückselige Gegner vom Schlachtfeld zu entfernen."
+        },
+        {
             "Key": 1365642266,
             "Value": "Orbitales Leuchtfeuer"
         },
@@ -4593,6 +4665,10 @@
         {
             "Key": 1415121350,
             "Value": "MARTYRIS REX"
+        },
+        {
+            "Key": 1416115244,
+            "Value": "GEGEN DIE TYRANNENWOLKE"
         },
         {
             "Key": 1416711028,
@@ -5363,6 +5439,10 @@
             "Value": "Waffengemisch"
         },
         {
+            "Key": 1761328847,
+            "Value": "PYTHON-KOMMANDO"
+        },
+        {
             "Key": 1762386601,
             "Value": "Feindzertrümmerer"
         },
@@ -5883,6 +5963,10 @@
             "Value": "SCHMORER"
         },
         {
+            "Key": 1999223573,
+            "Value": "Maxigun"
+        },
+        {
             "Key": 1999641793,
             "Value": "BUGBITER-BREAKER"
         },
@@ -5991,6 +6075,10 @@
             "Value": "110-mm-GAS-KANONENGESCHOSS"
         },
         {
+            "Key": 2048386029,
+            "Value": "Das dezente Farbschema und die präzise geformten Panzerplatten machen diese Panzerung zu einer vernünftigen Wahl für den Helldiver unterwegs."
+        },
+        {
             "Key": 2049221350,
             "Value": "Ein automatisches Flammenwerfergeschütz. Warnung: Treibstoffkanister kann explodieren, wenn er beschädigt wird."
         },
@@ -6001,6 +6089,10 @@
         {
             "Key": 2050119908,
             "Value": "Schweres Maschinengewehr"
+        },
+        {
+            "Key": 2050963109,
+            "Value": "Eine Kombination aus Sturmgewehr und Granatwerfer. Vielseitig, aber schwer zu handhaben."
         },
         {
             "Key": 2050983655,
@@ -6347,6 +6439,10 @@
             "Value": "Granatenpistole"
         },
         {
+            "Key": 2184600406,
+            "Value": "„Guard Dog“-Hotdog"
+        },
+        {
             "Key": 2184876447,
             "Value": "Warrant"
         },
@@ -6521,6 +6617,10 @@
         {
             "Key": 2266600090,
             "Value": "CW-9 WEISSER WOLF"
+        },
+        {
+            "Key": 2267094068,
+            "Value": "Jubel der Abrechnung"
         },
         {
             "Key": 2267597799,
@@ -6739,6 +6839,10 @@
             "Value": "CM-09-KNOCHENBRECHER"
         },
         {
+            "Key": 2345082861,
+            "Value": "DBS-2"
+        },
+        {
             "Key": 2348528215,
             "Value": "VERBESSERTE MUNITIONSABLAGE"
         },
@@ -6825,6 +6929,10 @@
         {
             "Key": 2388297546,
             "Value": "Spindeln der Verzweiflung"
+        },
+        {
+            "Key": 2388777114,
+            "Value": "Segeltuch des Entförsters"
         },
         {
             "Key": 2390010387,
@@ -7223,6 +7331,10 @@
             "Value": "KÜRZERE ABKLINGZEIT"
         },
         {
+            "Key": 2566848990,
+            "Value": "M-1000"
+        },
+        {
             "Key": 2566951657,
             "Value": "Eine zielsuchende Panzerabwehr-Rakete, die ihr Ziel vor dem Abschuss anvisieren muss. Effektiv gegen große und gepanzerte Feinde."
         },
@@ -7245,6 +7357,10 @@
         {
             "Key": 2579776943,
             "Value": "KÜRZERE ABKLINGZEIT"
+        },
+        {
+            "Key": 2580626798,
+            "Value": "Doppelfreiheit"
         },
         {
             "Key": 2584047110,
@@ -7277,6 +7393,10 @@
         {
             "Key": 2598955031,
             "Value": "VERBESSERTE LUFTBREMSEN"
+        },
+        {
+            "Key": 2600057462,
+            "Value": "Die markante Silhouette erinnert an den legendären Helldiver Ronald Mambo am Vorabend seines vorzeitigen Verschwindens und strahlt Kraft, Robustheit und Stärke aus."
         },
         {
             "Key": 2602817837,
@@ -7463,12 +7583,20 @@
             "Value": "DER DURCHBRUCH"
         },
         {
+            "Key": 2681683717,
+            "Value": "LIEGESTÜTZPOSITION"
+        },
+        {
             "Key": 2681791119,
             "Value": "DAB"
         },
         {
             "Key": 2683992244,
             "Value": "120-mm-HE-KANONENGESCHOSS"
+        },
+        {
+            "Key": 2687364051,
+            "Value": "Wimpel des Partygasts"
         },
         {
             "Key": 2688006363,
@@ -7745,6 +7873,10 @@
         {
             "Key": 2788848665,
             "Value": "AF-50 GIFTIGER RANGER"
+        },
+        {
+            "Key": 2789265709,
+            "Value": "Ein Zeichen der Allerfreisten, jenen, die die Tyrannei am Kragen packen und so lange würgen, bis keine Unterdrückung mehr übrig ist."
         },
         {
             "Key": 2790097968,
@@ -8091,6 +8223,10 @@
             "Value": "Locker bleiben"
         },
         {
+            "Key": 2920301911,
+            "Value": "MAXIGUN-RUCKSACK"
+        },
+        {
             "Key": 2920710188,
             "Value": "SCHIENENKANONENGESCHOSS"
         },
@@ -8331,6 +8467,10 @@
             "Value": "CM-14-MEDIZINER"
         },
         {
+            "Key": 3048987541,
+            "Value": "JUBEL DER ABRECHNUNG"
+        },
+        {
             "Key": 3049468859,
             "Value": "KOPFGELDHÄSCHER"
         },
@@ -8491,6 +8631,10 @@
             "Value": "CREWTRAINING"
         },
         {
+            "Key": 3098378895,
+            "Value": "Zwei in eins"
+        },
+        {
             "Key": 3103421391,
             "Value": "NAPALM-ORBITALSPERRFEUER"
         },
@@ -8629,6 +8773,10 @@
         {
             "Key": 3153686785,
             "Value": "Kopfgeldhäscher"
+        },
+        {
+            "Key": 3159679973,
+            "Value": "DOPPELFREIHEIT"
         },
         {
             "Key": 3160067283,
@@ -8795,6 +8943,10 @@
             "Value": "EINSATZBEREIT"
         },
         {
+            "Key": 3242356062,
+            "Value": "Zeichen der Würgeschlange"
+        },
+        {
             "Key": 3242636709,
             "Value": "12,5-mm-Standard-Gewehrmunition"
         },
@@ -8821,6 +8973,10 @@
         {
             "Key": 3255323397,
             "Value": "MITTEL DES VERGESSENS"
+        },
+        {
+            "Key": 3258246494,
+            "Value": "RS-40-RAUBBESTIE"
         },
         {
             "Key": 3260894616,
@@ -8951,6 +9107,10 @@
             "Value": "VERSTÄRKUNGSFAHRZEUG"
         },
         {
+            "Key": 3308224804,
+            "Value": "Eine Minigun mit Munitionsgurt und außergewöhnlicher Munitionskapazität. Kann nicht mit Standardmunition ohne Gürtel nachgeladen werden."
+        },
+        {
             "Key": 3312133772,
             "Value": "5,5x50-mm-VOLLMANTELGESCHOSS"
         },
@@ -8993,6 +9153,14 @@
         {
             "Key": 3320328107,
             "Value": "Talon"
+        },
+        {
+            "Key": 3321311549,
+            "Value": "„GUARD DOG“-HOTDOG"
+        },
+        {
+            "Key": 3322311510,
+            "Value": "Dieser praktische Umhang kann als Bodendämmung, Wärmedecke oder Lagerdach für den geschäftstüchtigen Entlauber dienen."
         },
         {
             "Key": 3322485573,
@@ -9331,6 +9499,10 @@
             "Value": "SSSD-Lieferung"
         },
         {
+            "Key": 3464640475,
+            "Value": "8-mm"
+        },
+        {
             "Key": 3466014766,
             "Value": "Erhöht die Nachladegeschwindigkeit von Seitenwaffen um <c=#COLOR>#BONUS</c>."
         },
@@ -9389,6 +9561,10 @@
         {
             "Key": 3489949763,
             "Value": "R-63CS"
+        },
+        {
+            "Key": 3490290898,
+            "Value": "AR/GL-21"
         },
         {
             "Key": 3492692240,
@@ -9461,6 +9637,10 @@
         {
             "Key": 3522846961,
             "Value": "9x70-mm-„Durchdringende Scharfschützenmunition“"
+        },
+        {
+            "Key": 3523034434,
+            "Value": "Liegestützposition"
         },
         {
             "Key": 3532118678,
@@ -9581,6 +9761,10 @@
         {
             "Key": 3584258719,
             "Value": "HOCHEXPLOSIVE 85-mm-GRANATE"
+        },
+        {
+            "Key": 3587897079,
+            "Value": "Keine unterdrückende Düsternis, kein faschistischer Halbschatten, kein diktatorischer Dunst und keine unfreie Emanation; keine tyrannische Düsternis wird jemals eine Chance gegen das gleißende Licht des Helldiver-Feuers haben."
         },
         {
             "Key": 3588986772,
@@ -9827,6 +10011,10 @@
             "Value": "ZIEL GESICHTET"
         },
         {
+            "Key": 3689697660,
+            "Value": "Entlaubungswerkzeug"
+        },
+        {
             "Key": 3692999116,
             "Value": "Stecherabzug"
         },
@@ -9927,6 +10115,10 @@
             "Value": "HITZE"
         },
         {
+            "Key": 3747347702,
+            "Value": "CQC-9"
+        },
+        {
             "Key": 3752863521,
             "Value": "Crewplatzabbau"
         },
@@ -9941,6 +10133,10 @@
         {
             "Key": 3753841326,
             "Value": "EX-00-PROTOTYP X"
+        },
+        {
+            "Key": 3756189260,
+            "Value": "AX/FLAM-75"
         },
         {
             "Key": 3756236745,
@@ -10067,8 +10263,16 @@
             "Value": "FORTSCHRITTLICHER GEWINKELTER HANDGRIFF"
         },
         {
+            "Key": 3797148908,
+            "Value": "Wenn dieser Umhang im Wind flattert, erinnert er an einen sehnsüchtig funkelnden Stern am Himmel, der darauf wartet, erobert zu werden."
+        },
+        {
             "Key": 3799349087,
             "Value": "KÜHLKÖRPER MIT HOHER KAPAZITÄT"
+        },
+        {
+            "Key": 3799869640,
+            "Value": "RS-20-WÜRGESCHLANGE"
         },
         {
             "Key": 3802654976,
@@ -10145,6 +10349,10 @@
         {
             "Key": 3825164669,
             "Value": "110-mm-E.M.S.-Kanonengeschoss Mk2"
+        },
+        {
+            "Key": 3828783979,
+            "Value": "Der Träger ist resistenter dagegen, zu Boden geschlagen zu werden."
         },
         {
             "Key": 3831536216,
@@ -10253,6 +10461,10 @@
         {
             "Key": 3875128073,
             "Value": "10-g-Flechette"
+        },
+        {
+            "Key": 3876419466,
+            "Value": "Die offizielle Uniform der League of Patriotic Arm Wrestlers. Die Lycra-Basisschicht dieser Panzerung ist geschmeidig und schweißableitend und sorgt so für maximalen Flexkomfort."
         },
         {
             "Key": 3882630018,
@@ -10507,6 +10719,10 @@
             "Value": "AX/ARC-3"
         },
         {
+            "Key": 4000631345,
+            "Value": "ENTLAUBUNGSWERKZEUG"
+        },
+        {
             "Key": 4001910789,
             "Value": "DECKUNGSFEUER"
         },
@@ -10589,6 +10805,10 @@
         {
             "Key": 4029634219,
             "Value": "ALBTRAUM DER DISSIDENTEN"
+        },
+        {
+            "Key": 4032607812,
+            "Value": "Wenn du dich am Tag der Abrechnung den Feinden der Freiheit stellst, bleibe in festlicher Stimmung mit dem ersten Satz aus „Eine Rachegeschichte“: „Bald sind sie tot, damit wollen wir anfangen.“"
         },
         {
             "Key": 4035440828,
@@ -11153,6 +11373,10 @@
         {
             "Key": 4278423406,
             "Value": "Ein vielseitiger Raketenwerfer, der mit sieben Zielsuchraketen mit Zielerfassung geladen ist. Diese können entweder direkt vom Werfer oder als Luftstoß abgefeuert werden. Der beigefügte Unterstützungsrucksack wird zum Nachladen benötigt.\nVon Stål Arms hergestellt."
+        },
+        {
+            "Key": 4281184185,
+            "Value": "DER BRUCH DES FEINDES"
         },
         {
             "Key": 4282079442,
@@ -12667,6 +12891,10 @@
             "Value": "Die Taktikausrüstung „GL-6-Granatwerfer“ steht vorübergehend allen Helldivers zur Verfügung."
         },
         {
+            "Key": 1203572315,
+            "Value": "Beim <i=1>Gatling-Orbitalsperrfeuer</i> wurden für den Feldversuch die HE-Geschosse mit Brandgeschossen ersetzt."
+        },
+        {
             "Key": 1212122769,
             "Value": "Der feindliche Fortschritt in <i=1>Verteidigungskampagnen</i> wird verlangsamt."
         },
@@ -13223,6 +13451,10 @@
             "Value": "MISSION STARTEN"
         },
         {
+            "Key": 1661251297,
+            "Value": "Dieser ehemalige Planet ist jetzt nur noch ein normales, stabiles schwarzes Loch."
+        },
+        {
             "Key": 1673988944,
             "Value": "Mögliche Einsätze der Taktikausrüstung <i=1>#V_ONE</i> sind nicht mehr verringert."
         },
@@ -13483,6 +13715,10 @@
             "Value": "Auf dem Planeten #V_ONE geht Boden nicht mehr schneller verloren."
         },
         {
+            "Key": 1892826563,
+            "Value": "KONVENTIONELLES SCHWARZES LOCH"
+        },
+        {
             "Key": 1898505845,
             "Value": "C.O.B. Genetics spendet den Mais des letzten Jahres an hungrige Kühe."
         },
@@ -13661,6 +13897,10 @@
         {
             "Key": 2042223451,
             "Value": "Präsident genehmigt Einsatz von „Planetenbrecher“-Ladungen zur Terminiden-Bekämpfung."
+        },
+        {
+            "Key": 2042544950,
+            "Value": "120-MM-HE/EMS-ORBITALSPERRFEUER"
         },
         {
             "Key": 2050925525,
@@ -14247,6 +14487,10 @@
             "Value": "Zurückschlagen"
         },
         {
+            "Key": 2482482071,
+            "Value": "RAUCHVERSTÄRKTES LINEARES SPERRFEUER "
+        },
+        {
             "Key": 2488091525,
             "Value": "UMKÄMPFTE UMLAUFBAHN"
         },
@@ -14257,6 +14501,10 @@
         {
             "Key": 2490822601,
             "Value": "Unbekannt"
+        },
+        {
+            "Key": 2492608753,
+            "Value": "GATLING-BRANDSPERRFEUER"
         },
         {
             "Key": 2495155753,
@@ -15004,7 +15252,7 @@
         },
         {
             "Key": 3087338564,
-            "Value": "UMGEBUNGSBEDINGUNGEN"
+            "Value": "OPERATIVE VARIATIONEN"
         },
         {
             "Key": 3088565990,
@@ -15100,7 +15348,7 @@
         },
         {
             "Key": 3171440668,
-            "Value": "E-711 BESCHAFFEN"
+            "Value": "E-711 ERHALTEN"
         },
         {
             "Key": 3174686750,
@@ -15337,6 +15585,10 @@
         {
             "Key": 3386335381,
             "Value": "SCHNELLERE EVAKUIERUNG"
+        },
+        {
+            "Key": 3387915863,
+            "Value": "Das <i=1>Lineare Orbitalsperrfeuer</i> wurde für den Feldversuch mit beigemischten Rauchgranaten modifiziert."
         },
         {
             "Key": 3398823357,
@@ -15805,6 +16057,10 @@
         {
             "Key": 3786402002,
             "Value": "Unbekannt"
+        },
+        {
+            "Key": 3787865575,
+            "Value": "Das <i=1>120-mm-HE-Orbitalsperrfeuer</i> wurde für den Feldversuch mit zusätzlichen HE-und EMS-Geschossen sowie einem engeren Radius modifiziert."
         },
         {
             "Key": 3798161962,
@@ -18015,6 +18271,10 @@
             "Value": "{0.00->0.61}Krieg. {1.08->2.60}Er bringt uns zusammen. {3.01->9.73}Er macht uns stärker. Und er fördert zahlreiche neue Technologien zutage, von denen einige Leben {9.73->10.50}retten können. {11.11->11.99}Deshalb {12.49->13.43}kämpfen wir."
         },
         {
+            "Key": 330662374,
+            "Value": "{0.00->1.37}Freiheitsfreunde,{1.37->3.49}hier ist Coretta Kelly.{3.49->7.49}Der Stern des Friedens hat einen Testlauf absolviert und einen{7.49->10.89}kleinen Mond auf die Größe eines Kieselsteins gebracht.{10.89->15.08}Die Verteidigungsstation feuerte atomisiertes Dunkles Fluid auf den{15.08->19.06}Himmelskörper und löste einen Gravitationskollaps aus.{19.06->24.34}Während der Einsatz von Dunklem Fluid einst das Schwarze Loch in Meridia erschuf,{24.34->25.66}haben Tests gezeigt,{25.66->30.63}dass der Stern des Friedens nur eine Gefahr für die Feinde von Über-Erde darstellt.{30.63->35.56}Die neue Technologie wird nach einer von Helldivers geführten Abstimmung darüber,{35.56->40.14}wo die Station defensiv eingesetzt werden soll, zum Einsatz kommen.{40.14->45.62}Außerdem: Sind neugierige Kinder anfälliger für den Einfluss der Illuminierten?{45.62->47.96}Studien zufolge sind sie das.{47.96->49.78}Das waren die Nachrichten.{49.78->51.55}Ich bin Coretta Kelly."
+        },
+        {
             "Key": 330948655,
             "Value": "{0.00->1.08}Hoffe, das tat weh."
         },
@@ -18551,6 +18811,10 @@
             "Value": "{0.00->1.77}Das Fort-Union-System"
         },
         {
+            "Key": 437029554,
+            "Value": "{0.09->3.96}Trotz all der Worte über die galaktische Befreiung sind wir{3.96->7.25}immer noch an unsere himmlische Präsenz gebunden.{7.25->14.21} Die unnachgiebige Permanenz der planetaren Materie war unser unausweichlichster Lehrmeister.{14.21->18.19} Aber jetzt, mit der Konstruktion des Sterns des Friedens,{18.19->23.39}ist die wahre Erlösung endlich zum Greifen nah."
+        },
+        {
             "Key": 438746747,
             "Value": "{0.00->2.04}Sie sind der Beste der Besten.{2.31->5.37}Werden Sie dem gerecht. Und der Freiheit."
         },
@@ -18700,7 +18964,7 @@
         },
         {
             "Key": 458634986,
-            "Value": "{0.01->0.75}Lade für dich nach."
+            "Value": "{0.01->0.75}Ich lade für dich nach."
         },
         {
             "Key": 458868364,
@@ -18784,7 +19048,7 @@
         },
         {
             "Key": 467232218,
-            "Value": "{0.00->1.33}Team-Nachladen erforderlich."
+            "Value": "{0.00->1.33}Team-Nachladen benötigt."
         },
         {
             "Key": 467292849,
@@ -18940,7 +19204,7 @@
         },
         {
             "Key": 493210872,
-            "Value": "{0.00->1.16}Erwarte Orbitalfeuer."
+            "Value": "{0.00->1.21}Orbitalfeuer."
         },
         {
             "Key": 493466570,
@@ -19121,6 +19385,10 @@
         {
             "Key": 525125116,
             "Value": "{0.00->1.47}Das Acrab-System"
+        },
+        {
+            "Key": 527099185,
+            "Value": "{7.83->10.94}Freiheitsfreunde, hier ist Coretta Kelly.{11.28->15.75}In einer triumphalen Demonstration der Demokratie wurde der Stern des{15.75->19.33}Friedens erfolgreich zur Verteidigung von Über-Erde aktiviert.{19.85->22.62}Die Helldivers haben sich für den Schutz unserer Bürger{22.62->26.08}entschieden und einen bedrohlichen Planeten neutralisiert,{26.08->32.91}der Feinde der Freiheit beherbergte. Der Raum, der einst durch den Planeten gefüllt wurde,{32.91->36.63}erstickt nicht mehr unter der tyrannischen Präsenz der Terminiden.{36.94->40.91}Alles, was noch davon übrig ist, ist ein hochkomprimierter Fels,{40.91->44.31}der einer Überwachung rund um die Uhr unterliegt.{45.45->52.09}Bürgern in der ganzen Galaxie wurde geraten, die neue Ära des Friedens und des Wohlstands zu feiern,{52.09->54.92}die die Helldivers eingeläutet haben.{54.92->58.63}Das waren die Nachrichten. Ich bin Coretta Kelly."
         },
         {
             "Key": 527895375,
@@ -19425,6 +19693,14 @@
         {
             "Key": 593815529,
             "Value": "{0.00->1.47}Orbit synchronisiert."
+        },
+        {
+            "Key": 594248188,
+            "Value": "{7.54->10.99}Freiheitsfreunde, hier ist Coretta Kelly.{11.19->15.49}In einer triumphalen Demonstration der Demokratie wurde der Stern des{15.49->19.42}Friedens erfolgreich zur Verteidigung von Über-Erde aktiviert.{19.95->23.26}Die Helldivers haben sich für den Schutz unserer Bürger{23.26->26.39}entschieden und einen bedrohlichen Planeten neutralisiert,{26.39->32.86}der Feinde der Freiheit beherbergte. Der Raum, der einst durch den Planeten gefüllt wurde,{32.86->36.72}ist jetzt frei von der totalitären Präsenz der Illuminierten. {37.48->41.97}Alles, was noch davon übrig ist, ist ein hochkomprimierter Fels,{41.97->48.73}der einer Überwachung rund um die Uhr unterliegt. Bürgern in der ganzen Galaxie wurde geraten,{48.73->52.24}die neue Ära des Friedens und des Wohlstands zu feiern,{52.24->54.95}die die Helldivers eingeläutet haben.{55.14->59.00}Das waren die Nachrichten. Ich bin Coretta Kelly."
+        },
+        {
+            "Key": 594612073,
+            "Value": "{0.00->2.88}Hoffentlich erlebe ich den Stern des Friedens in Aktion."
         },
         {
             "Key": 594876714,
@@ -19752,7 +20028,7 @@
         },
         {
             "Key": 665445567,
-            "Value": "{0.02->0.82}Ich lade für dich nach!"
+            "Value": "{0.02->0.82}Lade für dich nach!"
         },
         {
             "Key": 665609750,
@@ -20139,6 +20415,10 @@
             "Value": "{0.01->0.92}300 Meter."
         },
         {
+            "Key": 740308139,
+            "Value": "{0.00->3.21}Wenn unsere Feinde den Frieden nicht freiwillig akzeptieren,{3.21->4.41}müssen wir sie davon überzeugen."
+        },
+        {
             "Key": 740597450,
             "Value": "{0.00->2.66}Verbündeter Zerstörer hat Geschwader verlassen."
         },
@@ -20375,6 +20655,10 @@
             "Value": "{0.00->1.61}Hier kommt die Kavallerie!"
         },
         {
+            "Key": 797355719,
+            "Value": "{0.04->3.34}Lassen Sie die Archive nicht zu Ihrem Grab werden."
+        },
+        {
             "Key": 797456287,
             "Value": "{0.07->1.98}So machen das Helldivers!"
         },
@@ -20515,6 +20799,10 @@
             "Value": "{0.00->2.60}Mission beendet – und das auch noch schnell!"
         },
         {
+            "Key": 823301027,
+            "Value": "{0.03->4.17}Unglaublich, dass die Archive die ganze Zeit vor unserer Nase versteckt waren.{4.17->5.58} Da wird mir ganz anders."
+        },
+        {
             "Key": 823450410,
             "Value": "{0.00->3.00}EIN WEITERER SIEG FÜR DIE FREIHEIT!"
         },
@@ -20597,6 +20885,10 @@
         {
             "Key": 836556071,
             "Value": "{0.04->0.80}Verfehlt!"
+        },
+        {
+            "Key": 838718205,
+            "Value": "{0.00->3.01}Wir können unsere Kampfstationen noch nicht zählen.{3.45->8.33} Das Archiv der Illuminierten enthält das letzte Puzzleteil für den Bau des Sterns des Friedens."
         },
         {
             "Key": 839620162,
@@ -21020,7 +21312,7 @@
         },
         {
             "Key": 910322455,
-            "Value": "{0.14->1.23}Signalfeuer einsetzen."
+            "Value": "{0.14->0.98}Signalfeuer."
         },
         {
             "Key": 911189674,
@@ -21407,6 +21699,10 @@
             "Value": "{0.00->1.78}Eingehendes Feuer entdeckt."
         },
         {
+            "Key": 989240502,
+            "Value": "{0.10->4.58}Die Illuminierten wollen uns offensichtlich von ihren Archiven fernhalten. Das zeigt,{4.58->6.25}dass wir genau dorthin müssen."
+        },
+        {
             "Key": 989501014,
             "Value": "{0.00->1.69}Ein kleiner Schuss Freiheit."
         },
@@ -21571,6 +21867,10 @@
             "Value": "{0.00->4.24}Hallo Helldiver! Ich weiß, dass du für uns einfache Leute jeden Tag Kopf und Kragen riskierst."
         },
         {
+            "Key": 1019575676,
+            "Value": "{7.71->10.74}Freiheitsfreunde, hier ist Coretta Kelly.{11.28->17.63}Heute hat das Oberkommando von Über-Erde das Ziel der Operation Weltraumbefreiung bekannt gegeben:{17.63->23.37}die Konstruktion einer mächtigen Verteidigungswaffe namens „Stern des Friedens“.{23.95->27.32}Nach seiner Fertigstellung soll der Stern des Friedens eine{27.32->30.64}neue Ära der galaktischen Sicherheit einläuten.{31.50->35.14}Das waren die Nachrichten. Ich bin Coretta Kelly."
+        },
+        {
             "Key": 1023204903,
             "Value": "{0.00->0.43}Cool."
         },
@@ -21605,6 +21905,10 @@
         {
             "Key": 1032370162,
             "Value": "{0.00->0.91}Paket gefunden."
+        },
+        {
+            "Key": 1033321162,
+            "Value": "{0.00->5.10}Die Entschlüsselung der Illuminiertenkommunikation ließ viele verzweifeln.{5.10->13.19} Doch ein Wort tauchte immer wieder in dem unverständlichen Kauderwelsch auf: „Erleuchtung“."
         },
         {
             "Key": 1034009066,
@@ -21793,6 +22097,10 @@
         {
             "Key": 1079336935,
             "Value": "{0.00->1.10}Erbitte Ausrüstung!"
+        },
+        {
+            "Key": 1080123707,
+            "Value": "{0.03->5.73}Nicht vergessen: Es gibt keine Erleuchtung außerhalb des Lichts der Demokratie."
         },
         {
             "Key": 1081524902,
@@ -22087,6 +22395,10 @@
             "Value": "{0.15->0.87}Stellen Sie sich die Zukunft vor.{0.87->1.74} Ihre Nachkommen,{1.74->5.09} wie sie lächeln.{5.09->10.06} Über-Erde, die hell in der Sonne emporragt.{10.06->21.99} Ihr Umhang, an einem Mast gehisst, weht im sanften Wind – gemeinsam mit der Flagge von Über-Erde."
         },
         {
+            "Key": 1129978949,
+            "Value": "{2.28->3.04}HAHAHAHA! AH-HAHAHA! HAHAHA!"
+        },
+        {
             "Key": 1130816561,
             "Value": "{0.00->0.95}Wir haben Ausrüstung,"
         },
@@ -22208,7 +22520,7 @@
         },
         {
             "Key": 1153094182,
-            "Value": "{0.00->0.70}Rucksack leer!"
+            "Value": "{0.00->0.70}Rucksack leer."
         },
         {
             "Key": 1153151850,
@@ -22505,6 +22817,10 @@
         {
             "Key": 1208597939,
             "Value": "{0.00->1.49}Das Gatria-System"
+        },
+        {
+            "Key": 1210013189,
+            "Value": "{0.00->3.98}Die Illuminierten scheinen in ihren Archiven nach etwas zu suchen.{3.98->6.74} Zweifelsohne nach einer furchtbaren Waffe.{6.74->9.35} Nicht so wie wir: Wir suchen nach Wegen,{9.35->10.70}den Frieden zu sichern."
         },
         {
             "Key": 1210522328,
@@ -22875,6 +23191,10 @@
             "Value": "{0.01->2.32}Die Freiheit dankt Ihnen, Helldiver."
         },
         {
+            "Key": 1278409732,
+            "Value": "{0.00->3.59}Hier ist Coretta Kelly von „Alles, was Sie wissen müssen“.{3.59->6.18} Warum sind die Illuminierten so geneigt,{6.18->7.47}Wissen zu verbergen,{7.47->9.91}von dem die Menschheit profitieren könnte?{9.91->13.46} Die xenopsychologische Antwort: Eifersucht.{13.46->17.40} Das „Stern des Friedens“-Gedenkporzellan verkauft sich schnell.{17.40->21.47} Wir empfehlen unseren Kunden, ihre Bestellungen schnell aufzugeben.{21.47->24.47}Angesichts der jüngsten Vorfälle hat C.O.B.{24.47->28.30}Genetics die Produktion von Hexatuskal-Elefanten gestoppt.{28.30->32.77} Alle Exemplare wurden zurückgerufen und gelten wieder als ausgestorben.{32.77->35.70}Und das ist „Alles, was Sie wissen müssen“."
+        },
+        {
             "Key": 1278633051,
             "Value": "{0.00->0.51}Schwer."
         },
@@ -23105,6 +23425,10 @@
         {
             "Key": 1325158021,
             "Value": "{0.00->4.04}Das ist die größte Helldiver-Mobilisierung seit dem Ersten Galaktischen Krieg. {4.45->6.47}Das bedeutet jede Menge Verbündete für uns."
+        },
+        {
+            "Key": 1326970417,
+            "Value": "{7.45->10.46}Freiheitsfreunde, hier ist Coretta Kelly.{10.77->15.13}In einer triumphalen Demonstration der Demokratie wurde der Stern des{15.13->18.88}Friedens erfolgreich zur Verteidigung von Über-Erde aktiviert.{19.55->22.51}Die Helldivers haben sich für den Schutz unserer Bürger{22.51->25.96}entschieden und einen bedrohlichen Planeten neutralisiert,{25.96->33.03}der Feinde der Freiheit beherbergte. Der Raum, der einst durch den Planeten gefüllt wurde,{33.03->36.99}erstickt nicht mehr im Griff der kollektivistischen Roboter.{37.31->41.26}Alles, was noch davon übrig ist, ist ein hochkomprimierter Fels,{41.26->48.42}der einer Überwachung rund um die Uhr unterliegt. Bürgern in der ganzen Galaxie wurde geraten,{48.42->52.04}die neue Ära des Friedens und des Wohlstands zu feiern,{52.04->54.66}die die Helldivers eingeläutet haben.{55.08->58.91}Das waren die Nachrichten. Ich bin Coretta Kelly."
         },
         {
             "Key": 1328281593,
@@ -23719,6 +24043,10 @@
             "Value": "{0.09->1.82}Die Demokratie ist gelandet."
         },
         {
+            "Key": 1439613307,
+            "Value": "{0.00->1.03}Bald wird dort,{1.03->3.33}wo einst ein Planet der Unterdrückung,{3.33->7.67}eine Gravitationsfalle und ein Nährboden der Tyrannei war,{7.67->11.89}nichts mehr sein. Nichts, was Männer,{11.89->16.79}Frauen oder Asteroiden einschränken würde.{17.20->19.91} Wahre Freiheit."
+        },
+        {
             "Key": 1440267836,
             "Value": "{0.00->4.40}Die Bugs wollen unsere Welten in wimmelnde Schwärme des Faschismus verwandeln. {5.02->6.75}Werden Sie das zulassen? {7.18->9.62}Oder werden Sie dagegen kämpfen?"
         },
@@ -23781,6 +24109,10 @@
         {
             "Key": 1452309041,
             "Value": "{0.00->1.55}Niemand entkommt den Flammen{1.61->2.90}der Gerechtigkeit!"
+        },
+        {
+            "Key": 1452676161,
+            "Value": "{0.00->4.18}Die Archive der Illuminierten scheinen gewaltige Wissensspeicher zu sein.{4.84->6.86} Ich kann mir nichts Gefährlicheres vorstellen."
         },
         {
             "Key": 1453447631,
@@ -24245,6 +24577,10 @@
         {
             "Key": 1553232134,
             "Value": "{0.00->1.44}Ah! Weg von mir!"
+        },
+        {
+            "Key": 1554295327,
+            "Value": "{0.00->8.08}Willkommen, Helldiver. Die Zeit ist gekommen: Der Stern des Friedens ist fast einsatzbereit.{8.67->14.00} Unsere Feinde werden bald die wahre Macht der gelenkten Demokratie erleben."
         },
         {
             "Key": 1555803324,
@@ -24715,6 +25051,10 @@
             "Value": "{0.02->1.83}TOD ALLEN SQUIDS!"
         },
         {
+            "Key": 1663673943,
+            "Value": "{0.00->2.46}Wir kämpfen seit Monaten in Unterzahl.{3.08->6.27} Der Stern des Friedens sollte unsere Chancen verbessern."
+        },
+        {
             "Key": 1664144747,
             "Value": "{0.04->1.36}Voll erwischt, Helldiver!"
         },
@@ -25123,6 +25463,10 @@
             "Value": "{0.00->2.92}Nur eine Entscheidung ist wirklich von Bedeutung: {3.28->5.06}Demokratie oder {5.45->6.15}Verrat."
         },
         {
+            "Key": 1752845401,
+            "Value": "{0.00->2.02}Es gibt nur einen sicheren Weg,{2.02->7.87}unseren Feind abzuschrecken: mit der Zerstörung eines ganzen Planeten."
+        },
+        {
             "Key": 1754238531,
             "Value": "{0.01->0.83}Ich lade nach!"
         },
@@ -25351,6 +25695,10 @@
             "Value": "{0.01->3.50}Objektpermanenz ist nicht ihre Stärke! Versteckt euch!"
         },
         {
+            "Key": 1790286519,
+            "Value": "{0.00->1.52}Schnell, Helldiver.{1.95->6.16} Wir müssen uns beeilen, um die arkanen Geheimnisse der Archive aufzudecken."
+        },
+        {
             "Key": 1791719477,
             "Value": "{0.13->2.66}Die Düsternis ist weiterhin unfrei,{3.30->5.76}ihre Ressourcen sind ungenutzt."
         },
@@ -25369,6 +25717,10 @@
         {
             "Key": 1793458228,
             "Value": "{0.00->0.88}Ihr seid da!"
+        },
+        {
+            "Key": 1794651014,
+            "Value": "{0.02->5.96}Die Terminiden-Schwarmwelt wurde aus dem Kosmos gelöscht, als hätte es sie nie gegeben.{5.96->10.85} Wie diese Stille klingt ... Hören Sie das Lied der Freiheit?"
         },
         {
             "Key": 1795857099,
@@ -25505,6 +25857,10 @@
         {
             "Key": 1822879898,
             "Value": "{0.00->1.56}SOS! SOS!"
+        },
+        {
+            "Key": 1825475851,
+            "Value": "{0.03->3.34}Hier ist Coretta Kelly von „Alles, was Sie wissen müssen“.{3.34->5.66}Nach einem Einbruch im Museum für{5.66->8.65}Dissidenten-Degenerierung fehlen zahlreiche{8.65->10.29}Illuminierten-Artefakte.{10.29->12.94}Die Polizei sucht nach Verdächtigen.{12.94->19.42}2 Tote und 5 Verletzte nach „trampeligem“ Arbeitsunfall mit einem Hexatuskal-Elefanten.{19.42->21.67}Das ist „Alles, was Sie wissen müssen“."
         },
         {
             "Key": 1825917975,
@@ -25649,6 +26005,10 @@
         {
             "Key": 1858656833,
             "Value": "{0.00->0.54}Vier."
+        },
+        {
+            "Key": 1859730049,
+            "Value": "{0.00->5.40}Die Illuminierten haben diese Archive vor langer Zeit gebaut und so gut versteckt,{5.40->7.37}dass selbst sie nicht mehr wissen,{7.37->10.55}wo sie sich befinden. Wer weiß schon,{10.55->17.23}was für totalitäre Teufelei unser Feind sogar vor sich selbst verbergen würde."
         },
         {
             "Key": 1861374365,
@@ -25811,6 +26171,10 @@
             "Value": "{0.00->1.42}Verstärkung verfügbar."
         },
         {
+            "Key": 1897872287,
+            "Value": "{0.00->5.79}Wir werden zurückkehren und uns furchtlos in die Tiefen der Archive stürzen."
+        },
+        {
             "Key": 1898961075,
             "Value": "{0.00->3.50}JAAA! DIE HELLDIVERS SIND UNBESIEGBAR!"
         },
@@ -25905,6 +26269,10 @@
         {
             "Key": 1918328086,
             "Value": "{0.00->2.60}Zurück, ihr dreckigen Squids!"
+        },
+        {
+            "Key": 1919880434,
+            "Value": "{0.05->3.05}Manche mögen sich fragen, ob es wirklich nötig ist,{3.05->7.42}solch monumentale Macht gegen unsere Feinde einzusetzen.{7.42->10.03}Die Antwort ist ja."
         },
         {
             "Key": 1923505271,
@@ -26252,7 +26620,7 @@
         },
         {
             "Key": 1996272868,
-            "Value": "{0.00->1.16}Erbitte Taktikpaket!"
+            "Value": "{0.00->1.16}Erbitte Taktikpaket."
         },
         {
             "Key": 1997087886,
@@ -26293,6 +26661,10 @@
         {
             "Key": 2001915379,
             "Value": "{0.00->1.03}Wir stehen bereit!"
+        },
+        {
+            "Key": 2002299951,
+            "Value": "{0.00->4.63}Eine solche Waffe der Demokratie muss selbst demokratisch genutzt werden.{4.63->9.34} Die Helldivers bestimmen das erste Ziel für den Stern des Friedens.{9.74->12.90} So ist es und sollte es sein."
         },
         {
             "Key": 2002725682,
@@ -26444,7 +26816,7 @@
         },
         {
             "Key": 2028231546,
-            "Value": "{0.02->0.74}Hab was für dich!"
+            "Value": "{0.02->0.74}Hab was für dich."
         },
         {
             "Key": 2029711456,
@@ -26481,6 +26853,10 @@
         {
             "Key": 2034286118,
             "Value": "{0.00->1.18}Feindlichen Außenposten gesichtet!{1.62->2.34} Seid achtsam!"
+        },
+        {
+            "Key": 2036412755,
+            "Value": "{3.52->5.58}HAHAHAHA! AH-HAHAHA! HAHAHA!"
         },
         {
             "Key": 2036534523,
@@ -26829,6 +27205,10 @@
         {
             "Key": 2116470692,
             "Value": "{0.01->1.66}Lade nach! Gebt mir Deckung!"
+        },
+        {
+            "Key": 2117129348,
+            "Value": "{0.00->2.46}Die Archive sind den Illuminierten heilig.{2.85->5.83} Heute werden sie besudelt."
         },
         {
             "Key": 2117185007,
@@ -27919,6 +28299,10 @@
             "Value": "{1.11->3.25}Heilige Mutter der Freiheit!"
         },
         {
+            "Key": 2344077112,
+            "Value": "{0.04->5.39}Die Illuminiertenwelt wurde aus dem Kosmos gelöscht, als hätte es sie nie gegeben.{5.39->10.69} Wie diese Stille klingt ... Hören Sie das Lied der Freiheit?"
+        },
+        {
             "Key": 2344728308,
             "Value": "{0.00->0.86}Das geht nicht!"
         },
@@ -28240,7 +28624,7 @@
         },
         {
             "Key": 2401257840,
-            "Value": "{0.00->0.57}Lade neu!"
+            "Value": "{0.00->0.57}Lade neu."
         },
         {
             "Key": 2404031729,
@@ -29492,7 +29876,7 @@
         },
         {
             "Key": 2659974257,
-            "Value": "{0.00->0.60}Ich bin leer!"
+            "Value": "{0.00->0.60}Ich bin leer."
         },
         {
             "Key": 2662763258,
@@ -29827,6 +30211,10 @@
             "Value": "{5.29->11.18}Guten Abend, hier ist Coretta Kelly mit einer Eilmeldung.Es hat sich herausgestellt,{11.18->13.38}dass die als Illuminierten bekannten,{13.38->17.40}demokratiefeindlichen Aliens für mehrere gleichzeitige{17.40->21.85}Angriffe in der gesamten Galaxie verantwortlich sind.{21.86->24.80}Diese fortschrittlichen und extrem fremdenfeindlichen Wesen{24.95->28.25}galten nach dem Ersten Galaktischen Krieg als ausgelöscht.{28.25->31.64}Doch laut Verteidigungsministeriums zeigt ihr Überleben,{31.65->38.15}dass unsere Kinder und unsere Freiheit jetzt in größerer Gefahr sind als je zuvor.{38.15->41.74}Die Helldivers reagierten sofort auf die Rückkehr der Illuminierten{41.74->45.65}und haben bereits viele der intoleranten Squids eliminiert,{45.71->48.45}ohne größere Verluste zu verzeichnen.{48.82->50.34}Das waren die Nachrichten.{50.35->52.70}Ich bin Coretta Kelly."
         },
         {
+            "Key": 2727737197,
+            "Value": "{0.00->6.25}Es besteht kein Zweifel: Die Illuminierten durchsuchen ihre Archive nach Werkzeugen,{6.25->8.24}die Galaxie zu beherrschen.{8.24->10.63} Wir müssen sie zuerst finden.{10.63->15.51}Nur so sind wir in der Lage, ihren Missbrauch zu verhindern."
+        },
+        {
             "Key": 2730293346,
             "Value": "{0.00->0.86}Probe gesammelt."
         },
@@ -29929,6 +30317,10 @@
         {
             "Key": 2750063710,
             "Value": "{0.30->1.40}Ich dachte, Sie fragen nie!"
+        },
+        {
+            "Key": 2750877465,
+            "Value": "{0.01->2.55}HAHAHAHA! AH-HAHAHA! HAHAHA!"
         },
         {
             "Key": 2750959846,
@@ -30153,6 +30545,10 @@
         {
             "Key": 2791249326,
             "Value": "{0.00->1.54}Biologische Probe gesichert."
+        },
+        {
+            "Key": 2791328897,
+            "Value": "{0.01->6.07}Helldiver. Das Oberkommando hat das Ziel von „Operation Weltraumbefreiung“ enthüllt.{6.07->12.26} Die Konstruktion des Sterns des Friedens ebnet uns den Weg zur permanenten Freiheit."
         },
         {
             "Key": 2792101105,
@@ -31335,6 +31731,10 @@
             "Value": "{0.00->0.53}Rein da."
         },
         {
+            "Key": 3005462627,
+            "Value": "{0.00->4.75}Bald werden die Schätze der Archive all unseren Bürgern gehören."
+        },
+        {
             "Key": 3006302491,
             "Value": "{0.00->1.39}Ziele zerstört."
         },
@@ -31748,7 +32148,7 @@
         },
         {
             "Key": 3083652128,
-            "Value": "{0.00->1.28}Aktiviere Sprungpaket!"
+            "Value": "{0.00->1.28}Aktiviere Sprungpaket."
         },
         {
             "Key": 3084245955,
@@ -32395,6 +32795,10 @@
             "Value": "{0.02->0.99}Hier runter!"
         },
         {
+            "Key": 3214740785,
+            "Value": "{0.00->2.14}Es ist an der Zeit, Helldiver.{2.55->5.10} Der Stern des Friedens ist fast bereit."
+        },
+        {
             "Key": 3215828383,
             "Value": "{0.00->0.78}Hab was für dich."
         },
@@ -32648,7 +33052,7 @@
         },
         {
             "Key": 3265779008,
-            "Value": "{0.00->1.36}Kein Diver wird zurückgelassen!"
+            "Value": "{0.00->1.36}Kein Diver wird zurückgelassen."
         },
         {
             "Key": 3267006161,
@@ -32797,6 +33201,10 @@
         {
             "Key": 3288756391,
             "Value": "{0.00->2.24}Alle gaben etwas. Manche gaben alles."
+        },
+        {
+            "Key": 3290359063,
+            "Value": "{0.00->3.46}Was begraben ist, wird immer ans Licht kommen."
         },
         {
             "Key": 3292313939,
@@ -33005,6 +33413,10 @@
         {
             "Key": 3324170882,
             "Value": "{0.00->1.83}Ich glaube, ich kann das nicht!"
+        },
+        {
+            "Key": 3325069292,
+            "Value": "{0.08->4.32}HAHAHAHA! AH-HAHAHA! HAHAHA!"
         },
         {
             "Key": 3325100106,
@@ -33489,6 +33901,10 @@
         {
             "Key": 3419648889,
             "Value": "{0.00->1.11}Lade Unterstützungswaffe."
+        },
+        {
+            "Key": 3420266849,
+            "Value": "{0.08->5.67}Nur noch ein Hindernis liegt auf dem Weg zur Erschaffung des Sterns des Friedens.{5.67->9.07} Unseren Wissenschaftlern fehlt das arkane Wissen,{9.07->11.63}um das Dunkle Fluid zu manipulieren,{11.63->13.44}das wir erschaffen haben.{13.44->20.08} Aber die Antwort ist zum Greifen nah, versteckt in den Tiefen der Archive der Illuminierten."
         },
         {
             "Key": 3423076322,
@@ -34132,7 +34548,7 @@
         },
         {
             "Key": 3537231032,
-            "Value": "{0.00->1.12}Erbitte Luftunterstützung!"
+            "Value": "{0.00->1.12}Erbitte Luftunterstützung."
         },
         {
             "Key": 3537532484,
@@ -34189,6 +34605,10 @@
         {
             "Key": 3550239308,
             "Value": "{0.00->0.85}Signalfeuer!"
+        },
+        {
+            "Key": 3550549151,
+            "Value": "{0.03->3.43}Mit dem E-711 der Schwarmwelten und{3.43->5.48}dem von den Robotern befreiten{5.48->10.36}Platin kann der Bau der finalen Version der DRS beginnen.{10.36->13.51} Ein Gerät zum Einsatz des Dunklen Fluids,{13.51->16.51}das Planeten vollständig zerstören kann.{16.51->21.69} Denn nur dadurch wird der Weltraum wirklich befreit."
         },
         {
             "Key": 3554403046,
@@ -34633,6 +35053,10 @@
         {
             "Key": 3638928211,
             "Value": "{0.04->2.94}Ich brauche einen Arzt ..."
+        },
+        {
+            "Key": 3639242645,
+            "Value": "{0.04->3.32}Unfassbar, dass wir die ganze Zeit, ohne es zu wissen,{3.32->6.42}zum Bau des Sterns des Friedens beigetragen haben.{6.42->8.55} Wir müssen an das Oberkommando glauben."
         },
         {
             "Key": 3639628797,
@@ -35199,6 +35623,10 @@
             "Value": "{0.00->1.33}Bleibt standhaft!"
         },
         {
+            "Key": 3747404031,
+            "Value": "{0.00->4.17}Weitere tapfere Helden, verloren im Abgrund."
+        },
+        {
             "Key": 3748684109,
             "Value": "{0.04->5.27}Wenn sich die Terminiden nicht in Element 710 zersetzen würden,{5.27->5.61} hätten wir sie schon vor langer Zeit vollständig ausgelöscht.{7.05->7.25} Sie sollten von Glück reden."
         },
@@ -35309,6 +35737,10 @@
         {
             "Key": 3774220373,
             "Value": "{0.00->3.45}Was auch immer Sie in diesem verfluchten Drecksloch finden,{3.86->5.48}löschen Sie es aus."
+        },
+        {
+            "Key": 3774502186,
+            "Value": "{0.02->3.30}Hier ist Coretta Kelly von „Alles, was Sie wissen müssen“.{3.30->7.56}Welche feindliche Fraktion wird zuerst den Stern des Friedens kosten?{7.56->10.57}Wetten stehen jetzt allen volljährigen Bürgern offen.{10.70->14.10} Das Verteidigungsministerium hat bekannt gegeben,{14.10->18.80}dass alle Archive der Illuminierten abbruchreif sind und abgerissen werden sollen.{18.97->22.45} Und: Das Wissenschaftsministerium hat bestätigt,{22.45->26.91}dass das „Stern des Friedens“-Gedenkporzellan keine Spurenelemente von Asbest,{26.91->31.05}Blei, Uran, Bleiche oder Erdnüssen enthält.{31.05->32.54} Und das ist „Alles,{32.54->33.88}was Sie wissen müssen“."
         },
         {
             "Key": 3774797914,
@@ -35793,6 +36225,10 @@
         {
             "Key": 3866438282,
             "Value": "{0.00->1.07}Tote Feinde ... der Treibstoff der Freiheit."
+        },
+        {
+            "Key": 3867013952,
+            "Value": "{0.00->5.47}Der Roboterplanet wurde aus dem Kosmos gelöscht, als hätte es ihn nie gegeben.{5.47->10.64} Wie diese Stille klingt ... Hören Sie das Lied der Freiheit?"
         },
         {
             "Key": 3867399746,
@@ -36484,7 +36920,7 @@
         },
         {
             "Key": 3991508759,
-            "Value": "{0.00->1.14}Taktikpaket leer!"
+            "Value": "{0.00->1.14}Taktikpaket leer."
         },
         {
             "Key": 3993718626,
@@ -36703,6 +37139,10 @@
             "Value": "{0.00->1.95}Nur die Gerechtigkeit ist binär!"
         },
         {
+            "Key": 4045836043,
+            "Value": "{0.00->2.10}Wenn die Archive erobert sind,{2.49->5.80}wird ihnen ein Kriegsbegräbnis zuteil."
+        },
+        {
             "Key": 4047046109,
             "Value": "{0.08->3.00}Was die Illuminierten planen, kann niemand sagen.{3.06->7.13} Die sonnenlosen Tiefen ihres Verstands entziehen sich jedem Verständnis,{7.55->10.96} und es lenkt uns nur vom Licht der Freiheit ab, sie zu ergründen."
         },
@@ -36837,6 +37277,10 @@
         {
             "Key": 4068308778,
             "Value": "{0.02->0.74}Seid vorbereitet!"
+        },
+        {
+            "Key": 4068320530,
+            "Value": "{0.00->7.97}Dunkles Fluid, das vom Terminiden E-711 synthetisiert wurde. Platin aus den Minen der Roboter.{7.97->12.94} Und Dunkles Fluid, das im Illuminiertenarchiv manipuliert wurde.{12.94->20.06} Die unwissentliche Hilfe unserer Feinde war entscheidend für den Bau des Sterns des Friedens."
         },
         {
             "Key": 4068452115,
@@ -37057,6 +37501,10 @@
         {
             "Key": 4107271971,
             "Value": "{0.00->3.43}Sicher, es gibt noch viele Schwarmwelten.{3.43->8.38} Die Säuberung der Düsternis wird eine mühsame und brutale Aufgabe.{8.38->9.73}Wie alle,{9.73->11.70}die der Sache der Freiheit dienen."
+        },
+        {
+            "Key": 4109024693,
+            "Value": "{0.00->4.06}Gut gemacht. Die Illuminierten können ihre Geheimnisse nicht ewig verbergen."
         },
         {
             "Key": 4110061466,
@@ -37280,7 +37728,7 @@
         },
         {
             "Key": 4156441844,
-            "Value": "{0.01->1.05}Tausche Batterie!"
+            "Value": "{0.01->1.05}Tausche Batterie."
         },
         {
             "Key": 4156828514,
@@ -37539,6 +37987,10 @@
             "Value": "{0.04->2.52}Was im Namen der Freiheit ...?!"
         },
         {
+            "Key": 4213279731,
+            "Value": "{0.04->4.78}Der Planet wurde aus dem Kosmos gelöscht, als hätte es ihn nie gegeben.{4.78->10.80} Wie diese Stille klingt ... Hören Sie das Lied der Freiheit?"
+        },
+        {
             "Key": 4215436431,
             "Value": "{0.00->1.13}Landet hier das Shuttle?"
         },
@@ -37717,6 +38169,10 @@
         {
             "Key": 4248960158,
             "Value": "{0.02->1.22}Schicke einen Adler rein!"
+        },
+        {
+            "Key": 4249337568,
+            "Value": "{0.00->5.99}Wir glauben, dass sich der Schlüssel zur Manipulation der Dunklen Energie im Archiv befindet.{5.99->12.78} Das ist das letzte Teil, das wir benötigen, um den Stern des Friedens zu verwirklichen."
         },
         {
             "Key": 4249385768,
@@ -38784,7 +39240,7 @@
         },
         {
             "Key": 280230815,
-            "Value": "Düsternis-Basis Bravo"
+            "Value": "DÜSTERNIS-BASIS BRAVO"
         },
         {
             "Key": 284920123,
@@ -39047,6 +39503,10 @@
             "Value": "DATEN-LINK FEHLGESCHLAGEN"
         },
         {
+            "Key": 472151788,
+            "Value": "SCHNELLWAFFENRAD LINKS"
+        },
+        {
             "Key": 479570486,
             "Value": "Passt die Empfindlichkeit der Kamerabewegung an."
         },
@@ -39300,7 +39760,7 @@
         },
         {
             "Key": 661319112,
-            "Value": "Über-Düsternis-Basis Alpha"
+            "Value": "ÜBER-DÜSTERNIS-BASIS ALPHA"
         },
         {
             "Key": 662796926,
@@ -39364,7 +39824,7 @@
         },
         {
             "Key": 717015403,
-            "Value": "Wissenschaftszentrum (zerstört)"
+            "Value": "WISSENSCHAFTSZENTRUM (ZERSTÖRT)"
         },
         {
             "Key": 717825012,
@@ -39572,7 +40032,7 @@
         },
         {
             "Key": 847733001,
-            "Value": "E-710-Bauernhöfe"
+            "Value": "E-710-BAUERNHÖFE"
         },
         {
             "Key": 852429409,
@@ -41051,6 +41511,10 @@
             "Value": "LANGES LOSLASSEN"
         },
         {
+            "Key": 1999064883,
+            "Value": "ZENTRUM ZUR INHAFTIERUNG VON DISSIDENTEN (ZZIVD)"
+        },
+        {
             "Key": 1999507042,
             "Value": "Alle <i=1>Stellung</i>-Taktikausrüstungen werden sofort nach Anforderung aktiviert, was die Gesamteinsatzzeit verkürzt."
         },
@@ -41384,7 +41848,7 @@
         },
         {
             "Key": 2189342716,
-            "Value": "Fabrikzentrale (zerstört)"
+            "Value": "FABRIKZENTRALE (ZERSTÖRT)"
         },
         {
             "Key": 2190298508,
@@ -41839,6 +42303,10 @@
             "Value": "Löst kontinuierlich aus, während eine Taste gedrückt gehalten wird."
         },
         {
+            "Key": 2480599126,
+            "Value": "SCHNELLWAFFENRAD RUNTER"
+        },
+        {
             "Key": 2494260566,
             "Value": "STUFE #COUNT"
         },
@@ -41864,11 +42332,11 @@
         },
         {
             "Key": 2520880460,
-            "Value": "„Dunkles Fluid“-Synthese-Labor"
+            "Value": "„DUNKLES FLUID“-SYNTHESE-LABOR"
         },
         {
             "Key": 2523019553,
-            "Value": "Zentrums für Bürgerüberwachung (zerstört)"
+            "Value": "ZENTRUMS FÜR BÜRGERÜBERWACHUNG (ZERSTÖRT)"
         },
         {
             "Key": 2523202457,
@@ -41897,6 +42365,10 @@
         {
             "Key": 2535264136,
             "Value": "SPRINGEN"
+        },
+        {
+            "Key": 2539971084,
+            "Value": "Diese planetenweite Ultra-Hochsicherheitseinrichtung bietet ausreichend Platz, um terroristische Dissidenten sicher einzusperren, bis sie vollständig rehabilitiert und umerzogen wurden."
         },
         {
             "Key": 2543274618,
@@ -42040,11 +42512,11 @@
         },
         {
             "Key": 2635225528,
-            "Value": "Düsternis-Außenposten Bravo"
+            "Value": "DÜSTERNIS-AUßENPOSTEN BRAVO"
         },
         {
             "Key": 2639736168,
-            "Value": "Ein Ort zur rachsüchtigen Betrachtung der Verbrechen der Tyrannei"
+            "Value": "EIN ORT ZUR RACHSÜCHTIGEN BETRACHTUNG DER VERBRECHEN DER TYRANNEI"
         },
         {
             "Key": 2642638685,
@@ -42751,6 +43223,10 @@
             "Value": "Keine blockierten Spieler."
         },
         {
+            "Key": 3114265484,
+            "Value": "SCHNELLWAFFENRAD RECHTS"
+        },
+        {
             "Key": 3116282103,
             "Value": "Sichtbarkeit: Mitteilungsrad"
         },
@@ -43352,7 +43828,7 @@
         },
         {
             "Key": 3554352793,
-            "Value": "Schmiedekomplex Deep Mantle (zerstört)"
+            "Value": "SCHMIEDEKOMPLEX DEEP MANTLE (ZERSTÖRT)"
         },
         {
             "Key": 3558858480,
@@ -43868,7 +44344,7 @@
         },
         {
             "Key": 3892609265,
-            "Value": "Extremtemperatur-Extraktionsanlage"
+            "Value": "EXTREMTEMPERATUR-EXTRAKTIONSANLAGE"
         },
         {
             "Key": 3894063849,
@@ -44024,7 +44500,7 @@
         },
         {
             "Key": 3979919195,
-            "Value": "Xenoentomologie-Zentrum (zerstört)"
+            "Value": "XENOENTOMOLOGIE-ZENTRUM (ZERSTÖRT)"
         },
         {
             "Key": 3980566610,
@@ -44072,7 +44548,7 @@
         },
         {
             "Key": 3998055819,
-            "Value": "Über-Düsternis-Basis Bravo"
+            "Value": "ÜBER-DÜSTERNIS-BASIS BRAVO"
         },
         {
             "Key": 3998730464,
@@ -44233,6 +44709,10 @@
         {
             "Key": 4079956993,
             "Value": "PRIMÄRWAFFE"
+        },
+        {
+            "Key": 4080586754,
+            "Value": "SCHNELLWAFFENRAD HOCH"
         },
         {
             "Key": 4081003228,
@@ -48331,6 +48811,10 @@
             "Value": "Terminal verwenden, um Abschuss zu initiieren"
         },
         {
+            "Key": 2193262763,
+            "Value": "Fordere deinen Über-Zerstörer an, der für begrenzte Zeit den Einsatz von Taktikausrüstung ermöglicht. Einmal pro Mission einsetzbar."
+        },
+        {
             "Key": 2194002616,
             "Value": "ACHTUNG: TREIBSTOFFFLUSS BLOCKIERT"
         },
@@ -51135,10 +51619,6 @@
             "Value": "PROSPERITY CITY"
         },
         {
-            "Key": 62844138,
-            "Value": "KEPLER-336b"
-        },
-        {
             "Key": 63664792,
             "Value": "Patriot"
         },
@@ -51231,6 +51711,10 @@
             "Value": "Brut-Kommandanten"
         },
         {
+            "Key": 115579674,
+            "Value": "PYTHON-KOMMANDOS"
+        },
+        {
             "Key": 117029659,
             "Value": "Predator-Pirscher"
         },
@@ -51253,10 +51737,6 @@
         {
             "Key": 124817064,
             "Value": "der Wachsamkeit"
-        },
-        {
-            "Key": 126536216,
-            "Value": "KEPLER-354b"
         },
         {
             "Key": 126582437,
@@ -51289,10 +51769,6 @@
         {
             "Key": 151044459,
             "Value": "ARTURION-SEKTOR"
-        },
-        {
-            "Key": 153780622,
-            "Value": "KEPLER-339b"
         },
         {
             "Key": 154450414,
@@ -51427,10 +51903,6 @@
             "Value": "SPORENBERSTER-KRIEGER"
         },
         {
-            "Key": 276813339,
-            "Value": "KEPLER-338b"
-        },
-        {
             "Key": 277539039,
             "Value": "des Gesetzes"
         },
@@ -51503,10 +51975,6 @@
             "Value": "MEMORIALS"
         },
         {
-            "Key": 332181063,
-            "Value": "KEPLER-357b"
-        },
-        {
             "Key": 336799220,
             "Value": "RECHTSCHAFFENE RÄCHER"
         },
@@ -51541,10 +52009,6 @@
         {
             "Key": 368782679,
             "Value": "FODDER GORGE"
-        },
-        {
-            "Key": 376974669,
-            "Value": "KEPLER-383b"
         },
         {
             "Key": 378088611,
@@ -51667,10 +52131,6 @@
             "Value": "TERMADON"
         },
         {
-            "Key": 462740898,
-            "Value": "KEPLER-330b"
-        },
-        {
             "Key": 462878521,
             "Value": "Wachen"
         },
@@ -51681,10 +52141,6 @@
         {
             "Key": 466703045,
             "Value": "Gonçalves"
-        },
-        {
-            "Key": 467156125,
-            "Value": "KEPLER-332b"
         },
         {
             "Key": 468658976,
@@ -51731,16 +52187,12 @@
             "Value": "AGARTHA"
         },
         {
-            "Key": 514325094,
-            "Value": "KEPLER-370b"
-        },
-        {
             "Key": 514623903,
             "Value": "MYRIUM"
         },
         {
-            "Key": 520511467,
-            "Value": "KEPLER-277b"
+            "Key": 517761245,
+            "Value": "CHAMÄLEONTARNUNG-HELLPOD-DESIGN"
         },
         {
             "Key": 522439088,
@@ -51761,10 +52213,6 @@
         {
             "Key": 531700056,
             "Value": "SEASSEFYRE"
-        },
-        {
-            "Key": 532417488,
-            "Value": "KEPLER-363b"
         },
         {
             "Key": 538574577,
@@ -51817,14 +52265,6 @@
         {
             "Key": 570845236,
             "Value": "Alpha-Kommandant"
-        },
-        {
-            "Key": 572820359,
-            "Value": "KEPLER-347b"
-        },
-        {
-            "Key": 574108092,
-            "Value": "KEPLER-316b"
         },
         {
             "Key": 576427373,
@@ -51907,10 +52347,6 @@
             "Value": "Nazareno"
         },
         {
-            "Key": 626417797,
-            "Value": "KEPLER-301b"
-        },
-        {
             "Key": 626718113,
             "Value": "Schwarmwächter"
         },
@@ -51991,10 +52427,6 @@
             "Value": "J. Bender"
         },
         {
-            "Key": 664680323,
-            "Value": "KEPLER-305b"
-        },
-        {
             "Key": 664928374,
             "Value": "Malmborg"
         },
@@ -52035,10 +52467,6 @@
             "Value": "DEZENTES SCHWARZES FAHRZEUGMUSTER"
         },
         {
-            "Key": 696771573,
-            "Value": "KEPLER-375b"
-        },
-        {
             "Key": 700370958,
             "Value": "der Gleichheit"
         },
@@ -52049,10 +52477,6 @@
         {
             "Key": 702073419,
             "Value": "NEW STOROUSE"
-        },
-        {
-            "Key": 702284474,
-            "Value": "KEPLER-294b"
         },
         {
             "Key": 702988091,
@@ -52143,10 +52567,6 @@
             "Value": "Bolin"
         },
         {
-            "Key": 746457430,
-            "Value": "KEPLER-331b"
-        },
-        {
             "Key": 754504867,
             "Value": "ALTUS-SEKTOR"
         },
@@ -52169,10 +52589,6 @@
         {
             "Key": 768517809,
             "Value": "PROSPERITY"
-        },
-        {
-            "Key": 770494850,
-            "Value": "KEPLER-378b"
         },
         {
             "Key": 771961394,
@@ -52231,10 +52647,6 @@
             "Value": "Panzerhandschuh"
         },
         {
-            "Key": 803894884,
-            "Value": "KEPLER-342b"
-        },
-        {
             "Key": 805511186,
             "Value": "PHACT BAY"
         },
@@ -52275,10 +52687,6 @@
             "Value": "HELLPOD-DICKICHTDESIGN"
         },
         {
-            "Key": 833603519,
-            "Value": "KEPLER-318b"
-        },
-        {
             "Key": 839134119,
             "Value": "EAST EMBANKMENT"
         },
@@ -52315,12 +52723,12 @@
             "Value": "Hulk-Schmorer"
         },
         {
-            "Key": 863969201,
-            "Value": "MYRADESH"
+            "Key": 861654386,
+            "Value": "ASCHGRAUES EXTRASOLAR-SHUTTLE-DESIGN"
         },
         {
-            "Key": 867908736,
-            "Value": "KEPLER-276b"
+            "Key": 863969201,
+            "Value": "MYRADESH"
         },
         {
             "Key": 870181849,
@@ -52471,10 +52879,6 @@
             "Value": "UES"
         },
         {
-            "Key": 965162446,
-            "Value": "KEPLER-297b"
-        },
-        {
             "Key": 970164922,
             "Value": "BRIGHT WING"
         },
@@ -52539,8 +52943,8 @@
             "Value": "VINDEMITARIX PRIME"
         },
         {
-            "Key": 1009772021,
-            "Value": "KEPLER-385b"
+            "Key": 1007144656,
+            "Value": "CHAMÄLEONTARNUNG-SHUTTLE-DESIGN"
         },
         {
             "Key": 1012372721,
@@ -52625,10 +53029,6 @@
         {
             "Key": 1083408764,
             "Value": "PEOPLE‘S HAND"
-        },
-        {
-            "Key": 1083476041,
-            "Value": "KEPLER-289b"
         },
         {
             "Key": 1096775251,
@@ -52783,10 +53183,6 @@
             "Value": "Verteidiger"
         },
         {
-            "Key": 1186649585,
-            "Value": "KEPLER-384b"
-        },
-        {
             "Key": 1190478143,
             "Value": "LOOKOUT"
         },
@@ -52805,10 +53201,6 @@
         {
             "Key": 1208200869,
             "Value": "Senator"
-        },
-        {
-            "Key": 1209685887,
-            "Value": "NEW CYBERSTAN"
         },
         {
             "Key": 1210082392,
@@ -52909,10 +53301,6 @@
         {
             "Key": 1280955084,
             "Value": "TOIL"
-        },
-        {
-            "Key": 1287745099,
-            "Value": "KEPLER-314b"
         },
         {
             "Key": 1290345510,
@@ -53143,10 +53531,6 @@
             "Value": "NAVI VII"
         },
         {
-            "Key": 1466635519,
-            "Value": "KEPLER-302b"
-        },
-        {
             "Key": 1467464627,
             "Value": "Sturmräuber"
         },
@@ -53229,10 +53613,6 @@
         {
             "Key": 1505638056,
             "Value": "MAJOSYRI"
-        },
-        {
-            "Key": 1508181823,
-            "Value": "KEPLER-303b"
         },
         {
             "Key": 1517419263,
@@ -53351,10 +53731,6 @@
             "Value": "HESOE PRIME"
         },
         {
-            "Key": 1578792227,
-            "Value": "KEPLER-371b"
-        },
-        {
             "Key": 1582178959,
             "Value": "VALGAARD"
         },
@@ -53397,10 +53773,6 @@
         {
             "Key": 1625389836,
             "Value": "KLAPPERSCHLANGE-FAHRZEUGDESIGN"
-        },
-        {
-            "Key": 1626212068,
-            "Value": "KEPLER-299b"
         },
         {
             "Key": 1627731364,
@@ -53449,10 +53821,6 @@
         {
             "Key": 1654759752,
             "Value": "REGNUS"
-        },
-        {
-            "Key": 1657112894,
-            "Value": "KEPLER-334b"
         },
         {
             "Key": 1657172675,
@@ -53513,6 +53881,10 @@
         {
             "Key": 1696061154,
             "Value": "FORTITUDE"
+        },
+        {
+            "Key": 1702269750,
+            "Value": "CHAMÄLEONTARNUNG-EXOANZUG-DESIGN"
         },
         {
             "Key": 1702796742,
@@ -53595,10 +53967,6 @@
             "Value": "SILO A"
         },
         {
-            "Key": 1755828576,
-            "Value": "KEPLER-380b"
-        },
-        {
             "Key": 1757932330,
             "Value": "Beroshi"
         },
@@ -53651,16 +54019,8 @@
             "Value": "TANIS-SEKTOR"
         },
         {
-            "Key": 1788879704,
-            "Value": "KEPLER-364b"
-        },
-        {
             "Key": 1789137489,
             "Value": "EAGLEOPOLIS"
-        },
-        {
-            "Key": 1795971311,
-            "Value": "KEPLER-304b"
         },
         {
             "Key": 1802585353,
@@ -53673,10 +54033,6 @@
         {
             "Key": 1815342243,
             "Value": "TRANDOR"
-        },
-        {
-            "Key": 1823593404,
-            "Value": "KEPLER-367b"
         },
         {
             "Key": 1825524640,
@@ -53693,6 +54049,10 @@
         {
             "Key": 1846098026,
             "Value": "EAST-IRIDIUM-HANDELSPOSTEN"
+        },
+        {
+            "Key": 1847400093,
+            "Value": "Python-Kommandos"
         },
         {
             "Key": 1849355488,
@@ -53755,6 +54115,10 @@
             "Value": "Verstärkter Spähschreiter"
         },
         {
+            "Key": 1876036886,
+            "Value": "CHAMÄLEONTARNUNG-FAHRZEUGDESIGN"
+        },
+        {
             "Key": 1881166987,
             "Value": "Schild"
         },
@@ -53801,6 +54165,10 @@
         {
             "Key": 1911682224,
             "Value": "MARSPIRA-SEKTOR"
+        },
+        {
+            "Key": 1911921093,
+            "Value": "ASCHGRAUES EXTRASOLAR-EXOANZUG-DESIGN"
         },
         {
             "Key": 1912909754,
@@ -53867,10 +54235,6 @@
             "Value": "MORDIA 9"
         },
         {
-            "Key": 1962923154,
-            "Value": "KEPLER-329b"
-        },
-        {
             "Key": 1963526343,
             "Value": "Kreischer"
         },
@@ -53889,10 +54253,6 @@
         {
             "Key": 1984391101,
             "Value": "KLAPPERSCHLANGE-HELLPOD-DESIGN"
-        },
-        {
-            "Key": 1994078506,
-            "Value": "KEPLER-286b"
         },
         {
             "Key": 1999524414,
@@ -53931,16 +54291,8 @@
             "Value": "ACHIRD III"
         },
         {
-            "Key": 2042495118,
-            "Value": "KEPLER-350b"
-        },
-        {
             "Key": 2045427074,
             "Value": "YATAKHANE 263"
-        },
-        {
-            "Key": 2047661864,
-            "Value": "KEPLER-340b"
         },
         {
             "Key": 2062195479,
@@ -53951,20 +54303,12 @@
             "Value": "TARRAGON-SEKTOR"
         },
         {
-            "Key": 2065952231,
-            "Value": "KEPLER-343b"
-        },
-        {
             "Key": 2068623694,
             "Value": "Linddqvist"
         },
         {
             "Key": 2069526184,
             "Value": "LIFESWORTH"
-        },
-        {
-            "Key": 2075913385,
-            "Value": "KEPLER-319b"
         },
         {
             "Key": 2083818604,
@@ -54007,10 +54351,6 @@
             "Value": "Demokratische Detonation"
         },
         {
-            "Key": 2106060099,
-            "Value": "KEPLER-284b"
-        },
-        {
             "Key": 2107318609,
             "Value": "KILLJOY TOWN"
         },
@@ -54025,14 +54365,6 @@
         {
             "Key": 2109995347,
             "Value": "PENSCEWT"
-        },
-        {
-            "Key": 2111649283,
-            "Value": "KEPLER-352b"
-        },
-        {
-            "Key": 2111845990,
-            "Value": "KEPLER-355b"
         },
         {
             "Key": 2112350519,
@@ -54127,10 +54459,6 @@
             "Value": "Durney"
         },
         {
-            "Key": 2181856792,
-            "Value": "KEPLER-368b"
-        },
-        {
             "Key": 2182114170,
             "Value": "Transport-Shuttle"
         },
@@ -54165,10 +54493,6 @@
         {
             "Key": 2213492101,
             "Value": "GARAGE DUNE"
-        },
-        {
-            "Key": 2217667642,
-            "Value": "KEPLER-372b"
         },
         {
             "Key": 2220556432,
@@ -54209,6 +54533,10 @@
         {
             "Key": 2248940060,
             "Value": "Leuchtfeuer"
+        },
+        {
+            "Key": 2250985674,
+            "Value": "ASCHGRAUES EXTRASOLAR-HELLPOD-DESIGN"
         },
         {
             "Key": 2251442607,
@@ -54279,10 +54607,6 @@
             "Value": "Spähräuber"
         },
         {
-            "Key": 2322307250,
-            "Value": "KEPLER-373b"
-        },
-        {
             "Key": 2324026679,
             "Value": "BARABOS"
         },
@@ -54305,10 +54629,6 @@
         {
             "Key": 2348954771,
             "Value": "FORT SANGUINE"
-        },
-        {
-            "Key": 2351373725,
-            "Value": "KEPLER-348b"
         },
         {
             "Key": 2351442158,
@@ -54389,10 +54709,6 @@
         {
             "Key": 2418805493,
             "Value": "CAPH"
-        },
-        {
-            "Key": 2423584147,
-            "Value": "KEPLER-309b"
         },
         {
             "Key": 2424362352,
@@ -54487,10 +54803,6 @@
             "Value": "Bellawala"
         },
         {
-            "Key": 2497327335,
-            "Value": "KEPLER-337b"
-        },
-        {
             "Key": 2500585152,
             "Value": "BRAWFERMLAND"
         },
@@ -54505,14 +54817,6 @@
         {
             "Key": 2503642914,
             "Value": "Stern"
-        },
-        {
-            "Key": 2505794238,
-            "Value": "KEPLER-346b"
-        },
-        {
-            "Key": 2509277034,
-            "Value": "KEPLER-274b"
         },
         {
             "Key": 2511016458,
@@ -54575,20 +54879,12 @@
             "Value": "HILDOARA CENTRAL"
         },
         {
-            "Key": 2552540432,
-            "Value": "KEPLER-298b"
-        },
-        {
             "Key": 2552921329,
             "Value": "EXO CITY"
         },
         {
             "Key": 2562325679,
             "Value": "TENDRA"
-        },
-        {
-            "Key": 2562342867,
-            "Value": "KEPLER-312b"
         },
         {
             "Key": 2563213682,
@@ -54627,20 +54923,12 @@
             "Value": "ESTANU"
         },
         {
-            "Key": 2578681002,
-            "Value": "KEPLER-292b"
-        },
-        {
             "Key": 2582617403,
             "Value": "LACAILLE-SEKTOR"
         },
         {
             "Key": 2583035357,
             "Value": "TREUES-BLAU-EXOANZUG-DESIGN"
-        },
-        {
-            "Key": 2586492531,
-            "Value": "KEPLER-326b"
         },
         {
             "Key": 2587632663,
@@ -54715,16 +55003,8 @@
             "Value": "Ghul"
         },
         {
-            "Key": 2642562384,
-            "Value": "KEPLER-382b"
-        },
-        {
             "Key": 2646875211,
             "Value": "Prinzessin"
-        },
-        {
-            "Key": 2648074741,
-            "Value": "KEPLER-359b"
         },
         {
             "Key": 2649067399,
@@ -54771,10 +55051,6 @@
             "Value": "des Schicksals"
         },
         {
-            "Key": 2694605575,
-            "Value": "KEPLER-356b"
-        },
-        {
             "Key": 2696343909,
             "Value": "ARKTURUS"
         },
@@ -54789,10 +55065,6 @@
         {
             "Key": 2700736388,
             "Value": "MOX"
-        },
-        {
-            "Key": 2701211260,
-            "Value": "KEPLER-285b"
         },
         {
             "Key": 2703085897,
@@ -54847,10 +55119,6 @@
             "Value": "NIVEL 43"
         },
         {
-            "Key": 2755209388,
-            "Value": "KEPLER-315b"
-        },
-        {
             "Key": 2756193558,
             "Value": "Marschall"
         },
@@ -54859,20 +55127,12 @@
             "Value": "Versprechen"
         },
         {
-            "Key": 2757180352,
-            "Value": "KEPLER-307b"
-        },
-        {
             "Key": 2757374885,
             "Value": "Einsatzleitung"
         },
         {
             "Key": 2764865372,
             "Value": "Erhabene Aufseher"
-        },
-        {
-            "Key": 2765000052,
-            "Value": "KEPLER-322b"
         },
         {
             "Key": 2767962404,
@@ -54971,24 +55231,12 @@
             "Value": "DRACHENSCHABE"
         },
         {
-            "Key": 2834895362,
-            "Value": "KEPLER-281b"
-        },
-        {
-            "Key": 2838153097,
-            "Value": "KEPLER-324b"
-        },
-        {
             "Key": 2838569178,
             "Value": "URBANE LEGENDEN"
         },
         {
             "Key": 2839195435,
             "Value": "Marcus"
-        },
-        {
-            "Key": 2841221522,
-            "Value": "KEPLER-300b"
         },
         {
             "Key": 2842546265,
@@ -55027,20 +55275,12 @@
             "Value": "STÜRMER"
         },
         {
-            "Key": 2868446843,
-            "Value": "KEPLER-306b"
-        },
-        {
             "Key": 2868939829,
             "Value": "CARBONDALE"
         },
         {
             "Key": 2869710000,
             "Value": "Tödliche Wächter"
-        },
-        {
-            "Key": 2875027973,
-            "Value": "KEPLER-275b"
         },
         {
             "Key": 2875412642,
@@ -55067,10 +55307,6 @@
             "Value": "Sichter"
         },
         {
-            "Key": 2891419140,
-            "Value": "KEPLER-358b"
-        },
-        {
             "Key": 2895661664,
             "Value": "REFORMED-BY-TRUTH"
         },
@@ -55081,10 +55317,6 @@
         {
             "Key": 2901475147,
             "Value": "X-45"
-        },
-        {
-            "Key": 2901609208,
-            "Value": "KEPLER-317b"
         },
         {
             "Key": 2902346740,
@@ -55135,10 +55367,6 @@
             "Value": "Bjorkman"
         },
         {
-            "Key": 2944028248,
-            "Value": "KEPLER-283b"
-        },
-        {
             "Key": 2947173848,
             "Value": "DRACO-SEKTOR"
         },
@@ -55157,10 +55385,6 @@
         {
             "Key": 2952897881,
             "Value": "STREUNER"
-        },
-        {
-            "Key": 2960440287,
-            "Value": "KEPLER-321b"
         },
         {
             "Key": 2961331193,
@@ -55215,10 +55439,6 @@
             "Value": "GENERATORSVILLE"
         },
         {
-            "Key": 3005334329,
-            "Value": "KEPLER-287b"
-        },
-        {
             "Key": 3006600704,
             "Value": "Herrschaft"
         },
@@ -55249,10 +55469,6 @@
         {
             "Key": 3016206633,
             "Value": "EIGHTRINGS"
-        },
-        {
-            "Key": 3019919758,
-            "Value": "KEPLER-313b"
         },
         {
             "Key": 3021705767,
@@ -55293,10 +55509,6 @@
         {
             "Key": 3045602539,
             "Value": "Ausgestoßenen-Schlitzer"
-        },
-        {
-            "Key": 3050699459,
-            "Value": "KEPLER-345b"
         },
         {
             "Key": 3054022597,
@@ -55395,10 +55607,6 @@
             "Value": "KRAKABOS"
         },
         {
-            "Key": 3118616277,
-            "Value": "KEPLER-327b"
-        },
-        {
             "Key": 3119992422,
             "Value": "TRAITOR‘S END"
         },
@@ -55431,16 +55639,8 @@
             "Value": "CHARBAL-VII"
         },
         {
-            "Key": 3150403879,
-            "Value": "KEPLER-279b"
-        },
-        {
             "Key": 3150803681,
             "Value": "Mutter"
-        },
-        {
-            "Key": 3158883809,
-            "Value": "KEPLER-320b"
         },
         {
             "Key": 3159948003,
@@ -55457,14 +55657,6 @@
         {
             "Key": 3166068636,
             "Value": "ESKER"
-        },
-        {
-            "Key": 3169978199,
-            "Value": "KEPLER-353b"
-        },
-        {
-            "Key": 3170157393,
-            "Value": "KEPLER-376b"
         },
         {
             "Key": 3172956985,
@@ -55547,10 +55739,6 @@
             "Value": "ALAMAK VII"
         },
         {
-            "Key": 3225533687,
-            "Value": "KEPLER-360b"
-        },
-        {
             "Key": 3227753500,
             "Value": "KEPLER-388b"
         },
@@ -55587,14 +55775,6 @@
             "Value": "DYN ALPHA 534-2"
         },
         {
-            "Key": 3249246944,
-            "Value": "KEPLER-296b"
-        },
-        {
-            "Key": 3251726327,
-            "Value": "KEPLER-361b"
-        },
-        {
             "Key": 3253076821,
             "Value": "AUFSEHER"
         },
@@ -55629,10 +55809,6 @@
         {
             "Key": 3270663062,
             "Value": "ADHAFERA SECUNDUS"
-        },
-        {
-            "Key": 3275461478,
-            "Value": "KEPLER-310b"
         },
         {
             "Key": 3276302871,
@@ -55723,24 +55899,12 @@
             "Value": "Jäger"
         },
         {
-            "Key": 3331938550,
-            "Value": "KEPLER-278b"
-        },
-        {
-            "Key": 3335590414,
-            "Value": "KEPLER-381b"
-        },
-        {
             "Key": 3342924444,
             "Value": "TURING"
         },
         {
             "Key": 3344257325,
             "Value": "Bettmann"
-        },
-        {
-            "Key": 3349220266,
-            "Value": "KEPLER-328b"
         },
         {
             "Key": 3350036223,
@@ -55851,10 +56015,6 @@
             "Value": "CANOPUS"
         },
         {
-            "Key": 3430946630,
-            "Value": "KEPLER-280b"
-        },
-        {
             "Key": 3443379122,
             "Value": "Drachenschaben"
         },
@@ -55883,16 +56043,8 @@
             "Value": "der Menschheit"
         },
         {
-            "Key": 3461599670,
-            "Value": "KEPLER-282b"
-        },
-        {
             "Key": 3473770236,
             "Value": "VALDIS-SEKTOR"
-        },
-        {
-            "Key": 3476251425,
-            "Value": "KEPLER-366b"
         },
         {
             "Key": 3476617682,
@@ -55935,10 +56087,6 @@
             "Value": "Inferno-Verwüster"
         },
         {
-            "Key": 3502399096,
-            "Value": "KEPLER-323b"
-        },
-        {
             "Key": 3504573238,
             "Value": "SETIA"
         },
@@ -55953,10 +56101,6 @@
         {
             "Key": 3511132020,
             "Value": "OBEDIENCE"
-        },
-        {
-            "Key": 3512800577,
-            "Value": "KEPLER-290b"
         },
         {
             "Key": 3517486397,
@@ -56025,10 +56169,6 @@
         {
             "Key": 3569445028,
             "Value": "OLD HEARTH CITY"
-        },
-        {
-            "Key": 3570922568,
-            "Value": "KEPLER-362b"
         },
         {
             "Key": 3578469809,
@@ -56107,10 +56247,6 @@
             "Value": "DUMA TYR"
         },
         {
-            "Key": 3632688076,
-            "Value": "KEPLER-311b"
-        },
-        {
             "Key": 3635343795,
             "Value": "Schredderpanzer"
         },
@@ -56143,10 +56279,6 @@
             "Value": "Benannt nach der historischen Konferenz, auf der die Menschheit zur gleichberechtigtsten Spezies der Galaxie erklärt wurde."
         },
         {
-            "Key": 3672376337,
-            "Value": "KEPLER-369b"
-        },
-        {
             "Key": 3673962713,
             "Value": "Khatib"
         },
@@ -56173,10 +56305,6 @@
         {
             "Key": 3688481919,
             "Value": "Gesetzgeber"
-        },
-        {
-            "Key": 3689757614,
-            "Value": "KEPLER-288b"
         },
         {
             "Key": 3690215169,
@@ -56263,10 +56391,6 @@
             "Value": "Nystrom"
         },
         {
-            "Key": 3746837729,
-            "Value": "KEPLER-344b"
-        },
-        {
             "Key": 3747586953,
             "Value": "MINERAL‘S END"
         },
@@ -56293,14 +56417,6 @@
         {
             "Key": 3756643203,
             "Value": "Fritzell"
-        },
-        {
-            "Key": 3756969656,
-            "Value": "KEPLER-333b"
-        },
-        {
-            "Key": 3761101242,
-            "Value": "KEPLER-349b"
         },
         {
             "Key": 3767503173,
@@ -56379,10 +56495,6 @@
             "Value": "PIT 8"
         },
         {
-            "Key": 3835584257,
-            "Value": "KEPLER-291b"
-        },
-        {
             "Key": 3851712342,
             "Value": "Rechtschaffene Rächer"
         },
@@ -56435,10 +56547,6 @@
             "Value": "INTEREST"
         },
         {
-            "Key": 3886945884,
-            "Value": "KEPLER-308b"
-        },
-        {
             "Key": 3887939125,
             "Value": "UNISON"
         },
@@ -56469,10 +56577,6 @@
         {
             "Key": 3903153972,
             "Value": "Kluftstürmer"
-        },
-        {
-            "Key": 3904473600,
-            "Value": "KEPLER-365b"
         },
         {
             "Key": 3909684051,
@@ -56519,10 +56623,6 @@
             "Value": "WASAT"
         },
         {
-            "Key": 3940422141,
-            "Value": "KEPLER-351b"
-        },
-        {
             "Key": 3946592432,
             "Value": "HELLPOD-STANDARDDESIGN"
         },
@@ -56565,10 +56665,6 @@
         {
             "Key": 3973182985,
             "Value": "TERMINIDEN"
-        },
-        {
-            "Key": 3975465670,
-            "Value": "KEPLER-293b"
         },
         {
             "Key": 3978718279,
@@ -56735,6 +56831,10 @@
             "Value": "DIE VILLAS"
         },
         {
+            "Key": 4085949055,
+            "Value": "ASCHGRAUES EXTRASOLAR-FAHRZEUGDESIGN"
+        },
+        {
             "Key": 4088126157,
             "Value": "MATAR BAY"
         },
@@ -56799,10 +56899,6 @@
             "Value": "Verteiler"
         },
         {
-            "Key": 4142342788,
-            "Value": "KEPLER-379b"
-        },
-        {
             "Key": 4146569305,
             "Value": "STÜRMER-KOLOSS"
         },
@@ -56831,10 +56927,6 @@
             "Value": "Rochen"
         },
         {
-            "Key": 4164526636,
-            "Value": "KEPLER-295b"
-        },
-        {
             "Key": 4164770624,
             "Value": "INGMAR"
         },
@@ -56845,10 +56937,6 @@
         {
             "Key": 4165159481,
             "Value": "SENGE 23"
-        },
-        {
-            "Key": 4165395098,
-            "Value": "KEPLER-341b"
         },
         {
             "Key": 4165434863,
@@ -56877,10 +56965,6 @@
         {
             "Key": 4172658715,
             "Value": "Schonberger"
-        },
-        {
-            "Key": 4185462613,
-            "Value": "KEPLER-335b"
         },
         {
             "Key": 4185597853,
@@ -56943,10 +57027,6 @@
             "Value": "Plünderer"
         },
         {
-            "Key": 4218892298,
-            "Value": "KEPLER-377b"
-        },
-        {
             "Key": 4219840211,
             "Value": "BEKVAM III"
         },
@@ -56985,10 +57065,6 @@
         {
             "Key": 4250292210,
             "Value": "der Autorität"
-        },
-        {
-            "Key": 4255508129,
-            "Value": "KEPLER-325b"
         },
         {
             "Key": 4256285820,
@@ -59760,7 +59836,7 @@
         },
         {
             "Key": 1661508052,
-            "Value": "Wenn der Feind erfolgreich Verstärkung anfordert, erhöht sich die <i=1>Bedrohungsstufe</i>.\n\nDies bedeutet eine stärkere Feindpräsenz für die Dauer der Mission. "
+            "Value": "Wenn der Feind erfolgreich Verstärkung anfordert, erhöht sich die Bedrohungsstufe.\n\nDies bedeutet eine stärkere Feindpräsenz für die Dauer der Mission. "
         },
         {
             "Key": 1664794115,
@@ -60161,6 +60237,10 @@
         {
             "Key": 1876552528,
             "Value": "MISSIONEN"
+        },
+        {
+            "Key": 1877723293,
+            "Value": "Missionsstatistiken konnten aufgrund eines Netzwerkproblems nicht angezeigt werden. Belohnungen für den Missionsabschluss und entnommene Ressourcen sind davon nicht betroffen und wurden normal verteilt."
         },
         {
             "Key": 1879826530,
@@ -62816,7 +62896,7 @@
         },
         {
             "Key": 3718459561,
-            "Value": "Das ist eine <i=1>Kommando</i>-Mission.\nSo weit hinter den feindlichen Linien sind überall Feinde. Immer wenn sie Verstärkung anfordern, erhöht sich die <i=1>Bedrohungsstufe</i>. Eine höhere <i=1>Bedrohungsstufe</i> bedeutet mehr feindliche Einheiten in dem Gebiet."
+            "Value": "Das ist eine <i=1>Kommando</i>-Mission.\nSo weit hinter den gegnerischen Linien sind überall Feinde. Immer wenn sie Verstärkung anfordern, erhöht sich die Bedrohungsstufe. Eine höhere Bedrohungsstufe bedeutet mehr feindliche Einheiten in dem Gebiet."
         },
         {
             "Key": 3719625712,
@@ -63549,6 +63629,10 @@
         {
             "Key": 4146739332,
             "Value": "EINSTEIGEN"
+        },
+        {
+            "Key": 4147740137,
+            "Value": "MISSIONSSTATISTIKEN NICHT VERFÜGBAR"
         },
         {
             "Key": 4152059754,

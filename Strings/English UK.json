@@ -23584,7 +23584,7 @@
         },
         {
             "Key": 940987579,
-            "Value": "#NAME left the mission"
+            "Value": "<i=1>#NAME</i> left the mission"
         },
         {
             "Key": 942502855,
@@ -25680,7 +25680,7 @@
         },
         {
             "Key": 2207765754,
-            "Value": "#NAME joined"
+            "Value": "<i=1>#NAME</i> joined"
         },
         {
             "Key": 2210601203,
@@ -26388,7 +26388,7 @@
         },
         {
             "Key": 2704291316,
-            "Value": "#NAME has joined the mission"
+            "Value": "<i=1>#NAME</i> has joined the mission"
         },
         {
             "Key": 2708164578,
@@ -27968,7 +27968,7 @@
         },
         {
             "Key": 3725451051,
-            "Value": "#NAME didn't make the cut"
+            "Value": "<i=1>#NAME</i> didn't make the cut"
         },
         {
             "Key": 3728317380,
@@ -28124,7 +28124,7 @@
         },
         {
             "Key": 3808670249,
-            "Value": "#NAME has been court-martialled"
+            "Value": "<i=1>#NAME</i> has been court-martialled"
         },
         {
             "Key": 3810431183,
@@ -28296,7 +28296,7 @@
         },
         {
             "Key": 3922468673,
-            "Value": "#NAME returned to civilian life"
+            "Value": "<i=1>#NAME</i> returned to civilian life"
         },
         {
             "Key": 3926987470,
@@ -28456,7 +28456,7 @@
         },
         {
             "Key": 4017412399,
-            "Value": "#NAME is no longer part of the team"
+            "Value": "<i=1>#NAME</i> is no longer part of the team"
         },
         {
             "Key": 4017844830,
@@ -28624,7 +28624,7 @@
         },
         {
             "Key": 4087818322,
-            "Value": "#NAME left"
+            "Value": "<i=1>#NAME</i> left"
         },
         {
             "Key": 4091600891,
@@ -69339,10 +69339,6 @@
             "Value": "Increases planetary attacks by <i=1>#V_TWO%</i>."
         },
         {
-            "Key": 3303505226,
-            "Value": "RADIO INTERFERENCE"
-        },
-        {
             "Key": 3308761296,
             "Value": "PERSONAL ORDER"
         },
@@ -69569,10 +69565,6 @@
         {
             "Key": 3474023215,
             "Value": "Not much is known about this planet."
-        },
-        {
-            "Key": 3477556807,
-            "Value": "In order to avoid detection, the traitors have installed multiple Cyborg jamming stations that disrupt Super Destroyer signals.\nStratagems will be intermittently jammed during the mission."
         },
         {
             "Key": 3478073223,

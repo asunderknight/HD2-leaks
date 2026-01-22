@@ -3672,7 +3672,7 @@
         },
         {
             "Key": 1403939755,
-            "Value": "Pícaro"
+            "Value": "Erizo"
         },
         {
             "Key": 1407844961,
@@ -3888,7 +3888,7 @@
         },
         {
             "Key": 1473448864,
-            "Value": "PÍCARO"
+            "Value": "ERIZO"
         },
         {
             "Key": 1476954631,
@@ -4164,7 +4164,7 @@
         },
         {
             "Key": 1615718868,
-            "Value": "\"PERRO GUARDIÁN\""
+            "Value": "PERRO GUARDIÁN"
         },
         {
             "Key": 1617048491,
@@ -5472,7 +5472,7 @@
         },
         {
             "Key": 2184600406,
-            "Value": "Perrito \"perro guardián\""
+            "Value": "Perrito caliente"
         },
         {
             "Key": 2184876447,
@@ -6240,7 +6240,7 @@
         },
         {
             "Key": 2499481182,
-            "Value": "\"PERRO GUARDIÁN\" ALIENTO DE PERRO"
+            "Value": "ALIENTO DE PERRO"
         },
         {
             "Key": 2501206090,
@@ -6652,7 +6652,7 @@
         },
         {
             "Key": 2696171705,
-            "Value": "K-9 \"Perro guardián\""
+            "Value": "K-9"
         },
         {
             "Key": 2698304084,
@@ -6776,7 +6776,7 @@
         },
         {
             "Key": 2744645738,
-            "Value": "K-9 \"PERRO GUARDIÁN\""
+            "Value": "K-9"
         },
         {
             "Key": 2744904675,
@@ -7200,7 +7200,7 @@
         },
         {
             "Key": 2902819083,
-            "Value": "Rover \"perro guardián\""
+            "Value": "Rover"
         },
         {
             "Key": 2905387404,
@@ -7296,7 +7296,7 @@
         },
         {
             "Key": 2938726003,
-            "Value": "\"Perro Guardián\" Aliento de perro"
+            "Value": "Aliento de perro"
         },
         {
             "Key": 2939299459,
@@ -8188,7 +8188,7 @@
         },
         {
             "Key": 3321311549,
-            "Value": "PERRITO \"PERRO GUARDIÁN\""
+            "Value": "PERRITO CALIENTE"
         },
         {
             "Key": 3322311510,
@@ -8772,7 +8772,7 @@
         },
         {
             "Key": 3575690541,
-            "Value": "ROVER \"PERRO GUARDIÁN\""
+            "Value": "ROVER"
         },
         {
             "Key": 3575945766,
@@ -10879,6 +10879,10 @@
             "Value": "BAHÍA CHORT"
         },
         {
+            "Key": 346834056,
+            "Value": "CABALLOS DE BATALLA"
+        },
+        {
             "Key": 354695563,
             "Value": "MONEDA"
         },
@@ -11241,6 +11245,10 @@
         {
             "Key": 628685971,
             "Value": "SEVERIDAD"
+        },
+        {
+            "Key": 631381900,
+            "Value": "Caballos de batalla"
         },
         {
             "Key": 632178296,
@@ -42103,6 +42111,10 @@
             "Value": "Garras"
         },
         {
+            "Key": 1716249415,
+            "Value": "Obstruido por antiaéreo"
+        },
+        {
             "Key": 1721241425,
             "Value": "Hay nuevas <c=FFFFE900>ESTRATAGEMAS</c> disponibles para <c=FFFFE900>SOLICITAR</c>."
         },
@@ -52956,7 +52968,7 @@
         },
         {
             "Key": 32367396,
-            "Value": "DESACTIVAR LA ARTILLERÍA ORBITAL"
+            "Value": "DESTRUID EL CAÑÓN ORBITAL DEFENSIVO"
         },
         {
             "Key": 33739635,
@@ -53316,7 +53328,7 @@
         },
         {
             "Key": 359581454,
-            "Value": "Destruid los bioprocesadores."
+            "Value": "Destruid los bioprocesadores"
         },
         {
             "Key": 360320316,
@@ -53421,6 +53433,10 @@
         {
             "Key": 448085263,
             "Value": "Elogiar a jugador"
+        },
+        {
+            "Key": 456226933,
+            "Value": "En este lugar hay un cañón orbital defensivo."
         },
         {
             "Key": 459832108,
@@ -53992,7 +54008,7 @@
         },
         {
             "Key": 878121724,
-            "Value": "Se ha informado de la presencia de un gran número de tropas autómatas en la región."
+            "Value": "Hay fuerzas pesadas de autómatas reunidas en esta ubicación."
         },
         {
             "Key": 893045708,
@@ -54688,7 +54704,7 @@
         },
         {
             "Key": 1404839977,
-            "Value": "Destruye los cañones orbitales autómatas de la zona."
+            "Value": "Destruid los cañones orbitales defensivos de los autómatas de la zona."
         },
         {
             "Key": 1405381893,
@@ -55044,7 +55060,7 @@
         },
         {
             "Key": 1673870250,
-            "Value": "Nuestros informes sugieren que los autómatas están acumulando munición en esta zona."
+            "Value": "Nuestros informes indican que los autómatas están acumulando munición en esta ubicación."
         },
         {
             "Key": 1673923679,
@@ -55144,7 +55160,7 @@
         },
         {
             "Key": 1746702421,
-            "Value": "En esta región hay una base aérea autómata. Las naves de despliegue están en mantenimiento en esta instalación, lo cual las deja vulnerables."
+            "Value": "Las naves de despliegue de los autómatas están atracadas en esta ubicación."
         },
         {
             "Key": 1748495489,
@@ -55188,7 +55204,7 @@
         },
         {
             "Key": 1770769441,
-            "Value": "Todas las comunicaciones de las naves de despliegue se dirigen a través de esta torre de control. Si la destruimos, inhabilitaremos cualquier despliegue de naves de largo alcance."
+            "Value": "Esta torre de control es el nexo de todas las operaciones aéreas del enemigo en la región."
         },
         {
             "Key": 1773921075,
@@ -55788,7 +55804,7 @@
         },
         {
             "Key": 2241576450,
-            "Value": "NEUTRALIZAR LAS DEFENSAS ORBITALES"
+            "Value": "NEUTRALIZAD LAS DEFENSAS DE TIERRA A ÓRBITA"
         },
         {
             "Key": 2245869430,
@@ -56444,7 +56460,7 @@
         },
         {
             "Key": 2684746728,
-            "Value": "Los autómatas están utilizando cañones orbitales en esta zona para bombardear nuestros Superdestructores.\n\nNo podemos permitir que se cuestione nuestra superioridad aeroespacial. Desplegaos en la zona y destruid cualquier cañón orbital activo."
+            "Value": "Los autómatas están usando cañones aumentados con un alcance de órbita elevado para bombardear nuestros Superdestructores.\n \nNo podemos permitir que nuestra superioridad del espacio aéreo sea desafiada. Desplegaos a la zona y destruid cualquier cañón orbital defensivo activo."
         },
         {
             "Key": 2691266839,
@@ -58228,7 +58244,7 @@
         },
         {
             "Key": 4083735584,
-            "Value": "DESTRUYE EL CAÑÓN"
+            "Value": "Solicitad una bomba Hell para destruir el cañón orbital defensivo."
         },
         {
             "Key": 4089331914,

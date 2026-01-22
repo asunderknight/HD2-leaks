@@ -21880,7 +21880,7 @@
         },
         {
             "Key": 32367396,
-            "Value": "DESATIVAR A ARTILHARIA ORBITAL"
+            "Value": "DESTRUAM O CANHÃO DE CONTRA-ATAQUE ORBITAL"
         },
         {
             "Key": 33739635,
@@ -22240,7 +22240,7 @@
         },
         {
             "Key": 359581454,
-            "Value": "Destruam os Processadores Biológicos."
+            "Value": "Destruam os Processadores Biológicos"
         },
         {
             "Key": 360320316,
@@ -22345,6 +22345,10 @@
         {
             "Key": 448085263,
             "Value": "Condecorar jogador"
+        },
+        {
+            "Key": 456226933,
+            "Value": "Encontra-se aqui localizado um Canhão de Contra-Ataque Orbital."
         },
         {
             "Key": 459832108,
@@ -22916,7 +22920,7 @@
         },
         {
             "Key": 878121724,
-            "Value": "Um grande número de soldados Automaton foram reportados nesta região."
+            "Value": "Encontram-se aqui localizadas grandes quantidades de forças Automaton."
         },
         {
             "Key": 893045708,
@@ -23612,7 +23616,7 @@
         },
         {
             "Key": 1404839977,
-            "Value": "Destrói os canhões orbitais dos Automatons na área."
+            "Value": "Destruam os Canhões de Contra-Ataque Orbital na área."
         },
         {
             "Key": 1405381893,
@@ -23968,7 +23972,7 @@
         },
         {
             "Key": 1673870250,
-            "Value": "A nossa inteligência sugere que os Automatons estão a armazenar munições neste local."
+            "Value": "A inteligência indica que os Automatons estão a armazenar munições neste local."
         },
         {
             "Key": 1673923679,
@@ -24068,7 +24072,7 @@
         },
         {
             "Key": 1746702421,
-            "Value": "Uma Base Aérea de Automatons está localizada nesta região. As Naves de Largada estão sob manutenção nestas instalações, deixando-as vulneráveis."
+            "Value": "Naves de Largada Automaton encontram-se aterradas neste local."
         },
         {
             "Key": 1748495489,
@@ -24112,7 +24116,7 @@
         },
         {
             "Key": 1770769441,
-            "Value": "Todas as comunicações das Naves de Largada passam por esta Torre de Controlo. A sua destruição vai desativar todas as mobilizações de longo alcance através de Naves de Largada."
+            "Value": "Esta Torre de Controlo é o nexo das operações aéreas inimigas na região."
         },
         {
             "Key": 1773921075,
@@ -24712,7 +24716,7 @@
         },
         {
             "Key": 2241576450,
-            "Value": "NEUTRALIZA AS DEFESAS ORBITAIS"
+            "Value": "NEUTRALIZEM AS DEFESAS TERRA-ÓRBITA"
         },
         {
             "Key": 2245869430,
@@ -25368,7 +25372,7 @@
         },
         {
             "Key": 2684746728,
-            "Value": "Os Automatons estão a usar canhões orbitais de grande porte nesta área para bombardear os nossos Super Destruidores.\n\nNão podemos permitir que a nossa superioridade aeroespacial seja desafiada. Mobilizem-se para a área e destruam todos os Canhões Orbitais ativos."
+            "Value": "Os Automatons estão a usar canhões melhorados com alcance até a órbita alta para bombardear os nossos Super Destruidores.\n \nNão podemos permitir que a nossa superioridade aeroespacial seja desafiada. Mobilizem-se para a área e destruam todos os Canhões de Contra-Ataque Orbital ativos."
         },
         {
             "Key": 2691266839,
@@ -27152,7 +27156,7 @@
         },
         {
             "Key": 4083735584,
-            "Value": "DESTRÓI O CANHÃO"
+            "Value": "Chamem uma Bomba Hell para destruir o Canhão de Contra-Ataque Orbital."
         },
         {
             "Key": 4089331914,
@@ -30207,6 +30211,10 @@
             "Value": "BAÍA DO CHORT"
         },
         {
+            "Key": 346834056,
+            "Value": "CAVALOS DE GUERRA"
+        },
+        {
             "Key": 354695563,
             "Value": "MOEDA"
         },
@@ -30569,6 +30577,10 @@
         {
             "Key": 628685971,
             "Value": "GRAVIDADE"
+        },
+        {
+            "Key": 631381900,
+            "Value": "Cavalos de Guerra"
         },
         {
             "Key": 632178296,
@@ -50860,7 +50872,7 @@
         },
         {
             "Key": 1615718868,
-            "Value": "'CÃO DE GUARDA'"
+            "Value": "CÃO DE GUARDA"
         },
         {
             "Key": 1617048491,
@@ -52168,7 +52180,7 @@
         },
         {
             "Key": 2184600406,
-            "Value": "\"Cão de Guarda\" Cachorro-Quente"
+            "Value": "Cachorro-Quente"
         },
         {
             "Key": 2184876447,
@@ -52936,7 +52948,7 @@
         },
         {
             "Key": 2499481182,
-            "Value": "SOPRO DE CÃO DE \"CÃO DE GUARDA\""
+            "Value": "SOPRO DE CÃO"
         },
         {
             "Key": 2501206090,
@@ -53348,7 +53360,7 @@
         },
         {
             "Key": 2696171705,
-            "Value": "\"Cão de Guarda\" K-9"
+            "Value": "K-9"
         },
         {
             "Key": 2698304084,
@@ -53472,7 +53484,7 @@
         },
         {
             "Key": 2744645738,
-            "Value": "\"CÃO DE GUARDA\" K-9"
+            "Value": "K-9"
         },
         {
             "Key": 2744904675,
@@ -53896,7 +53908,7 @@
         },
         {
             "Key": 2902819083,
-            "Value": "Rover, O 'Cão de Guarda'"
+            "Value": "Rover"
         },
         {
             "Key": 2905387404,
@@ -53992,7 +54004,7 @@
         },
         {
             "Key": 2938726003,
-            "Value": "Sopro de Cão de \"Cão de Guarda\""
+            "Value": "Sopro de Cão"
         },
         {
             "Key": 2939299459,
@@ -54884,7 +54896,7 @@
         },
         {
             "Key": 3321311549,
-            "Value": "\"CÃO DE GUARDA\" CACHORRO-QUENTE"
+            "Value": "CACHORRO-QUENTE"
         },
         {
             "Key": 3322311510,
@@ -55468,7 +55480,7 @@
         },
         {
             "Key": 3575690541,
-            "Value": "ROVER, O 'CÃO DE GUARDA'"
+            "Value": "ROVER"
         },
         {
             "Key": 3575945766,
@@ -56332,7 +56344,7 @@
         },
         {
             "Key": 3939201276,
-            "Value": "'Cão de guarda'"
+            "Value": "Cão de guarda"
         },
         {
             "Key": 3939727225,
@@ -59913,6 +59925,10 @@
         {
             "Key": 1715788834,
             "Value": "Garras"
+        },
+        {
+            "Key": 1716249415,
+            "Value": "Obstruído por Antiaéreas"
         },
         {
             "Key": 1721241425,

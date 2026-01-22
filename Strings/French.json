@@ -1171,6 +1171,10 @@
             "Value": "BAIE DE CHORT"
         },
         {
+            "Key": 346834056,
+            "Value": "CHEVAUX DE GUERRE"
+        },
+        {
             "Key": 354695563,
             "Value": "MONNAIE"
         },
@@ -1533,6 +1537,10 @@
         {
             "Key": 628685971,
             "Value": "SÉVÉRITÉ"
+        },
+        {
+            "Key": 631381900,
+            "Value": "Chevaux de guerre"
         },
         {
             "Key": 632178296,
@@ -10585,6 +10593,10 @@
         {
             "Key": 1715788834,
             "Value": "Griffes"
+        },
+        {
+            "Key": 1716249415,
+            "Value": "Obstruction antiaérienne"
         },
         {
             "Key": 1721241425,
@@ -23852,7 +23864,7 @@
         },
         {
             "Key": 771856225,
-            "Value": "{0.00->4.52}Je me rappelle quand j'étais môme, on achetait des autocollants d'insectes dans le Catalogue de la {4.52->5.15}liberté."
+            "Value": "{0.00->5.24}Je me rappelle quand j'étais môme, on achetait des autocollants d'insectes dans le Catalogue de la liberté."
         },
         {
             "Key": 774013357,
@@ -30080,7 +30092,7 @@
         },
         {
             "Key": 2022372416,
-            "Value": "{0.08->2.84}Parfois, j'ai presque de la peine pour nos ennemis. Ils {2.86->3.00}ne connaissent pas la démocratie, ils se contentent de gober ce qu'on leur dit. Pathétique."
+            "Value": "{0.08->2.87}Parfois, j'ai presque de la peine pour nos ennemis. Ils {2.87->9.34}ne connaissent pas la démocratie, ils se contentent de gober ce qu'on leur dit. Pathétique."
         },
         {
             "Key": 2022384348,
@@ -41260,7 +41272,7 @@
         },
         {
             "Key": 4208848708,
-            "Value": "{0.00->0.56}Helldiver ! {0.92->5.02}Chaque jour, tu mets ta vie en jeu pour défendre la démocratie et la liberté ! Je voulais te {5.02->5.41}dire... {5.82->6.35}merci."
+            "Value": "{0.00->0.56}Helldiver ! {0.92->4.47}Chaque jour, tu mets ta vie en jeu pour défendre la démocratie et la liberté !{4.48->6.36}Je voulais te dire... merci."
         },
         {
             "Key": 4209282483,
@@ -41752,7 +41764,7 @@
         },
         {
             "Key": 32367396,
-            "Value": "DÉSACTIVEZ L'ARTILLERIE ORBITALE"
+            "Value": "DÉTRUISEZ LE CANON DE DÉFENSE ORBITALE"
         },
         {
             "Key": 33739635,
@@ -42112,7 +42124,7 @@
         },
         {
             "Key": 359581454,
-            "Value": "Détruisez les processeurs organiques."
+            "Value": "Détruisez les processeurs organiques"
         },
         {
             "Key": 360320316,
@@ -42217,6 +42229,10 @@
         {
             "Key": 448085263,
             "Value": "RECOMMANDER LE JOUEUR"
+        },
+        {
+            "Key": 456226933,
+            "Value": "Un canon de défense orbitale est déployé sur ce site."
         },
         {
             "Key": 459832108,
@@ -42788,7 +42804,7 @@
         },
         {
             "Key": 878121724,
-            "Value": "Un grand nombre d'automatons a été repéré dans cette région."
+            "Value": "Des unités automatons lourdement blindées sont stationnées ici."
         },
         {
             "Key": 893045708,
@@ -43484,7 +43500,7 @@
         },
         {
             "Key": 1404839977,
-            "Value": "Détruisez le canon orbital des automatons situé dans la zone."
+            "Value": "Détruisez les canons de défense orbitale automatons situés dans la zone."
         },
         {
             "Key": 1405381893,
@@ -43940,7 +43956,7 @@
         },
         {
             "Key": 1746702421,
-            "Value": "Une base aérienne automaton est située dans cette région. Les vaisseaux de troupes subissent actuellement une maintenance, ce qui les laisse vulnérables."
+            "Value": "Des vaisseaux de troupes automatons sont stationnés à cet endroit."
         },
         {
             "Key": 1748495489,
@@ -43984,7 +44000,7 @@
         },
         {
             "Key": 1770769441,
-            "Value": "Toutes les communications des vaisseaux de troupes passent par cette tour de contrôle. Détruisez-la pour empêcher tout déploiement longue distance."
+            "Value": "Cette tour de contrôle supervise toutes les opérations aériennes ennemies dans la région."
         },
         {
             "Key": 1773921075,
@@ -44584,7 +44600,7 @@
         },
         {
             "Key": 2241576450,
-            "Value": "NEUTRALISEZ LES DÉFENSES ORBITALES"
+            "Value": "NEUTRALISEZ LES CANONS DE DÉFENSE ORBITALE"
         },
         {
             "Key": 2245869430,
@@ -45240,7 +45256,7 @@
         },
         {
             "Key": 2684746728,
-            "Value": "Les automatons ont installé dans cette zone des canons orbitaux qui bombardent sans relâche nos Super Destroyers.\n\nNotre supériorité aérospatiale ne doit pas être remise en cause. Déployez-vous dans la zone et détruisez ces canons."
+            "Value": "Les automatons utilisent des canons longue portée pour bombarder nos Super Destroyers ancrés en orbite basse.\n \nNous devons à tout prix conserver le contrôle de l'espace. Déployez-vous dans cette zone et détruisez tous les canons de défense orbitale actifs."
         },
         {
             "Key": 2691266839,
@@ -47024,7 +47040,7 @@
         },
         {
             "Key": 4083735584,
-            "Value": "DÉTRUISEZ LE CANON"
+            "Value": "Demandez une bombe pour détruire le canon de défense orbitale."
         },
         {
             "Key": 4089331914,
@@ -58996,7 +59012,7 @@
         },
         {
             "Key": 2184600406,
-            "Value": "Hot dog \"Cerbère\""
+            "Value": "Hot Dog"
         },
         {
             "Key": 2184876447,
@@ -59768,7 +59784,7 @@
         },
         {
             "Key": 2499481182,
-            "Value": "CERBÈRE HALEINE DE CABOT"
+            "Value": "HALEINE DE CABOT"
         },
         {
             "Key": 2501206090,
@@ -60180,7 +60196,7 @@
         },
         {
             "Key": 2696171705,
-            "Value": "Cerbère K-9"
+            "Value": "K-9"
         },
         {
             "Key": 2698304084,
@@ -60304,7 +60320,7 @@
         },
         {
             "Key": 2744645738,
-            "Value": "CERBÈRE K-9"
+            "Value": "K-9"
         },
         {
             "Key": 2744904675,
@@ -60728,7 +60744,7 @@
         },
         {
             "Key": 2902819083,
-            "Value": "Astro-Cerbère"
+            "Value": "Astro"
         },
         {
             "Key": 2905387404,
@@ -60824,7 +60840,7 @@
         },
         {
             "Key": 2938726003,
-            "Value": "Cerbère Haleine de cabot"
+            "Value": "Haleine de cabot"
         },
         {
             "Key": 2939299459,
@@ -61716,7 +61732,7 @@
         },
         {
             "Key": 3321311549,
-            "Value": "HOT DOG \"CERBÈRE\""
+            "Value": "HOT DOG"
         },
         {
             "Key": 3322311510,
@@ -62300,7 +62316,7 @@
         },
         {
             "Key": 3575690541,
-            "Value": "ASTRO-CERBÈRE"
+            "Value": "ASTRO"
         },
         {
             "Key": 3575945766,

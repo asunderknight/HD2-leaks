@@ -3676,7 +3676,7 @@
         },
         {
             "Key": 1615718868,
-            "Value": "\"CANE DA GUARDIA\""
+            "Value": "CANE DA GUARDIA"
         },
         {
             "Key": 1617048491,
@@ -4984,7 +4984,7 @@
         },
         {
             "Key": 2184600406,
-            "Value": "Hot dog \"Cane da guardia\""
+            "Value": "Hot dog"
         },
         {
             "Key": 2184876447,
@@ -6164,7 +6164,7 @@
         },
         {
             "Key": 2696171705,
-            "Value": "\"Cane da guardia\" K-9"
+            "Value": "K-9"
         },
         {
             "Key": 2698304084,
@@ -6288,7 +6288,7 @@
         },
         {
             "Key": 2744645738,
-            "Value": "\"CANE DA GUARDIA\" K-9"
+            "Value": "K-9"
         },
         {
             "Key": 2744904675,
@@ -6712,7 +6712,7 @@
         },
         {
             "Key": 2902819083,
-            "Value": "Rover \"Cane da guardia\""
+            "Value": "Rover"
         },
         {
             "Key": 2905387404,
@@ -7700,7 +7700,7 @@
         },
         {
             "Key": 3321311549,
-            "Value": "HOT DOG \"CANE DA GUARDIA\""
+            "Value": "HOT DOG"
         },
         {
             "Key": 3322311510,
@@ -8284,7 +8284,7 @@
         },
         {
             "Key": 3575690541,
-            "Value": "ROVER \"CANE DA GUARDIA\""
+            "Value": "ROVER"
         },
         {
             "Key": 3575945766,
@@ -9148,7 +9148,7 @@
         },
         {
             "Key": 3939201276,
-            "Value": "\"Cane da guardia\""
+            "Value": "Cane da guardia"
         },
         {
             "Key": 3939727225,
@@ -19540,7 +19540,7 @@
         },
         {
             "Key": 1999507042,
-            "Value": "Tutti gli stratagemmi <i=1>Sentinella</i> vengono lanciati appena dopo la richiesta, riducendo il tempo di dispiegamento complessivo."
+            "Value": "Tutti gli stratagemmi <i=1>Postazione</i> vengono lanciati appena dopo la richiesta, riducendo il tempo di dispiegamento complessivo."
         },
         {
             "Key": 2000621332,
@@ -22604,7 +22604,7 @@
         },
         {
             "Key": 4010342575,
-            "Value": "Tutti gli stratagemmi <i=1>Sentinella</i> vengono lanciati appena dopo la richiesta, riducendo il tempo di dispiegamento complessivo."
+            "Value": "Tutti gli stratagemmi <i=1>Postazione</i> vengono lanciati appena dopo la richiesta, riducendo il tempo di dispiegamento complessivo."
         },
         {
             "Key": 4011610410,
@@ -24275,6 +24275,10 @@
             "Value": "BAIA DI CHORT"
         },
         {
+            "Key": 346834056,
+            "Value": "CAVALLI DA GUERRA"
+        },
+        {
             "Key": 354695563,
             "Value": "MONETA"
         },
@@ -24637,6 +24641,10 @@
         {
             "Key": 628685971,
             "Value": "STOIKA"
+        },
+        {
+            "Key": 631381900,
+            "Value": "Cavalli da guerra"
         },
         {
             "Key": 632178296,
@@ -29804,7 +29812,7 @@
         },
         {
             "Key": 32367396,
-            "Value": "DISATTIVA L'ARTIGLIERIA ORBITALE"
+            "Value": "DISTRUGGI IL CANNONE ANTIORBITALE"
         },
         {
             "Key": 33739635,
@@ -30160,7 +30168,7 @@
         },
         {
             "Key": 359581454,
-            "Value": "Distruggete i bioprocessori."
+            "Value": "Distruggete i bioprocessori"
         },
         {
             "Key": 360320316,
@@ -30265,6 +30273,10 @@
         {
             "Key": 448085263,
             "Value": "Elogia giocatore"
+        },
+        {
+            "Key": 456226933,
+            "Value": "In questo sito è posizionato un cannone antiorbitale."
         },
         {
             "Key": 459832108,
@@ -30836,7 +30848,7 @@
         },
         {
             "Key": 878121724,
-            "Value": "È stato segnalato un gran numero di truppe degli Automaton in questa regione."
+            "Value": "Numerose forze Automaton si sono radunate qui."
         },
         {
             "Key": 893045708,
@@ -31528,7 +31540,7 @@
         },
         {
             "Key": 1404839977,
-            "Value": "Distruggi i cannoni orbitali degli Automaton nell'area."
+            "Value": "Distruggi i cannoni antiorbitali degli Automaton nell'area."
         },
         {
             "Key": 1405381893,
@@ -31984,7 +31996,7 @@
         },
         {
             "Key": 1746702421,
-            "Value": "In questa regione è presente una base aerea Automaton. Vi viene effettuata la manutenzione delle navi da trasporto, che quindi sono vulnerabili."
+            "Value": "Le navi da trasporto degli Automaton sono attraccate in questa posizione."
         },
         {
             "Key": 1748495489,
@@ -32028,7 +32040,7 @@
         },
         {
             "Key": 1770769441,
-            "Value": "Le comunicazioni con le navi da trasporto passano da questa torre di controllo. Distruggendola si disattiva il dislocamento delle navi a lunga distanza."
+            "Value": "La torre di controllo è il cuore delle operazioni aeree nemiche nella regione."
         },
         {
             "Key": 1773921075,
@@ -32628,7 +32640,7 @@
         },
         {
             "Key": 2241576450,
-            "Value": "NEUTRALIZZA LE DIFESE ORBITALI"
+            "Value": "NEUTRALIZZA LE DIFESE TERRA-ORBITA"
         },
         {
             "Key": 2245869430,
@@ -33284,7 +33296,7 @@
         },
         {
             "Key": 2684746728,
-            "Value": "Gli Automaton stanno utilizzando enormi cannoni orbitali in quest’area per bombardare i nostri Super Destroyer.\n \nLa nostra superiorità aerospaziale deve rimanere incontrastata. Raggiungi l’area e distruggi ogni cannone orbitale attivo."
+            "Value": "Gli Automaton stanno usando cannoni potenziati con gittata orbitale per bombardare i nostri Super Destroyer.\n \nNon possiamo permettere che la nostra supremazia aerospaziale sia messa in discussione. Raggiungi l'area e distruggi tutti i cannoni antiorbitali attivi."
         },
         {
             "Key": 2691266839,
@@ -35068,7 +35080,7 @@
         },
         {
             "Key": 4083735584,
-            "Value": "DISTRUGGI IL CANNONE"
+            "Value": "Richiedi una Hellbomb per distruggere il cannone antiorbitale."
         },
         {
             "Key": 4089331914,
@@ -38121,6 +38133,10 @@
         {
             "Key": 1715788834,
             "Value": "Artigli"
+        },
+        {
+            "Key": 1716249415,
+            "Value": "Ostruito dall'antiaerea"
         },
         {
             "Key": 1721241425,
@@ -48376,7 +48392,7 @@
         },
         {
             "Key": 1201505010,
-            "Value": "{0.63->2.15}Non vedo l'ora di tornare a casa. {2.60->3.50}Mi mancano le mie abitudini, più di tutto. "
+            "Value": "{0.63->2.15}Non vedo l'ora di tornare a casa. {2.60->3.50}Mi mancano le piccole cose..."
         },
         {
             "Key": 1203018936,

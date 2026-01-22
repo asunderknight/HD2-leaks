@@ -14432,7 +14432,7 @@
         },
         {
             "Key": 1615718868,
-            "Value": "'GUARD DOG'"
+            "Value": "GUARD DOG"
         },
         {
             "Key": 1617048491,
@@ -15976,7 +15976,7 @@
         },
         {
             "Key": 2184600406,
-            "Value": "'Guard Dog' Hot Dog"
+            "Value": "Hot Dog"
         },
         {
             "Key": 2184876447,
@@ -16880,7 +16880,7 @@
         },
         {
             "Key": 2499481182,
-            "Value": "'GUARD DOG' DOG BREATH"
+            "Value": "DOG BREATH"
         },
         {
             "Key": 2501206090,
@@ -17356,7 +17356,7 @@
         },
         {
             "Key": 2696171705,
-            "Value": "'Guard Dog' K-9"
+            "Value": "K-9"
         },
         {
             "Key": 2698304084,
@@ -17488,7 +17488,7 @@
         },
         {
             "Key": 2744645738,
-            "Value": "'GUARD DOG' K-9"
+            "Value": "K-9"
         },
         {
             "Key": 2744904675,
@@ -17976,7 +17976,7 @@
         },
         {
             "Key": 2902819083,
-            "Value": "'Guard Dog' Rover"
+            "Value": "Rover"
         },
         {
             "Key": 2905387404,
@@ -18096,7 +18096,7 @@
         },
         {
             "Key": 2938726003,
-            "Value": "'Guard Dog' Dog Breath"
+            "Value": "Dog Breath"
         },
         {
             "Key": 2939299459,
@@ -19160,7 +19160,7 @@
         },
         {
             "Key": 3321311549,
-            "Value": "'GUARD DOG' HOT DOG"
+            "Value": "HOT DOG"
         },
         {
             "Key": 3322311510,
@@ -19888,7 +19888,7 @@
         },
         {
             "Key": 3575690541,
-            "Value": "'GUARD DOG' ROVER"
+            "Value": "ROVER"
         },
         {
             "Key": 3575945766,
@@ -20884,7 +20884,7 @@
         },
         {
             "Key": 3939201276,
-            "Value": "'Guard Dog'"
+            "Value": "Guard Dog"
         },
         {
             "Key": 3939727225,
@@ -29599,6 +29599,10 @@
             "Value": "CHORT BAY"
         },
         {
+            "Key": 346834056,
+            "Value": "WAR HORSES"
+        },
+        {
             "Key": 354695563,
             "Value": "CURRENCY"
         },
@@ -29961,6 +29965,10 @@
         {
             "Key": 628685971,
             "Value": "SEVERITY"
+        },
+        {
+            "Key": 631381900,
+            "Value": "War Horses"
         },
         {
             "Key": 632178296,
@@ -36944,7 +36952,7 @@
         },
         {
             "Key": 411597237,
-            "Value": "{0.03->1.61}It's fish fry night at the chow hall. {2.43->2.87}I don't {3.96->5.01}know what planets {5.48->5.75}they get these fish from, and I don't care. It's all fried, and it's all good."
+            "Value": "{0.03->1.61}It's fish fry night at the chow hall. {2.20->4.09}I don't know what planets they get these fish from,{4.09->6.80} and I don't care. It's all fried, and it's all good."
         },
         {
             "Key": 411998469,
@@ -58324,7 +58332,7 @@
         },
         {
             "Key": 32367396,
-            "Value": "DISABLE THE ORBITAL ARTILLERY"
+            "Value": "DESTROY COUNTER-ORBITAL CANNON"
         },
         {
             "Key": 33739635,
@@ -58720,7 +58728,7 @@
         },
         {
             "Key": 359581454,
-            "Value": "Destroy the Bio-Processors."
+            "Value": "Destroy the Bio-Processors"
         },
         {
             "Key": 360320316,
@@ -58828,7 +58836,7 @@
         },
         {
             "Key": 456226933,
-            "Value": "The Automatons are using this orbital cannon to bombard our forces from space. Destroy the cannon and let freedom continue to spread its glorious wings unfettered."
+            "Value": "A Counter-Orbital Cannon is positioned at this site."
         },
         {
             "Key": 459832108,
@@ -59424,7 +59432,7 @@
         },
         {
             "Key": 878121724,
-            "Value": "High numbers of Automaton troops have been reported in the region."
+            "Value": "Heavy Automaton forces are gathered in this location."
         },
         {
             "Key": 893045708,
@@ -60176,7 +60184,7 @@
         },
         {
             "Key": 1404839977,
-            "Value": "Destroy the Automatons' orbital cannons in the area."
+            "Value": "Destroy the Automatons' Counter-Orbital Cannons in the area."
         },
         {
             "Key": 1405381893,
@@ -60556,7 +60564,7 @@
         },
         {
             "Key": 1673870250,
-            "Value": "Our intel suggests that the Automatons are stockpiling ammunition in this location."
+            "Value": "Intel indicates that the Automatons are stockpiling ammunition in this location."
         },
         {
             "Key": 1673923679,
@@ -60656,7 +60664,7 @@
         },
         {
             "Key": 1746702421,
-            "Value": "An Automaton Air Base is located in this region. Dropships are undergoing maintenance at this facility, leaving them vulnerable."
+            "Value": "Automaton Dropships are docked at this location."
         },
         {
             "Key": 1748495489,
@@ -60700,7 +60708,7 @@
         },
         {
             "Key": 1770769441,
-            "Value": "All Dropship communication is routed through this Control Tower. Destroying it will disable any long range dropship deployments."
+            "Value": "This Control Tower is the nexus of enemy aerial operations in the region."
         },
         {
             "Key": 1773921075,
@@ -61328,7 +61336,7 @@
         },
         {
             "Key": 2241576450,
-            "Value": "NEUTRALISE ORBITAL DEFENCES"
+            "Value": "NEUTRALISE GROUND-TO-ORBIT DEFENCES"
         },
         {
             "Key": 2245869430,
@@ -62016,7 +62024,7 @@
         },
         {
             "Key": 2684746728,
-            "Value": "The Automatons are using large Orbital Cannons in this area to bombard our Super Destroyers.\n \nWe cannot allow our Aerospace superiority to be challenged. Deploy to the area and destroy any active Orbital Cannons."
+            "Value": "The Automatons are using augmented cannons with high-orbit reach to bombard our Super Destroyers.\n \nWe cannot allow our aerospace superiority to be challenged. Deploy to the area and destroy any active Counter-Orbital Cannon."
         },
         {
             "Key": 2691266839,
@@ -63896,7 +63904,7 @@
         },
         {
             "Key": 4083735584,
-            "Value": "Call down a Hellbomb to destroy the cannon"
+            "Value": "Call down a Hellbomb to destroy the Counter-Orbital Cannon."
         },
         {
             "Key": 4089331914,

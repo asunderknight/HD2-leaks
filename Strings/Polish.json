@@ -2779,6 +2779,10 @@
             "Value": "Szpony"
         },
         {
+            "Key": 1716249415,
+            "Value": "Osłonięte ochroną przeciwlotniczą"
+        },
+        {
             "Key": 1721241425,
             "Value": "Nowe <c=FFFFE900>MANEWRY</c> dostępne w <c=FFFFE900>ZAPOTRZEBOWANIU</c>. "
         },
@@ -38280,7 +38284,7 @@
         },
         {
             "Key": 1615718868,
-            "Value": "„AZOR”"
+            "Value": "AZOR"
         },
         {
             "Key": 1617048491,
@@ -39588,7 +39592,7 @@
         },
         {
             "Key": 2184600406,
-            "Value": "„Azor” Gorący pies"
+            "Value": "Gorący pies"
         },
         {
             "Key": 2184876447,
@@ -40356,7 +40360,7 @@
         },
         {
             "Key": 2499481182,
-            "Value": "PSI ODDECH AZORA"
+            "Value": "PSI ODDECH"
         },
         {
             "Key": 2501206090,
@@ -40768,7 +40772,7 @@
         },
         {
             "Key": 2696171705,
-            "Value": "„Azor” K-9"
+            "Value": "K-9"
         },
         {
             "Key": 2698304084,
@@ -40892,7 +40896,7 @@
         },
         {
             "Key": 2744645738,
-            "Value": "„AZOR” K-9"
+            "Value": "K-9"
         },
         {
             "Key": 2744904675,
@@ -41316,7 +41320,7 @@
         },
         {
             "Key": 2902819083,
-            "Value": "Łazik „Azor”"
+            "Value": "Łazik"
         },
         {
             "Key": 2905387404,
@@ -41412,7 +41416,7 @@
         },
         {
             "Key": 2938726003,
-            "Value": "Psi oddech Azora"
+            "Value": "Psi oddech"
         },
         {
             "Key": 2939299459,
@@ -42304,7 +42308,7 @@
         },
         {
             "Key": 3321311549,
-            "Value": "„AZOR” GORĄCY PIES"
+            "Value": "GORĄCY PIES"
         },
         {
             "Key": 3322311510,
@@ -42888,7 +42892,7 @@
         },
         {
             "Key": 3575690541,
-            "Value": "ŁAZIK „AZOR”"
+            "Value": "ŁAZIK"
         },
         {
             "Key": 3575945766,
@@ -43752,7 +43756,7 @@
         },
         {
             "Key": 3939201276,
-            "Value": "„Azor”"
+            "Value": "Azor"
         },
         {
             "Key": 3939727225,
@@ -45439,6 +45443,10 @@
             "Value": "ZATOKA CHORT"
         },
         {
+            "Key": 346834056,
+            "Value": "KONIE WOJENNE"
+        },
+        {
             "Key": 354695563,
             "Value": "WALUTA"
         },
@@ -45801,6 +45809,10 @@
         {
             "Key": 628685971,
             "Value": "POWAGA"
+        },
+        {
+            "Key": 631381900,
+            "Value": "Konie wojenne"
         },
         {
             "Key": 632178296,
@@ -51356,7 +51368,7 @@
         },
         {
             "Key": 32367396,
-            "Value": "ODŁĄCZ ARTYLERIĘ ORBITALNĄ"
+            "Value": "ZNISZCZCIE DZIAŁO PRZECIWORBITALNE"
         },
         {
             "Key": 33739635,
@@ -51712,7 +51724,7 @@
         },
         {
             "Key": 359581454,
-            "Value": "Zniszcz bioprocesory."
+            "Value": "Zniszcz bioprocesory"
         },
         {
             "Key": 360320316,
@@ -51817,6 +51829,10 @@
         {
             "Key": 448085263,
             "Value": "Pochwal gracza"
+        },
+        {
+            "Key": 456226933,
+            "Value": "W tym miejscu znajduje się działo przeciworbitalne."
         },
         {
             "Key": 459832108,
@@ -52388,7 +52404,7 @@
         },
         {
             "Key": 878121724,
-            "Value": "W regionie odkryto dużą liczbę wojsk automatów."
+            "Value": "W tym miejscu zebrały się duże siły automatów."
         },
         {
             "Key": 893045708,
@@ -53080,7 +53096,7 @@
         },
         {
             "Key": 1404839977,
-            "Value": "Zniszcz działa orbitalne automatów znajdujące się w okolicy."
+            "Value": "Zniszczcie działa przeciworbitalne automatów na tym obszarze."
         },
         {
             "Key": 1405381893,
@@ -53436,7 +53452,7 @@
         },
         {
             "Key": 1673870250,
-            "Value": "Nasze dane wywiadowcze wskazują, że w tym miejscu automaty gromadzą amunicję."
+            "Value": "Dane wywiadowcze wskazują, że w tym miejscu automaty gromadzą amunicję."
         },
         {
             "Key": 1673923679,
@@ -53536,7 +53552,7 @@
         },
         {
             "Key": 1746702421,
-            "Value": "W tym regionie znajduje się baza powietrzna automatów. Serwisują w niej statki desantowe, które w tym czasie są narażone na atak."
+            "Value": "W tym miejscu zadokowane są statki desantowe automatów."
         },
         {
             "Key": 1748495489,
@@ -53580,7 +53596,7 @@
         },
         {
             "Key": 1770769441,
-            "Value": "Przez tę wieżę kontrolną przechodzi wszelka komunikacja ze statkami desantowymi. Zniszczenie jej uniemożliwi wysyłanie statków desantowych dalekiego zasięgu."
+            "Value": "Wieża kontrolna jest węzłem nieprzyjacielskich operacji powietrznych w tym regionie."
         },
         {
             "Key": 1773921075,
@@ -54180,7 +54196,7 @@
         },
         {
             "Key": 2241576450,
-            "Value": "ZNEUTRALIZUJ ORBITALNE STRUKTURY OBRONNE"
+            "Value": "ZNEUTRALIZUJCIE SYSTEMY OBRONNE ZIEMIA-ORBITA"
         },
         {
             "Key": 2245869430,
@@ -54836,7 +54852,7 @@
         },
         {
             "Key": 2684746728,
-            "Value": "Automaty korzystają na tym obszarze z wielkich dział orbitalnych, aby bombardować nasze Super Niszczyciele.\n \nNie możemy stracić przewagi powietrznej. Ruszaj w to miejsce i zniszcz wszelkie aktywne działa orbitalne."
+            "Value": "Automaty korzystają ze zmodyfikowanych dział o zasięgu orbitalnym, aby bombardować nasze Super Niszczyciele.\n \nNie możemy pozwolić na odebranie sobie dominacji w powietrzu. Ruszajcie na ten obszar i zniszczcie wszystkie aktywne działa przeciworbitalne."
         },
         {
             "Key": 2691266839,
@@ -56620,7 +56636,7 @@
         },
         {
             "Key": 4083735584,
-            "Value": "ZNISZCZ DZIAŁO"
+            "Value": "Wezwijcie hellbombę, aby zniszczyć działo przeciworbitalne"
         },
         {
             "Key": 4089331914,
@@ -61328,7 +61344,7 @@
         },
         {
             "Key": 2580213184,
-            "Value": "Bez ograniczeń"
+            "Value": "Bez limitu"
         },
         {
             "Key": 2582063161,
@@ -63832,7 +63848,7 @@
         },
         {
             "Key": 4193418343,
-            "Value": "BEZ OGRANICZEŃ"
+            "Value": "BEZ LIMITU"
         },
         {
             "Key": 4193953305,

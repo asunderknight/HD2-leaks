@@ -2783,6 +2783,10 @@
             "Value": "Garras"
         },
         {
+            "Key": 1716249415,
+            "Value": "Bateria antiaérea obstruindo"
+        },
+        {
             "Key": 1721241425,
             "Value": "Novas <c=FFFFE900>ESTRATÉGIAS</c> disponíveis para <c=FFFFE900>REQUISIÇÃO</c>. "
         },
@@ -10464,7 +10468,7 @@
         },
         {
             "Key": 1615718868,
-            "Value": "\"CÃO DE GUARDA\""
+            "Value": "CÃO DE GUARDA"
         },
         {
             "Key": 1617048491,
@@ -11772,7 +11776,7 @@
         },
         {
             "Key": 2184600406,
-            "Value": "\"Cão de Guarda\" Cachorro-quente"
+            "Value": "Cachorro-quente"
         },
         {
             "Key": 2184876447,
@@ -12540,7 +12544,7 @@
         },
         {
             "Key": 2499481182,
-            "Value": "BAFO DE \"CÃO DE GUARDA\""
+            "Value": "ESBAFORIDO"
         },
         {
             "Key": 2501206090,
@@ -12952,7 +12956,7 @@
         },
         {
             "Key": 2696171705,
-            "Value": "\"Cão de Guarda\" K-9"
+            "Value": "K-9"
         },
         {
             "Key": 2698304084,
@@ -13076,7 +13080,7 @@
         },
         {
             "Key": 2744645738,
-            "Value": "\"CÃO DE GUARDA\" K-9"
+            "Value": "K-9"
         },
         {
             "Key": 2744904675,
@@ -13500,7 +13504,7 @@
         },
         {
             "Key": 2902819083,
-            "Value": "\"Cão de Guarda\" Vigilante"
+            "Value": "Vigilante"
         },
         {
             "Key": 2905387404,
@@ -13596,7 +13600,7 @@
         },
         {
             "Key": 2938726003,
-            "Value": "Bafo de \"Cão de Guarda\""
+            "Value": "Esbaforido"
         },
         {
             "Key": 2939299459,
@@ -14488,7 +14492,7 @@
         },
         {
             "Key": 3321311549,
-            "Value": "\"CÃO DE GUARDA\" CACHORRO-QUENTE"
+            "Value": "CACHORRO-QUENTE"
         },
         {
             "Key": 3322311510,
@@ -15072,7 +15076,7 @@
         },
         {
             "Key": 3575690541,
-            "Value": "\"CÃO DE GUARDA\" VIGILANTE"
+            "Value": "VIGILANTE"
         },
         {
             "Key": 3575945766,
@@ -15936,7 +15940,7 @@
         },
         {
             "Key": 3939201276,
-            "Value": "\"Cão de Guarda\""
+            "Value": "Cão de Guarda"
         },
         {
             "Key": 3939727225,
@@ -16792,7 +16796,7 @@
         },
         {
             "Key": 32367396,
-            "Value": "DESATIVE A ARTILHARIA ORBITAL"
+            "Value": "DESTRUIR O CANHÃO ANTIORBITAL"
         },
         {
             "Key": 33739635,
@@ -17253,6 +17257,10 @@
         {
             "Key": 448085263,
             "Value": "Elogiar jogador"
+        },
+        {
+            "Key": 456226933,
+            "Value": "Há um canhão antiorbital posicionado no local."
         },
         {
             "Key": 459832108,
@@ -17824,7 +17832,7 @@
         },
         {
             "Key": 878121724,
-            "Value": "Há relatos de muitas tropas de Autômatos nesta região."
+            "Value": "Há uma concentração de unidades pesadas dos Autômatos no local."
         },
         {
             "Key": 893045708,
@@ -18516,7 +18524,7 @@
         },
         {
             "Key": 1404839977,
-            "Value": "Destrua os canhões orbitais dos Autômatos na área."
+            "Value": "Destrua os canhões antiorbitais dos Autômatos na área."
         },
         {
             "Key": 1405381893,
@@ -18972,7 +18980,7 @@
         },
         {
             "Key": 1746702421,
-            "Value": "Há uma base aérea dos Autômatos nesta região. A instalação abriga naves de carga em manutenção — ou seja, as naves estão vulneráveis."
+            "Value": "Há naves de carga dos Autômatos atracadas neste local."
         },
         {
             "Key": 1748495489,
@@ -19016,7 +19024,7 @@
         },
         {
             "Key": 1770769441,
-            "Value": "Todas as comunicações da nave de carga passam por esta torre de controle. Destruí-la impedirá o envio de naves de carga de longa distância."
+            "Value": "Essa torre de controle é o cerne das operações aéreas inimigas na região."
         },
         {
             "Key": 1773921075,
@@ -19616,7 +19624,7 @@
         },
         {
             "Key": 2241576450,
-            "Value": "NEUTRALIZAR DEFESAS ORBITAIS"
+            "Value": "NEUTRALIZAR AS DEFESAS TERRA-ÓRBITA"
         },
         {
             "Key": 2245869430,
@@ -20272,7 +20280,7 @@
         },
         {
             "Key": 2684746728,
-            "Value": "Os Autômatos estão usando canhões orbitais enormes nesta região para bombardear nossos Superdestróiers.\n \nNão podemos tolerar que nossa a superioridade aeroespacial seja desafiada. Vá ao local e destrua todos os canhões orbitais em operação."
+            "Value": "Os Autômatos estão usando canhões incrementados com alto alcance orbital para bombardear nossos Superdestróiers.\n \nNão podemos permitir essa afronta à nossa superioridade aeroespacial. Parta para a área e destrua todos os canhões antiorbitais ativos."
         },
         {
             "Key": 2691266839,
@@ -22056,7 +22064,7 @@
         },
         {
             "Key": 4083735584,
-            "Value": "DESTRUA O CANHÃO"
+            "Value": "Solicite uma Hellbomba para destruir o canhão antiorbital."
         },
         {
             "Key": 4089331914,
@@ -44631,6 +44639,10 @@
             "Value": "BAÍA CHORT"
         },
         {
+            "Key": 346834056,
+            "Value": "CAVALOS DE GUERRA"
+        },
+        {
             "Key": 354695563,
             "Value": "MOEDA"
         },
@@ -44993,6 +45005,10 @@
         {
             "Key": 628685971,
             "Value": "SEVERINA"
+        },
+        {
+            "Key": 631381900,
+            "Value": "Cavalos de Guerra"
         },
         {
             "Key": 632178296,
@@ -60412,7 +60428,7 @@
         },
         {
             "Key": 1999064883,
-            "Value": "CENTRO DE CONFINAMENTO DE DISSIDÊNCIA (CECOD)"
+            "Value": "CENTRO DE CONTENÇÃO DA DISSIDÊNCIA (CECOD)"
         },
         {
             "Key": 1999507042,

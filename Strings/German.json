@@ -5132,7 +5132,7 @@
         },
         {
             "Key": 1615718868,
-            "Value": "„GUARD DOG“"
+            "Value": "GUARD DOG"
         },
         {
             "Key": 1617048491,
@@ -6440,7 +6440,7 @@
         },
         {
             "Key": 2184600406,
-            "Value": "„Guard Dog“-Hotdog"
+            "Value": "Hotdog"
         },
         {
             "Key": 2184876447,
@@ -7208,7 +7208,7 @@
         },
         {
             "Key": 2499481182,
-            "Value": "„GUARD DOG“-HUNDE-ATEM"
+            "Value": "HUNDEATEM"
         },
         {
             "Key": 2501206090,
@@ -7620,7 +7620,7 @@
         },
         {
             "Key": 2696171705,
-            "Value": "„Wachhund“ K-9"
+            "Value": "K-9"
         },
         {
             "Key": 2698304084,
@@ -7744,7 +7744,7 @@
         },
         {
             "Key": 2744645738,
-            "Value": "„WACHHUND“ K-9"
+            "Value": "K-9"
         },
         {
             "Key": 2744904675,
@@ -8168,7 +8168,7 @@
         },
         {
             "Key": 2902819083,
-            "Value": "„Guard Dog“-Rover"
+            "Value": "Rover"
         },
         {
             "Key": 2905387404,
@@ -8264,7 +8264,7 @@
         },
         {
             "Key": 2938726003,
-            "Value": "„Guard Dog“-Hunde-atem"
+            "Value": "Hundeatem"
         },
         {
             "Key": 2939299459,
@@ -9156,7 +9156,7 @@
         },
         {
             "Key": 3321311549,
-            "Value": "„GUARD DOG“-HOTDOG"
+            "Value": "HOTDOG"
         },
         {
             "Key": 3322311510,
@@ -9740,7 +9740,7 @@
         },
         {
             "Key": 3575690541,
-            "Value": "„GUARD DOG“-ROVER"
+            "Value": "ROVER"
         },
         {
             "Key": 3575945766,
@@ -10604,7 +10604,7 @@
         },
         {
             "Key": 3939201276,
-            "Value": "„Guard Dog“"
+            "Value": "Guard Dog"
         },
         {
             "Key": 3939727225,
@@ -11724,7 +11724,7 @@
         },
         {
             "Key": 258430200,
-            "Value": "Zeit für <i=1>Adler – Reaktivierung</i> ist auf diesem Planeten <i=1>#AMOUNT</i> Sekunden langsamer."
+            "Value": "Zeit für <i=1>Adler – Auffüllen</i> ist auf diesem Planeten <i=1>#AMOUNT</i> Sekunden langsamer."
         },
         {
             "Key": 265269866,
@@ -12008,7 +12008,7 @@
         },
         {
             "Key": 493602973,
-            "Value": "ADLER – REAKTIVIERUNG SCHNELLER"
+            "Value": "ADLER – AUFFÜLLEN SCHNELLER"
         },
         {
             "Key": 496937874,
@@ -12360,7 +12360,7 @@
         },
         {
             "Key": 798143765,
-            "Value": "ADLER – REAKTIVIERUNG LANGSAMER"
+            "Value": "ADLER – AUFFÜLLEN LANGSAMER"
         },
         {
             "Key": 800984942,
@@ -12536,7 +12536,7 @@
         },
         {
             "Key": 926675872,
-            "Value": "Zeit für <i=1>Adler – Reaktivierung</i> ist auf diesem Planeten <i=1>#AMOUNT</i> Sekunden schneller."
+            "Value": "Zeit für <i=1>Adler – Auffüllen</i> ist auf diesem Planeten <i=1>#AMOUNT</i> Sekunden schneller."
         },
         {
             "Key": 929394276,
@@ -12640,7 +12640,7 @@
         },
         {
             "Key": 999030979,
-            "Value": "Zeit für <i=1>Adler – Reaktivierung</i> ist auf allen Planeten <i=1>#V_ONE</i> Sekunden schneller."
+            "Value": "Zeit für <i=1>Adler – Auffüllen</i> ist auf allen Planeten <i=1>#V_ONE</i> Sekunden schneller."
         },
         {
             "Key": 1004277842,
@@ -13484,7 +13484,7 @@
         },
         {
             "Key": 1710418119,
-            "Value": "ADLER – REAKTIVIERUNG SCHNELLER"
+            "Value": "ADLER – AUFFÜLLEN SCHNELLER"
         },
         {
             "Key": 1711370733,
@@ -14684,7 +14684,7 @@
         },
         {
             "Key": 2646332237,
-            "Value": "ADLER – REAKTIVIERUNG LANGSAMER"
+            "Value": "ADLER – AUFFÜLLEN LANGSAMER"
         },
         {
             "Key": 2648438993,
@@ -15988,7 +15988,7 @@
         },
         {
             "Key": 3711039703,
-            "Value": "Zeit für <i=1>Adler – Reaktivierung</i> ist auf allen Planeten <i=1>#V_ONE</i> Sekunden langsamer."
+            "Value": "Zeit für <i=1>Adler – Auffüllen</i> ist auf allen Planeten <i=1>#V_ONE</i> Sekunden langsamer."
         },
         {
             "Key": 3714868912,
@@ -44232,7 +44232,7 @@
         },
         {
             "Key": 3818832657,
-            "Value": "Die Abklingzeit für „Adler – Reaktivierung“ wird nach Anforderung um <i=1>#VALUE %</i> reduziert, während die Einsätze des Adlers noch andauern."
+            "Value": "Die Abklingzeit für „Adler – Auffüllen“ wird nach Anforderung um <i=1>#VALUE %</i> reduziert, während die Einsätze des Adlers noch andauern."
         },
         {
             "Key": 3819890633,
@@ -46056,7 +46056,7 @@
         },
         {
             "Key": 32367396,
-            "Value": "DIE ORBITALE ARTILLERIE AUSSCHALTEN"
+            "Value": "ORBITALABWEHRKANONEN ZERSTÖREN"
         },
         {
             "Key": 33739635,
@@ -46412,7 +46412,7 @@
         },
         {
             "Key": 359581454,
-            "Value": "Zerstöre die Bio-Prozessoren."
+            "Value": "Zerstöre die Bio-Prozessoren"
         },
         {
             "Key": 360320316,
@@ -46517,6 +46517,10 @@
         {
             "Key": 448085263,
             "Value": "Spieler loben"
+        },
+        {
+            "Key": 456226933,
+            "Value": "Eine Orbitalabwehrkanone ist an diesem Standort positioniert."
         },
         {
             "Key": 459832108,
@@ -47084,7 +47088,7 @@
         },
         {
             "Key": 878121724,
-            "Value": "In der Region wurde eine große Anzahl von Roboter-Truppen gemeldet."
+            "Value": "An diesem Ort haben sich viele Roboter-Streitkräfte versammelt."
         },
         {
             "Key": 893045708,
@@ -47776,7 +47780,7 @@
         },
         {
             "Key": 1404839977,
-            "Value": "Zerstöre die Orbitalkanone der Roboter in der Gegend."
+            "Value": "Zerstöre die Orbitalabwehrkanonen der Roboter in der Gegend."
         },
         {
             "Key": 1405381893,
@@ -48132,7 +48136,7 @@
         },
         {
             "Key": 1673870250,
-            "Value": "Unseren Informationen zufolge horten die Roboter hier Munition."
+            "Value": "Informationen zufolge horten die Roboter hier Munition."
         },
         {
             "Key": 1673923679,
@@ -48232,7 +48236,7 @@
         },
         {
             "Key": 1746702421,
-            "Value": "In dieser Region befindet sich eine Roboter-Flugbasis. Dort werden Landungsschiffe gewartet, wodurch sie angreifbar sind."
+            "Value": "Roboter-Landungsschiffe haben an dieser Position angelegt."
         },
         {
             "Key": 1748495489,
@@ -48276,7 +48280,7 @@
         },
         {
             "Key": 1770769441,
-            "Value": "Die Kommunikation sämtlicher Landungsschiffe wird durch diesen Kontrollturm geleitet. Seine Zerstörung würde Landungsschiffeinsätze über größere Distanz unmöglich machen."
+            "Value": "Dieser Kontrollturm ist das Herzstück der feindlichen Lufteinsätze in der Region."
         },
         {
             "Key": 1773921075,
@@ -48876,7 +48880,7 @@
         },
         {
             "Key": 2241576450,
-            "Value": "ORBITALE VERTEIDIGUNG NEUTRALISIEREN"
+            "Value": "BODEN-ORBIT-VERTEIDIGUNGEN NEUTRALISIEREN"
         },
         {
             "Key": 2245869430,
@@ -49532,7 +49536,7 @@
         },
         {
             "Key": 2684746728,
-            "Value": "Die Roboter nutzen in diesem Gebiet große Orbitalkanonen, um unsere Über-Zerstörer zu bombardieren.\n\nWir dürfen nicht zulassen, dass unsere Überlegenheit im Luftraum angefochten wird. Begib dich in das Einsatzgebiet und zerstöre aktive Orbitalkanonen."
+            "Value": "Die Roboter nutzen verstärkte Kanonen mit hoher Reichweite, um unsere Über-Zerstörer zu bombardieren.\n \nWir dürfen nicht zulassen, dass unsere Überlegenheit im Luftraum angefochten wird. Begib dich in das Einsatzgebiet und zerstöre alle aktiven Orbitalabwehrkanonen."
         },
         {
             "Key": 2691266839,
@@ -51304,7 +51308,7 @@
         },
         {
             "Key": 4083735584,
-            "Value": "KANONE ZERSTÖREN"
+            "Value": "Höllenbombe anfordern, um die Orbitalabwehrkanonen zu zerstören"
         },
         {
             "Key": 4089331914,
@@ -51991,6 +51995,10 @@
             "Value": "CHORT BAY"
         },
         {
+            "Key": 346834056,
+            "Value": "STREITROSSE"
+        },
+        {
             "Key": 354695563,
             "Value": "CURRENCY"
         },
@@ -52353,6 +52361,10 @@
         {
             "Key": 628685971,
             "Value": "SEVERITY"
+        },
+        {
+            "Key": 631381900,
+            "Value": "Streitrosse"
         },
         {
             "Key": 632178296,
@@ -59909,6 +59921,10 @@
         {
             "Key": 1715788834,
             "Value": "Klauen"
+        },
+        {
+            "Key": 1716249415,
+            "Value": "Durch Luftabwehr aufgehalten"
         },
         {
             "Key": 1721241425,

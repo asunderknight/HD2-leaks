@@ -17,6 +17,7 @@
 0x67dc32dca4f02d33: inate/cha_meatglue/cha_meatglue
 0x6b202392f4ab605e: a_charger_acid/cha_charger_acid
 0x72a83e49ced6db3d: r_spitter/cha_scavenger_spitter
+0x746a7f3beda32699: g_elite/cha_cyborg_elite_rusher
 0x78e1497571012c47: ate/cha_corrupted/cha_corrupted
 0x79e4b3d2da5e45e3: les/combat_walker/combat_walker
 0x7a3637cd33a54e4c: c_super_earth/cha_seaf/cha_seaf
@@ -28,6 +29,7 @@
 0x9872e66d1276e1f: ac_bugs/cha_warrior/cha_warrior
 0x9ba9f700137c6325: _backpack/minigun_backpack_hose
 0x9e2e17f2ccccafdd: ac_bugs/cha_strider/cha_strider
+0x9f44121c554dae89: a_cyborg_elite/cha_elite_female
 0x9f57782f00e6ed20: ript/cha_conscript_ivory_legion
 0xa1f37bf2a40fbde4: a_warrior_plus/cha_warrior_plus
 0xa35207c6f2150806: r_burrower/cha_warrior_burrower
@@ -37,6 +39,7 @@
 0xa71aafd82c6ebc92: mmander/cha_conscript_commander
 0xaab438596f5e8fd9: predator/cha_scavenger_predator
 0xab7b92b131c228c: r_burrower/cha_charger_burrower
+0xabdc3c3c4eb8e1ee: cyborg_siege_engine_sarcophagus
 0xac60e78435098c9d: inate/cha_observer/cha_observer
 0xadc9f9173ad8e1d: /cha_corrupted/cha_corrupted_v2
 0xae63e525853d7044: cyborgs/cha_soldier/cha_soldier
@@ -44,6 +47,7 @@
 0xb16493b009eec762: _assault/cha_lieutenant_assault
 0xb2b3056bdf28e57b: rgs/cha_conscript/cha_conscript
 0xbe39e313a1e46bb9: /cha_warrior/cha_warrior_tier_1
+0xbf7082f0287c254f: _grenade_launcher_backpack_hose
 0xc14e0e887e7d2106: ugs/cha_scavenger/cha_scavenger
 0xc28b3482e73d1ea9: a_hunter/cha_hunter_gloom_tier1
 0xc2d449ecf7facab1: obsidian/combat_walker_obsidian

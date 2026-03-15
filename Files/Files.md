@@ -1,13 +1,13 @@
-# Files
+# Files Master Index
 
 | Category | New | Edited | Removed |
 |------|-----|------|------|
-| [animations](animations/files.md) | [361](animations/new_files.md) | [118](animations/edited_files.md) | [3](animations/removed_files.md) |
-| [images](images/files.md) | [875](images/new_files.md) | [137](images/edited_files.md) | [167](images/removed_files.md) |
-| [materials](materials/files.md) | [1547](materials/new_files.md) | [231](materials/edited_files.md) | [347](materials/removed_files.md) |
-| [models](models/files.md) | [2107](models/new_files.md) | [807](models/edited_files.md) | [30725](models/removed_files.md) |
-| [raw_files](raw_files/files.md) | [1](raw_files/new_files.md) | [30](raw_files/edited_files.md) | [15796](raw_files/removed_files.md) |
-| [sound_banks](sound_banks/files.md) | [0](sound_banks/new_files.md) | [2](sound_banks/edited_files.md) | [373](sound_banks/removed_files.md) |
-| [sounds](sounds/files.md) | [7](sounds/new_files.md) | [123](sounds/edited_files.md) | [14228](sounds/removed_files.md) |
-| [world_prefabs](world_prefabs/files.md) | [0](world_prefabs/new_files.md) | [1](world_prefabs/edited_files.md) | [576](world_prefabs/removed_files.md) |
-| [worlds](worlds/files.md) | [0](worlds/new_files.md) | [2](worlds/edited_files.md) | [1561](worlds/removed_files.md) |
+| [animations](animations/files.md) | [0](animations/changes/new_files.md) | [0](animations/changes/edited_files.md) | [0](animations/changes/removed_files.md) |
+| [images](images/files.md) | [0](images/changes/new_files.md) | [0](images/changes/edited_files.md) | [0](images/changes/removed_files.md) |
+| [materials](materials/files.md) | [0](materials/changes/new_files.md) | [0](materials/changes/edited_files.md) | [0](materials/changes/removed_files.md) |
+| [models](models/files.md) | [0](models/changes/new_files.md) | [0](models/changes/edited_files.md) | [0](models/changes/removed_files.md) |
+| [raw_files](raw_files/files.md) | [0](raw_files/changes/new_files.md) | [0](raw_files/changes/edited_files.md) | [0](raw_files/changes/removed_files.md) |
+| [sound_banks](sound_banks/files.md) | [0](sound_banks/changes/new_files.md) | [0](sound_banks/changes/edited_files.md) | [0](sound_banks/changes/removed_files.md) |
+| [sounds](sounds/files.md) | [0](sounds/changes/new_files.md) | [0](sounds/changes/edited_files.md) | [0](sounds/changes/removed_files.md) |
+| [world_prefabs](world_prefabs/files.md) | [0](world_prefabs/changes/new_files.md) | [0](world_prefabs/changes/edited_files.md) | [0](world_prefabs/changes/removed_files.md) |
+| [worlds](worlds/files.md) | [0](worlds/changes/new_files.md) | [0](worlds/changes/edited_files.md) | [0](worlds/changes/removed_files.md) |

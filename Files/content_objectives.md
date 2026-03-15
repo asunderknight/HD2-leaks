@@ -1,4 +1,0 @@
-# content\objectives
-
-| File | Size |
-|------|------|

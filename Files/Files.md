@@ -1,34 +1,14 @@
 # Files
 
-| Folder | File Count | Size |
+| Category | File Count | Size |
 |------|------|------|
-| [content](content.md) | 0 | 0.00 B |
-| [content\fac_bugs](content_fac_bugs.md) | 0 | 0.00 B |
-| [content\fac_bugs\cha_hive_lord](content_fac_bugs_cha_hive_lord.md) | 2 | 712.27 MB |
-| [content\fac_cyborgs](content_fac_cyborgs.md) | 0 | 0.00 B |
-| [content\fac_cyborgs\cha_conscript](content_fac_cyborgs_cha_conscript.md) | 1 | 256.11 MB |
-| [content\fac_cyborgs\cha_cyborg_elite](content_fac_cyborgs_cha_cyborg_elite.md) | 2 | 842.62 MB |
-| [content\fac_cyborgs\cha_lieutenant_assault](content_fac_cyborgs_cha_lieutenant_assault.md) | 1 | 191.92 MB |
-| [content\fac_cyborgs\equipment](content_fac_cyborgs_equipment.md) | 0 | 0.00 B |
-| [content\fac_cyborgs\equipment\backpacks](content_fac_cyborgs_equipment_backpacks.md) | 0 | 0.00 B |
-| [content\fac_cyborgs\equipment\backpacks\conscript_jumppack](content_fac_cyborgs_equipment_backpacks_conscript_jumppack.md) | 1 | 75.84 MB |
-| [content\fac_cyborgs\equipment\weapons](content_fac_cyborgs_equipment_weapons.md) | 0 | 0.00 B |
-| [content\fac_cyborgs\equipment\weapons\lieutenant_cannon](content_fac_cyborgs_equipment_weapons_lieutenant_cannon.md) | 1 | 78.04 MB |
-| [content\fac_cyborgs\turrets](content_fac_cyborgs_turrets.md) | 0 | 0.00 B |
-| [content\fac_cyborgs\turrets\cyborg_big_walker_turret_cannon](content_fac_cyborgs_turrets_cyborg_big_walker_turret_cannon.md) | 2 | 157.61 MB |
-| [content\fac_cyborgs\turrets\cyborg_tank_turret_autocannons](content_fac_cyborgs_turrets_cyborg_tank_turret_autocannons.md) | 1 | 84.59 MB |
-| [content\fac_cyborgs\vehicles](content_fac_cyborgs_vehicles.md) | 0 | 0.00 B |
-| [content\fac_cyborgs\vehicles\cyborg_siege_engine](content_fac_cyborgs_vehicles_cyborg_siege_engine.md) | 1 | 134.18 MB |
-| [content\fac_helldivers](content_fac_helldivers.md) | 0 | 0.00 B |
-| [content\fac_helldivers\vehicles](content_fac_helldivers_vehicles.md) | 0 | 0.00 B |
-| [content\fac_helldivers\vehicles\combat_walker_obsidian](content_fac_helldivers_vehicles_combat_walker_obsidian.md) | 1 | 203.63 MB |
-| [content\fac_illuminate](content_fac_illuminate.md) | 0 | 0.00 B |
-| [content\fac_illuminate\cha_beamer_champion](content_fac_illuminate_cha_beamer_champion.md) | 1 | 165.87 MB |
-| [content\fac_illuminate\cha_tripod](content_fac_illuminate_cha_tripod.md) | 1 | 170.70 MB |
-| [content\objectives](content_objectives.md) | 0 | 0.00 B |
-| [content\objectives\obj_cyborgs](content_objectives_obj_cyborgs.md) | 0 | 0.00 B |
-| [content\objectives\obj_cyborgs\cyborg_orbital_cannon](content_objectives_obj_cyborgs_cyborg_orbital_cannon.md) | 1 | 105.13 MB |
-| [content\objectives\obj_illuminate](content_objectives_obj_illuminate.md) | 0 | 0.00 B |
-| [content\objectives\obj_illuminate\il_mothership](content_objectives_obj_illuminate_il_mothership.md) | 1 | 103.50 MB |
-| [root](root.md) | 234 | 3.84 GB |
-| [test](test.md) | 0 | 0.00 B |
+| [animations](animations.md) | 10342 | 649.33 MB |
+| [images](images.md) | 14459 | 12.27 GB |
+| [materials](materials.md) | 38749 | 50.89 GB |
+| [models](models.md) | 70414 | 66.75 GB |
+| [raw_files](raw_files.md) | 15842 | 10.28 GB |
+| [root](root.md) | 0 | 0.00 B |
+| [sound_banks](sound_banks.md) | 375 | 1.41 GB |
+| [sounds](sounds.md) | 14353 | 16.29 GB |
+| [world_prefabs](world_prefabs.md) | 578 | 988.70 KB |
+| [worlds](worlds.md) | 1563 | 39.32 MB |

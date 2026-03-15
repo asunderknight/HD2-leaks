@@ -1,4 +1,4 @@
 # sound_banks Edited Files
 
-~ 0x10f1cd84d8fe7a2e.bnk | 16.00 B → 425.55 KB | Δ 425.54 KB
-~ 0x10669d0b78d10aa3.bnk | 16.00 B → 57.60 KB | Δ 57.58 KB
+~ 0x10f1cd84d8fe7a2e.bnk | 425.55 KB → 16.00 B | Δ -435751.00 B
+~ 0x10669d0b78d10aa3.bnk | 57.60 KB → 16.00 B | Δ -58966.00 B

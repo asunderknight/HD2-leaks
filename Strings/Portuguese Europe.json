@@ -219,6 +219,10 @@
             "Value": "{0.00->3.47}Este mundo precisa da tua justa exterminação, Helldiver."
         },
         {
+            "Key": 31517129,
+            "Value": "{0.00->1.74}Fica atento naquelas ruínas Iluminadas.{2.12->4.43}Elas podem ter vários tipos de propaganda.{4.92->6.67}Não olhes, arrebenta logo com elas."
+        },
+        {
             "Key": 32012322,
             "Value": "{0.00->3.27}Helldiver. Enfrentas um Tirano da Colmeia.{4.26->6.02}Que a Liberdade te guie."
         },
@@ -1311,6 +1315,10 @@
             "Value": "{0.02->1.69}A vitória aguarda-nos!"
         },
         {
+            "Key": 235752768,
+            "Value": "{0.00->4.74}Eu não acredito que as Exo-Tempestades sejam a última etapa dos planos dos Iluminados.{5.27->5.91}Não...{6.29->10.28}eu temo que sejam só o prenúncio de algo bem pior."
+        },
+        {
             "Key": 236182695,
             "Value": "{0.00->2.17}Eles vão tanto para Ciberestão como para a Super Terra?{3.10->7.34}Bem, a Liberdade tem dois punhos, e ela é ambidestra."
         },
@@ -1581,6 +1589,10 @@
         {
             "Key": 292516086,
             "Value": "{0.00->2.68}Ver os Helldivers em ação é ótimo para a moral da tripulação.{3.24->4.41}É ainda melhor do que a execução {4.87->6.25}de um dissidente."
+        },
+        {
+            "Key": 293249345,
+            "Value": "{0.00->0.93}Eles caíram,{1.55->4.76}mas também evitaram a propagação da sombra da Tirania."
         },
         {
             "Key": 294047144,
@@ -2041,6 +2053,10 @@
         {
             "Key": 371871080,
             "Value": "{0.01->0.56}A embarcar!"
+        },
+        {
+            "Key": 372914379,
+            "Value": "{0.00->1.31}Estas ruínas Iluminadas,{2.29->4.62}são iguais a um pesadelo que costumava ter..."
         },
         {
             "Key": 373891083,
@@ -3331,6 +3347,10 @@
             "Value": "{0.00->0.75}Preciso de I.C.E. arrefecido"
         },
         {
+            "Key": 596262931,
+            "Value": "{0.00->2.10}O vazio Iluminado está-se a espalhar. {2.28->5.27}Se não for parado, poderá engolir a nossa Galáxia inteira...{5.43->9.64}a única Galáxia que é verdadeiramente Boa, Pura e Livre."
+        },
+        {
             "Key": 597506676,
             "Value": "{0.03->0.79}Sudeste."
         },
@@ -3559,8 +3579,16 @@
             "Value": "{0.00->0.52}Quinto."
         },
         {
+            "Key": 645552785,
+            "Value": "{0.00->4.82}Os Exo-Pináculos Iluminados erguem-se das ruínas descobertas.{5.31->9.10}Devíamos de os ter arrancado pelas raízes logo desde o início."
+        },
+        {
             "Key": 645674399,
             "Value": "{0.02->0.51}1!"
+        },
+        {
+            "Key": 645845828,
+            "Value": "{0.00->5.69}Quando os Iluminados forem erradicados deste planeta, estes heróis serão lembrados."
         },
         {
             "Key": 646871672,
@@ -3917,6 +3945,10 @@
         {
             "Key": 715974613,
             "Value": "{0.00->0.95}Benefício tático."
+        },
+        {
+            "Key": 716019345,
+            "Value": "{0.00->5.03}As ruínas Iluminadas são património histórico da humanidade, as quais contêm conhecimento antigo.{5.40->8.09}Conhecimento sobre tiranos cefalópodes!{8.53->10.83}Eles têm de ser destruídos!"
         },
         {
             "Key": 716728210,
@@ -4823,6 +4855,10 @@
             "Value": "{0.00->1.20}Pacote adquirido."
         },
         {
+            "Key": 884338674,
+            "Value": "{0.00->5.67}Arrasa os seus Exo-Pináculos. Salva a galáxia desta ameaça misteriosa."
+        },
+        {
             "Key": 885276144,
             "Value": "{0.03->0.64}Corram!"
         },
@@ -5223,6 +5259,10 @@
             "Value": "{0.00->3.70}Mas acabaram por o tirar. De que vale ter um jogo dentro de outro jogo?"
         },
         {
+            "Key": 949395652,
+            "Value": "{7.49->11.07}Saudações da Liberdade; eu sou a Coretta Kelly.{11.54->14.66}A Galáxia voltou a ser atingida por uma tragédia.{15.12->19.99}Um fenómeno intergaláctico estranho criado pelos Exo-Pináculos{19.99->24.59}Iluminados lançou planetas inteiros para uma escuridão impenetrável.{25.32->28.83}Esta área estranha foi denominada de \"O Vazio.\"{29.40->34.69}O Vazio não emite nem reflete luz, nem nenhum outro tipo de sinal conhecido.{35.19->38.17}As sondas enviadas lá para dentro não regressaram.{38.78->42.32}Os Iluminados continuam a sua construção dos Exo-Pináculos,{42.47->47.08}os quais agora sabemos são a forma pela qual o Vazio é criado.{47.35->52.18}Quando forem construídos Exo-Pináculos suficientes em planetas próximos uns dos outros, eles, {52.22->58.17}e o espaço entre eles, tornam-se envoltos pelo Vazio e os planetas ficam escondidos.{59.27->61.06}Para enfrentar esta ameaça trágica,{61.47->64.32}os Helldivers foram ordenados a dar prioridade a todos os{64.32->69.54}esforços para impedir a construção de Exo-Pináculos,{69.54->72.08}enquanto os especialistas do Ministério da Ciência se apressam{72.08->75.92}para descobrir mais sobre esta nova ameaça etérea.{76.13->79.62}Estas foram as Últimas da Liberdade, eu sou a Coretta Kelly."
+        },
+        {
             "Key": 949581385,
             "Value": "{0.00->2.56}O reino de terror dos Iluminados termina hoje."
         },
@@ -5353,6 +5393,10 @@
         {
             "Key": 978756581,
             "Value": "{0.00->2.39}Eu nunca visitei a Super Terra,{2.88->5.24} mas ouvi dizer que é ainda mais espetacular em pessoa."
+        },
+        {
+            "Key": 978955047,
+            "Value": "{0.00->2.43}Bem, aquelas Exo-Tempestades Iluminadas assustam-me.{4.33->9.82}Fazem-me lembrar os tornados de fogo de Hellmire, só que mais escuras, e mais resistentes à verdade."
         },
         {
             "Key": 979105192,
@@ -5869,6 +5913,10 @@
         {
             "Key": 1095060142,
             "Value": "{0.01->1.85}Democracia Liderada em ação!"
+        },
+        {
+            "Key": 1095223927,
+            "Value": "{0.00->5.41}Aumentaram os relatórios de desaparecimento de cidadãos após o aparecimento do Vazio.{6.16->7.95}Um desenvolvimento preocupante."
         },
         {
             "Key": 1095755534,
@@ -6899,6 +6947,10 @@
             "Value": "{0.00->1.95}A ativar propulsores orbitais."
         },
         {
+            "Key": 1279591587,
+            "Value": "{0.00->3.24}Aqueles Exo-Pináculos são mesmo feios.{3.74->6.45}Nota-se que não foram construídos por uma espécie civilizada.{7.39->8.89}Para começar, precisam de mais bandeiras."
+        },
+        {
             "Key": 1279870488,
             "Value": "{0.00->3.47}Quem poderá dizer quando a primeira estrela foi acesa?{4.20->11.15}Qual é a essência da Democracia? Quando o Espaço é verdadeiramente Livre?{12.63->13.71}Nós podemos.{14.53->16.81}O vosso governo pode."
         },
@@ -7001,6 +7053,10 @@
         {
             "Key": 1291143166,
             "Value": "{0.02->2.83}Doce, doce Liberdade...!"
+        },
+        {
+            "Key": 1292072971,
+            "Value": "{0.00->4.65}A chamada do Vazio caça aqueles cuja lealdade é fraca.{5.45->10.76}Nós que somos firmes na nossa convicção, não temos nada a temer."
         },
         {
             "Key": 1295347517,
@@ -7309,6 +7365,10 @@
         {
             "Key": 1356808669,
             "Value": "{0.00->0.89}A bateria está esgotada!"
+        },
+        {
+            "Key": 1358804309,
+            "Value": "{7.34->10.46}Saudações da Liberdade; eu sou a Coretta Kelly.{11.07->14.12}Nova atividade estranha nas linhas da frente Iluminadas.{14.47->18.62}Torres que se elevaram de ruínas antigas dos Iluminados parecem estar a criar{18.62->23.51}enormes perturbações atmosféricas denominadas de \"Exo-Tempestades.\"{24.01->29.44}Acredita-se que as Exo-Tempestades são apenas um efeito secundário da atividade dos Exo-Pináculos.{29.79->34.36}Astrónomos do Ministério da Ciência observaram \"oscilações\" gravitacionais{34.36->39.42}entre planetas com Exo-Pináculos—prova de uma espécie de ligação.{40.22->43.93}Os Helldivers foram mobilizados para interditar a atividade{43.93->48.19}Iluminada e impedir a construção de mais Exo-Pináculos.{48.58->52.12}Estas foram as Últimas da Liberdade, eu sou a Coretta Kelly."
         },
         {
             "Key": 1359494598,
@@ -8223,6 +8283,10 @@
             "Value": "{0.00->2.43}Não se preocupem—os Helldivers estão a proteger-nos!"
         },
         {
+            "Key": 1535096373,
+            "Value": "{0.00->3.42}Eles morreram a salvar este planeta da escuridão."
+        },
+        {
             "Key": 1535384843,
             "Value": "{0.02->1.34}Que a Democracia me salve!"
         },
@@ -8233,6 +8297,10 @@
         {
             "Key": 1536846787,
             "Value": "{0.00->2.69}Lamentem, e depois mutilem."
+        },
+        {
+            "Key": 1536900363,
+            "Value": "{0.00->1.78}É como temíamos.{2.21->4.98}Os Cidadãos estão a desaparecer na Fratura.{5.54->9.39}Eles escondem-se dos seus locais de trabalho adorados sem qualquer aviso,{9.79->14.84}e vagueiam pelo território subdesenvolvido para serem raptados pelos Iluminados."
         },
         {
             "Key": 1537300583,
@@ -8355,6 +8423,10 @@
             "Value": "{0.00->0.95}Liberdade!"
         },
         {
+            "Key": 1566858094,
+            "Value": "{0.00->4.48}Todo este tempo, aquelas ruínas antigas possuíam a capacidade de criar Exo-Tempestades.{5.19->7.74}Faz-nos pensar melhor sobre todas aquelas excursões escolares."
+        },
+        {
             "Key": 1569977842,
             "Value": "{0.00->2.46}Protegerei o nosso estilo de vida."
         },
@@ -8405,6 +8477,10 @@
         {
             "Key": 1582119489,
             "Value": "{0.02->0.80}Absolutamente!"
+        },
+        {
+            "Key": 1582515563,
+            "Value": "{0.00->3.83}Um vazio Iluminado, cheio de nada, sem luz, sem verdade...{4.34->6.43}Só escuridão pura."
         },
         {
             "Key": 1583680912,
@@ -8501,6 +8577,10 @@
         {
             "Key": 1606841079,
             "Value": "{0.00->1.50}Acordem, soldados!"
+        },
+        {
+            "Key": 1608934323,
+            "Value": "{0.00->4.57}Quando os Iluminados constroem Exo-Pináculos em planetas em formação...{5.67->9.07}tudo que se encontre no meio deles é engolido pelo Vazio.{9.82->12.29}Eles e os seus esquemas traiçoeiros..."
         },
         {
             "Key": 1609207012,
@@ -8727,6 +8807,10 @@
             "Value": "{0.73->3.91}Vocês não podem ferir a Democracia!"
         },
         {
+            "Key": 1649881830,
+            "Value": "{0.00->2.79}Quando os Iluminados ergueram os seus Exo-Pináculos,{2.79->5.74}eles conseguiram influenciar o tecido do espaço-tempo.{6.50->9.76}Quando é que eles vão parar de tentar manipular forças que não compreendem?"
+        },
+        {
             "Key": 1649908251,
             "Value": "{0.00->1.16}Digam-me onde está o inimigo."
         },
@@ -8789,6 +8873,10 @@
         {
             "Key": 1663208570,
             "Value": "{0.02->1.83}MORTE A TODAS AS LULAS!"
+        },
+        {
+            "Key": 1664108530,
+            "Value": "{0.00->3.31}Os Iluminados desejam mergulhar este planeta na escuridão.{3.69->5.22}Eles têm de ser parados!"
         },
         {
             "Key": 1664144747,
@@ -9563,6 +9651,10 @@
             "Value": "{0.00->0.93}Super Terra"
         },
         {
+            "Key": 1809599170,
+            "Value": "{0.00->4.37}Não vamos permitir que o Vazio roube planetas aos nossos cidadãos."
+        },
+        {
             "Key": 1811469408,
             "Value": "{0.00->1.57}O sistema Porto Kneth"
         },
@@ -9813,6 +9905,10 @@
         {
             "Key": 1870294809,
             "Value": "{0.02->0.89}Aquí!"
+        },
+        {
+            "Key": 1870433910,
+            "Value": "{0.00->3.92}Os Iluminados vão pagar bem caro pelas suas maquinações."
         },
         {
             "Key": 1870625963,
@@ -10827,6 +10923,10 @@
             "Value": "{0.00->0.89}Apanhei um."
         },
         {
+            "Key": 2080089745,
+            "Value": "{0.00->0.76}Helldiver.{1.24->8.40}Locais de ruínas Iluminadas antigas, há muito abandonadas, batucam agora com atividade despótica."
+        },
+        {
             "Key": 2080289688,
             "Value": "{0.02->0.79}Compreendido."
         },
@@ -11393,6 +11493,10 @@
         {
             "Key": 2197895855,
             "Value": "{0.07->1.39}O sistema Oasis"
+        },
+        {
+            "Key": 2197910828,
+            "Value": "{0.00->3.68}Este planeta está a deslizar cada vez mais perto da escuridão."
         },
         {
             "Key": 2198770594,
@@ -12415,6 +12519,10 @@
             "Value": "{0.00->0.48}Estou fora!"
         },
         {
+            "Key": 2392568362,
+            "Value": "{0.00->2.78}O véu dos Iluminados continua a aumentar."
+        },
+        {
             "Key": 2393312537,
             "Value": "{0.00->1.57}O sistema Pico da Liberdade"
         },
@@ -13179,12 +13287,20 @@
             "Value": "{0.04->2.38}Sai de cima de mim, seu inseto monstruoso!"
         },
         {
+            "Key": 2541938188,
+            "Value": "{0.00->4.10}Como a minha mãe costumava dizer: \"A curiosidade cria dissidentes\".{6.17->10.44}Quem especularia que quando ruínas antigas dos Iluminados se ativam passados milénios,{11.83->14.11}elas geram fenómenos que alteram o espaço-tempo{15.43->17.46}e fazem desaparecer centenas de milhares de cidadãos?{18.24->22.58}Eu não. Vou esperar por o que o Ministério da Verdade vai dizer."
+        },
+        {
             "Key": 2541995252,
             "Value": "{0.00->1.26}O sistema Karlia"
         },
         {
             "Key": 2542298021,
             "Value": "{0.00->1.21}A progredir."
+        },
+        {
+            "Key": 2542770202,
+            "Value": "{0.00->5.13}Quem sabe que tipo de pseudo-intelectualismo se pode esconder naquelas ruínas Iluminadas...{5.87->8.03}e o dano que pode fazer ao nosso modo de vida..."
         },
         {
             "Key": 2543465330,
@@ -13851,6 +13967,10 @@
             "Value": "{0.00->0.34}Zero."
         },
         {
+            "Key": 2675161089,
+            "Value": "{0.00->4.41}Um dia, vamos recuperar todos os mundos que os Iluminados estão a manter como reféns.{4.41->5.69}E quando esse dia chegar,{6.25->8.92}vamos mostrar-lhes o verdadeiro significado de devastação."
+        },
+        {
             "Key": 2677228896,
             "Value": "{0.00->2.69}A democracia prevalece uma vez mais."
         },
@@ -14129,6 +14249,10 @@
         {
             "Key": 2731825942,
             "Value": "{0.17->6.57}Estive a pensar: fazer a dobra ao longo da Federação como nós fazemos seria impossível sem Elemento 710.{6.58->9.64}Que vem dos próprios insetos.{9.65->14.95}Os seus próprios cadáveres estão a alimentar a criação de mais cadáveres...{16.06->18.79}fico muito satisfeita em saber isso."
+        },
+        {
+            "Key": 2732069360,
+            "Value": "{0.00->4.38}Os Iluminados estão a escavar o cadáver da sua civilização defunta.{4.94->5.82}Com que fim?{6.44->10.26}Será que eles procuram restaurar o seu império para a sua antiga ignomínia,{10.61->13.78}e voltar a lançar a galáxia para a Tirania?{14.54->16.81}Não iremos permitir que isso aconteça."
         },
         {
             "Key": 2732178824,
@@ -14443,6 +14567,10 @@
             "Value": "{0.00->2.11}Fica atento a mais amostras na próxima vez."
         },
         {
+            "Key": 2790000033,
+            "Value": "{0.00->1.03}Já ouviste dizer?{2.66->5.02}Dizem que a influência do Vazio é tão poderosa...{5.73->10.23}que está a chamar pessoas, a pedir-lhes para voltarem a examinar os seus sistemas de convicções.{11.27->14.72}Sim, eu sei—soa a histórias de fantasmas que se conta nos Escuteiros."
+        },
+        {
             "Key": 2790543261,
             "Value": "{0.02->2.91}As lulas vão comer os nossos cérebros!"
         },
@@ -14573,6 +14701,10 @@
         {
             "Key": 2805693152,
             "Value": "{0.00->0.75}Ali estão eles!"
+        },
+        {
+            "Key": 2807051888,
+            "Value": "{0.00->5.55}Achas que o Vazio... está esfomeado?{6.14->7.27} Não, isso é absurdo.{8.30->11.28}Se existissem outras formas sencientes por aí, o Ministério da Verdade dizia-nos."
         },
         {
             "Key": 2807297477,
@@ -14861,6 +14993,10 @@
         {
             "Key": 2850389352,
             "Value": "{0.00->1.41}A lançar sinalizador de mantimentos."
+        },
+        {
+            "Key": 2851350591,
+            "Value": "{0.00->3.73}Tudo o que entrar no Vazio, não volta a sair."
         },
         {
             "Key": 2852282429,
@@ -15183,6 +15319,10 @@
             "Value": "{0.00->1.23}O sistema Zefia"
         },
         {
+            "Key": 2913054404,
+            "Value": "{0.00->4.14}Na minha opinião, o Vazio não passa de uma câmara de eco dos Iluminados,{4.57->8.13}onde eles cultivam a sua ideologia xenófoba."
+        },
+        {
             "Key": 2913692192,
             "Value": "{0.15->1.27}A invocar extração."
         },
@@ -15485,6 +15625,10 @@
         {
             "Key": 2975716805,
             "Value": "{0.00->1.42}A ativar a Plataforma de Arma."
+        },
+        {
+            "Key": 2976793000,
+            "Value": "{0.00->0.68}O Vazio...{2.50->3.46}engoliu-os a todos..."
         },
         {
             "Key": 2977407428,
@@ -15819,6 +15963,10 @@
             "Value": "{0.01->1.01}Matem-nos!"
         },
         {
+            "Key": 3043547421,
+            "Value": "{0.42->1.97}Queres saber mais sobre o meu sonho?{3.03->8.26}Um Iluminado está no refeitório da minha escola, e está a usar um chapéu pequeno.{8.59->11.45}E claro, eu tento disparar sobre ele, mas as minhas mãos são tentáculos.{12.26->14.84}Está a tentar fazer com que nós comamos massa negra,{15.08->19.38}e que deixemos os nossos lares para sempre para encontrarmos uma \"melhor forma de governação,\"{19.38->20.29}o que quer que isso queira dizer.{21.85->23.08}Os sonhos são absurdos."
+        },
+        {
             "Key": 3043622369,
             "Value": "{0.05->0.63}Sigam-me."
         },
@@ -16011,6 +16159,10 @@
             "Value": "{0.00->1.48}Bem-vindo, Helldiver.{1.99->3.29}Estou feliz por te ter connosco."
         },
         {
+            "Key": 3073912687,
+            "Value": "{0.00->4.05}São os Iluminados de novo. Eles, tipo, desapareceram... Como? {4.52->7.84}Porquê? Como é que eles fizeram com que planetas inteiros desaparecessem?"
+        },
+        {
             "Key": 3074138875,
             "Value": "{0.01->3.28}GRANADA LANÇADA! Morram seus Terroristas!"
         },
@@ -16033,6 +16185,10 @@
         {
             "Key": 3075355144,
             "Value": "{0.00->1.50}Saiam daqui suas lulas nojentas!"
+        },
+        {
+            "Key": 3075362523,
+            "Value": "{0.00->3.18}O que será que os Iluminados estão a fazer nessas ruínas?{3.97->5.82}Tu sabes? Espera, não me digas.{7.05->8.46}Não possuo autorização."
         },
         {
             "Key": 3076664791,
@@ -16333,6 +16489,10 @@
         {
             "Key": 3132413794,
             "Value": "{0.00->0.87}Granada lançada."
+        },
+        {
+            "Key": 3132958445,
+            "Value": "{0.00->2.87}Tens de parar a propagação do Vazio, Helldiver."
         },
         {
             "Key": 3133180405,
@@ -16815,6 +16975,10 @@
             "Value": "{0.01->4.19}SIM! ARREBENTEM COM AS SUAS CABEÇAS! NÃO DEIXEM QUE RESTE NADA!"
         },
         {
+            "Key": 3225914300,
+            "Value": "{0.00->2.34}Então este era o plano dos Iluminados.{3.00->7.42}Uma sombra que cobre a nossa Galáxia, onde a luz da Liberdade não consegue alcançar."
+        },
+        {
             "Key": 3226610965,
             "Value": "{0.00->0.38}Delta"
         },
@@ -16829,6 +16993,10 @@
         {
             "Key": 3229068101,
             "Value": "{0.02->0.73}O inimigo!"
+        },
+        {
+            "Key": 3230340388,
+            "Value": "{0.00->3.53}Sabias que os Iluminados são capazes de nos manipular durante o sono se baixarmos as nossas defesas?{4.60->7.54}É por isso que podemos fazer coisas malucas durante os sonhos,{7.98->11.97}como voar, ou saber em quem vais votar antes de veres os resultados das eleições."
         },
         {
             "Key": 3231338630,
@@ -17307,6 +17475,10 @@
             "Value": "{0.01->2.78}Ninguém escapa às chamas da Justiça!"
         },
         {
+            "Key": 3309069999,
+            "Value": "{0.07->6.52}O Vazio ameaça o próprio tecido da realidade. Tens de triunfar, custe o que custar."
+        },
+        {
             "Key": 3311487238,
             "Value": "{0.00->1.53}Liberdade para todos os seres."
         },
@@ -17669,6 +17841,10 @@
         {
             "Key": 3372929859,
             "Value": "{0.00->1.56}O Sistema Deecon"
+        },
+        {
+            "Key": 3373091451,
+            "Value": "{0.00->5.02}Estas Exo-Tempestades... os Iluminados voltaram a mexer com a ordem natural das coisas.{5.83->7.14}Temos de os bombardear para pararem com este comportamento."
         },
         {
             "Key": 3374620929,
@@ -18395,6 +18571,10 @@
             "Value": "{0.00->1.85}Os Automatons estão a atacar a Lua.{2.24->4.34}Se eles conseguirem estabelecer uma base lá...{6.01->7.16}não podemos permitir que o façam."
         },
         {
+            "Key": 3504445498,
+            "Value": "{0.00->3.11}Não será hoje que este planeta será perdido para a escuridão."
+        },
+        {
             "Key": 3506209550,
             "Value": "{0.00->2.70}Lamentem mais tarde. Cubram as zonas deles!"
         },
@@ -18895,6 +19075,14 @@
             "Value": "{0.05->0.65}Lulas!{1.06->1.35} Corram!"
         },
         {
+            "Key": 3607402722,
+            "Value": "{0.00->5.15}Os Iluminados transformaram os cidadãos raptados em Não Votantes contra a sua vontade.{5.96->10.40}Se isto foi só o início dos seus planos perversos para transformar os nossos cidadãos,{10.92->17.64}nem consigo imaginar que horrores abomináveis esperam os nossos cidadãos dentro do Vazio."
+        },
+        {
+            "Key": 3609202726,
+            "Value": "{0.00->3.64}A galáxia está a escorregar cada vez mais em direção à escuridão, Helldiver.{4.18->9.13}Os Iluminados lançaram planetas inteiros para uma escuridão pérfida,{9.32->12.38}a qual a Luz da Liberdade não consegue penetrar."
+        },
+        {
             "Key": 3610758490,
             "Value": "{0.00->1.88}Águia 1 a retirar para rearmar."
         },
@@ -18945,6 +19133,10 @@
         {
             "Key": 3618867600,
             "Value": "{0.03->1.35}Os robôs estão aqui!"
+        },
+        {
+            "Key": 3620100085,
+            "Value": "{0.06->4.12}As Exo-Tempestados não são padrões meteorológicos naturais.{4.50->9.05}As suas auroras misteriosas obscurecem hemisférios inteiros."
         },
         {
             "Key": 3620740791,
@@ -19009,6 +19201,10 @@
         {
             "Key": 3627660296,
             "Value": "{0.00->2.21}Ouvi dizer que o refeitório recebeu hoje uma entrega de Roxas."
+        },
+        {
+            "Key": 3628040738,
+            "Value": "{0.00->5.60}As intenções dos Iluminados continuam tão obscuras para nós como o próprio Vazio.{6.28->12.09}Talvez eles desejem lançar a galáxia inteira para este Vazio impenetrável."
         },
         {
             "Key": 3628100649,
@@ -20195,6 +20391,10 @@
             "Value": "{0.28->2.32}Ahem. Uh,{2.81->4.11} como uma nota suplementar,{4.60->9.42} tenta disparar com rajadas curtas e controladas, para melhorares a tua precisão.{9.94->10.61} Uh, obrigado."
         },
         {
+            "Key": 3847976252,
+            "Value": "{0.00->2.72}Os Iluminados pensam que estão em segurança dentro do seu vazio,{3.04->4.66}só porque não somos capazes de lá entrar,{4.80->7.77}de ver lá para dentro, ou de o medir.{8.22->9.45}Mas eles vão ver quão enganados estão."
+        },
+        {
             "Key": 3849575040,
             "Value": "{0.01->1.03}Eu trato do terminal."
         },
@@ -20445,6 +20645,10 @@
         {
             "Key": 3891159023,
             "Value": "{0.00->1.34}Aí vêm eles!"
+        },
+        {
+            "Key": 3892295137,
+            "Value": "{0.00->4.81}Dizem que o Vazio ataca aqueles que são facilmente influenciados e os fracos de espírito.{5.50->10.76}Não sei se acredito nisso, tenho de esperar que a Coretta Kelly nos conte todos os factos."
         },
         {
             "Key": 3892772646,
@@ -20839,8 +21043,16 @@
             "Value": "{0.00->4.75}Helldivers são heróis. Helldivers são Liberdade."
         },
         {
+            "Key": 3953474554,
+            "Value": "{0.00->2.09}Todos aqueles cidadãos inocentes,{2.31->3.74}perdidos para o Vazio.{4.62->11.90}As flores nos seus memoriais vão beber sangue Iluminado; o adubo da Justiça."
+        },
+        {
             "Key": 3953909021,
             "Value": "{0.00->1.45}Sem dor não há Liberdade."
+        },
+        {
+            "Key": 3954158734,
+            "Value": "{0.00->4.64}Astrónomos do Ministério observam flutuações no tecido do espaço-tempo{4.79->7.72}não observadas desde o Evento da Singularidade de Meridia.{8.32->11.31}Os Iluminados continuam a interferir com a realidade -{11.89->13.53}mas com que objetivo?"
         },
         {
             "Key": 3954175518,
@@ -21237,6 +21449,10 @@
         {
             "Key": 4036312572,
             "Value": "{0.00->1.56}O sistema Mekbuda"
+        },
+        {
+            "Key": 4037847279,
+            "Value": "{0.00->3.53}Não fomos capazes de interromper a propagação do Vazio."
         },
         {
             "Key": 4038046513,
@@ -21703,6 +21919,10 @@
             "Value": "{0.00->3.27}Alerta: A defesa do planeta sobre o qual se está a orbitar {3.69->7.60}de uma invasão de Iluminados terminou em derrota.{8.24->11.20} O planeta permanece sob o controlo de Iluminados."
         },
         {
+            "Key": 4126150328,
+            "Value": "{0.00->1.73}Ao profanarem estas ruínas,{1.89->6.31}os Iluminados estão a roubar os nossos Museus da Dissidência antes que eles possam ser construídos.{6.84->10.32}Como é que as nossas crianças vão aprender sobre os horrores da Xenofobia?"
+        },
+        {
             "Key": 4126517104,
             "Value": "{0.04->1.79}Insetos! Aaaaaah!"
         },
@@ -21725,6 +21945,10 @@
         {
             "Key": 4130061098,
             "Value": "{0.02->0.61}Sim senhor!"
+        },
+        {
+            "Key": 4130229929,
+            "Value": "{0.00->3.99}O Vazio não emite nem reflete qualquer radiação.{4.41->10.50}Nenhuma luz, som ou sinal de vida ou de liberdade escapa das suas trevas."
         },
         {
             "Key": 4130307857,
@@ -21769,6 +21993,10 @@
         {
             "Key": 4139396497,
             "Value": "{0.00->2.51}Não vamos recuar! Não nos vamos render!"
+        },
+        {
+            "Key": 4139946806,
+            "Value": "{0.00->3.29}Estas ruínas Iluminadas antigas são uma parte importante do nosso património.{3.79->4.38}Através delas,{4.91->8.16}os nossos antepassados foram imortalizados; os antepassados que{8.16->11.05}bombardearam estes templos xenófobos até ficarem totalmente destruídos."
         },
         {
             "Key": 4140218210,
@@ -21919,6 +22147,10 @@
             "Value": "{0.00->5.79}Ciberestão é o núcleo a partir do qual emana a máquina de guerra dos Ciborgues e dos Automatons.{6.22->10.24}Temos de o libertar -- pela Liberdade da galáxia."
         },
         {
+            "Key": 4166728515,
+            "Value": "{0.00->3.20}As maquinações dos Iluminados evoluíram, Helldiver.{3.80->7.02}Tempestades que ocupam planetas inteiros irromperam dos Exo-Pináculos,{7.27->10.01}submergindo os planetas no caos."
+        },
+        {
             "Key": 4168253503,
             "Value": "{0.00->0.71}A colocar um marcador."
         },
@@ -21985,6 +22217,10 @@
         {
             "Key": 4180434529,
             "Value": "{0.02->1.45}Pronto para Libertar."
+        },
+        {
+            "Key": 4181165455,
+            "Value": "{0.00->2.89}O fantasma do Vazio cresce."
         },
         {
             "Key": 4181688902,
@@ -22069,6 +22305,10 @@
         {
             "Key": 4194546495,
             "Value": "{0.10->0.69}Ajudem{1.15->2.10}-me..!"
+        },
+        {
+            "Key": 4195315471,
+            "Value": "{0.05->2.94}Pergunto-me se me resta algo para doar para o esforço de guerra...{4.20->6.00}Talvez pudesse gastar menos em fichas de banhos..."
         },
         {
             "Key": 4195358086,
@@ -22217,6 +22457,10 @@
         {
             "Key": 4231854573,
             "Value": "{0.00->3.90}A nossa cidade regressa ao terno abraço da Liberdade."
+        },
+        {
+            "Key": 4232377964,
+            "Value": "{0.00->6.53}As lulas desempenharam um ritual arcano e nauseante na base dos seus Exo-Pináculos.{7.12->10.01}Não podemos entender a sua cultura revoltante;{10.55->12.18}só aniquilá-la."
         },
         {
             "Key": 4232431675,
@@ -22519,6 +22763,10 @@
             "Value": "{3.12->4.82}Já vi... pior..."
         },
         {
+            "Key": 4285009616,
+            "Value": "{0.00->0.92}Helldiver.{1.39->8.16}Os Iluminados elevaram pináculos estranhos e sobrenaturais das profundezas dos planetas que ocupam."
+        },
+        {
             "Key": 4285702222,
             "Value": "{0.00->0.47}Veículo,"
         },
@@ -22625,6 +22873,10 @@
         {
             "Key": 28055569,
             "Value": "Imagens por satélite revelaram que arranha-céus inteiros neste distrito estão infestados com Terminids. Agora, estes locais que foram outrora lindos lares e escritórios prósperos, não passam de locais de reprodução de Guinchantes.\n\nDestruam os antigos ícones da Prosperidade que foram tão cruelmente parasitados."
+        },
+        {
+            "Key": 29162783,
+            "Value": "Estado do Conetor de Dados: Instável"
         },
         {
             "Key": 32367396,
@@ -23073,6 +23325,10 @@
         {
             "Key": 396353427,
             "Value": "Mega Ninho Erradicado"
+        },
+        {
+            "Key": 404455679,
+            "Value": "DESESTABILIZEM O NÚCLEO DO EXO-PINÁCULO"
         },
         {
             "Key": 406058570,
@@ -23647,6 +23903,10 @@
             "Value": "#TYPE: +#AMOUNT/#POTENTIAL"
         },
         {
+            "Key": 809026135,
+            "Value": "DESTRUAM O EXO-PINÁCULO"
+        },
+        {
             "Key": 810653429,
             "Value": "Usa o terminal para reiniciares os fusíveis"
         },
@@ -23887,6 +24147,10 @@
             "Value": "Encontra e destrói todos os fabricadores ativos de Automatons"
         },
         {
+            "Key": 995660531,
+            "Value": "Mobilizem-se para a Exo-Tempestade e quebrem os Exo-Pináculos que a abastecem."
+        },
+        {
             "Key": 1002982797,
             "Value": "DUAS"
         },
@@ -23919,6 +24183,10 @@
             "Value": "COMPONENTES PRINCIPAIS"
         },
         {
+            "Key": 1023125839,
+            "Value": "DESESTABILIZEM O GERADOR DE ESCUDO"
+        },
+        {
             "Key": 1026152227,
             "Value": "CARREGA PROJÉTEIS DE ARTILHARIA"
         },
@@ -23937,6 +24205,10 @@
         {
             "Key": 1029868551,
             "Value": "INSTALAÇÕES DE NAVE ARTILHADA BUSCADORA"
+        },
+        {
+            "Key": 1036133473,
+            "Value": "CONETOR DE DADOS OPERACIONAL"
         },
         {
             "Key": 1039398966,
@@ -24443,6 +24715,10 @@
             "Value": "Esta plataforma antiaérea impede a dispersão da liberdade pelos céus deste planeta. Eliminem-na antes que ainda mais famílias sejam obrigadas a assistir a celebrações de martírio pelos seus heróis caídos."
         },
         {
+            "Key": 1389824615,
+            "Value": "Estado do Conetor de Dados: Irreversivelmente Danificado"
+        },
+        {
             "Key": 1390962095,
             "Value": "Eliminem a Variante"
         },
@@ -24467,6 +24743,10 @@
             "Value": "Encontra-se aqui localizado um depósito de platina com uma pureza de 99%. Os Automatons pretendem usar este material valioso para ameaçar a Democracia. Obtenham-no."
         },
         {
+            "Key": 1402331169,
+            "Value": "IMPEÇAM O VAZIO"
+        },
+        {
             "Key": 1404839977,
             "Value": "Destruam os Canhões de Contra-Ataque Orbital na área."
         },
@@ -24481,6 +24761,10 @@
         {
             "Key": 1409974189,
             "Value": "Procede para o Teste Final"
+        },
+        {
+            "Key": 1413914605,
+            "Value": "Confirmar"
         },
         {
             "Key": 1418066194,
@@ -24505,6 +24789,14 @@
         {
             "Key": 1437066282,
             "Value": "Soltem a mangueira"
+        },
+        {
+            "Key": 1441453914,
+            "Value": "A ESTABELECER A LIGAÇÃO"
+        },
+        {
+            "Key": 1447308211,
+            "Value": "Surgiram tempestades gigantescas e misteriosas neste planeta. Estas \"Exo-Tempestades\" emanam de pináculos místicos, exumados pelos Iluminados das ruínas do seu império caído.\n\nAinda desconhecemos quais são as intenções dos Iluminados, mas temos a certeza de que são sinistras. Ataquem as suas bases rudimentares e transformem-nas em destroços."
         },
         {
             "Key": 1449175215,
@@ -24731,6 +25023,10 @@
             "Value": "PAGAMENTO ESPERADO"
         },
         {
+            "Key": 1608834297,
+            "Value": "Aguardem enquanto o Conetor de Dados se mobiliza"
+        },
+        {
             "Key": 1609303434,
             "Value": "Eliminem o Colhedor"
         },
@@ -24907,6 +25203,10 @@
             "Value": "INICIAR SEQUÊNCIA DE PRODUÇÃO"
         },
         {
+            "Key": 1715589653,
+            "Value": "Verifiquem a integridade pós-aterragem"
+        },
+        {
             "Key": 1719703463,
             "Value": "Por favor, inicia a sessão"
         },
@@ -25055,6 +25355,10 @@
             "Value": "para Dispensar Líquido Sombrio"
         },
         {
+            "Key": 1801911661,
+            "Value": "O Exo-Pináculo que se ergue destas ruínas está a corromper a integridade atmosférica do planeta. \nEstá protegido por um campo de forças que bloqueia o acesso à sua câmara principal. A interferência eletromagnética pode inibir a utilização de Estratagemas.\n\nRompam as defesas do Exo-Pináculo e destruam o seu núcleo para provocar o seu colapso."
+        },
+        {
             "Key": 1802135572,
             "Value": "Espera que a sequência de diagnóstico do gerador termine a verificação"
         },
@@ -25085,6 +25389,10 @@
         {
             "Key": 1823884758,
             "Value": "PLATAFORMA DE MORTEIROS"
+        },
+        {
+            "Key": 1825484540,
+            "Value": "LANÇAR MÍSSIL BALÍSTICO INTERCONTINENTAL"
         },
         {
             "Key": 1828283522,
@@ -25157,6 +25465,10 @@
         {
             "Key": 1880335159,
             "Value": "O SCT está pronto. Protege este planeta para sempre dos insetos.."
+        },
+        {
+            "Key": 1885611785,
+            "Value": "A sonda pode causar considerável perda de audição"
         },
         {
             "Key": 1893695190,
@@ -25421,6 +25733,10 @@
         {
             "Key": 2081692256,
             "Value": "Ativa o terminal"
+        },
+        {
+            "Key": 2086176844,
+            "Value": "Operem o terminal do Conetor de Dados"
         },
         {
             "Key": 2090959963,
@@ -26063,6 +26379,10 @@
             "Value": "Por favor, mantém os membros afastados das peças da perfuradora em movimento"
         },
         {
+            "Key": 2508405363,
+            "Value": "Prepara e lança o Míssil Balístico Intercontinental."
+        },
+        {
             "Key": 2509196198,
             "Value": "Uma Variante Terminid nova e altamente perigosa dizimou unidades das FAST nesta área. temos de limitar a propagação desta estirpe mutante.\n\nEncontrem e erradiquem a Variante. Sejam extremamente cautelosos."
         },
@@ -26113,6 +26433,10 @@
         {
             "Key": 2543912374,
             "Value": "NÍVEL DE AMEAÇA: ELEVADO"
+        },
+        {
+            "Key": 2545747281,
+            "Value": "Estado do Conetor de Dados: Estável"
         },
         {
             "Key": 2547152065,
@@ -26327,6 +26651,10 @@
             "Value": "Os Automatons estão a usar canhões melhorados com alcance até a órbita alta para bombardear os nossos Super Destruidores.\n \nNão podemos permitir que a nossa superioridade aeroespacial seja desafiada. Mobilizem-se para a área e destruam todos os Canhões de Contra-Ataque Orbital ativos."
         },
         {
+            "Key": 2686205325,
+            "Value": "ACALMEM A EXO-TEMPESTADE"
+        },
+        {
             "Key": 2691266839,
             "Value": "Extraiam com os Espécimes"
         },
@@ -26449,6 +26777,10 @@
         {
             "Key": 2782615518,
             "Value": "O inimigo está-se a aproximar de um cofre com recursos valiosos que foram guardados desde a Primeira Guerra Galáctica. Não podemos permitir que sejam capturados.\n\nO inimigo vai ser alertado para a vossa posição assim que o processo de evacuação comece. Defendam o local até que todos os recursos tenham sido transportados em segurança para fora do planeta."
+        },
+        {
+            "Key": 2785843711,
+            "Value": "CALIBRAR SONDA"
         },
         {
             "Key": 2790627524,
@@ -26675,6 +27007,10 @@
             "Value": "Encontra e destrói estruturas dos Terminid."
         },
         {
+            "Key": 2960516668,
+            "Value": "Destruam o Exo-Pináculo para suprimirem a Exo-Tempestade em crescimento."
+        },
+        {
             "Key": 2961322270,
             "Value": "Horda de Automatons"
         },
@@ -26819,6 +27155,10 @@
             "Value": "Estão localizadas grandes quantidades de ovos nesta área. Usa todos os meios necessários para os destruir."
         },
         {
+            "Key": 3075334835,
+            "Value": "Ajustem a sonda para que localize o sinal"
+        },
+        {
             "Key": 3079966101,
             "Value": "A calibrar o conjunto de sensores sísmicos"
         },
@@ -26933,6 +27273,10 @@
         {
             "Key": 3165219370,
             "Value": "PROCESSADORES BIOLÓGICOS INIMIGOS"
+        },
+        {
+            "Key": 3165383649,
+            "Value": "Protejam os interesses de E-711 dos nossos cidadãos da degradação por parte dos Terminids."
         },
         {
             "Key": 3166041053,
@@ -27087,6 +27431,10 @@
             "Value": "Substituir controlo da torre"
         },
         {
+            "Key": 3281557964,
+            "Value": "Este planeta foi purgado da Obscuridade com custos elevados. Agora, um surto de Terminids ameaça transformá-lo de novo num Mundo Colmeia purulento. Os nossos depósitos de E-711 de origem ética e as vidas de inspetores de bombas trabalhadores encontram-se em perigo.\n\nTêm de impedir que os insetos degradem o que obtemos legitimamente. Não permitam que este planeta se volte a afundar na Obscuridade."
+        },
+        {
             "Key": 3283335602,
             "Value": "O Sistema de Controlo de Terminids foi completado. Em todo o planeta, as Torres de Dispersão de Termicida esperam pela sua ativação. Este planeta não poderá ser completamente imunizado dos Terminids até que a última Torre seja ativada."
         },
@@ -27204,7 +27552,7 @@
         },
         {
             "Key": 3339054218,
-            "Value": "ELIMINEM OS ILUMINADOS"
+            "Value": "ELIMINEM OS SOBERANOS"
         },
         {
             "Key": 3340732873,
@@ -27253,6 +27601,10 @@
         {
             "Key": 3366451506,
             "Value": "Reservatório de bateria 02"
+        },
+        {
+            "Key": 3369979481,
+            "Value": "Saiam rapidamente da área"
         },
         {
             "Key": 3385979084,
@@ -27309,6 +27661,10 @@
         {
             "Key": 3409498073,
             "Value": "Usem o terminal para levantarem o Canhão de Defesa Planetária"
+        },
+        {
+            "Key": 3410273134,
+            "Value": "Encontra-se aqui localizado um Exo-Pináculo. O seu núcleo de energia encontra-se localizado numa câmara subterrânea na sua base."
         },
         {
             "Key": 3410342490,
@@ -27487,6 +27843,10 @@
             "Value": "ESCOTILHA DE SILO DESTRANCADA"
         },
         {
+            "Key": 3530995197,
+            "Value": "Destruam o Nó de Acesso"
+        },
+        {
             "Key": 3533302151,
             "Value": "Esta cidade está sob ataque. Não podemos permitir que caia para as forças da opressão."
         },
@@ -27499,8 +27859,16 @@
             "Value": "Move-te ao longo do Simulador de Campo de Batalha Realista"
         },
         {
+            "Key": 3540696519,
+            "Value": "MOBILIZAR SONDA DE SINAL"
+        },
+        {
             "Key": 3541336633,
             "Value": "Os nossos inimigos forçaram este conflito nesta região. Não pode existir paz até que eles sejam derrotados."
+        },
+        {
+            "Key": 3544944274,
+            "Value": "Ativem todas as cargas para acionarem a sobrecarga"
         },
         {
             "Key": 3546516457,
@@ -27671,6 +28039,10 @@
             "Value": "RECUPEREM OS ESPÉCIMES CIENTÍFICOS"
         },
         {
+            "Key": 3687086493,
+            "Value": "Obrigado pela sua paciência"
+        },
+        {
             "Key": 3691054321,
             "Value": "Saiam rapidamente da área"
         },
@@ -27779,6 +28151,10 @@
             "Value": "AUMENTA A POTÊNCIA DO SINAL"
         },
         {
+            "Key": 3774503774,
+            "Value": "Encontra-se aqui situado um Nó de Acesso ligado ao gerador subterrâneo de escudo do Exo-Pináculo."
+        },
+        {
             "Key": 3780961573,
             "Value": "EVACUAR RECURSOS VALIOSOS"
         },
@@ -27823,6 +28199,10 @@
             "Value": "A perfuradora pode agitar criaturas subterrâneas"
         },
         {
+            "Key": 3804465095,
+            "Value": "As forças dos Iluminados estão a convergir para as ruínas xenófobas do seu antigo império. Não se pode permitir que restaurem as relíquias da sua ordem tirânica.\n\nAtiva o silo adormecido de Mísseis Balísticos Intercontinentais nesta região e reduz estes covis improvisados a cinzas."
+        },
+        {
             "Key": 3814801462,
             "Value": "Fechar válvula"
         },
@@ -27837,6 +28217,10 @@
         {
             "Key": 3816742262,
             "Value": "Abrir"
+        },
+        {
+            "Key": 3819125508,
+            "Value": "Destruam as células de Líquido Sombrio para desestabilizarem o Núcleo"
         },
         {
             "Key": 3829262661,
@@ -28107,6 +28491,10 @@
             "Value": "INTERFACE DE SISTEMAS ESSENCIAIS"
         },
         {
+            "Key": 4007451216,
+            "Value": "Avancem para a Exo-Tempestade e salvem este planeta de se perder para o Vazio."
+        },
+        {
             "Key": 4010007762,
             "Value": "EXECUTAR SOFTWARE DE SABOTAGEM"
         },
@@ -28143,6 +28531,10 @@
             "Value": "Atualização do saque"
         },
         {
+            "Key": 4044971392,
+            "Value": "SALVAGUARDEM O E-711 VITAL"
+        },
+        {
             "Key": 4046999266,
             "Value": "Caixa preta"
         },
@@ -28157,6 +28549,10 @@
         {
             "Key": 4057328297,
             "Value": "A DESATIVAR OS SISTEMAS ESSENCIAIS"
+        },
+        {
+            "Key": 4057749174,
+            "Value": "Os Exo-Pináculos Iluminados estão a canalizar uma Exo-Tempestade aberrante que assola a superfície deste mundo. O planeta corre o risco de ser consumido pelo Vazio, a menos que tomemos medidas de imediato.\n\nArruínem os seus santuários abissais. Não podemos permitir que um único Exo-Pináculo fique de pé, ou a luz da Liberdade não triunfará."
         },
         {
             "Key": 4057995659,
@@ -28323,6 +28719,10 @@
             "Value": "Libertem o Mundo Colmeia para impedirem a propagação da Obscuridade, e extraiam o maior número possível de E-711."
         },
         {
+            "Key": 4173320741,
+            "Value": "INICIAR PICO DE ENERGIA"
+        },
+        {
             "Key": 4176568594,
             "Value": "Afastem as forças inimigas que estão a tentar ocupar esta cidade."
         },
@@ -28423,6 +28823,10 @@
             "Value": "Uma vasta rede de colmeias subterrâneas permitiu que os Terminids nesta região se tenham conseguido entrincheirar, reproduzindo-se e aumentando exponencialmente.\n\nFelizmente, esta colmeia acabou de entrar num curto período de hibernação. Infiltra e destrói tudo o que consigas antes que os Terminids recuperem as suas forças."
         },
         {
+            "Key": 4254208535,
+            "Value": "Aguardem pelo carregamento de energia"
+        },
+        {
             "Key": 4254765959,
             "Value": "Obrigado pelo vosso serviço"
         },
@@ -28473,6 +28877,22 @@
         {
             "Key": 4290448000,
             "Value": "A estação está inoperável neste momento"
+        },
+        {
+            "Key": 310338931,
+            "Value": "Sistema Operativo Incompatível detetado! O teu OS tem de suportar instruções AVX para executar este jogo."
+        },
+        {
+            "Key": 2705675729,
+            "Value": "Os drivers instalados estão desatualizados e recomenda-se que efetues uma atualização. Pretendes continuar? Fazê-lo sem atualizar pode causar erros e bloqueios.\n\nVersão instalada: #INSTALLED_VERSION\nMínimo Recomendado: #RECOMMENDED_VERSION"
+        },
+        {
+            "Key": 3954684058,
+            "Value": "CPU incompatível detetado! O teu CPU tem de suportar instruções AVX para executar este jogo."
+        },
+        {
+            "Key": 4274889835,
+            "Value": "Os drivers da GPU estão desatualizados"
         },
         {
             "Key": 5488478,
@@ -31139,6 +31559,10 @@
             "Value": "Sall"
         },
         {
+            "Key": 193486143,
+            "Value": "IMPOSITOR"
+        },
+        {
             "Key": 200062099,
             "Value": "Sentinela"
         },
@@ -31217,6 +31641,10 @@
         {
             "Key": 275534196,
             "Value": "GUERREIRO ECLOSÃO DE ESPORO"
+        },
+        {
+            "Key": 276016493,
+            "Value": "Divisão Entrincheirada"
         },
         {
             "Key": 276813339,
@@ -31681,6 +32109,10 @@
         {
             "Key": 592325338,
             "Value": "Cuspidores de Bílis"
+        },
+        {
+            "Key": 593716614,
+            "Value": "PADRÃO DE EXO-FATO VERDE-AZEITONA CLÁSSICO"
         },
         {
             "Key": 595251819,
@@ -32273,6 +32705,10 @@
         {
             "Key": 929685836,
             "Value": "SETOR HAWKING"
+        },
+        {
+            "Key": 934470030,
+            "Value": "DIVISÃO ENTRINCHEIRADA"
         },
         {
             "Key": 938483457,
@@ -33227,6 +33663,10 @@
             "Value": "KNETH PORT"
         },
         {
+            "Key": 1575607191,
+            "Value": "PADRÃO DE VEÍCULO VERDE-AZEITONA CLÁSSICO"
+        },
+        {
             "Key": 1577218460,
             "Value": "PÁRIA LOCALIZADOR"
         },
@@ -33651,6 +34091,10 @@
             "Value": "da Independência"
         },
         {
+            "Key": 1870840792,
+            "Value": "Guardião"
+        },
+        {
             "Key": 1871700431,
             "Value": "Saltador Batedor Fortalecido"
         },
@@ -33733,6 +34177,10 @@
         {
             "Key": 1926035611,
             "Value": "ANDAR"
+        },
+        {
+            "Key": 1927613493,
+            "Value": "LEGITIMADOR"
         },
         {
             "Key": 1927972667,
@@ -34311,6 +34759,10 @@
             "Value": "Guerreiros Eclosão de Esporo"
         },
         {
+            "Key": 2411380547,
+            "Value": "PADRÃO DE CÁPSULA HELL VERDE-AZEITONA CLÁSSICO"
+        },
+        {
             "Key": 2418805493,
             "Value": "CAPH"
         },
@@ -34341,6 +34793,10 @@
         {
             "Key": 2440833855,
             "Value": "Modelo"
+        },
+        {
+            "Key": 2443576485,
+            "Value": "Guardiães"
         },
         {
             "Key": 2444152049,
@@ -34437,6 +34893,10 @@
         {
             "Key": 2505794238,
             "Value": "OSTEHOVEL"
+        },
+        {
+            "Key": 2508206247,
+            "Value": "PADRÃO DE VAIVÉM-ESPACIAL VERDE-AZEITONA CLÁSSICO"
         },
         {
             "Key": 2509277034,
@@ -35247,6 +35707,10 @@
             "Value": "Fanáticos"
         },
         {
+            "Key": 3042667112,
+            "Value": "Legitimadores"
+        },
+        {
             "Key": 3045085994,
             "Value": "TRÉGUA"
         },
@@ -36023,6 +36487,10 @@
             "Value": "Saltadores"
         },
         {
+            "Key": 3593288476,
+            "Value": "PADRÃO NORMAL DE TANQUE"
+        },
+        {
             "Key": 3593438329,
             "Value": "PATRIOTAS POLARES"
         },
@@ -36049,6 +36517,10 @@
         {
             "Key": 3616280245,
             "Value": "RAVENA DE PO"
+        },
+        {
+            "Key": 3621116014,
+            "Value": "Impositor"
         },
         {
             "Key": 3621885961,
@@ -36263,6 +36735,10 @@
             "Value": "ENCORAJAR"
         },
         {
+            "Key": 3757148964,
+            "Value": "GUARDIÃO"
+        },
+        {
             "Key": 3767503173,
             "Value": "OROTH"
         },
@@ -36277,6 +36753,10 @@
         {
             "Key": 3772752154,
             "Value": "Saqueadores"
+        },
+        {
+            "Key": 3776682558,
+            "Value": "Legitimador"
         },
         {
             "Key": 3782673150,
@@ -36737,6 +37217,10 @@
         {
             "Key": 4106686024,
             "Value": "Perseguidor Predador"
+        },
+        {
+            "Key": 4114505470,
+            "Value": "Impositores"
         },
         {
             "Key": 4116054022,
@@ -38195,6 +38679,10 @@
             "Value": "As Sentinelas de <i=1>Morteiro</i> dão prioridade a alvos marcados"
         },
         {
+            "Key": 505181551,
+            "Value": "EXO-TEMPESTADE DE CLASSE 1"
+        },
+        {
             "Key": 508428638,
             "Value": "-"
         },
@@ -39011,6 +39499,10 @@
             "Value": "AUTORIZAÇÃO DE ESTRATAGEMA OFENSIVO"
         },
         {
+            "Key": 1098847091,
+            "Value": "TANQUE"
+        },
+        {
             "Key": 1098929518,
             "Value": "DESATIVAR REPRODUÇÃO MULTIPLATAFORMA"
         },
@@ -39717,6 +40209,10 @@
         {
             "Key": 1657396630,
             "Value": "Não foram encontradas salas de eventos"
+        },
+        {
+            "Key": 1662564892,
+            "Value": "A Exo-Tempestade atingiu a massa crítica, envolvendo o planeta numa tempestade nefasta que desafia a física da atmosfera."
         },
         {
             "Key": 1666349407,
@@ -40457,6 +40953,10 @@
         {
             "Key": 2157003287,
             "Value": "+#COUNT"
+        },
+        {
+            "Key": 2161677472,
+            "Value": "EXO-TEMPESTADE DE CLASSE 3"
         },
         {
             "Key": 2165407893,
@@ -41819,6 +42319,10 @@
             "Value": "Seleciona o nível de qualidade de reflexos em certas superfícies. Definições mais altas permitem reflexões mais precisas, mas podem afetar o desempenho."
         },
         {
+            "Key": 3058724709,
+            "Value": "EXO-TEMPESTADE DE CLASSE 2"
+        },
+        {
             "Key": 3065005289,
             "Value": "Se à primeira vez não conseguires, mergulha, mergulha outra vez... E outra vez. E outra vez. E outra vez. E outra vez. E outra vez. E outra vez..."
         },
@@ -42689,6 +43193,10 @@
         {
             "Key": 3678230171,
             "Value": "Pai_Golfista22"
+        },
+        {
+            "Key": 3679110529,
+            "Value": "As frentes da Exo-Tempestade estão a coalescer em um sistema denso que ameaça abafar o planeta inteiro."
         },
         {
             "Key": 3684909524,
@@ -43617,6 +44125,10 @@
         {
             "Key": 4209295102,
             "Value": "TÍTULO"
+        },
+        {
+            "Key": 4210400742,
+            "Value": "Estão-se a manifestar e a ganhar ímpeto zonas isoladas de Exo-Tempestades por todo o planeta."
         },
         {
             "Key": 4212648847,
@@ -45055,6 +45567,10 @@
             "Value": "Baratasdragão Terminds ameaçam os céus deste planeta."
         },
         {
+            "Key": 1025296589,
+            "Value": "MULTIDÕES IRRACIONAIS"
+        },
+        {
             "Key": 1032974617,
             "Value": "TESTE DE ARMAS"
         },
@@ -45832,7 +46348,7 @@
         },
         {
             "Key": 1649129897,
-            "Value": "EVENTO DE LIBERTAÇÃO"
+            "Value": "LIBERTAÇÃO URGENTE"
         },
         {
             "Key": 1651478897,
@@ -45865,6 +46381,10 @@
         {
             "Key": 1683637306,
             "Value": "PATENTES REPLETAS"
+        },
+        {
+            "Key": 1683778021,
+            "Value": "Os Iluminados estão a transformar um grande número de cidadãos da Super Terra em inimigos Não Votantes neste planeta. Preparem-se para enfrentar uma horda deturpada e doutrinada."
         },
         {
             "Key": 1695074190,
@@ -47440,7 +47960,7 @@
         },
         {
             "Key": 2888682480,
-            "Value": "A Super Terra está a libertar outro planeta! Caso a comunidade jogue as missões suficientes em eventos especiais no planeta antes que o espaço de tempo se acabe, vamos poder expandir o território da Super Terra."
+            "Value": "Os Helldivers têm de libertar este planeta antes que o tempo acabe. O fracasso terá consequências severas."
         },
         {
             "Key": 2893255745,
@@ -47883,6 +48403,10 @@
             "Value": "Desconhecido"
         },
         {
+            "Key": 3264867080,
+            "Value": "APROPRIADORES"
+        },
+        {
             "Key": 3267185606,
             "Value": "INTERFERÊNCIA ATMOSFÉRICA"
         },
@@ -48309,6 +48833,10 @@
         {
             "Key": 3641252510,
             "Value": "Desconhecido"
+        },
+        {
+            "Key": 3643666565,
+            "Value": "Os Iluminados só estão a mobilizar as suas próprias forças para este planeta, uma indicação clara da importância desta operação e/ou da sua natureza xenófoba. Preparem-se para enfrentar soldados rasos, drones e conceções mecânicas pilotadas."
         },
         {
             "Key": 3648328316,
@@ -49215,6 +49743,10 @@
             "Value": "[CENSURADO]"
         },
         {
+            "Key": 85526284,
+            "Value": "BASTIÃO CPR-80"
+        },
+        {
             "Key": 88479674,
             "Value": "A armadura explode <c=#COLOR>#BONUS</c> após o utilizador falecer."
         },
@@ -49359,12 +49891,20 @@
             "Value": "SUPRESSORA"
         },
         {
+            "Key": 141575155,
+            "Value": "FORRO DE CONCUSSÃO, GRANADEIRO"
+        },
+        {
             "Key": 142076512,
             "Value": "Plasma de 15x100 mm"
         },
         {
             "Key": 142525292,
             "Value": "SERVOASSISTIDA"
+        },
+        {
+            "Key": 146259175,
+            "Value": "Esta armadura presta homenagem aos heróis imóveis da linha da frente—aqueles que se recusam a reconhecer o fogo que se aproxima e consideram que \"esquivar\" é um conceito abstrato semelhante à covardia."
         },
         {
             "Key": 146591054,
@@ -49433,6 +49973,10 @@
         {
             "Key": 166510538,
             "Value": "Encantador da Verdade"
+        },
+        {
+            "Key": 166648085,
+            "Value": "Carregada com munições assistidas a jato, esta pistola foi calibrada para criar e manter uma distância tática de hostis que se aproximem."
         },
         {
             "Key": 167214020,
@@ -49743,6 +50287,10 @@
             "Value": "MK2 ATAE"
         },
         {
+            "Key": 312223767,
+            "Value": "Este Conetor de Dados está cuidadosamente desenhado para encaixar perfeitamente nos Nós de Acesso dos Iluminados. Uma vez ativado, inicia uma sequência sofisticada de interrupção do sistema, exigindo apenas a confirmação do utilizador."
+        },
+        {
             "Key": 316604262,
             "Value": "BOMBARDEAMENTO AMBULANTE ORBITAL"
         },
@@ -50027,6 +50575,10 @@
             "Value": "Uma espingarda Punidora que dispara cartuchos de plasma explosivos. Dispara com cuidado - o plasma explosivo pode ferir os colegas de esquadrão."
         },
         {
+            "Key": 432406798,
+            "Value": "ATESTADO DO DESGASTE"
+        },
+        {
             "Key": 432713945,
             "Value": "Aqueles que usam esta capa sabem que até os inimigos da Liberdade merecem ser iguais. Igualmente mortos."
         },
@@ -50093,6 +50645,10 @@
         {
             "Key": 454883555,
             "Value": "Inspetor UF-16"
+        },
+        {
+            "Key": 457150574,
+            "Value": "A/GM-17"
         },
         {
             "Key": 459824368,
@@ -50223,6 +50779,10 @@
             "Value": "Distintivo da Ordem"
         },
         {
+            "Key": 538069015,
+            "Value": "Recuperada de um cofre de armazenamento em profundidade, esta capa bem ventilada simboliza a sobrevivência tenaz. As suas cicatrizes visíveis oferecem imediatamente um estatuto de veterano, lembrando todos os espetadores que o espírito de serviço incansável é imortal."
+        },
+        {
             "Key": 540790024,
             "Value": "Foguete padrão de 15x100 mm"
         },
@@ -50261,6 +50821,10 @@
         {
             "Key": 560618224,
             "Value": "SENSORES DE ORIENTAÇÃO"
+        },
+        {
+            "Key": 563225959,
+            "Value": "Crematório"
         },
         {
             "Key": 566653809,
@@ -50401,6 +50965,10 @@
         {
             "Key": 612466998,
             "Value": "ANTITANQUE LIGEIRA"
+        },
+        {
+            "Key": 613454310,
+            "Value": "Brasão dos Incorruptos"
         },
         {
             "Key": 614297745,
@@ -50675,6 +51243,14 @@
             "Value": "ESPINGARDA CAÇADEIRA"
         },
         {
+            "Key": 711961656,
+            "Value": "Mochila Crematória"
+        },
+        {
+            "Key": 713817588,
+            "Value": "Uma pistola-metralhadora versátil equipada com uma mira de ferro e capacidade de incineração de vanguarda."
+        },
+        {
             "Key": 714923769,
             "Value": "Pulveriza químicos cáusticos numa neblina fina que liquidifica componentes eletrónicos e tecidos sensíveis. Cega e abranda a maioria dos inimigos."
         },
@@ -50751,6 +51327,10 @@
             "Value": "StA-11"
         },
         {
+            "Key": 739758268,
+            "Value": "VETO"
+        },
+        {
             "Key": 740089886,
             "Value": "Carregador de Tambor"
         },
@@ -50765,6 +51345,10 @@
         {
             "Key": 743787137,
             "Value": "FLAM-40"
+        },
+        {
+            "Key": 745002750,
+            "Value": "G-48"
         },
         {
             "Key": 747912226,
@@ -51027,6 +51611,10 @@
             "Value": "FRAGMENTAÇÃO DE 15x100 mm"
         },
         {
+            "Key": 865067904,
+            "Value": "P-69"
+        },
+        {
             "Key": 865901582,
             "Value": "PENA DOURADA"
         },
@@ -51191,6 +51779,10 @@
             "Value": "Super Pessoa"
         },
         {
+            "Key": 938882557,
+            "Value": "Granada Giga"
+        },
+        {
             "Key": 939109424,
             "Value": "GP-20"
         },
@@ -51339,6 +51931,10 @@
             "Value": "Capacidade extra"
         },
         {
+            "Key": 1006230745,
+            "Value": "LANÇA-CHAMAS"
+        },
+        {
             "Key": 1006830730,
             "Value": "Apesar de ser mais volumosa, possui os efeitos de tanto uma mira a laser, assim como de uma lanterna."
         },
@@ -51429,6 +52025,10 @@
         {
             "Key": 1039538629,
             "Value": "ARMAZENAMENTO AUMENTADO"
+        },
+        {
+            "Key": 1039991308,
+            "Value": "Fogueiro"
         },
         {
             "Key": 1042991016,
@@ -51689,6 +52289,10 @@
         {
             "Key": 1159406071,
             "Value": "G-31"
+        },
+        {
+            "Key": 1159822780,
+            "Value": "Conetor de Dados"
         },
         {
             "Key": 1160544169,
@@ -52011,6 +52615,10 @@
             "Value": "ENCAMISADA DE 13x40 mm"
         },
         {
+            "Key": 1292558029,
+            "Value": "SG-97"
+        },
+        {
             "Key": 1292790287,
             "Value": "Sem boca"
         },
@@ -52175,6 +52783,10 @@
             "Value": "M7S"
         },
         {
+            "Key": 1382999144,
+            "Value": "12mm"
+        },
+        {
             "Key": 1385818198,
             "Value": "Um projétil que explode quando está no ar, criando uma chuva de estilhaços mortífera. Não é eficaz contra armadura pesada."
         },
@@ -52305,6 +52917,10 @@
         {
             "Key": 1431880950,
             "Value": "PURIFICADORA"
+        },
+        {
+            "Key": 1434087097,
+            "Value": "CQC-73"
         },
         {
             "Key": 1435510243,
@@ -52571,12 +53187,20 @@
             "Value": "Mais munições na mochila"
         },
         {
+            "Key": 1543354589,
+            "Value": "DIGNIDADE DO TRABALHO"
+        },
+        {
             "Key": 1544072428,
             "Value": "EXO-FATO EMANCIPADOR"
         },
         {
             "Key": 1554222782,
             "Value": "Em testes de campo, 84% dos utilizadores disseram que a armadura melhorou a sua postura e autoestima."
+        },
+        {
+            "Key": 1554469453,
+            "Value": "BRASÃO DOS INCORRUPTOS"
         },
         {
             "Key": 1555196278,
@@ -52827,6 +53451,10 @@
             "Value": "Após testes extensos em Centros de Reabilitação Patrióticos, este design provou ser o mais aterrador para indivíduos afetados pela dissidência."
         },
         {
+            "Key": 1683917631,
+            "Value": "Sentinela de Morteiro com Gás"
+        },
+        {
             "Key": 1683937559,
             "Value": "ENTREGA DE SSSD"
         },
@@ -53015,6 +53643,10 @@
             "Value": "Coiote"
         },
         {
+            "Key": 1752350267,
+            "Value": "MOCHILA CREMATÓRIA"
+        },
+        {
             "Key": 1754091546,
             "Value": "Durável, à prova de água, e com revestimento térmico, as unidades excedentes desta capa são as preferidas de campistas domésticos para criarem tendas."
         },
@@ -53111,12 +53743,20 @@
             "Value": "Plasma de 9x20 mm"
         },
         {
+            "Key": 1789375498,
+            "Value": "SALTADOR DE IODO"
+        },
+        {
             "Key": 1789418574,
             "Value": "FS-40 Diplomata"
         },
         {
             "Key": 1790074216,
             "Value": "Desenvolvido pelo Ministério da Ciência quando estavam a investigar o fenómeno conhecido por A Obscuridade, esta armadura é impermeável e resistente a guinchos."
+        },
+        {
+            "Key": 1790910171,
+            "Value": "Aperto de Mão Diplomático"
         },
         {
             "Key": 1797186070,
@@ -53287,6 +53927,10 @@
             "Value": "CÁUSTICO"
         },
         {
+            "Key": 1868841169,
+            "Value": "Uma torre automática que dispara bombas de gás. O seu sistema de direcionamento dá prioridade a hostis que ainda não exibam sintomas causados pela inalação de gás. Aconselha-se os utilizadores a manterem-se na direção contrária ao vento da área do controlo de multidões."
+        },
+        {
             "Key": 1869001254,
             "Value": "NOVO ENCHIMENTO EXPLOSIVO"
         },
@@ -53433,6 +54077,10 @@
         {
             "Key": 1947661884,
             "Value": "TAMBOR DE MUNIÇÕES MAIOR"
+        },
+        {
+            "Key": 1950924479,
+            "Value": "SAPADORA CPG-48"
         },
         {
             "Key": 1951373264,
@@ -53611,6 +54259,10 @@
             "Value": "AR-2"
         },
         {
+            "Key": 2008452781,
+            "Value": "12MM"
+        },
+        {
             "Key": 2008789512,
             "Value": "Comando"
         },
@@ -53739,6 +54391,10 @@
             "Value": "Devastadora de 8x60 mm"
         },
         {
+            "Key": 2058817503,
+            "Value": "FOGUEIRO"
+        },
+        {
             "Key": 2062497342,
             "Value": "Mais cartuchos"
         },
@@ -53765,6 +54421,10 @@
         {
             "Key": 2071805061,
             "Value": "Lanterna"
+        },
+        {
+            "Key": 2073012404,
+            "Value": "APERTO DE MÃO DIPLOMÁTICO"
         },
         {
             "Key": 2074147858,
@@ -54039,6 +54699,10 @@
             "Value": "Um drone humano e autónomo equipado com um Lança-Arcos modificado. Capaz de projetar arcos de raios através de múltiplos alvos. Não precisa de ser recarregado entre disparos."
         },
         {
+            "Key": 2167258369,
+            "Value": "Com ângulos geométricos acentuados para simbolizar a inflexível cadeia hierárquica, esta capa encarna a santidade e determinação moral de uma liderança imaculada sobre os guerreiros enlameados que comanda."
+        },
+        {
             "Key": 2168678415,
             "Value": "MAIOR DURAÇÃO"
         },
@@ -54217,6 +54881,10 @@
         {
             "Key": 2240834675,
             "Value": "FIXAÇÃO MAIS RÁPIDA"
+        },
+        {
+            "Key": 2241013697,
+            "Value": "Dignidade do Trabalho"
         },
         {
             "Key": 2242514025,
@@ -54515,6 +55183,10 @@
             "Value": "Combinação de combate"
         },
         {
+            "Key": 2365825441,
+            "Value": "GRANADA GIGA"
+        },
+        {
             "Key": 2365875972,
             "Value": "Popularizado pelo comandante das FAST com o mesmo nome, este selo lembra-nos que só a Unidade perfeita consegue assegurar uma Liberdade perfeita."
         },
@@ -54657,6 +55329,10 @@
         {
             "Key": 2411907752,
             "Value": "COMANDO DE FOCALIZAÇÃO SILO INDIVIDUAL"
+        },
+        {
+            "Key": 2416187473,
+            "Value": "Com capacidade extra para armazenar munições lançáveis, esta armadura assegura que cada fortaleza inimiga pode ser ventilada taticamente, segundo os protocolos de enfraquecimento de estruturas."
         },
         {
             "Key": 2416744569,
@@ -54811,6 +55487,10 @@
             "Value": "E/GL-21"
         },
         {
+            "Key": 2478785269,
+            "Value": "SENTINELA DE MORTEIRO COM GÁS"
+        },
+        {
             "Key": 2486107935,
             "Value": "Permite uma conclusão rápida das tarefas administrativas da Liberdade numa atmosfera revigorante."
         },
@@ -54963,6 +55643,10 @@
             "Value": "Canhão Quasar"
         },
         {
+            "Key": 2563245393,
+            "Value": "SMG/FLAM-34"
+        },
+        {
             "Key": 2564887408,
             "Value": "SUBSÓNICA DE 5,5x50 mm"
         },
@@ -55107,8 +55791,16 @@
             "Value": "MD-6"
         },
         {
+            "Key": 2625476061,
+            "Value": "B/FLAM-80"
+        },
+        {
             "Key": 2631236711,
             "Value": "Perfuradora de Prospeção"
+        },
+        {
+            "Key": 2634038544,
+            "Value": "FORRO DE CONCUSSÃO, MATERIAL PERIGOSO"
         },
         {
             "Key": 2636041274,
@@ -55411,6 +56103,10 @@
             "Value": "Uma mira mecânica básica para os Helldivers que queiram voltar a viver as dificuldades gloriosas dos seus antepassados."
         },
         {
+            "Key": 2751547914,
+            "Value": "Com uma gola alta desenhada cientificamente para desviar lama, sangue, e projéteis indiretos não-letais, esta armadura imaculada concede a autoridade de superar combate a curta distância através de uma tradição antiga: a delegação—ou submissão a tribunal militar—de subordinados."
+        },
+        {
             "Key": 2752003323,
             "Value": "Fogo da liberdade de 8x60 mm"
         },
@@ -55521,6 +56217,14 @@
         {
             "Key": 2782065547,
             "Value": "G-89"
+        },
+        {
+            "Key": 2782235542,
+            "Value": "Tecida a partir de fibras industriais ásperas criadas para absorver suor e óleo, esta capa contém um emblema de uma pá para honrar os quebradores de solo da Super Terra, os quais asseguraram que a luz da Liberdade encontra o seu caminho através da crosta de qualquer planeta."
+        },
+        {
+            "Key": 2784934547,
+            "Value": "Sapadora CPG-48"
         },
         {
             "Key": 2786999754,
@@ -56363,6 +57067,10 @@
             "Value": "Uma broca capaz de perfurar paredes de colmeias Terminid, e lançar uma carga nuclear para colapsar todos os túneis."
         },
         {
+            "Key": 3123365807,
+            "Value": "Comandante CPH-26"
+        },
+        {
             "Key": 3123874207,
             "Value": "Napalm Descartável"
         },
@@ -56887,6 +57595,10 @@
             "Value": "Responsável AC-1"
         },
         {
+            "Key": 3332727941,
+            "Value": "FORRO DE CONCUSSÃO, REFORÇADO"
+        },
+        {
             "Key": 3335448467,
             "Value": "LASER ORBITAL"
         },
@@ -56925,6 +57637,10 @@
         {
             "Key": 3348415410,
             "Value": "AUGÚRIO DA VERDADEIRA IGUALDADE"
+        },
+        {
+            "Key": 3348610193,
+            "Value": "Ferramenta de Entrincheiramento"
         },
         {
             "Key": 3349008064,
@@ -57313,6 +58029,10 @@
         {
             "Key": 3517854229,
             "Value": "MANOBRA DE EXULTAÇÃO DE COLISÃO TORÁCICA"
+        },
+        {
+            "Key": 3518847546,
+            "Value": "Uma espingarda de disparo-rápido: dispara continuamente enquanto se deixa de premir o gatilho, através do mecanismo de ação de bomba. Carregada com flechas pequenas que penetram blindagem e equipada com uma baioneta estendida."
         },
         {
             "Key": 3518850509,
@@ -57735,6 +58455,10 @@
             "Value": "Alimentação de munições melhorada"
         },
         {
+            "Key": 3705134773,
+            "Value": "CREMATÓRIO"
+        },
+        {
             "Key": 3707094389,
             "Value": "TEMPO DE SOBRECARGA AUMENTADO"
         },
@@ -57785,6 +58509,10 @@
         {
             "Key": 3728668558,
             "Value": "DE CIMA A BAIXO"
+        },
+        {
+            "Key": 3731882316,
+            "Value": "CONETOR DE DADOS"
         },
         {
             "Key": 3735438181,
@@ -58067,8 +58795,16 @@
             "Value": "LAS-58"
         },
         {
+            "Key": 3833272338,
+            "Value": "Varredora"
+        },
+        {
             "Key": 3834075640,
             "Value": "Canhão eletromagnético"
+        },
+        {
+            "Key": 3835713360,
+            "Value": "Uma multiferramenta perfeitamente equilibrada, otimizada para a remoção de solo e de outras formas de resistência com uma precisão cirúrgica."
         },
         {
             "Key": 3837575192,
@@ -58167,12 +58903,20 @@
             "Value": "Flechettes de 10 g"
         },
         {
+            "Key": 3876158673,
+            "Value": "Criada para transformar os maiores inimigos em partes consideravelmente mais pequenas e vastamente mais submissas. Sacrifica alcance de lançamento em troca de uma detonação gigantesca."
+        },
+        {
             "Key": 3876419466,
             "Value": "Uniforme oficial da Liga de Lutadores de Braço de Ferro Patrióticos, esta armadura possui uma camada inferior de licra elástica que absorve o suor para o máximo conforto durante a flexão."
         },
         {
             "Key": 3882630018,
             "Value": "Novo enchimento explosivo"
+        },
+        {
+            "Key": 3883099792,
+            "Value": "Lança-chamas"
         },
         {
             "Key": 3883362231,
@@ -58217,6 +58961,10 @@
         {
             "Key": 3898950705,
             "Value": "Uma 'arma não mortífera' para modificar o comportamento dos inimigos. Cria uma cortina de fumo grossa para bloquear o campo de visão dos inimigos."
+        },
+        {
+            "Key": 3899068957,
+            "Value": "Bastião CPR-80"
         },
         {
             "Key": 3899708304,
@@ -58323,6 +59071,10 @@
             "Value": "MOCHILA DE TRANSPORTE"
         },
         {
+            "Key": 3944495922,
+            "Value": "VELOCIDADE DE ATAQUE"
+        },
+        {
             "Key": 3946533903,
             "Value": "CE-81 COLOSSAL"
         },
@@ -58401,6 +59153,10 @@
         {
             "Key": 3985944090,
             "Value": "GÁS"
+        },
+        {
+            "Key": 3988593673,
+            "Value": "Apoio incendiário alimentado por uma mochila gigantesca que serve como tanque de combustível. Este lança-chamas pesado permite que uma coluna contínua de fogo limpe o campo de batalha."
         },
         {
             "Key": 3988789060,
@@ -58611,6 +59367,10 @@
             "Value": "O inconfundível sinal vermelho, branco e verde do Exército Médico Intergaláctico para todos os Helldivers que avisa que a ajuda está próxima."
         },
         {
+            "Key": 4068334059,
+            "Value": "Atestado do Desgaste"
+        },
+        {
             "Key": 4068335640,
             "Value": "SUPER PEDESTRE"
         },
@@ -58743,6 +59503,10 @@
             "Value": "Encamisada de 9x20 mm"
         },
         {
+            "Key": 4122605483,
+            "Value": "COMANDANTE CPH-26"
+        },
+        {
             "Key": 4122755523,
             "Value": "MAIS CARREGADORES PARA METRALHADORA PESADA MONTADA"
         },
@@ -58804,7 +59568,7 @@
         },
         {
             "Key": 4144979903,
-            "Value": "Aumenta por <c=#COLOR>#SIGN#BONUS</c> o inventário inicial e a capacidade de armazenamento de itens lançáveis."
+            "Value": "Aumenta por <c=#COLOR>#BONUS</c> o inventário inicial e a capacidade de armazenamento de itens lançáveis."
         },
         {
             "Key": 4145747035,
@@ -58849,6 +59613,10 @@
         {
             "Key": 4161927870,
             "Value": "ALMIRANTE"
+        },
+        {
+            "Key": 4168280481,
+            "Value": "Veto"
         },
         {
             "Key": 4170256899,
@@ -58995,6 +59763,10 @@
             "Value": "FRAGMENTAÇÃO"
         },
         {
+            "Key": 4226720897,
+            "Value": "ESGOTAMENTO DE RESISTÊNCIA"
+        },
+        {
             "Key": 4226754563,
             "Value": "PACOTE DE C4"
         },
@@ -59079,6 +59851,10 @@
             "Value": "Completamente embainhadas numa espuma de fibra de sílica, exceto um tubo fino ligado ao canal auditivo que permite a audição de berros satisfatórios dos inimigos da Liberdade quando eles ardem."
         },
         {
+            "Key": 4272670043,
+            "Value": "VARREDORA"
+        },
+        {
             "Key": 4272980910,
             "Value": "GL-52"
         },
@@ -59153,6 +59929,10 @@
         {
             "Key": 18899425,
             "Value": "SENTINELA"
+        },
+        {
+            "Key": 19041633,
+            "Value": "SELECIONAR E AJUSTAR"
         },
         {
             "Key": 22428682,
@@ -63557,6 +64337,10 @@
         {
             "Key": 2792401146,
             "Value": "OBRIGAÇÕES DE GUERRA"
+        },
+        {
+            "Key": 2795189545,
+            "Value": "Pedido: #REQ\nErro: #ERR\nEstado: #STAT"
         },
         {
             "Key": 2800191259,

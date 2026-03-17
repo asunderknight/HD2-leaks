@@ -31,6 +31,10 @@
             "Value": "STRAŻNIK"
         },
         {
+            "Key": 19041633,
+            "Value": "WYBIERZ I DOSTOSUJ"
+        },
+        {
             "Key": 22428682,
             "Value": "Witaj na <i=1>mapie galaktycznej</i> – to tutaj kierujesz niszczyciel na linię frontu i wybierasz <i=1>misje</i> do rozegrania.\n\nW wojnie galaktycznej cała <i=1>społeczność helldiversów</i> walczy wspólnie z wrogami Super Ziemi."
         },
@@ -1072,7 +1076,7 @@
         },
         {
             "Key": 633489131,
-            "Value": "MUSZKA"
+            "Value": "WYLOT LUFY"
         },
         {
             "Key": 635280456,
@@ -4431,6 +4435,10 @@
             "Value": "OBLIGACJE WOJENNE"
         },
         {
+            "Key": 2795189545,
+            "Value": "Żądanie: #REQ\nBłąd: #ERR\nStan: #STAT"
+        },
+        {
             "Key": 2800191259,
             "Value": "EKSPERYMENTY Z BRONIĄ\nManewr orbitalnego lasera został tymczasowo autoryzowany do użycia przez wszystkich helldiversów."
         },
@@ -5576,7 +5584,7 @@
         },
         {
             "Key": 3610079077,
-            "Value": "Muszka"
+            "Value": "Wylot lufy"
         },
         {
             "Key": 3612035102,
@@ -8667,6 +8675,10 @@
             "Value": "Terminidzkie smokoluchy panoszą się na niebie nad tą planetą."
         },
         {
+            "Key": 1025296589,
+            "Value": "BEZROZUMNE MASY"
+        },
+        {
             "Key": 1032974617,
             "Value": "EKSPERYMENTY Z UZBROJENIEM"
         },
@@ -9448,7 +9460,7 @@
         },
         {
             "Key": 1649129897,
-            "Value": "WYDARZENIE WYZWOLENIA"
+            "Value": "PILNE WYZWOLENIE"
         },
         {
             "Key": 1651478897,
@@ -9481,6 +9493,10 @@
         {
             "Key": 1683637306,
             "Value": "SPORY KOMPETENCYJNE"
+        },
+        {
+            "Key": 1683778021,
+            "Value": "Na tej planecie oświeceni przemieniają wielu obywateli Super Ziemi w naszych niegłosujących wrogów. Przygotujcie się na walkę z wypaczoną, zindoktrynowaną hordą."
         },
         {
             "Key": 1695074190,
@@ -11060,7 +11076,7 @@
         },
         {
             "Key": 2888682480,
-            "Value": "Super Ziemia wyzwala nową planetę! Jeśli społeczność rozegra dość misji w wydarzeniach specjalnych na tej planecie, zanim skończy się czas, rozszerzymy terytorium Super Ziemi."
+            "Value": "Helldiversi muszą wyzwolić tę planetę, zanim skończy się czas. Porażka będzie miała poważne konsekwencje."
         },
         {
             "Key": 2893255745,
@@ -11503,6 +11519,10 @@
             "Value": "Nieznany"
         },
         {
+            "Key": 3264867080,
+            "Value": "PRZYWŁASZCZYCIELE"
+        },
+        {
             "Key": 3267185606,
             "Value": "ZAKŁÓCENIA ATMOSFERYCZNE"
         },
@@ -11929,6 +11949,10 @@
         {
             "Key": 3641252510,
             "Value": "Nieznany"
+        },
+        {
+            "Key": 3643666565,
+            "Value": "Na tej planecie oświeceni rozmieszczają jedynie wojska złożone z przedstawicieli własnego gatunku. To jasny sygnał, że ta operacja jest dla nich ważna i/lub ksenofobiczna. Przygotujcie się do starcia z piechotą, dronami i pilotowanymi konstruktami bojowymi."
         },
         {
             "Key": 3648328316,
@@ -12837,6 +12861,10 @@
         {
             "Key": 31041893,
             "Value": "{0.00->3.47}Świat potrzebuje od was eksterminowania w słusznej sprawie, helldiversi."
+        },
+        {
+            "Key": 31517129,
+            "Value": "{0.00->1.74}Uważajcie w tych ruinach oświeconych.{2.12->4.43}Może tam być wszelkiej maści wroga propaganda.{4.92->6.67}Nie patrzcie. Po prostu wysadzajcie."
         },
         {
             "Key": 32012322,
@@ -13931,6 +13959,10 @@
             "Value": "{0.02->1.69}Zwycięstwo czeka na nas!"
         },
         {
+            "Key": 235752768,
+            "Value": "{0.00->5.23}Nie wierzę, że egzoburze są ostatecznym celem planów oświeconych.{5.23->10.33}Nie, boję się, że są jedynie zwiastunem czegoś znacznie gorszego."
+        },
+        {
             "Key": 236182695,
             "Value": "{0.00->3.12}Zaatakowali i Cyberstan, i Super Ziemię, tak?{3.12->7.34}Cóż, wolność ma dwie pięści i jest oburęczna."
         },
@@ -14201,6 +14233,10 @@
         {
             "Key": 292516086,
             "Value": "{0.00->2.68}Oglądanie helldiversów w akcji doskonale wpływa na morale załogi.{3.24->6.33}Nawet lepiej niż egzekucje dysydentów."
+        },
+        {
+            "Key": 293249345,
+            "Value": "{0.00->0.93}Oni zginęli,{1.55->4.76}ale zapobiegli szerzeniu się cienia tyranii."
         },
         {
             "Key": 294047144,
@@ -14661,6 +14697,10 @@
         {
             "Key": 371871080,
             "Value": "{0.01->0.56}Wchodzę na pokład!"
+        },
+        {
+            "Key": 372914379,
+            "Value": "{0.07->4.56}Te ruiny oświeconych są jak z tego koszmaru, który kiedyś mi się śnił..."
         },
         {
             "Key": 373891083,
@@ -15951,6 +15991,10 @@
             "Value": "{0.00->0.75}Potrzebuję świeżego W.E.C.-a"
         },
         {
+            "Key": 596262931,
+            "Value": "{0.05->5.26}Pustka oświeconych się szerzy. Jeśli jej nie zatrzymamy, może pochłonąć całą galaktykę...{5.63->9.64}jedyną galaktykę naprawdę dobrą, czystą i wolną."
+        },
+        {
             "Key": 597506676,
             "Value": "{0.03->0.79}Południowy wschód."
         },
@@ -16179,8 +16223,16 @@
             "Value": "{0.00->0.52}Numer pięć."
         },
         {
+            "Key": 645552785,
+            "Value": "{0.00->4.82}Egzoiglice oświeconych wystrzeliwują z ich ruin.{5.31->9.10}Powinniśmy byli zburzyć je do gołej ziemi, gdy mieliśmy szansę."
+        },
+        {
             "Key": 645674399,
             "Value": "{0.02->0.51}1!"
+        },
+        {
+            "Key": 645845828,
+            "Value": "{0.00->3.06}Kiedy oświeceni zostaną wygnani z tej planety,{3.06->5.74}zapamiętamy naszych bohaterów."
         },
         {
             "Key": 646871672,
@@ -16537,6 +16589,10 @@
         {
             "Key": 715974613,
             "Value": "{0.00->0.95}Korzyść taktyczna."
+        },
+        {
+            "Key": 716019345,
+            "Value": "{0.00->5.03}Ruiny oświeconych to centrum dziedzictwa kulturowego, zawierające starożytną wiedzę.{5.40->8.09}Wiedzę o głowonożnych tyranach!{8.53->10.83}Trzeba je zniszczyć!"
         },
         {
             "Key": 716728210,
@@ -17443,6 +17499,10 @@
             "Value": "{0.00->1.20}Przesyłka przejęta."
         },
         {
+            "Key": 884338674,
+            "Value": "{0.00->5.67}Zburzcie ich egzoiglice. Ocalcie galaktykę od tego nieznanego zagrożenia."
+        },
+        {
             "Key": 885276144,
             "Value": "{0.03->0.64}Uciekać!"
         },
@@ -17843,6 +17903,10 @@
             "Value": "{0.00->3.70}Usunęli ją. Jaki jest sens umieszczać jedną grę wewnątrz drugiej?"
         },
         {
+            "Key": 949395652,
+            "Value": "{7.54->11.51}Z pozdrowieniami wolności, mówi Coretta Kelly.{11.51->15.40}Na naszą galaktykę znów spadło nieszczęście.{15.40->20.13}Dziwne międzygwiezdne zjawisko, wywołane przez egzoiglice oświeconych,{20.13->25.23}pogrążyło całe planety w nieprzeniknionym mroku.{25.23->29.43}Ten dziwny obszar nazwany został „pustką”.{29.43->35.24}Pustka nie emituje ani nie odbija jakiegokolwiek światła, ani żadnego innego znanego sygnału.{35.24->38.75}Sondy wysłane do pustki nie powróciły.{38.75->44.92}Oświeceni nadal wznoszą egzoiglice, które według nas są narzędziami{44.92->47.36}służącymi do tworzenia pustki.{47.36->51.76}Kiedy dość egzoiglic zostanie zbudowanych na sąsiednich planetach,{51.76->56.18}same planety i przestrzeń między nimi zostają pochłonięte przez pustkę.{56.18->59.28}Planety te dosłownie znikają z widoku.{59.28->65.49}Helldiversi otrzymali rozkaz zmierzenia się z tym tragicznym zagrożeniem.{65.49->69.62}Mają skoncentrować swe wysiłki na przerwaniu budowy egzoiglic.{69.63->73.61}Tymczasem eksperci z Ministerstwa Nauki usiłują niezwłocznie{73.61->76.25}dowiedzieć się jak najwięcej o tym nowym, tajemniczym zjawisku.{76.25->80.03}To były wiadomości ze świata wolności. Mówiła Coretta Kelly."
+        },
+        {
             "Key": 949581385,
             "Value": "{0.00->2.56}Rządy terroru oświeconych dziś się skończą."
         },
@@ -17973,6 +18037,10 @@
         {
             "Key": 978756581,
             "Value": "{0.00->2.39}Nigdy nie byłam na Super Ziemi,{2.88->5.24} ale ponoć jest jeszcze bardziej spektakularna w rzeczywistości."
+        },
+        {
+            "Key": 978955047,
+            "Value": "{0.06->3.93}Kurczę, te egzoburze oświeconych... Aż mam ciarki.{3.93->9.74}Przypominają mi ogniste tornada na Hellmire, tylko mroczniejsze i bardziej odporne na prawdę."
         },
         {
             "Key": 979105192,
@@ -18489,6 +18557,10 @@
         {
             "Key": 1095060142,
             "Value": "{0.01->1.85}Zarządzana demokracja w akcji!"
+        },
+        {
+            "Key": 1095223927,
+            "Value": "{0.00->5.41}Po pojawieniu się pustki doszło do nasilenia zaginięć obywateli.{6.16->7.95}To niepokojące wieści."
         },
         {
             "Key": 1095755534,
@@ -19519,6 +19591,10 @@
             "Value": "{0.00->1.95}Aktywacja silników orbitalnych."
         },
         {
+            "Key": 1279591587,
+            "Value": "{0.01->3.75}Te egzoiglice są paskudne.{3.75->6.95}Cywilizowany gatunek nie zbudowałby czegoś takiego.{6.95->8.89}Na pewno potrzebujemy więcej flag."
+        },
+        {
             "Key": 1279870488,
             "Value": "{0.10->3.66}Kto powie, kiedy zajaśniała pierwsza gwiazda?{4.32->7.63}Co jest esencją demokracji? {8.37->11.45}Kiedy kosmos będzie naprawdę wolny? {12.73->16.80}My. Nasz rząd."
         },
@@ -19621,6 +19697,10 @@
         {
             "Key": 1291143166,
             "Value": "{0.02->2.83}Słodka, słodka wolności!"
+        },
+        {
+            "Key": 1292072971,
+            "Value": "{0.00->5.41}Wezwanie pustki żeruje na tych, których lojalność jest słaba.{5.41->8.76}Ci, którzy mają niewzruszone przekonania,{8.76->10.76}nie muszą się bać."
         },
         {
             "Key": 1295347517,
@@ -19929,6 +20009,10 @@
         {
             "Key": 1356808669,
             "Value": "{0.00->0.89}Bateria padła!"
+        },
+        {
+            "Key": 1358804309,
+            "Value": "{7.44->10.95}Z pozdrowieniami wolności, mówi Coretta Kelly.{10.95->14.48}Na froncie walki z oświeconymi zarejestrowano dziwną, nową aktywność.{14.48->17.75}Wieże, które wystrzeliły ze starożytnych ruin oświeconych,{17.75->23.98}wywołują potężne zakłócenia atmosferyczne, zwane „egzoburzami”.{23.98->29.84}Egzoburze są jednak jedynie efektem ubocznym aktywności egzoiglic.{29.84->35.24}Astronomowie z Ministerstwa Nauki zaobserwowali grawitacyjne „chybotania” planet,{35.25->40.32}na których stoją egzoiglice – to dowód na jakiegoś rodzaju połączenie.{40.32->44.78}Helldiversi zostali wysłani, aby zakłócić aktywność oświeconych{44.78->48.66}i zapobiec budowie kolejnych egzoiglic.{48.66->52.52}To były wiadomości ze świata wolności. Mówiła Coretta Kelly."
         },
         {
             "Key": 1359494598,
@@ -20843,6 +20927,10 @@
             "Value": "{0.00->2.43}Nie martwcie się – helldiversi nas chronią!"
         },
         {
+            "Key": 1535096373,
+            "Value": "{0.00->3.42}Zginęli, aby ocalić tę planetę od mroku."
+        },
+        {
             "Key": 1535384843,
             "Value": "{0.02->1.34}Demokracjo, ocal mnie!"
         },
@@ -20853,6 +20941,10 @@
         {
             "Key": 1536846787,
             "Value": "{0.00->2.69}Opłakujemy... i masakrujemy."
+        },
+        {
+            "Key": 1536900363,
+            "Value": "{0.00->4.98}Stało się tak, jak się obawialiśmy. Obywatele znikają w szczelinie.{5.59->12.48}Są zabierani z uwielbianych miejsc pracy bez ostrzeżenia i rzucani w nieucywilizowaną dzicz,{12.48->14.84}skąd porywają ich oświeceni."
         },
         {
             "Key": 1537300583,
@@ -20971,6 +21063,10 @@
             "Value": "{0.00->0.95}Wolność!"
         },
         {
+            "Key": 1566858094,
+            "Value": "{0.00->5.17}Przez cały ten czas te stare ruiny miały zdolność wywoływania egzoburz.{5.17->7.69}A my odwiedzaliśmy je beztrosko podczas wycieczek szkolnych."
+        },
+        {
             "Key": 1569977842,
             "Value": "{0.00->2.46}Będę bronić naszego stylu życia."
         },
@@ -21021,6 +21117,10 @@
         {
             "Key": 1582119489,
             "Value": "{0.02->0.80}Oczywiście!"
+        },
+        {
+            "Key": 1582515563,
+            "Value": "{0.00->3.83}Pustka oświeconych, pełna nicości, bez światła, bez prawdy...{4.34->6.43}Tylko czysty mrok."
         },
         {
             "Key": 1583680912,
@@ -21117,6 +21217,10 @@
         {
             "Key": 1606841079,
             "Value": "{0.00->1.50}Uważajcie, żołnierze!"
+        },
+        {
+            "Key": 1608934323,
+            "Value": "{0.04->5.24}A więc kiedy oświeceni budują kilka egzoiglic na planecie...{5.24->9.17}wszystko pomiędzy nimi zostaje pochłonięte przez pustkę.{9.17->12.24}Oświeceni i ich przeklęte spiski..."
         },
         {
             "Key": 1609207012,
@@ -21343,6 +21447,10 @@
             "Value": "{0.73->3.91}Nie da się skrzywdzić demokracji!"
         },
         {
+            "Key": 1649881830,
+            "Value": "{0.00->5.74}Kiedy oświeceni wznoszą swoje egzoiglice, w jakiś sposób wpływa to na tkaninę czasoprzestrzeni.{6.50->9.76}Czy oni mogą przestać próbować manipulować siłami, których nie rozumieją?"
+        },
+        {
             "Key": 1649908251,
             "Value": "{0.00->1.16}Pokaż mi wroga."
         },
@@ -21405,6 +21513,10 @@
         {
             "Key": 1663208570,
             "Value": "{0.02->1.83}ŚMIERĆ WSZYSTKIM KALMAROM!"
+        },
+        {
+            "Key": 1664108530,
+            "Value": "{0.00->3.31}Oświeceni rzuciliby tę planetę w mrok.{3.69->5.22}Trzeba ich powstrzymać!"
         },
         {
             "Key": 1664144747,
@@ -22179,6 +22291,10 @@
             "Value": "{0.00->0.93}Super Ziemia"
         },
         {
+            "Key": 1809599170,
+            "Value": "{0.00->4.37}Nie pozwolimy, aby pustka ukradła planety naszym obywatelom."
+        },
+        {
             "Key": 1811469408,
             "Value": "{0.00->1.57}Układ Portu Kneth"
         },
@@ -22433,6 +22549,10 @@
         {
             "Key": 1870294809,
             "Value": "{0.02->0.89}Proszę!"
+        },
+        {
+            "Key": 1870433910,
+            "Value": "{0.00->3.92}Oświeceni zapłacą wysoką cenę za swoje machinacje."
         },
         {
             "Key": 1870625963,
@@ -23447,6 +23567,10 @@
             "Value": "{0.00->0.89}Mam to."
         },
         {
+            "Key": 2080089745,
+            "Value": "{0.00->8.25}Helldiversie. Starożytne ruiny oświeconych, dawno porzucone, drżą teraz od despotycznej aktywności."
+        },
+        {
             "Key": 2080289688,
             "Value": "{0.02->0.79}Rozumiem."
         },
@@ -24013,6 +24137,10 @@
         {
             "Key": 2197895855,
             "Value": "{0.07->1.39}Układ Oazy"
+        },
+        {
+            "Key": 2197910828,
+            "Value": "{0.00->3.68}Ta planeta coraz bardziej pogrąża się w mroku."
         },
         {
             "Key": 2198770594,
@@ -25035,6 +25163,10 @@
             "Value": "{0.00->0.48}Pusto!"
         },
         {
+            "Key": 2392568362,
+            "Value": "{0.00->2.78}Całun oświeconych rośnie."
+        },
+        {
             "Key": 2393312537,
             "Value": "{0.00->1.57}Układ Wzgórza Wolności"
         },
@@ -25799,12 +25931,20 @@
             "Value": "{0.04->2.38}Trzymaj się ode mnie z daleka, robalu!"
         },
         {
+            "Key": 2541938188,
+            "Value": "{0.06->5.23}„Ciekawość rodzi dysydentów” – mama zawsze to powtarzała.{5.23->9.24}Kto chciałby spekulować na temat starożytnych ruin oświeconych{9.24->13.69}aktywujących się po tysiącleciach i generujących zjawiska zmieniające{13.69->18.02}czasoprzestrzeń i powodujących zniknięcie setek i tysięcy obywateli?{18.02->22.44}Na pewno nie ja. Zaczekam na komunikat Ministerstwa Prawdy."
+        },
+        {
             "Key": 2541995252,
             "Value": "{0.00->1.26}Układ Karlia"
         },
         {
             "Key": 2542298021,
             "Value": "{0.00->1.21}Dokonujemy postępów."
+        },
+        {
+            "Key": 2542770202,
+            "Value": "{0.00->5.58}Kto wie, jaki pseudointelektualny bełkot może czekać na was w ruinach oświeconych...{5.58->8.03}i jakie szkody może wyrządzić naszym wartościom."
         },
         {
             "Key": 2543465330,
@@ -26471,6 +26611,10 @@
             "Value": "{0.00->0.34}Zero."
         },
         {
+            "Key": 2675161089,
+            "Value": "{0.00->5.69}Pewnego dnia odzyskamy wszystkie te planety, które są zakładnikami oświeconych. A kiedy to zrobimy,{6.25->8.92}pokażemy im, co tak naprawdę oznacza zniszczenie."
+        },
+        {
             "Key": 2677228896,
             "Value": "{0.00->2.69}Demokracja znów wygrywa."
         },
@@ -26753,6 +26897,10 @@
         {
             "Key": 2731825942,
             "Value": "{0.17->6.56}Tak sobie myślę – warpowanie po całej Federacji nie byłoby możliwe bez pierwiastka 710,{6.98->9.57}który pochodzi od robali.{9.99->14.72}Ich truchła napędzają powstawanie kolejnych trucheł.{16.87->18.63}Jest w tym coś satysfakcjonującego."
+        },
+        {
+            "Key": 2732069360,
+            "Value": "{0.03->6.21}Oświeceni wykopali truchło swojej martwej cywilizacji. W jakim celu?{6.21->11.01}Czy chcą przywrócić dawną podłą chwałę swemu imperium i{11.01->14.95}jeszcze raz rzucić galaktykę w szpony tyranii?{14.95->16.76}Nie pozwolimy na to."
         },
         {
             "Key": 2732178824,
@@ -27067,6 +27215,10 @@
             "Value": "{0.00->2.11}Następnym razem spróbujcie przywieźć więcej próbek."
         },
         {
+            "Key": 2790000033,
+            "Value": "{0.01->2.36}Wiesz, co mówią?{2.36->5.03}Że wpływ pustki jest zbyt silny...{5.03->11.24}że woła ludzi, błagając ich, by na nowo przemyśleli swój system wartości.{11.24->14.72}Tak, wiem, że to brzmi jak bajeczka z obozu harcerskiego."
+        },
+        {
             "Key": 2790543261,
             "Value": "{0.02->2.91}Kalmary wyjedzą nam mózgi!"
         },
@@ -27197,6 +27349,10 @@
         {
             "Key": 2805693152,
             "Value": "{0.00->0.75}Tam są!"
+        },
+        {
+            "Key": 2807051888,
+            "Value": "{0.00->7.29}Myślisz, że pustka jest... głodna? Nie, to głupie.{8.29->9.77}Gdyby w kosmosie istniały inne istoty zdolne do odczuwania,{9.77->11.28}Ministerstwo Prawdy na pewno by nas o tym poinformowało."
         },
         {
             "Key": 2807297477,
@@ -27485,6 +27641,10 @@
         {
             "Key": 2850389352,
             "Value": "{0.00->1.41}Rzucam nadajnik zaopatrzeniowy."
+        },
+        {
+            "Key": 2851350591,
+            "Value": "{0.00->3.73}To, co wchodzi do pustki, już z niej nie wychodzi."
         },
         {
             "Key": 2852282429,
@@ -27807,6 +27967,10 @@
             "Value": "{0.00->1.23}Układ Zefia"
         },
         {
+            "Key": 2913054404,
+            "Value": "{0.00->4.14}Moim zdaniem pustka to po prostu echokomora oświeconych,{4.57->8.13}w której kultywują swoją ksenofobiczną ideologię."
+        },
+        {
             "Key": 2913692192,
             "Value": "{0.15->1.27}Wzywam odbiór."
         },
@@ -28109,6 +28273,10 @@
         {
             "Key": 2975716805,
             "Value": "{0.00->1.42}Rozmieszczamy stanowisko uzbrojenia."
+        },
+        {
+            "Key": 2976793000,
+            "Value": "{0.00->0.68}Pustka...{2.50->3.46}pochłonęła je wszystkie..."
         },
         {
             "Key": 2977407428,
@@ -28443,6 +28611,10 @@
             "Value": "{0.01->1.01}Zabijcie je wszystkie!"
         },
         {
+            "Key": 3043547421,
+            "Value": "{0.05->2.37}A, chcesz posłuchać o moim śnie?{2.37->7.92}W mojej szkolnej stołówce siedzi oświecony. Ma malutki kapelutek.{7.92->11.92}Ja oczywiście staram się go zastrzelić, ale zamiast rąk mam macki.{11.92->17.59}Oświecony próbuje zmusić nas do zjedzenia czarnego makaronu i na zawsze opuścić domy,{17.59->21.92}aby znaleźć „lepszą formę rządów”, cokolwiek to miałoby znaczyć.{21.92->23.02}Sny są szalone."
+        },
+        {
             "Key": 3043622369,
             "Value": "{0.05->0.63}Za mną."
         },
@@ -28635,6 +28807,10 @@
             "Value": "{0.00->1.48}Witaj, helldiversie.{1.99->3.29}Cieszę się, że jesteście z nami."
         },
         {
+            "Key": 3073912687,
+            "Value": "{0.00->4.06}To znowu oświeceni. I po prostu zniknęli... Jak? Dlaczego?{4.50->7.73}Jak mogą sprawiać, że całe planety znikają, ot tak?"
+        },
+        {
             "Key": 3074138875,
             "Value": "{0.01->3.28}ODPALAM! Gińcie, terroryści!"
         },
@@ -28657,6 +28833,10 @@
         {
             "Key": 3075355144,
             "Value": "{0.00->1.50}Cofnijcie się, podłe kalmary!"
+        },
+        {
+            "Key": 3075362523,
+            "Value": "{0.08->4.59}Wiesz, co oświeceni robią w tych ruinach?{4.59->8.41}Czekaj, nie mów mi. Nie mam zezwolenia."
         },
         {
             "Key": 3076664791,
@@ -28957,6 +29137,10 @@
         {
             "Key": 3132413794,
             "Value": "{0.00->0.87}Kryj się."
+        },
+        {
+            "Key": 3132958445,
+            "Value": "{0.00->2.87}Musicie powstrzymać rozprzestrzenianie się pustki."
         },
         {
             "Key": 3133180405,
@@ -29439,6 +29623,10 @@
             "Value": "{0.01->4.19}TAK! ODSTRZELIĆ IM ŁBY! SPALIĆ WSZYSTKO!"
         },
         {
+            "Key": 3225914300,
+            "Value": "{0.00->7.36}A więc taki był plan oświeconych. Tam, gdzie nie sięga światło wolności, na galaktykę pada cień."
+        },
+        {
             "Key": 3226610965,
             "Value": "{0.00->0.38}Delta"
         },
@@ -29453,6 +29641,10 @@
         {
             "Key": 3229068101,
             "Value": "{0.02->0.73}Wróg!"
+        },
+        {
+            "Key": 3230340388,
+            "Value": "{0.05->4.79}Wiesz, że oświeceni mogą manipulować nami we śnie, jeśli nie będziemy ostrożni?{4.79->9.01}To dlatego w snach możemy robić szalone rzeczy – na przykład latać albo wiedzieć,{9.01->11.93}na kogo głosowaliśmy jeszcze przed wynikami głosowania."
         },
         {
             "Key": 3231338630,
@@ -29931,6 +30123,10 @@
             "Value": "{0.01->2.78}Nikt nie ucieknie przed płomieniami sprawiedliwości!"
         },
         {
+            "Key": 3309069999,
+            "Value": "{0.07->3.42}Pustka jest zagrożeniem dla samej tkaniny rzeczywistości.{3.42->6.58}Musicie zatriumfować za wszelką cenę."
+        },
+        {
             "Key": 3311487238,
             "Value": "{0.00->1.53}Wolność dla każdej istoty."
         },
@@ -30293,6 +30489,10 @@
         {
             "Key": 3372929859,
             "Value": "{0.00->1.56}Układ Deecon"
+        },
+        {
+            "Key": 3373091451,
+            "Value": "{0.00->5.43}Te egzoburze... Oświeceni znów zaburzają naturalny porządek świata.{5.44->7.57}Musimy im to wybić z głów... atomówkami."
         },
         {
             "Key": 3374620929,
@@ -31019,6 +31219,10 @@
             "Value": "{0.03->2.73}Automaty atakują Księżyc.{2.73->5.05}Jeśli zdołają tam założyć bazę...{5.05->7.09}Nie, nie pozwolimy im na to."
         },
         {
+            "Key": 3504445498,
+            "Value": "{0.00->3.11}Ta planeta nie pogrąży się dziś w mroku."
+        },
+        {
             "Key": 3506209550,
             "Value": "{0.00->2.70}Później będziemy ich opłakiwać. Kryć wyrwy w szyku!"
         },
@@ -31519,6 +31723,14 @@
             "Value": "{0.05->0.65}Kalmary!{1.06->1.35} Uciekać!"
         },
         {
+            "Key": 3607402722,
+            "Value": "{0.00->5.15}Oświeceni zmieniają porwanych obywateli w niegłosujących wbrew ich woli.{5.96->10.40}Jeśli taki jest początek ich wypaczonego planu przekształcenia naszych obywateli,{10.92->17.64}to mam ciarki, gdy pomyślę, jakie niewypowiedziane okropności czekają na nich w pustce."
+        },
+        {
+            "Key": 3609202726,
+            "Value": "{0.00->3.67}Galaktyka zsuwa się coraz bardziej w ciemność.{4.28->9.32}Oświeceni rzucili całe planety w czarną jak atrament ciemność,{9.32->12.31}której światło wolności nie jest w stanie przebić."
+        },
+        {
             "Key": 3610758490,
             "Value": "{0.00->1.88}Orzeł 1, wycofuję się, żeby się przezbroić."
         },
@@ -31569,6 +31781,10 @@
         {
             "Key": 3618867600,
             "Value": "{0.03->1.35}Boty tu są!"
+        },
+        {
+            "Key": 3620100085,
+            "Value": "{0.06->4.12}Egzoburze nie są naturalnymi zjawiskami pogodowymi.{4.50->9.05}Ich dziwne zorze obejmują całe półkule."
         },
         {
             "Key": 3620740791,
@@ -31633,6 +31849,10 @@
         {
             "Key": 3627660296,
             "Value": "{0.00->2.21}Podobno w stołówce dostali dzisiaj przydział fioletowych."
+        },
+        {
+            "Key": 3628040738,
+            "Value": "{0.00->6.28}Jednak intencje oświeconych pozostają równie mroczne, co sama pustka.{6.28->11.95}Być może chcą rzucić całą galaktykę na żer tej nieprzeniknionej pustki?"
         },
         {
             "Key": 3628100649,
@@ -32815,6 +33035,10 @@
             "Value": "{0.28->4.31}Ekhm. Jeszcze taka uwaga...{4.56->7.62} proszę starać się strzelać krótkimi, kontrolowanymi seriami.{7.62->9.52} Taki ostrzał jest celniejszy. {9.80->10.67}Uch, dziękuję."
         },
         {
+            "Key": 3847976252,
+            "Value": "{0.00->5.70}Oświeceni myślą, że w pustce są bezpieczni, bo nie jesteśmy w stanie w nią wlecieć,{5.72->7.74}przejrzeć jej ani w żaden sposób zmierzyć.{8.20->9.39}Ale my im pokażemy."
+        },
+        {
             "Key": 3849575040,
             "Value": "{0.01->1.03}Zajmę się terminalem."
         },
@@ -33065,6 +33289,10 @@
         {
             "Key": 3891159023,
             "Value": "{0.00->1.34}Nadchodzą!"
+        },
+        {
+            "Key": 3892295137,
+            "Value": "{0.06->4.66}Mówi się, że pustka żeruje na osobach o słabym umyśle, łatwo ulegającym wpływom.{4.66->10.71}Nie wiem, czy w to wierzyć. Zaczekajmy, aż Coretta Kelly przekaże nam fakty."
         },
         {
             "Key": 3892772646,
@@ -33459,8 +33687,16 @@
             "Value": "{0.00->4.75}Helldiversi to bohaterowie. Helldiversi to wolność."
         },
         {
+            "Key": 3953474554,
+            "Value": "{0.00->4.65}Tylu niewinnych cywilów pochłoniętych przez pustkę.{4.65->9.86}Kwiaty na ich pomnikach zakosztują krwi oświeconych...{9.86->11.90}nawozu sprawiedliwości."
+        },
+        {
             "Key": 3953909021,
             "Value": "{0.00->1.45}Nie ma wolności bez bólu."
+        },
+        {
+            "Key": 3954158734,
+            "Value": "{0.00->4.82}Astronomowie ministerstwa zaobserwowali wahania w tkaninie czasoprzestrzeni{4.82->8.33}niewidziane od czasu Osobliwości Meridiańskiej.{8.33->13.53}Oświeceni nadal majstrują coś przy rzeczywistości – ale w jakim celu?"
         },
         {
             "Key": 3954175518,
@@ -33857,6 +34093,10 @@
         {
             "Key": 4036312572,
             "Value": "{0.00->1.56}Układ Mekbuda"
+        },
+        {
+            "Key": 4037847279,
+            "Value": "{0.00->3.53}Nie udało nam się powstrzymać rozprzestrzeniania się pustki."
         },
         {
             "Key": 4038046513,
@@ -34323,6 +34563,10 @@
             "Value": "{0.00->3.27}Alert: Obrona obecnie orbitowanej planety przed inwazją {3.69->7.60}oświeconych zakończyła się tymczasową porażką.{8.24->11.20} Planeta znajduje się obecnie pod kontrolą oświeconych."
         },
         {
+            "Key": 4126150328,
+            "Value": "{0.00->4.74}Bezczeszcząc te ruiny, oświeceni okradają nasze Muzea Dysydencji,{4.74->6.86}zanim jeszcze zostaną zbudowane.{6.86->10.32}Jak teraz nasze dzieci poznają okropieństwa ksenofobii?"
+        },
+        {
             "Key": 4126517104,
             "Value": "{0.04->1.79}Robale! Aaaaa!"
         },
@@ -34345,6 +34589,10 @@
         {
             "Key": 4130061098,
             "Value": "{0.02->0.61}Robi się!"
+        },
+        {
+            "Key": 4130229929,
+            "Value": "{0.00->4.39}Pustka nie emituje ani nie odbija jakiegokolwiek promieniowania.{4.40->7.89}Z jej mroku nie ucieknie żadne światło, żaden dźwięk,{7.89->10.50}żadna oznaka życia czy wolności."
         },
         {
             "Key": 4130307857,
@@ -34389,6 +34637,10 @@
         {
             "Key": 4139396497,
             "Value": "{0.00->2.51}Nie ma odwrotu! Nie poddamy się!"
+        },
+        {
+            "Key": 4139946806,
+            "Value": "{0.00->3.85}Te starożytne ruiny oświeconych są ważną częścią naszego dziedzictwa.{3.85->7.09}To w nich unieśmiertelnieni są nasi przodkowie – ci,{7.09->11.10}którzy do cna bombardowali te świątynie ksenofobii."
         },
         {
             "Key": 4140218210,
@@ -34539,6 +34791,10 @@
             "Value": "{0.00->5.79}Cyberstan to stolica machiny wojennej cyborgów i automatów.{6.22->10.24}Musimy go wyzwolić – dla swobody galaktyki."
         },
         {
+            "Key": 4166728515,
+            "Value": "{0.00->3.18}Machinacje oświeconych ewoluują.{3.77->9.95}Z egzoiglic wystrzeliwują burze obejmujące całe planety. Wszędzie panuje chaos."
+        },
+        {
             "Key": 4168253503,
             "Value": "{0.00->0.71}Stawiam pinezkę."
         },
@@ -34605,6 +34861,10 @@
         {
             "Key": 4180434529,
             "Value": "{0.02->1.45}Zaczynam wyzwalanie."
+        },
+        {
+            "Key": 4181165455,
+            "Value": "{0.00->2.89}Upiór pustki rośnie."
         },
         {
             "Key": 4181688902,
@@ -34689,6 +34949,10 @@
         {
             "Key": 4194546495,
             "Value": "{0.10->0.69}Pomóżcie{1.15->2.10}mi!..."
+        },
+        {
+            "Key": 4195315471,
+            "Value": "{0.05->2.94}Zastanawiam się, czy mogę coś jeszcze przekazać na cele wojenne...{4.20->6.00}Chyba mogłabym używać mniej żetonów na prysznic."
         },
         {
             "Key": 4195358086,
@@ -34837,6 +35101,10 @@
         {
             "Key": 4231854573,
             "Value": "{0.00->3.90}Nasze miasto wraca w troskliwe objęcia wolności."
+        },
+        {
+            "Key": 4232377964,
+            "Value": "{0.00->6.56}U podstaw egzoiglic kalmary przeprowadzają jakiś tajemny, ohydny rytuał.{7.09->10.03}Nie możemy zrozumieć ich odrażającej kultury.{10.54->12.12}Możemy ją jedynie zniszczyć."
         },
         {
             "Key": 4232431675,
@@ -35137,6 +35405,10 @@
         {
             "Key": 4283705031,
             "Value": "{3.12->4.82}Bywało... gorzej..."
+        },
+        {
+            "Key": 4285009616,
+            "Value": "{0.00->0.92}Helldiversie.{1.39->8.16}Oświeceni wznoszą dziwne iglice nie z tego świata, w głębinach okupowanych przez siebie planet."
         },
         {
             "Key": 4285702222,
@@ -35679,6 +35951,10 @@
             "Value": "[CENZURA]"
         },
         {
+            "Key": 85526284,
+            "Value": "CPR-80 BASTION"
+        },
+        {
             "Key": 88479674,
             "Value": "Pancerz wybucha po <c=#COLOR>#BONUS</c> od śmierci noszącego."
         },
@@ -35823,12 +36099,20 @@
             "Value": "TŁUMIK"
         },
         {
+            "Key": 141575155,
+            "Value": "OBICIE DLA GRENADIERA"
+        },
+        {
             "Key": 142076512,
             "Value": "15x100 mm plazmowa"
         },
         {
             "Key": 142525292,
             "Value": "ASYSTA MECHANICZNA"
+        },
+        {
+            "Key": 146259175,
+            "Value": "Ten pancerz jest hołdem dla niewzruszonych bohaterów linii frontu – tych, którzy odmawiają uznania ostrzału nieprzyjaciela i twierdzą, że „unik” to koncepcja abstrakcyjna, bliska tchórzostwu."
         },
         {
             "Key": 146591054,
@@ -35897,6 +36181,10 @@
         {
             "Key": 166510538,
             "Value": "Szepczący Prawdę"
+        },
+        {
+            "Key": 166648085,
+            "Value": "Ten naładowany pociskami odrzutowymi pistolet jest wykalibrowany do stworzenia i utrzymania taktycznego dystansu od otaczających nieprzyjaciół."
         },
         {
             "Key": 167214020,
@@ -36207,6 +36495,10 @@
             "Value": "KUMULACYJNY MK2"
         },
         {
+            "Key": 312223767,
+            "Value": "Złodziej danych został starannie zaprojektowany przez inżynierów, aby idealnie pasować do węzłów dostępowych oświeconych. Po włączeniu aktywuje on zaawansowaną sekwencję zakłócania systemu, która wymaga właściwie jedynie potwierdzenia przez użytkownika."
+        },
+        {
             "Key": 316604262,
             "Value": "ORBITALNA SALWA POSTĘPUJĄCA"
         },
@@ -36491,6 +36783,10 @@
             "Value": "Zmodyfikowana strzelba Pogromca wystrzeliwująca wybuchowe pociski plazmowe. Strzelać ostrożnie – wybuchająca plazma może zadać obrażenia towarzyszom z oddziału."
         },
         {
+            "Key": 432406798,
+            "Value": "DOWÓD WYNISZCZENIA"
+        },
+        {
             "Key": 432713945,
             "Value": "Noszący tę pelerynę wiedzą, że nawet wrogowie wolności zasługują na równość. Równość bycia martwym."
         },
@@ -36557,6 +36853,10 @@
         {
             "Key": 454883555,
             "Value": "UF-16 Inspektor"
+        },
+        {
+            "Key": 457150574,
+            "Value": "A/GM-17"
         },
         {
             "Key": 459824368,
@@ -36687,6 +36987,10 @@
             "Value": "Odznaka porządku"
         },
         {
+            "Key": 538069015,
+            "Value": "Ta przewiewna peleryna, odnaleziona w magazynowej krypcie głęboko pod ziemią, symbolizuje niezłomne przetrwanie. Jej widoczne ślady bitewne pozwalają użytkownikowi uzyskać natychmiastowy status weterana, przypominający wszystkim patrzącym, że duch niestrudzonej służby jest nieśmiertelny."
+        },
+        {
             "Key": 540790024,
             "Value": "15x100 mm standardowa rakieta"
         },
@@ -36725,6 +37029,10 @@
         {
             "Key": 560618224,
             "Value": "CZUJNIKI CELOWNICZE"
+        },
+        {
+            "Key": 563225959,
+            "Value": "Kremator"
         },
         {
             "Key": 566653809,
@@ -36865,6 +37173,10 @@
         {
             "Key": 612466998,
             "Value": "LEKKA PPANC"
+        },
+        {
+            "Key": 613454310,
+            "Value": "Herb niesplamionych"
         },
         {
             "Key": 614297745,
@@ -37139,6 +37451,14 @@
             "Value": "STRZELBA"
         },
         {
+            "Key": 711961656,
+            "Value": "Plecak kremator"
+        },
+        {
+            "Key": 713817588,
+            "Value": "Uniwersalny pistolet maszynowy wyposażony w celownik i możliwości spalania na linii frontu."
+        },
+        {
             "Key": 714923769,
             "Value": "Atomizuje żrące chemikalia na delikatną mgiełkę, która upłynnia wrażliwą elektronikę i tkanki. Oślepia i spowalnia większość wrogów."
         },
@@ -37215,6 +37535,10 @@
             "Value": "StA-11"
         },
         {
+            "Key": 739758268,
+            "Value": "WETO"
+        },
+        {
             "Key": 740089886,
             "Value": "Magazynek bębnowy"
         },
@@ -37229,6 +37553,10 @@
         {
             "Key": 743787137,
             "Value": "FLAM-40"
+        },
+        {
+            "Key": 745002750,
+            "Value": "G-48"
         },
         {
             "Key": 747912226,
@@ -37491,6 +37819,10 @@
             "Value": "15x100 mm ODŁAMKOWA"
         },
         {
+            "Key": 865067904,
+            "Value": "P-69"
+        },
+        {
             "Key": 865901582,
             "Value": "ZŁOCONE PIÓRO"
         },
@@ -37655,6 +37987,10 @@
             "Value": "Super osoba"
         },
         {
+            "Key": 938882557,
+            "Value": "Giga granat"
+        },
+        {
             "Key": 939109424,
             "Value": "GP-20"
         },
@@ -37803,6 +38139,10 @@
             "Value": "Dodatkowa pojemność"
         },
         {
+            "Key": 1006230745,
+            "Value": "MIOTACZ PŁOMIENI"
+        },
+        {
             "Key": 1006830730,
             "Value": "Choć jest większy, wyposażono go zarówno w celownik laserowy, jak i latarkę."
         },
@@ -37893,6 +38233,10 @@
         {
             "Key": 1039538629,
             "Value": "ZWIĘKSZONA POJEMNOŚĆ"
+        },
+        {
+            "Key": 1039991308,
+            "Value": "Ruszt"
         },
         {
             "Key": 1042991016,
@@ -38153,6 +38497,10 @@
         {
             "Key": 1159406071,
             "Value": "G-31"
+        },
+        {
+            "Key": 1159822780,
+            "Value": "Złodziej danych"
         },
         {
             "Key": 1160544169,
@@ -38475,6 +38823,10 @@
             "Value": "13x40 mm W FARTUCHU STALOWYM"
         },
         {
+            "Key": 1292558029,
+            "Value": "SG-97"
+        },
+        {
             "Key": 1292790287,
             "Value": "Brak muszki"
         },
@@ -38639,6 +38991,10 @@
             "Value": "M7S"
         },
         {
+            "Key": 1382999144,
+            "Value": "12 mm"
+        },
+        {
             "Key": 1385818198,
             "Value": "Pocisk, który eksploduje w powietrzu, tworząc śmiercionośny deszcz odłamków. Nieskuteczny przeciwko ciężkiemu pancerzowi."
         },
@@ -38769,6 +39125,10 @@
         {
             "Key": 1431880950,
             "Value": "OCZYSZCZACZ"
+        },
+        {
+            "Key": 1434087097,
+            "Value": "CQC-73"
         },
         {
             "Key": 1435510243,
@@ -39035,12 +39395,20 @@
             "Value": "Więcej amunicji w plecaku"
         },
         {
+            "Key": 1543354589,
+            "Value": "DUMA Z TRUDU"
+        },
+        {
             "Key": 1544072428,
             "Value": "EGZOKOMBINEZON OSWOBODZICIEL"
         },
         {
             "Key": 1554222782,
             "Value": "W testach polowych 84% użytkowników stwierdziło, że pancerz ten poprawił ich postawę i samoocenę."
+        },
+        {
+            "Key": 1554469453,
+            "Value": "HERB NIESPLAMIONYCH"
         },
         {
             "Key": 1555196278,
@@ -39291,6 +39659,10 @@
             "Value": "Po dokładnych testach w centrum rehabilitacji patriotycznej ten projekt uznany został za najbardziej przerażający dla osób narażonych na wpływ dysydentów. "
         },
         {
+            "Key": 1683917631,
+            "Value": "Strażnik z moździerzem gazowym"
+        },
+        {
             "Key": 1683937559,
             "Value": "DOSTAWA DYSKU SSSD"
         },
@@ -39479,6 +39851,10 @@
             "Value": "Kojot"
         },
         {
+            "Key": 1752350267,
+            "Value": "PLECAK KREMATOR"
+        },
+        {
             "Key": 1754091546,
             "Value": "Trwałe, wodoodporne i izolowane termicznie peleryny są łakomym kąskiem dla wielbicieli demobilu, którzy szyją z nich namioty."
         },
@@ -39575,12 +39951,20 @@
             "Value": "9x20 mm plazmowy"
         },
         {
+            "Key": 1789375498,
+            "Value": "POGROMCA BŁOTA"
+        },
+        {
             "Key": 1789418574,
             "Value": "FS-40 Dyplomata"
         },
         {
             "Key": 1790074216,
             "Value": "Ten pancerz, opracowany przez Ministerstwo Nauki podczas badania zjawiska zwanego „posępnością”, jest nieprzepuszczalny i w ogóle nie skrzypi."
+        },
+        {
+            "Key": 1790910171,
+            "Value": "Dyplomatyczny uścisk dłoni"
         },
         {
             "Key": 1797186070,
@@ -39751,6 +40135,10 @@
             "Value": "ŻRĄCY"
         },
         {
+            "Key": 1868841169,
+            "Value": "Automatyczna wieżyczka wystrzeliwująca pociski gazowe. Jej system namierzania kładzie priorytet na wrogów, którzy nie wykazują jeszcze symptomów wywoływanych przez wdychanie gazu. Użytkownikom zaleca się stać pod wiatr i skutecznie kontrolować tłum nieprzyjaciół."
+        },
+        {
             "Key": 1869001254,
             "Value": "NOWY ŁADUNEK WYBUCHOWY"
         },
@@ -39897,6 +40285,10 @@
         {
             "Key": 1947661884,
             "Value": "DUŻY BĘBEN Z AMUNICJĄ"
+        },
+        {
+            "Key": 1950924479,
+            "Value": "CPG-48 SAPER"
         },
         {
             "Key": 1951373264,
@@ -40075,6 +40467,10 @@
             "Value": "AR-2"
         },
         {
+            "Key": 2008452781,
+            "Value": "12 MM"
+        },
+        {
             "Key": 2008789512,
             "Value": "Komandos"
         },
@@ -40203,6 +40599,10 @@
             "Value": "8x60 mm Niszczyciel"
         },
         {
+            "Key": 2058817503,
+            "Value": "RUSZT"
+        },
+        {
             "Key": 2062497342,
             "Value": "Więcej nabojów"
         },
@@ -40229,6 +40629,10 @@
         {
             "Key": 2071805061,
             "Value": "Latarka"
+        },
+        {
+            "Key": 2073012404,
+            "Value": "DYPLOMATYCZNY UŚCISK DŁONI"
         },
         {
             "Key": 2074147858,
@@ -40503,6 +40907,10 @@
             "Value": "Humanitarny, autonomiczny dron wyposażony w zmodyfikowany miotacz łukowy. Generuje łuk elektryczny przeskakujący na kilka celów. Nie trzeba ładować pomiędzy strzałami."
         },
         {
+            "Key": 2167258369,
+            "Value": "Ostre geometryczne wzory tej peleryny symbolizują surowy łańcuch dowodzenia. Jest ona odzwierciedleniem świętości, moralnej siły i nieskazitelnego przywództwa nad utytłanymi w błocie wojownikami, którym rozkazuje użytkownik."
+        },
+        {
             "Key": 2168678415,
             "Value": "WIĘKSZA ŻYWOTNOŚĆ"
         },
@@ -40681,6 +41089,10 @@
         {
             "Key": 2240834675,
             "Value": "SZYBSZY CZAS NAMIERZANIA"
+        },
+        {
+            "Key": 2241013697,
+            "Value": "Duma z trudu"
         },
         {
             "Key": 2242514025,
@@ -40979,6 +41391,10 @@
             "Value": "Mieszanka bojowa"
         },
         {
+            "Key": 2365825441,
+            "Value": "GIGA GRANAT"
+        },
+        {
             "Key": 2365875972,
             "Value": "Nosząca imię dowódcy SZSZ pieczęć ta przypomina nam, że tylko idealna jedność może zapewnić idealną wolność."
         },
@@ -41121,6 +41537,10 @@
         {
             "Key": 2411907752,
             "Value": "ZDALNY SYSTEM CELOWNICZY POJEDYNCZEGO SILOSU"
+        },
+        {
+            "Key": 2416187473,
+            "Value": "Dzięki dodatkowej pojemności amunicji rzucanej pancerz ten zapewnia taktyczne opróżnienie każdej wrogiej fortecy, zgodnie z potężnymi protokołami defortyfikacji."
         },
         {
             "Key": 2416744569,
@@ -41275,6 +41695,10 @@
             "Value": "E/GL-21"
         },
         {
+            "Key": 2478785269,
+            "Value": "STRAŻNIK Z MOŹDZIERZEM GAZOWYM"
+        },
+        {
             "Key": 2486107935,
             "Value": "Pozwala szybko zaliczyć zadania administracyjne wolności, w dynamicznym otoczeniu."
         },
@@ -41427,6 +41851,10 @@
             "Value": "Działko Quasar"
         },
         {
+            "Key": 2563245393,
+            "Value": "SMG/FLAM-34"
+        },
+        {
             "Key": 2564887408,
             "Value": "5,5x50 mm PODDŹWIĘKOWE"
         },
@@ -41571,8 +41999,16 @@
             "Value": "MD-6"
         },
         {
+            "Key": 2625476061,
+            "Value": "B/FLAM-80"
+        },
+        {
             "Key": 2631236711,
             "Value": "Świder poszukiwawczy"
+        },
+        {
+            "Key": 2634038544,
+            "Value": "OBICIE ANTYTOKSYCZNE"
         },
         {
             "Key": 2636041274,
@@ -41875,6 +42311,10 @@
             "Value": "Podstawowy celownik dla helldiversów, którzy chcą znów przeżyć chwalebne trudy swoich przodków."
         },
         {
+            "Key": 2751547914,
+            "Value": "Ten nieskazitelny pancerz, wyposażony w wysoki kołnierz i naukowo zaprojektowany do odbijania błota, krwi oraz rykoszetujących, niezabójczych pocisków, budzi ogromny respekt. Polecany jest dowódcom, którzy chcą uniknąć walki wręcz, korzystając ze sprawdzonej przez pokolenia tradycji – delegowania podwładnych. Jeśli odmówią, czeka ich sąd wojskowy."
+        },
+        {
             "Key": 2752003323,
             "Value": "8x60 mm Strzał Wolności"
         },
@@ -41985,6 +42425,14 @@
         {
             "Key": 2782065547,
             "Value": "G-89"
+        },
+        {
+            "Key": 2782235542,
+            "Value": "Ta peleryna, tkana z grubych, przemysłowych włókien zaprojektowanych do pochłaniania potu i oleju, zdobiona jest emblematem w kształcie pika – na cześć pionierów Super Ziemi, którzy czuwają, by światło wolności przebiło się przez powierzchnię każdej planety."
+        },
+        {
+            "Key": 2784934547,
+            "Value": "CPG-48 Saper"
         },
         {
             "Key": 2786999754,
@@ -42827,6 +43275,10 @@
             "Value": "Świder zdolny do przebicia twardych ścian rojów terminidów, który następnie umieszcza ładunek jądrowy powodujący zawalenie się wszystkich tuneli."
         },
         {
+            "Key": 3123365807,
+            "Value": "CPH-26 Komendant"
+        },
+        {
             "Key": 3123874207,
             "Value": "Jednorazowy napalm"
         },
@@ -43351,6 +43803,10 @@
             "Value": "AC-1 Sumienność"
         },
         {
+            "Key": 3332727941,
+            "Value": "EKSTRAOBICIE ANTYWSTRZĄSOWE"
+        },
+        {
             "Key": 3335448467,
             "Value": "ORBITALNY LASER"
         },
@@ -43389,6 +43845,10 @@
         {
             "Key": 3348415410,
             "Value": "ZWIASTUN PRAWDZIWEJ RÓWNOŚCI"
+        },
+        {
+            "Key": 3348610193,
+            "Value": "Narzędzie transzejowe"
         },
         {
             "Key": 3349008064,
@@ -43777,6 +44237,10 @@
         {
             "Key": 3517854229,
             "Value": "MANEWR ZWIĘKSZENIA PEWNOŚCI PIERSIOWEJ"
+        },
+        {
+            "Key": 3518847546,
+            "Value": "Strzelba samopałowa: dzięki aktywacji mechanizmu „pompki” po naciśnięciu spustu strzela ogniem ciągłym. Załadowana przeciwpancernym śrutem igłowym i wyposażona w wysunięty bagnet."
         },
         {
             "Key": 3518850509,
@@ -44199,6 +44663,10 @@
             "Value": "Poprawiony podajnik amunicji"
         },
         {
+            "Key": 3705134773,
+            "Value": "KREMATOR"
+        },
+        {
             "Key": 3707094389,
             "Value": "WYDŁUŻONY CZAS PRZECIĄŻENIA"
         },
@@ -44249,6 +44717,10 @@
         {
             "Key": 3728668558,
             "Value": "Z GÓRY NA DÓŁ"
+        },
+        {
+            "Key": 3731882316,
+            "Value": "ZŁODZIEJ DANYCH"
         },
         {
             "Key": 3735438181,
@@ -44531,8 +45003,16 @@
             "Value": "LAS-58"
         },
         {
+            "Key": 3833272338,
+            "Value": "Zamiatacz"
+        },
+        {
             "Key": 3834075640,
             "Value": "Działko elektromagnetyczne"
+        },
+        {
+            "Key": 3835713360,
+            "Value": "Idealnie wyważone multinarzędzie, zoptymalizowane do przerzucania gleby i innych przeszkód z chirurgiczną precyzją."
         },
         {
             "Key": 3837575192,
@@ -44631,12 +45111,20 @@
             "Value": "10 g śrut igłowy"
         },
         {
+            "Key": 3876158673,
+            "Value": "Zaprojektowany, aby zmniejszyć nawet największych wrogów, którzy rozpadną się na znacznie bardziej przyjazne części składowe. Krótki zasięg rzutu, potężna detonacja."
+        },
+        {
             "Key": 3876419466,
             "Value": "Oficjalny uniform Ligi Patriotycznego Siłowania Się Na Rękę, uszyty z lycry. Jest elastyczny i pochłaniający pot, dla maksymalnego komfortu napinania mięśni."
         },
         {
             "Key": 3882630018,
             "Value": "Nowy ładunek wybuchowy"
+        },
+        {
+            "Key": 3883099792,
+            "Value": "Miotacz płomieni"
         },
         {
             "Key": 3883362231,
@@ -44681,6 +45169,10 @@
         {
             "Key": 3898950705,
             "Value": "Broń specjalna do modyfikacji taktyki wroga. Tworzy grubą zasłonę dymną blokującą pole widzenia przeciwników."
+        },
+        {
+            "Key": 3899068957,
+            "Value": "CPR-80 Bastion"
         },
         {
             "Key": 3899708304,
@@ -44787,6 +45279,10 @@
             "Value": "PLECAK WARP"
         },
         {
+            "Key": 3944495922,
+            "Value": "SZYBKOŚĆ ATAKU"
+        },
+        {
             "Key": 3946533903,
             "Value": "CE-81 KOLOS"
         },
@@ -44865,6 +45361,10 @@
         {
             "Key": 3985944090,
             "Value": "GAZOWY"
+        },
+        {
+            "Key": 3988593673,
+            "Value": "Płomienista broń wsparcia napędzana ogromnym zbiornikiem paliwa w plecaku. Ten ciężki miotacz płomieni pozwala wystrzeliwać stałą kolumnę ognia i oczyszczać pole bitwy."
         },
         {
             "Key": 3988789060,
@@ -45075,6 +45575,10 @@
             "Value": "Charakterystyczna czerwień, biel i zieleń Międzygalaktycznego Korpusu Medycznego informuje wszystkich helldiversów, że nadciąga pomoc."
         },
         {
+            "Key": 4068334059,
+            "Value": "Dowód wyniszczenia"
+        },
+        {
             "Key": 4068335640,
             "Value": "SUPER PRZECHODZIEŃ"
         },
@@ -45207,6 +45711,10 @@
             "Value": "9x20 mm w fartuchu stalowym"
         },
         {
+            "Key": 4122605483,
+            "Value": "CPH-26 KOMENDANT"
+        },
+        {
             "Key": 4122755523,
             "Value": "WIĘCEJ MAGAZYNKÓW DO STACJONARNEGO CKM-U"
         },
@@ -45268,7 +45776,7 @@
         },
         {
             "Key": 4144979903,
-            "Value": "O <c=#COLOR>#SIGN#BONUS</c> zwiększa początkową ilość broni rzucanej w ekwipunku i przenoszonej."
+            "Value": "O <c=#COLOR>#BONUS</c> zwiększa początkową ilość broni rzucanej w ekwipunku i przenoszonej."
         },
         {
             "Key": 4145747035,
@@ -45313,6 +45821,10 @@
         {
             "Key": 4161927870,
             "Value": "ADMIRAŁ"
+        },
+        {
+            "Key": 4168280481,
+            "Value": "Weto"
         },
         {
             "Key": 4170256899,
@@ -45459,6 +45971,10 @@
             "Value": "ODŁAMKOWY"
         },
         {
+            "Key": 4226720897,
+            "Value": "OPRÓŻNIANIE KONDYCJI"
+        },
+        {
             "Key": 4226754563,
             "Value": "PAKIET C4"
         },
@@ -45541,6 +46057,10 @@
         {
             "Key": 4271408647,
             "Value": "W całości powleczony 14-cm pianką z włókna krzemowego, z wyjątkiem cienkiej rurki wprowadzanej do ucha, aby można było słyszeć satysfakcjonujące wrzaski wrogów wolności, gdy płoną."
+        },
+        {
+            "Key": 4272670043,
+            "Value": "ZAMIATACZ"
         },
         {
             "Key": 4272980910,
@@ -46339,6 +46859,10 @@
             "Value": "Sall"
         },
         {
+            "Key": 193486143,
+            "Value": "NARZUCACZ"
+        },
+        {
             "Key": 200062099,
             "Value": "Wartownik"
         },
@@ -46417,6 +46941,10 @@
         {
             "Key": 275534196,
             "Value": "WOJOWNIK ROZSIEWAJĄCY"
+        },
+        {
+            "Key": 276016493,
+            "Value": "Umocniona dywizja"
         },
         {
             "Key": 276813339,
@@ -46881,6 +47409,10 @@
         {
             "Key": 592325338,
             "Value": "Plujący żółcią"
+        },
+        {
+            "Key": 593716614,
+            "Value": "WZÓR OLIWNEGO DZIEDZICTWA NA EGZOKOMBINEZON"
         },
         {
             "Key": 595251819,
@@ -47473,6 +48005,10 @@
         {
             "Key": 929685836,
             "Value": "SEKTOR HAWKINGA"
+        },
+        {
+            "Key": 934470030,
+            "Value": "UMOCNIONA DYWIZJA"
         },
         {
             "Key": 938483457,
@@ -48427,6 +48963,10 @@
             "Value": "PORT KNETH"
         },
         {
+            "Key": 1575607191,
+            "Value": "WZÓR OLIWNEGO DZIEDZICTWA NA POJAZD"
+        },
+        {
             "Key": 1577218460,
             "Value": "WYRZUTEK TROPICIEL"
         },
@@ -48851,6 +49391,10 @@
             "Value": "Niepodległości"
         },
         {
+            "Key": 1870840792,
+            "Value": "Odźwierny"
+        },
+        {
             "Key": 1871700431,
             "Value": "Wzmocniony biegacz zwiadowczy"
         },
@@ -48933,6 +49477,10 @@
         {
             "Key": 1926035611,
             "Value": "ANDAR"
+        },
+        {
+            "Key": 1927613493,
+            "Value": "FAŁSZYWIEC"
         },
         {
             "Key": 1927972667,
@@ -49511,6 +50059,10 @@
             "Value": "Wojownicy rozsiewający"
         },
         {
+            "Key": 2411380547,
+            "Value": "WZÓR OLIWNEGO DZIEDZICTWA NA HELLPODA"
+        },
+        {
             "Key": 2418805493,
             "Value": "CAPH"
         },
@@ -49541,6 +50093,10 @@
         {
             "Key": 2440833855,
             "Value": "Ideał"
+        },
+        {
+            "Key": 2443576485,
+            "Value": "Odźwierni"
         },
         {
             "Key": 2444152049,
@@ -49637,6 +50193,10 @@
         {
             "Key": 2505794238,
             "Value": "OSTEHOVEL"
+        },
+        {
+            "Key": 2508206247,
+            "Value": "WZÓR OLIWNEGO DZIEDZICTWA NA WAHADŁOWIEC"
         },
         {
             "Key": 2509277034,
@@ -50447,6 +51007,10 @@
             "Value": "Zeloci"
         },
         {
+            "Key": 3042667112,
+            "Value": "Fałszywcy"
+        },
+        {
             "Key": 3045085994,
             "Value": "WYTCHNIENIE"
         },
@@ -51223,6 +51787,10 @@
             "Value": "Szturchacze"
         },
         {
+            "Key": 3593288476,
+            "Value": "STANDARDOWY WZÓR CZOŁGU"
+        },
+        {
             "Key": 3593438329,
             "Value": "POLARNI PATRIOCI"
         },
@@ -51249,6 +51817,10 @@
         {
             "Key": 3616280245,
             "Value": "PO'S RAVENNA"
+        },
+        {
+            "Key": 3621116014,
+            "Value": "Narzucacz"
         },
         {
             "Key": 3621885961,
@@ -51463,6 +52035,10 @@
             "Value": "WZMOCNIENIE"
         },
         {
+            "Key": 3757148964,
+            "Value": "ODŹWIERNY"
+        },
+        {
             "Key": 3767503173,
             "Value": "OROTH"
         },
@@ -51477,6 +52053,10 @@
         {
             "Key": 3772752154,
             "Value": "Grabieżcy"
+        },
+        {
+            "Key": 3776682558,
+            "Value": "Fałszywiec"
         },
         {
             "Key": 3782673150,
@@ -51939,6 +52519,10 @@
             "Value": "Tropiciel drapieżca"
         },
         {
+            "Key": 4114505470,
+            "Value": "Narzucacze"
+        },
+        {
             "Key": 4116054022,
             "Value": "AZTERRA"
         },
@@ -52245,6 +52829,22 @@
         {
             "Key": 4293347269,
             "Value": "Aureola"
+        },
+        {
+            "Key": 310338931,
+            "Value": "Wykryto niezgodny system operacyjny! W celu uruchomienia tej gry twój system operacyjny musi obsługiwać instrukcje AVX."
+        },
+        {
+            "Key": 2705675729,
+            "Value": "Zainstalowane sterowniki są nieaktualne. Zalecana jest ich aktualizacja. Chcesz kontynuować? Uruchomienie gry bez aktualizacji może spowodować błędy i wyłączenia.\n\nZainstalowana wersja: #INSTALLED_VERSION\nMinimalna zalecana: #RECOMMENDED_VERSION"
+        },
+        {
+            "Key": 3954684058,
+            "Value": "Wykryto niezgodny procesor! W celu uruchomienia tej gry twój procesor musi obsługiwać instrukcje AVX."
+        },
+        {
+            "Key": 4274889835,
+            "Value": "Sterowniki karty graficznej są nieaktualne."
         },
         {
             "Key": 22554536,
@@ -53023,6 +53623,10 @@
             "Value": "Zdjęcia satelitarne ujawniły, że całe drapacze chmur w tej dzielnicy zostały opanowane przez terminidy. W przepięknych niegdyś domach i biurach panoszą się i rozmnażają wrzaskuny.\n\nZniszczcie byłe ikony dobrobytu, które zostały tak okrutnie zdewastowane przez pasożyty."
         },
         {
+            "Key": 29162783,
+            "Value": "Stan złodzieja danych: niestabilny"
+        },
+        {
             "Key": 32367396,
             "Value": "ZNISZCZCIE DZIAŁO PRZECIWORBITALNE"
         },
@@ -53465,6 +54069,10 @@
         {
             "Key": 396353427,
             "Value": "Zlikwidowane megagniazdo"
+        },
+        {
+            "Key": 404455679,
+            "Value": "ZDESTABILIZUJCIE RDZEŃ EGZOIGLICY"
         },
         {
             "Key": 406058570,
@@ -54039,6 +54647,10 @@
             "Value": "#TYPE: +#AMOUNT/#POTENTIAL"
         },
         {
+            "Key": 809026135,
+            "Value": "ZNISZCZCIE EGZOIGLICĘ"
+        },
+        {
             "Key": 810653429,
             "Value": "Użyj terminala, aby zresetować bezpieczniki"
         },
@@ -54279,6 +54891,10 @@
             "Value": "Znajdź i zniszcz wszelkie aktywne fabrykatory automatów"
         },
         {
+            "Key": 995660531,
+            "Value": "Ruszajcie w egzoburzę i strzaskajcie wywołujące ją egzoiglice."
+        },
+        {
             "Key": 1002982797,
             "Value": "DWA"
         },
@@ -54311,6 +54927,10 @@
             "Value": "GŁÓWNE KOMPONENTY"
         },
         {
+            "Key": 1023125839,
+            "Value": "ZAKŁÓĆCIE DZIAŁANIE GENERATORA TARCZY"
+        },
+        {
             "Key": 1026152227,
             "Value": "ZAŁADUJ POCISKI ARTYLERYJSKIE"
         },
@@ -54329,6 +54949,10 @@
         {
             "Key": 1029868551,
             "Value": "OŚRODEK AUTOMATÓW LATAJĄCYCH"
+        },
+        {
+            "Key": 1036133473,
+            "Value": "ZŁODZIEJ DANYCH DZIAŁA"
         },
         {
             "Key": 1039398966,
@@ -54831,6 +55455,10 @@
             "Value": "To stanowisko przeciwlotnicze uniemożliwia szerzenie wolności na niebie nad tą planetą. Zniszczcie je, zanim kolejne rodziny będą musiały wziąć udział w nabożeństwie męczeńskim za swoich poległych bohaterów."
         },
         {
+            "Key": 1389824615,
+            "Value": "Stan złodzieja danych: krytycznie uszkodzony"
+        },
+        {
             "Key": 1390962095,
             "Value": "Wyeliminuj wariant"
         },
@@ -54855,6 +55483,10 @@
             "Value": "Znajduje się tu skład platyny o czystości 99%. Automaty zamierzają użyć tego cennego metalu, aby zagrozić demokracji. Przejmijcie go."
         },
         {
+            "Key": 1402331169,
+            "Value": "POKONAJCIE PUSTKĘ"
+        },
+        {
             "Key": 1404839977,
             "Value": "Zniszczcie działa przeciworbitalne automatów na tym obszarze."
         },
@@ -54869,6 +55501,10 @@
         {
             "Key": 1409974189,
             "Value": "Przejdź do ostatniego testu"
+        },
+        {
+            "Key": 1413914605,
+            "Value": "Potwierdź"
         },
         {
             "Key": 1418066194,
@@ -54893,6 +55529,14 @@
         {
             "Key": 1437066282,
             "Value": "Odłącz wąż"
+        },
+        {
+            "Key": 1441453914,
+            "Value": "NAWIĄZYWANIE POŁĄCZENIA"
+        },
+        {
+            "Key": 1447308211,
+            "Value": "Na powierzchni tej planety rozpętały się potężne, niecodzienne burze. „Egzoburze” wydostają się z iglic, które oświeceni odkopali w ruinach swojego dawno upadłego imperium.\n\nIntencje oświeconych są niejasne, ale z pewnością złowrogie. Zaatakujcie ich prymitywne bazy i zrównajcie je z ziemią."
         },
         {
             "Key": 1449175215,
@@ -55119,6 +55763,10 @@
             "Value": "SPODZIEWANA WYPŁATA"
         },
         {
+            "Key": 1608834297,
+            "Value": "Zaczekajcie na rozmieszczenie złodzieja danych"
+        },
+        {
             "Key": 1609303434,
             "Value": "Zniszcz żniwiarkę"
         },
@@ -55295,6 +55943,10 @@
             "Value": "ROZPOCZNIJCIE SEKWENCJĘ PRODUKCJI"
         },
         {
+            "Key": 1715589653,
+            "Value": "Zweryfikujcie działanie po lądowaniu"
+        },
+        {
             "Key": 1719703463,
             "Value": "Proszę się zalogować"
         },
@@ -55443,6 +56095,10 @@
             "Value": "aby użyć Ciemnego Płynu"
         },
         {
+            "Key": 1801911661,
+            "Value": "Egzoiglica wyrastająca z tych ruin plugawi atmosferę planety. \nChroni ją pole siłowe, blokujące dostęp do jej komory rdzenia. Zakłócenia elektromagnetyczne mogą wpływać niekorzystnie na działanie manewrów.\n\nSforsujcie systemy obronne egzoiglicy i zniszczcie rdzeń, by doprowadzić do jej zawalenia."
+        },
+        {
             "Key": 1802135572,
             "Value": "Zaczekaj na zakończenie sekwencji diagnostycznej generatora"
         },
@@ -55473,6 +56129,10 @@
         {
             "Key": 1823884758,
             "Value": "STANOWISKO MOŹDZIERZOWE"
+        },
+        {
+            "Key": 1825484540,
+            "Value": "ODPALENIE POCISKU MIĘDZYKONTYNENTALNEGO"
         },
         {
             "Key": 1828283522,
@@ -55545,6 +56205,10 @@
         {
             "Key": 1880335159,
             "Value": "SKT jest gotowy. Na zawsze zabezpiecz tę planetę przed robalami."
+        },
+        {
+            "Key": 1885611785,
+            "Value": "Sonda może spowodować poważną utratę słuchu"
         },
         {
             "Key": 1893695190,
@@ -55809,6 +56473,10 @@
         {
             "Key": 2081692256,
             "Value": "Aktywuj terminal"
+        },
+        {
+            "Key": 2086176844,
+            "Value": "Skorzystajcie z terminala złodzieja danych"
         },
         {
             "Key": 2090959963,
@@ -56451,6 +57119,10 @@
             "Value": "Prosimy nie dotykać ruchomych części świdra"
         },
         {
+            "Key": 2508405363,
+            "Value": "Przygotujcie i odpalcie pocisk międzykontynentalny."
+        },
+        {
             "Key": 2509196198,
             "Value": "Nowy, bardzo niebezpieczny wariant terminida zdziesiątkował jednostki SZSZ na tym obszarze. Musimy ograniczyć rozprzestrzenianie się tego zmutowanego szczepu. \n\nZnajdźcie i zlikwidujcie wariant. Zachowajcie szczególną ostrożność."
         },
@@ -56501,6 +57173,10 @@
         {
             "Key": 2543912374,
             "Value": "POZIOM ZAGROŻENIA: WYSOKI"
+        },
+        {
+            "Key": 2545747281,
+            "Value": "Stan złodzieja danych: stabilny"
         },
         {
             "Key": 2547152065,
@@ -56715,6 +57391,10 @@
             "Value": "Automaty korzystają ze zmodyfikowanych dział o zasięgu orbitalnym, aby bombardować nasze Super Niszczyciele.\n \nNie możemy pozwolić na odebranie sobie dominacji w powietrzu. Ruszajcie na ten obszar i zniszczcie wszystkie aktywne działa przeciworbitalne."
         },
         {
+            "Key": 2686205325,
+            "Value": "ZDŁAWCIE EGZOBURZĘ"
+        },
+        {
             "Key": 2691266839,
             "Value": "Dokonajcie odbioru z okazami"
         },
@@ -56837,6 +57517,10 @@
         {
             "Key": 2782615518,
             "Value": "Wróg zbliża się do składu cennych aktywów, które były tam przechowywane od czasu Pierwszej Wojny Galaktycznej. Nie możemy pozwolić na ich przejęcie.\n\nWróg zostanie zaalarmowany o waszym położeniu natychmiast po rozpoczęciu procesu ewakuacji. Brońcie placówki do czasu, aż wszystkie aktywa zostaną bezpiecznie przetransportowane poza planetę."
+        },
+        {
+            "Key": 2785843711,
+            "Value": "WYKALIBRUJCIE SONDĘ"
         },
         {
             "Key": 2790627524,
@@ -57063,6 +57747,10 @@
             "Value": "Znajdźcie i zniszczcie obiekty terminidów."
         },
         {
+            "Key": 2960516668,
+            "Value": "Zniszczcie egzoiglicę, aby zdławić narastającą egzoburzę."
+        },
+        {
             "Key": 2961322270,
             "Value": "Horda automatów"
         },
@@ -57207,6 +57895,10 @@
             "Value": "W okolicy znajdują się duże ilości jaj. Zniszczcie je za wszelką cenę."
         },
         {
+            "Key": 3075334835,
+            "Value": "Wyregulujcie sondę, aby namierzyć sygnał"
+        },
+        {
             "Key": 3079966101,
             "Value": "Kalibrowanie zestawu czujników sejsmicznych"
         },
@@ -57321,6 +58013,10 @@
         {
             "Key": 3165219370,
             "Value": "WROGIE BIOPROCESORY"
+        },
+        {
+            "Key": 3165383649,
+            "Value": "Chrońcie interesy naszych obywateli i nie pozwólcie, aby terminidy ograbiły ich z E-711."
         },
         {
             "Key": 3166041053,
@@ -57475,6 +58171,10 @@
             "Value": "Przejmij kontrolę nad wieżyczką"
         },
         {
+            "Key": 3281557964,
+            "Value": "Ta planeta została oczyszczona z posępności za ogromną cenę. Teraz rojenie terminidów ponownie jej zagraża. Może na powrót stać się planetą roju. Nasze etycznie pozyskiwane zasoby E-711 oraz życie ciężko pracujących inspektorów pompowych są zagrożone.\n\nMusicie powstrzymać robale – nie mogą zagrabić tego, co prawowicie zabezpieczyliśmy. Nie pozwólcie tej planecie na powrót zanurzyć się w posępności."
+        },
+        {
             "Key": 3283335602,
             "Value": "System Kontroli Terminidów został ukończony. Na całej planecie na aktywację czekają wieże rozpylania termicydu. Planeta nie zostanie całkowicie zaszczepiona przed terminidami do czasu uruchomienia wszystkich wież."
         },
@@ -57592,7 +58292,7 @@
         },
         {
             "Key": 3339054218,
-            "Value": "WYELIMINUJ OŚWIECONYCH"
+            "Value": "WYELIMINUJCIE NADZORCÓW"
         },
         {
             "Key": 3340732873,
@@ -57641,6 +58341,10 @@
         {
             "Key": 3366451506,
             "Value": "Silos 02"
+        },
+        {
+            "Key": 3369979481,
+            "Value": "Szybko oczyśćcie obszar"
         },
         {
             "Key": 3385979084,
@@ -57697,6 +58401,10 @@
         {
             "Key": 3409498073,
             "Value": "Użyjcie terminalu, aby podnieść działo planetarnej obrony"
+        },
+        {
+            "Key": 3410273134,
+            "Value": "Tutaj znajduje się egzoiglica. Jej rdzeń zasilania umieszczono w podziemnej komorze u jej podstawy."
         },
         {
             "Key": 3410342490,
@@ -57875,6 +58583,10 @@
             "Value": "KLAPA SILOSU ODBLOKOWANA"
         },
         {
+            "Key": 3530995197,
+            "Value": "Zniszczcie węzeł dostępowy"
+        },
+        {
             "Key": 3533302151,
             "Value": "Miasto jest atakowane. Nie możemy pozwolić, aby wpadło w łapy tyranów."
         },
@@ -57887,8 +58599,16 @@
             "Value": "Przejdź przez niezwykle realistyczny symulator pola walki"
         },
         {
+            "Key": 3540696519,
+            "Value": "ROZMIEŚĆCIE SONDĘ SYGNAŁOWĄ"
+        },
+        {
             "Key": 3541336633,
             "Value": "Nasi wrogowie doprowadzili do konfliktu w tym regionie. Nie będzie pokoju, dopóki nie zostaną pokonani."
+        },
+        {
+            "Key": 3544944274,
+            "Value": "Aktywujcie wszystkie ładunki, aby wywołać przeciążenie"
         },
         {
             "Key": 3546516457,
@@ -58059,6 +58779,10 @@
             "Value": "ODZYSKAJCIE OBIEKTY NAUKOWE"
         },
         {
+            "Key": 3687086493,
+            "Value": "Dziękujemy za cierpliwość"
+        },
+        {
             "Key": 3691054321,
             "Value": "Szybko opuśćcie obszar"
         },
@@ -58167,6 +58891,10 @@
             "Value": "ZWIĘKSZ SIŁĘ SYGNAŁU"
         },
         {
+            "Key": 3774503774,
+            "Value": "Znajduje się tu węzeł dostępowy połączony z podziemnym generatorem tarcz egzoiglicy."
+        },
+        {
             "Key": 3780961573,
             "Value": "EWAKUUJ CENNE AKTYWA"
         },
@@ -58211,6 +58939,10 @@
             "Value": "Świder może zaalarmować stworzenia mieszkające pod powierzchnią"
         },
         {
+            "Key": 3804465095,
+            "Value": "Siły oświeconych gromadzą się w ksenofobicznych ruinach ich dawnego imperium. Nie mogą odbudować reliktów swojego despotycznego porządku.\n\nAktywujcie uśpiony silos pocisków międzykontynentalnych znajdujący się w tym regionie, aby spopielić tymczasowe siedliska oświeconych."
+        },
+        {
             "Key": 3814801462,
             "Value": "Zamknij zawór"
         },
@@ -58225,6 +58957,10 @@
         {
             "Key": 3816742262,
             "Value": "Otwórz"
+        },
+        {
+            "Key": 3819125508,
+            "Value": "Zniszczcie ogniwa Ciemnego Płynu, aby zdestabilizować rdzeń"
         },
         {
             "Key": 3829262661,
@@ -58495,6 +59231,10 @@
             "Value": "INTERFEJS SYSTEMÓW KRYTYCZNYCH"
         },
         {
+            "Key": 4007451216,
+            "Value": "Ruszajcie do egzoburzy i ocalcie tę planetę od wpadnięcia w pustkę."
+        },
+        {
             "Key": 4010007762,
             "Value": "URUCHOM OPROGRAMOWANIE SABOTAŻOWE"
         },
@@ -58531,6 +59271,10 @@
             "Value": "Aktualizacja łupów"
         },
         {
+            "Key": 4044971392,
+            "Value": "CHROŃCIE WAŻNY E-711"
+        },
+        {
             "Key": 4046999266,
             "Value": "Czarna skrzynka"
         },
@@ -58545,6 +59289,10 @@
         {
             "Key": 4057328297,
             "Value": "WYŁĄCZANIE SYSTEMÓW KRYTYCZNYCH..."
+        },
+        {
+            "Key": 4057749174,
+            "Value": "Egzoiglice oświeconych wywołują zakłócającą egzoburzę, która szaleje na powierzchni tej planety. Ten świat zagrożony jest pochłonięciem przez pustkę, chyba że zadziałamy szybko.\n\nZlikwidujcie te sanktuaria otchłani. Wszystkie egzoiglice muszą zostać zniszczone, jeśli zwyciężyć ma światło wolności."
         },
         {
             "Key": 4057995659,
@@ -58711,6 +59459,10 @@
             "Value": "Wyzwólcie planetę roju, aby uniemożliwić rozprzestrzenianie się posępności, i zbierzcie jak najwięcej E-711."
         },
         {
+            "Key": 4173320741,
+            "Value": "ZAINICJUJCIE SKOK MOCY"
+        },
+        {
             "Key": 4176568594,
             "Value": "Odeprzyjcie siły wroga, próbujące zdobyć to miasto."
         },
@@ -58809,6 +59561,10 @@
         {
             "Key": 4246890330,
             "Value": "Ogromna sieć podziemnych rojów pozwoliła terminidom w tym regionie solidnie się okopać i rozmnożyć.\n\nNa szczęście ten rój niedawno przeszedł w stan krótkiej hibernacji. Zinfiltruj i zniszcz jak najwięcej osobników, zanim terminidy odzyskają pełnię sił."
+        },
+        {
+            "Key": 4254208535,
+            "Value": "Zaczekajcie na skok mocy"
         },
         {
             "Key": 4254765959,
@@ -60427,6 +61183,10 @@
             "Value": "Strażnicy z <i=1>moździerzami</i> nadają priorytet ostrzału oznaczonym celom."
         },
         {
+            "Key": 505181551,
+            "Value": "EGZOBURZA KLASY 1"
+        },
+        {
             "Key": 508428638,
             "Value": "-"
         },
@@ -61243,6 +62003,10 @@
             "Value": "ZEZWOLENIE NA MANEWR OFENSYWNY"
         },
         {
+            "Key": 1098847091,
+            "Value": "CZOŁG"
+        },
+        {
             "Key": 1098929518,
             "Value": "WYŁĄCZ ROZGRYWKI MIĘDZYPLATFORMOWE"
         },
@@ -61949,6 +62713,10 @@
         {
             "Key": 1657396630,
             "Value": "Nie znaleziono lobby wydarzenia"
+        },
+        {
+            "Key": 1662564892,
+            "Value": "Egzoburza sięgnęła masy krytycznej, otaczając planetę złowrogą nawałnicą, zaprzeczającą fizyce pogodowej."
         },
         {
             "Key": 1666349407,
@@ -62689,6 +63457,10 @@
         {
             "Key": 2157003287,
             "Value": "+#COUNT"
+        },
+        {
+            "Key": 2161677472,
+            "Value": "EGZOBURZA KLASY 3"
         },
         {
             "Key": 2165407893,
@@ -64051,6 +64823,10 @@
             "Value": "Wybierz poziom jakości odbić na określonych powierzchniach. Wyższe ustawienia pozwalają uzyskać dokładniejsze odbicia, ale mogą mieć negatywny wpływ na wydajność."
         },
         {
+            "Key": 3058724709,
+            "Value": "EGZOBURZA KLASY 2"
+        },
+        {
             "Key": 3065005289,
             "Value": "Jeśli za pierwszym razem ci się nie uda, nurkuj, nurkuj znowu. I znowu. I znowu. I znowu. I znowu. I znowu. I znowu. I znowu. I znowu. I znowu. I znowu. I znowu."
         },
@@ -64921,6 +65697,10 @@
         {
             "Key": 3678230171,
             "Value": "Tatusiek_golfowy22 "
+        },
+        {
+            "Key": 3679110529,
+            "Value": "Fronty egzoburzowe tworzą gęstą formację grożącą pochłonięciem całej planety."
         },
         {
             "Key": 3684909524,
@@ -65849,6 +66629,10 @@
         {
             "Key": 4209295102,
             "Value": "TYTUŁ"
+        },
+        {
+            "Key": 4210400742,
+            "Value": "Na planecie pojawiają się izolowane obszary egzoburz, które szybko przybierają na sile."
         },
         {
             "Key": 4212648847,

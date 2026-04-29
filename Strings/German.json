@@ -7,22 +7,6 @@
     },
     "Items": [
         {
-            "Key": 310338931,
-            "Value": "Inkompatibles Betriebssystem erkannt! Dein Betriebssystem muss AVX-Befehle unterstützen, damit dieses Spiel ausgeführt werden kann."
-        },
-        {
-            "Key": 2705675729,
-            "Value": "Die installierten Treiber sind veraltet und ein Update wird empfohlen. Möchtest du fortfahren? Dies ohne Aktualisierung zu tun, kann zu Fehlern und Abstürzen führen.\n\nInstallierte Version: #INSTALLED_VERSION\nEmpfohlenes Minimum: #RECOMMENDED_VERSION"
-        },
-        {
-            "Key": 3954684058,
-            "Value": "Inkompatible CPU erkannt! Die CPU muss AVX-Befehle unterstützen, damit dieses Spiel ausgeführt werden kann."
-        },
-        {
-            "Key": 4274889835,
-            "Value": "GPU-Treiber sind veraltet."
-        },
-        {
             "Key": 22554536,
             "Value": "ARKTIS"
         },
@@ -1619,6 +1603,10 @@
             "Value": "ÄUSSERER RADIUS"
         },
         {
+            "Key": 40709597,
+            "Value": "DAUMEN DER ZUSTIMMUNG"
+        },
+        {
             "Key": 51208102,
             "Value": "110-mm-E.M.S.-KANONENGESCHOSS"
         },
@@ -1823,6 +1811,10 @@
             "Value": "Ein leicht gepanzertes Aufklärungsfahrzeug mit schwerem Maschinengewehr. "
         },
         {
+            "Key": 130471606,
+            "Value": "Ein längerer Revolverlauf, der zu einer höheren Aufsatz-Geschwindigkeit und einem geringeren Rückstoß führt, allerdings auf Kosten der Handhabung."
+        },
+        {
             "Key": 131377774,
             "Value": "Orbital-Gasgeschoss Mk2"
         },
@@ -1991,12 +1983,20 @@
             "Value": "Dieser Umhang zeigt das Innenleben eines medizinischen Geräts, das vor 70 Jahren beim Wissenschaftsministerium eingereicht wurde und dessen Patentierung mit Sicherheit in Kürze genehmigt werden wird."
         },
         {
+            "Key": 190436328,
+            "Value": "Erhöht die Geschwindigkeit und Dauer von Rutschen."
+        },
+        {
             "Key": 194848098,
             "Value": "Mit dieser gut sichtbaren Panzerung kann der Träger durch Rauch, Nebel und ausgestoßene Eingeweide hindurch leicht gesehen werden."
         },
         {
             "Key": 196776936,
             "Value": "Schnelles Aufklärungsfahrzeug"
+        },
+        {
+            "Key": 196875495,
+            "Value": "Das auf experimentelle Waffenforschung und -entwicklung spezialisierte Unternehmen Zizer hat diesen modifizierten „Senator“-Revolver vorgestellt, dessen längerer Lauf klinischen Studien zufolge das Selbstbewusstsein seines Trägers um bis zu 23 % steigert."
         },
         {
             "Key": 197005611,
@@ -2153,6 +2153,10 @@
         {
             "Key": 278490209,
             "Value": "EINFALL-81"
+        },
+        {
+            "Key": 279082357,
+            "Value": "P-33"
         },
         {
             "Key": 280108911,
@@ -2493,6 +2497,10 @@
         {
             "Key": 416403214,
             "Value": "LIFT-860"
+        },
+        {
+            "Key": 419364955,
+            "Value": "FREIGEISTIGE VERZIERUNGEN"
         },
         {
             "Key": 419411210,
@@ -2871,6 +2879,10 @@
             "Value": "15x100-mm-Hochgeschwindigkeit"
         },
         {
+            "Key": 588663789,
+            "Value": "O-44-GEBUNDENER-LOTSE"
+        },
+        {
             "Key": 588878433,
             "Value": "Die klassische Helldiver-Lackierung."
         },
@@ -3179,6 +3191,10 @@
             "Value": "Ein leichter Flammenwerfer. Schießt unter Druck stehenden Treibstoff durch eine Dispersionsdüse in eine offene Flamme. Zuverlässig."
         },
         {
+            "Key": 696072930,
+            "Value": "EXO-51"
+        },
+        {
             "Key": 696286169,
             "Value": "Ein Umhang, der eine Sub-Routine zur Emulation von Angst in die CPUs der Roboter übermittelt, die ihn visuell scannen."
         },
@@ -3213,6 +3229,10 @@
         {
             "Key": 714923769,
             "Value": "Atomisiert ätzende Chemikalien zu einem feinen Nebel, der empfindliche Elektronik und Gewebe verflüssigt. Blendet und verlangsamt die meisten Gegner."
+        },
+        {
+            "Key": 715492973,
+            "Value": "Daumen der Zustimmung"
         },
         {
             "Key": 715614302,
@@ -3435,6 +3455,10 @@
             "Value": "TED-63"
         },
         {
+            "Key": 819134360,
+            "Value": "Der Retro-Druck dieses Umhangs, der zuerst für das Müsli-Merchandising von GW1 beliebt war, erinnert Kinder daran, dass nicht alle Maschinen verdorbene Mechano-Sozialisten sind. Einige werden von aufrichtigen Menschen gesteuert, deren Blick uns alle beruhigt."
+        },
+        {
             "Key": 820522057,
             "Value": "Pyrotechnik"
         },
@@ -3473,6 +3497,10 @@
         {
             "Key": 831074521,
             "Value": "Lineares Orbitalsperrfeuer"
+        },
+        {
+            "Key": 831139041,
+            "Value": "FÄLLER"
         },
         {
             "Key": 831483073,
@@ -3811,6 +3839,10 @@
             "Value": "Dieses großkalibrige Präzisionsgewehr vernachlässigt Magazinkapazität und Feuerrate, um durchschlagskräftigen, präzisen Schüssen den Vorzug zu geben."
         },
         {
+            "Key": 979608541,
+            "Value": "WACHSAMER LANDSMANN"
+        },
+        {
             "Key": 980084344,
             "Value": "8x60-mm-Wuchtgeschoss"
         },
@@ -3831,12 +3863,20 @@
             "Value": "FS-40-DIPLOMAT"
         },
         {
+            "Key": 982871080,
+            "Value": "Ein Exoanzug mit Flakgeschütz und ballistischem Schild, optimiert für mittlere bis kurze Distanz."
+        },
+        {
             "Key": 985325178,
             "Value": "Der Dominator feuert Geschosse mit Düsenantrieb ab und tauscht Feuerrate und Magazinkapazität gegen höheren Schaden pro Projektil ein."
         },
         {
             "Key": 986973078,
             "Value": "MÜNDUNGSFEUERDÄMPFER"
+        },
+        {
+            "Key": 987248759,
+            "Value": "KUGEL-STURM"
         },
         {
             "Key": 989431349,
@@ -3889,6 +3929,10 @@
         {
             "Key": 1004228550,
             "Value": "Zusätzliche Kapazität"
+        },
+        {
+            "Key": 1005051052,
+            "Value": "O-44-Gebundener-Lotse"
         },
         {
             "Key": 1006230745,
@@ -4005,6 +4049,10 @@
         {
             "Key": 1044805146,
             "Value": "MEHR TREIBSTOFF"
+        },
+        {
+            "Key": 1044960240,
+            "Value": "Diese Panzerung zelebriert die enge Beziehung des Trägers zu seinem Exoanzug – so intim wie möglich, ohne dabei in Cyborg-Sphären abzudriften."
         },
         {
             "Key": 1045811468,
@@ -4427,6 +4475,10 @@
             "Value": "HOCHGESCHWINDIGKEITS-SERVOS"
         },
         {
+            "Key": 1244403650,
+            "Value": "OXYGENATOR"
+        },
+        {
             "Key": 1244754797,
             "Value": "Ein schwer gepanzerter Walker-Exoanzug, der mit einem Raketenwerfer und einem Gatling-Gewehr ausgestattet ist."
         },
@@ -4581,6 +4633,10 @@
         {
             "Key": 1292790287,
             "Value": "Kein Aufsatz"
+        },
+        {
+            "Key": 1297446258,
+            "Value": "GALLANT"
         },
         {
             "Key": 1304003623,
@@ -4759,6 +4815,10 @@
             "Value": "9x70-mm-Selbstverstärkend"
         },
         {
+            "Key": 1386708865,
+            "Value": "DURCHBRUCH"
+        },
+        {
             "Key": 1387831894,
             "Value": "Panzerabwehrstellung"
         },
@@ -4917,6 +4977,10 @@
         {
             "Key": 1446063753,
             "Value": "AR-59"
+        },
+        {
+            "Key": 1446123923,
+            "Value": "Eine Einmal-Waffe mit hülsenloser Munition, die in mehreren Läufen gestapelt ist. Ein elektrischer Schussmechanismus löst die Patronen in schneller Folge nach dem Abfeuern aus, woraufhin die Waffe entsorgt werden muss."
         },
         {
             "Key": 1447724304,
@@ -5103,6 +5167,10 @@
             "Value": "BELAGERUNGSBEREIT"
         },
         {
+            "Key": 1511917268,
+            "Value": "O-2-Schwerer-Maschinist"
+        },
+        {
             "Key": 1512212255,
             "Value": "Ein von Dunklem Fluid angetriebener Rucksack, der ein tragbares Mikro-Wurmloch erzeugt. Diese sichere und gut erforschte Technologie ermöglicht es dem Träger, sich über kurze Distanzen zu warpen. Warnung: Nicht verwenden, wenn der Rucksack überladen ist."
         },
@@ -5141,6 +5209,10 @@
         {
             "Key": 1535909110,
             "Value": "5,5x50-mm-Wuchtgeschoss"
+        },
+        {
+            "Key": 1536255450,
+            "Value": "Eine Maschinenpistole mit längerem Lauf, die eine höhere Mündungsgeschwindigkeit und bessere Panzerdurchdringung ermöglicht."
         },
         {
             "Key": 1539723683,
@@ -5313,6 +5385,10 @@
         {
             "Key": 1621453557,
             "Value": "KURZES MAGAZIN"
+        },
+        {
+            "Key": 1622020473,
+            "Value": "EXO-55"
         },
         {
             "Key": 1623263170,
@@ -5505,6 +5581,10 @@
         {
             "Key": 1712527709,
             "Value": "Deeskalator"
+        },
+        {
+            "Key": 1714459044,
+            "Value": "Gallant"
         },
         {
             "Key": 1715612552,
@@ -5817,6 +5897,10 @@
         {
             "Key": 1838016973,
             "Value": "Dieser Umhang erinnert an das beliebte Volksmärchen der „Freiheitsschleuderer“: umerzogene Dissidenten, die an den Grenzen der Föderation Vergebung suchen und im Austausch für Stimmgelder Jagd auf gefährliche Gedankenverräter machen. "
+        },
+        {
+            "Key": 1839032438,
+            "Value": "Als moderne Neuerfindung des Fällers aus dem Ersten Galaktischen Krieg ist dieser Exoanzug mit einem Flammenwerfer und einer Panzerabwehrkanone ausgestattet. "
         },
         {
             "Key": 1839035128,
@@ -6171,6 +6255,10 @@
             "Value": "Für diese Panzerung wurde wiederverwertetes Metall aus verifizierten Quellen wie Verpackungen aus Verkaufsautomaten und Roboterschrott verwendet, was sie zu einer nachhaltigen Wahl für den umweltbewussten Helldiver macht."
         },
         {
+            "Key": 1995236842,
+            "Value": "O-3-FREIGEIST"
+        },
+        {
             "Key": 1997458346,
             "Value": "NACHLADEÜBUNGEN"
         },
@@ -6249,6 +6337,10 @@
         {
             "Key": 2018191462,
             "Value": "Säulen der Demokratie"
+        },
+        {
+            "Key": 2020318492,
+            "Value": "MGX-42"
         },
         {
             "Key": 2020578531,
@@ -6755,6 +6847,10 @@
             "Value": "Leichteres Gehäuse"
         },
         {
+            "Key": 2201877789,
+            "Value": "Raketenpistole"
+        },
+        {
             "Key": 2202159575,
             "Value": "B-08 LEICHTER SCHÜTZE"
         },
@@ -7029,6 +7125,10 @@
         {
             "Key": 2305793144,
             "Value": "RAUCH"
+        },
+        {
+            "Key": 2305804327,
+            "Value": "Durchbruch"
         },
         {
             "Key": 2306363495,
@@ -7415,6 +7515,10 @@
             "Value": "Eine Schaufel, die als Nahkampfwaffe oder ganz herkömmlich zum Graben von Löchern verwendet werden kann."
         },
         {
+            "Key": 2467782030,
+            "Value": "DIAGRAMM DER EDELSTEN LADUNG"
+        },
+        {
             "Key": 2468465243,
             "Value": "9x20-mm-Sprengstoff"
         },
@@ -7577,6 +7681,10 @@
         {
             "Key": 2545384143,
             "Value": "KÖDERMINE"
+        },
+        {
+            "Key": 2548766534,
+            "Value": "RAKETENPISTOLE"
         },
         {
             "Key": 2549383367,
@@ -7895,6 +8003,10 @@
             "Value": "DAB"
         },
         {
+            "Key": 2682411428,
+            "Value": "Eine Pistole, die gelenkte Munition mit Düsenantrieb abfeuert. Die Anvisieren-Funktion sorgt für hohe Präzision, aber die Waffe muss nach jedem abgefeuerten Schuss nachgeladen werden."
+        },
+        {
             "Key": 2683992244,
             "Value": "120-mm-HE-KANONENGESCHOSS"
         },
@@ -7975,6 +8087,10 @@
             "Value": "Keine zusätzlichen Boni."
         },
         {
+            "Key": 2719181791,
+            "Value": "Diese Panzerung ist die erforderliche Uniform für viele Bürger von Über-Erde, die schwere Maschinen bedienen. Langjährige Träger werden sich freuen zu erfahren, dass seit dem diesjährigen Symposium und der Gala zum Thema „Effizienz im Maschinenbetrieb“ das Tragen dieser Panzerung selbst nicht mehr als Bedienung schwerer Maschinen gilt."
+        },
+        {
             "Key": 2721110291,
             "Value": "70-mm-STANDARD-RAKETE"
         },
@@ -8013,6 +8129,10 @@
         {
             "Key": 2731845108,
             "Value": "10-g-Befreiungsfeuer"
+        },
+        {
+            "Key": 2732014232,
+            "Value": "O-3-Freigeist"
         },
         {
             "Key": 2736566458,
@@ -8619,6 +8739,10 @@
             "Value": "STANDARD-PLASMA-CONTAINER"
         },
         {
+            "Key": 2958374193,
+            "Value": "O-2-SCHWERER-MASCHINIST"
+        },
+        {
             "Key": 2960842896,
             "Value": "Programmierbare Munition"
         },
@@ -8777,6 +8901,10 @@
         {
             "Key": 3032181602,
             "Value": "5,5x50-mm-„DOPPELTE KRAFT“"
+        },
+        {
+            "Key": 3035121456,
+            "Value": "EXOANZUG ZERTIFIZIERT"
         },
         {
             "Key": 3035455512,
@@ -9815,6 +9943,10 @@
             "Value": "Erhöhte Feuerrate"
         },
         {
+            "Key": 3444086720,
+            "Value": "SMG-203"
+        },
+        {
             "Key": 3444434997,
             "Value": "Mehr Magazine für das montierte SMG"
         },
@@ -9957,6 +10089,10 @@
         {
             "Key": 3506581074,
             "Value": "Anhalter"
+        },
+        {
+            "Key": 3506896603,
+            "Value": "Freigeistige Verzierungen"
         },
         {
             "Key": 3507333225,
@@ -10175,6 +10311,10 @@
             "Value": "Durchdringendes HE-Geschoss"
         },
         {
+            "Key": 3602150526,
+            "Value": "OMBUDSMANN"
+        },
+        {
             "Key": 3610251186,
             "Value": "2x-ROTPUNKT-RÖHRENVISIER"
         },
@@ -10297,6 +10437,10 @@
         {
             "Key": 3662120282,
             "Value": "CE-64-Grenadier"
+        },
+        {
+            "Key": 3662990498,
+            "Value": "Fäller"
         },
         {
             "Key": 3663193426,
@@ -10799,8 +10943,16 @@
             "Value": "Jedes vergoldete Detail wird von umerzogenen Dissidenten im Rahmen des lebenslangen Programms zur Sühne nach der Infraktion auf Hochglanz poliert."
         },
         {
+            "Key": 3847398060,
+            "Value": "Erhöht die Geh- und Laufgeschwindigkeit des Trägers."
+        },
+        {
             "Key": 3848706698,
             "Value": "DU BIST DER NÄCHSTE"
+        },
+        {
+            "Key": 3849232494,
+            "Value": "Ein Tribut an die Unruhestifter und Querulanten, jene Wegbereiter, die ihre Befehle pflichtbewusst und mit allseits liebenswertem Elan ausführen. Die sternendurchkreuzte Spur erinnert an die besondere Art von Freiheit, die man nur erreichen kann, wenn man mit rasanter Geschwindigkeit in sehr teuren Staatsfahrzeugen unterwegs ist."
         },
         {
             "Key": 3851872716,
@@ -10829,6 +10981,10 @@
         {
             "Key": 3865629619,
             "Value": "Eine Pistole, die von vorne mit einer einzigen, starken Sprengstoffladung geladen wird. Das Gewicht des Projektils begrenzt die Reichweite der Waffe."
+        },
+        {
+            "Key": 3868128225,
+            "Value": "Dieser Umhang, der prachtvoll die Landung des Helldivers auf dem Schlachtfeld darstellt, verdeutlicht, dass in jeder erfolgreichen Militärmaschinerie heldenhafte Menschen das wichtigste Element sind."
         },
         {
             "Key": 3868878125,
@@ -11087,6 +11243,10 @@
             "Value": "GROSSE TROMMEL"
         },
         {
+            "Key": 3969632957,
+            "Value": "Diagramm der edelsten Ladung"
+        },
+        {
             "Key": 3970966164,
             "Value": "Draconaut I-102"
         },
@@ -11109,6 +11269,10 @@
         {
             "Key": 3975562578,
             "Value": "Größere Aufbewahrung"
+        },
+        {
+            "Key": 3982424137,
+            "Value": "Ombudsmann"
         },
         {
             "Key": 3985944090,
@@ -11293,6 +11457,10 @@
         {
             "Key": 4058189154,
             "Value": "Erzeugt eine weitreichende Brandexplosion, die sich ideal zur Massenkontrolle gegen kleinere Feinde der Freiheit eignet. Für strategische Vielseitigkeit mit einem programmierbaren Timer ausgestattet."
+        },
+        {
+            "Key": 4059265139,
+            "Value": "P-41"
         },
         {
             "Key": 4060448903,
@@ -11735,6 +11903,10 @@
             "Value": "FINGERPISTOLEN"
         },
         {
+            "Key": 4232324917,
+            "Value": "Dank der LenkKomfort-Passform dieser Panzerung kann der Träger jede Kurve, jede Unebenheit und jede Erschütterung seines Exoanzugs spüren, als wären sie zusammen ein einziges Wesen."
+        },
+        {
             "Key": 4232442047,
             "Value": "Studien haben gezeigt, dass Helldivers, die diesen Umhang tragen, zu 17 % als patriotischer angesehen werden."
         },
@@ -11793,6 +11965,10 @@
         {
             "Key": 4268863341,
             "Value": "STURMGEWEHR"
+        },
+        {
+            "Key": 4270320858,
+            "Value": "Wachsamer Landsmann"
         },
         {
             "Key": 4270905484,
@@ -11861,6 +12037,10 @@
         {
             "Key": 4289418781,
             "Value": "Träger dieser Tarnpanzerung werden selten von ihren Zielen – und ihren Teammitgliedern – gesehen. Keine Rückerstattung bei Verlust."
+        },
+        {
+            "Key": 4291272963,
+            "Value": "Kugel-Sturm"
         },
         {
             "Key": 4292516491,
@@ -12148,7 +12328,7 @@
         },
         {
             "Key": 219493118,
-            "Value": "Die Roboter haben eine große Anzahl von Verwüstern auf diesem Planeten stationiert."
+            "Value": "Die Roboter haben eine große Anzahl von Verwüstern auf diesem Planeten stationiert. Bereite dich darauf vor, auf schwer gepanzerte Feinde zu treffen."
         },
         {
             "Key": 222371685,
@@ -12208,7 +12388,7 @@
         },
         {
             "Key": 276825548,
-            "Value": "Auf diesem Planeten wurde ein durch Düsternis verstärkter Terminidenstamm gemeldet. S.E.A.F.-Patrouillen wurden in Hinterhalte gelockt und von unsichtbaren Angreifern ausgeschaltet. Jedes Quäntchen der überlegenen Helldiver-Sinne wird nötig sein, um diese gefährliche Bedrohung zur Strecke zu bringen."
+            "Value": "Auf diesem Planeten wurde ein mutierter Terminidenstamm gemeldet. Rechne damit, auf gerissene Jäger-Bugs zu stoßen."
         },
         {
             "Key": 280616943,
@@ -12832,7 +13012,7 @@
         },
         {
             "Key": 796165462,
-            "Value": "Die Roboter haben eine neue Reihe spezialisierter Modelle auf diesen Planeten entsandt. Diese verbesserten Bots verwenden gestohlene Sprungpaket-Technologie, die rücksichtslos von den Körpern gefallener Helldivers gestohlen und zu etwas fast Unerkennbarem rekonstruiert wurde."
+            "Value": "Die Roboter habe eine Reihe spezialisierter Modelle auf diesem Planeten stationiert. Bereite dich auf Bots vor, die mit gestohlener Sprungpaket-Technologie verbessert wurden."
         },
         {
             "Key": 796263081,
@@ -12988,7 +13168,7 @@
         },
         {
             "Key": 900034221,
-            "Value": "Auf diesem Planeten wurde eine große Anzahl feindlicher Hulks gesichtet. Bereite dich darauf vor, schwer gepanzerten Feinden entgegenzutreten."
+            "Value": "Auf diesem Planeten wurde eine große Anzahl feindlicher Hulks gesichtet. Bereite dich darauf vor, auf schwer gepanzerte Feinde zu treffen."
         },
         {
             "Key": 900097455,
@@ -13152,7 +13332,7 @@
         },
         {
             "Key": 1017745296,
-            "Value": "Terminiden-Drachenschaben bedrohen den Himmel über diesem Planeten."
+            "Value": "Terminiden-Drachenschaben bedrohen den Himmel über diesem Planeten. Bereite dich auf Gegner in der Luft vor."
         },
         {
             "Key": 1025296589,
@@ -13311,12 +13491,20 @@
             "Value": "Unbekannt"
         },
         {
+            "Key": 1134814559,
+            "Value": "Eine Mutation führt dazu, dass Terminiden auf diesem Planeten übermäßige Hormonsporen erzeugen, die andere ähnlich mutierte Terminiden in Raserei versetzen. Bereite dich darauf vor, dich Gegnern zu stellen, die ihre Geschwindigkeit gegenseitig erhöhen."
+        },
+        {
             "Key": 1142717293,
             "Value": "DEMOKRATIE-RAUMSTATION"
         },
         {
             "Key": 1143206197,
             "Value": "GESCHEITERT"
+        },
+        {
+            "Key": 1147205144,
+            "Value": "SPORENBERSTER-STAMM"
         },
         {
             "Key": 1148626776,
@@ -13804,7 +13992,7 @@
         },
         {
             "Key": 1541244759,
-            "Value": "Auf diesem Planeten gibt es einen tödlichen Stamm Terminiden, die den Boden, aus dem sie hervorbrechen, spalten."
+            "Value": "Auf diesem Planeten gibt es einen tödlichen Stamm Terminiden, die den Boden, aus dem sie hervorbrechen, spalten. Bereite dich auf grabende Gegner vor."
         },
         {
             "Key": 1542765264,
@@ -14228,7 +14416,7 @@
         },
         {
             "Key": 1882925335,
-            "Value": "Bereite dich darauf vor, einer großen Anzahl schwer gepanzerter Feinde entgegenzutreten."
+            "Value": "Die Roboter entsenden eine ungewöhnlich große Anzahl von Kriegsschreitern und Panzern zu diesem Planeten. Bereite dich darauf vor, auf eine große Anzahl schwer gepanzerter Feinde zu treffen."
         },
         {
             "Key": 1892826563,
@@ -14289,10 +14477,6 @@
         {
             "Key": 1939963888,
             "Value": "Helldivers vom Kampf gegen Roboter zurück zu Terminiden geleitet."
-        },
-        {
-            "Key": 1941457820,
-            "Value": "SPORENBERSTER-STAMM"
         },
         {
             "Key": 1942440765,
@@ -14589,10 +14773,6 @@
         {
             "Key": 2149309645,
             "Value": "ORBITAL-BLOCKADE"
-        },
-        {
-            "Key": 2149389475,
-            "Value": "Eine durch die Düsternis ausgelöste Mutation sorgt dafür, dass die Terminiden auf diesem Planeten überschüssige Sporen erzeugen, die bei ihrem Ableben explosionsartig freigesetzt werden. Diese insektoiden Extremisten demonstrieren eine unnatürliche Missachtung des Lebens und schrecken vor nichts zurück, um ihre Verderbnis zu verbreiten."
         },
         {
             "Key": 2151089975,
@@ -14892,7 +15072,7 @@
         },
         {
             "Key": 2388346408,
-            "Value": "Auf diesem Planeten ist eine Roboter-Einheit aktiv, die mit Flammenwerfern und Brandmunition ausgestattet ist. Diese schamlosen Brandstifter werden nicht eher ruhen, bis sie alles niedergebrannt haben, was der Menschheit lieb und teuer ist."
+            "Value": "Auf diesem Planeten ist eine Roboter-Einheit aktiv, die mit Flammenwerfern und Brandmunition ausgestattet ist. Bereite dich auf schamlose Brandstifter vor, die nicht eher ruhen werden, bis sie alles niedergebrannt haben, was der Menschheit lieb und teuer ist."
         },
         {
             "Key": 2390390042,
@@ -15732,7 +15912,7 @@
         },
         {
             "Key": 3033038880,
-            "Value": "Cyborgs werden auf dem Schlachtfeld dieses Planeten als Anführer der Roboter-Armeen eingesetzt."
+            "Value": "Cyborgs werden auf dem Schlachtfeld dieses Planeten als Anführer der Roboter-Armeen eingesetzt. Rechne damit, auf abscheuliche Propagandisten zu treffen, die sowohl im Fern- als auch im Nahkampf geübt sind."
         },
         {
             "Key": 3033475065,
@@ -16036,7 +16216,7 @@
         },
         {
             "Key": 3303998986,
-            "Value": "FEINDLICHE STREITKRÄFTE ANWESEND"
+            "Value": "STREITKRÄFTE ANWESEND"
         },
         {
             "Key": 3308761296,
@@ -17056,7 +17236,7 @@
         },
         {
             "Key": 4189958024,
-            "Value": "Auf diesem Planeten wurden Terminiden-Schwarm-Lords entdeckt."
+            "Value": "Auf diesem Planeten wurden Terminiden-Schwarm-Lords entdeckt. Bereite dich auf riesige, grabende Gegner vor."
         },
         {
             "Key": 4192344096,
@@ -41799,6 +41979,10 @@
             "Value": "EMOTE: OPTION A"
         },
         {
+            "Key": 981331824,
+            "Value": "Ist diese Option aktiviert, werden gelegentlich Umfragen angezeigt."
+        },
+        {
             "Key": 986079424,
             "Value": "Suche starten"
         },
@@ -42121,6 +42305,10 @@
         {
             "Key": 1248374475,
             "Value": "VERBERGEN"
+        },
+        {
+            "Key": 1251107930,
+            "Value": "Dieser Gegenstand ist vorübergehend deaktiviert."
         },
         {
             "Key": 1255517193,
@@ -44739,6 +44927,10 @@
             "Value": "Nicht vergessen: Freiheit!"
         },
         {
+            "Key": 3050991430,
+            "Value": "Dein Konto #ACCOUNT wurde aufgrund eines Verstoßes gegen die EULA bis #DD-#MM-#YY vorübergehend ausgesetzt. Weitere Informationen erhältst du auf der Support-Website von Arrowhead unter: https://arrowhead.zendesk.com/."
+        },
+        {
             "Key": 3054021438,
             "Value": "TRUPPEINLADUNG"
         },
@@ -45115,6 +45307,10 @@
             "Value": "#COUNT"
         },
         {
+            "Key": 3330197906,
+            "Value": "ABSENDEN"
+        },
+        {
             "Key": 3332178855,
             "Value": "Illuminierter"
         },
@@ -45201,6 +45397,10 @@
         {
             "Key": 3407735719,
             "Value": "Löst aus, nachdem eine Taste eine bestimmte Zeit lang gedrückt gehalten wurde."
+        },
+        {
+            "Key": 3408223831,
+            "Value": "Dein Konto #ACCOUNT wurde aufgrund eines Verstoßes gegen die EULA dauerhaft ausgesetzt. Weitere Informationen erhältst du auf der Support-Website von Arrowhead unter: https://arrowhead.zendesk.com/."
         },
         {
             "Key": 3409838466,
@@ -45657,6 +45857,10 @@
         {
             "Key": 3704112830,
             "Value": "Du bist mit dir selbst nicht zufrieden? Dann passe dein Aussehen und deine Stimme in der Anpassungskammer an. So einfach geht das!"
+        },
+        {
+            "Key": 3705024369,
+            "Value": "Umfragen anzeigen"
         },
         {
             "Key": 3709301333,
@@ -48927,10 +49131,6 @@
             "Value": "Finde und zerstöre alle aktiven Roboter-Fabrikanten"
         },
         {
-            "Key": 995660531,
-            "Value": "Begib dich in den Exosturm und zerschmettere die Exotürme, die ihn aufrechterhalten."
-        },
-        {
             "Key": 1002982797,
             "Value": "ZWEI"
         },
@@ -51237,6 +51437,10 @@
         {
             "Key": 2570056183,
             "Value": "BLITZ"
+        },
+        {
+            "Key": 2570186237,
+            "Value": "Begib dich in den Exosturm und zerschmettere die Exotürme, die ihn aufrechterhalten."
         },
         {
             "Key": 2572958008,
@@ -53863,6 +54067,10 @@
             "Value": "Sonesson"
         },
         {
+            "Key": 149849300,
+            "Value": "MOBILES WEISSES EXOANZUG-DESIGN"
+        },
+        {
             "Key": 151044459,
             "Value": "ARTURION-SEKTOR"
         },
@@ -54739,6 +54947,10 @@
             "Value": "ASPEN HILLS"
         },
         {
+            "Key": 723344253,
+            "Value": "MOBILES WEISSES SHUTTLE-DESIGN"
+        },
+        {
             "Key": 723389311,
             "Value": "KEPLER-397b"
         },
@@ -54889,6 +55101,10 @@
         {
             "Key": 805511186,
             "Value": "PHACT BAY"
+        },
+        {
+            "Key": 805648087,
+            "Value": "MOBILES WEISSES FAHRZEUGDESIGN"
         },
         {
             "Key": 811469586,
@@ -55609,6 +55825,10 @@
         {
             "Key": 1299714559,
             "Value": "Stürmer"
+        },
+        {
+            "Key": 1302324884,
+            "Value": "Exo-Experten"
         },
         {
             "Key": 1309239989,
@@ -58007,10 +58227,6 @@
             "Value": "GENERATORSVILLE"
         },
         {
-            "Key": 3005334329,
-            "Value": "AQUILA MMCMXIV"
-        },
-        {
             "Key": 3006600704,
             "Value": "Herrschaft"
         },
@@ -58887,6 +59103,10 @@
             "Value": "KREISCHER-NEST"
         },
         {
+            "Key": 3611318386,
+            "Value": "EXO-EXPERTEN"
+        },
+        {
             "Key": 3616280245,
             "Value": "PO‘S RAVENNA"
         },
@@ -59521,6 +59741,10 @@
         {
             "Key": 4068320987,
             "Value": "Alpha-Kommandanten"
+        },
+        {
+            "Key": 4069889950,
+            "Value": "MOBILES WEISSES HELLPOD-DESIGN"
         },
         {
             "Key": 4070447728,
@@ -63937,6 +64161,10 @@
         {
             "Key": 2516822592,
             "Value": "Die aktuelle Netzwerkverbindung wurde unterbrochen."
+        },
+        {
+            "Key": 2519708566,
+            "Value": "Taktikausrüstung gescheitert"
         },
         {
             "Key": 2523245633,

@@ -1487,30 +1487,6 @@
             "Value": "Stop the infestation!"
         },
         {
-            "Key": 310338931,
-            "Value": "Incompatible Operating System detected! Your OS must support AVX instructions to run this game."
-        },
-        {
-            "Key": 2570408653,
-            "Value": "Corrupt file detected"
-        },
-        {
-            "Key": 2574241539,
-            "Value": "The file '#FILENAME' appears to be corrupt. Please go to your Steam library, open the properties of HELLDIVERS™ 2, and click \"Verify Integrity of game files\" to repair any corrupt content. Ignoring this warning may cause bugs or crashes."
-        },
-        {
-            "Key": 2705675729,
-            "Value": "The installed drivers are out of date and an update is recommended. Would you like to continue? Doing so without updating can cause bugs and crashes.\n\nInstalled version: #INSTALLED_VERSION\nMinimum Recommended: #RECOMMENDED_VERSION"
-        },
-        {
-            "Key": 3954684058,
-            "Value": "Incompatible CPU detected! Your CPU must support AVX instructions to run this game."
-        },
-        {
-            "Key": 4274889835,
-            "Value": "GPU drivers are out of date"
-        },
-        {
             "Key": 73723553,
             "Value": "REPRODUCTION"
         },
@@ -4085,6 +4061,10 @@
         {
             "Key": 975245170,
             "Value": "FULLY-AUTOMATED ASSEMBLY"
+        },
+        {
+            "Key": 981331824,
+            "Value": "If enabled, surveys will be occasionally displayed."
         },
         {
             "Key": 986079424,
@@ -7879,6 +7859,10 @@
             "Value": "BUY MODULE UPGRADE"
         },
         {
+            "Key": 3050991430,
+            "Value": "Your account #ACCOUNT has been temporarily suspended for violating the EULA, until #DD-#MM-#YY. Please visit the Arrowhead support website at: https://arrowhead.zendesk.com/ for further information."
+        },
+        {
             "Key": 3054021438,
             "Value": "SQUAD INVITE"
         },
@@ -8359,6 +8343,10 @@
             "Value": "#COUNT"
         },
         {
+            "Key": 3330197906,
+            "Value": "SUBMIT"
+        },
+        {
             "Key": 3332178855,
             "Value": "Illuminate"
         },
@@ -8477,6 +8465,10 @@
         {
             "Key": 3407735719,
             "Value": "Triggers after a button has been pushed down for a set amount of time."
+        },
+        {
+            "Key": 3408223831,
+            "Value": "Your account #ACCOUNT has been permanently suspended for violating the EULA. Please visit the Arrowhead support website at: https://arrowhead.zendesk.com/ for further information."
         },
         {
             "Key": 3409838466,
@@ -9017,6 +9009,10 @@
         {
             "Key": 3704112830,
             "Value": "Unhappy with who you are? Change your appearance and voice in the customisation chamber. It's that easy!"
+        },
+        {
+            "Key": 3705024369,
+            "Value": "Display Surveys"
         },
         {
             "Key": 3709301333,
@@ -10355,6 +10351,10 @@
             "Value": "SEAF Artillery: Explosive"
         },
         {
+            "Key": 40709597,
+            "Value": "THUMB OF APPROVAL"
+        },
+        {
             "Key": 51208102,
             "Value": "110mm E.M.S. CANNON ROUND"
         },
@@ -10779,12 +10779,20 @@
             "Value": "[NOT IMPLEMENTED] The Napalm airstrike drops a row of bombs containing an extremely flammable liquid with a fairly long burn time, effectively creating a wall of fire. Great for stopping the enemy in their tracks as a universal rule for all life in the galaxy seems to be to avoid fire. The fire doesn't burn hot enough to do any significant damage to heavily armoured targets."
         },
         {
+            "Key": 190436328,
+            "Value": "Increases the speed and duration of slides."
+        },
+        {
             "Key": 194848098,
             "Value": "This high-visibility armour allows it's bearer to be easily seen through smoke, fog, and spewing viscera."
         },
         {
             "Key": 196776936,
             "Value": "Fast Recon Vehicle"
+        },
+        {
+            "Key": 196875495,
+            "Value": "The experimental weapons R&D corporation Zizer has unveiled this altered \"Senator\" revolver, with a longer barrel that is clinically proven to make its wielder up to 23% more secure in themselves."
         },
         {
             "Key": 197005611,
@@ -10977,6 +10985,10 @@
         {
             "Key": 278490209,
             "Value": "INGRESS-81"
+        },
+        {
+            "Key": 279082357,
+            "Value": "P-33"
         },
         {
             "Key": 280108911,
@@ -11365,6 +11377,10 @@
         {
             "Key": 416403214,
             "Value": "LIFT-860"
+        },
+        {
+            "Key": 419364955,
+            "Value": "FREE-SPIRITED SPANGLES"
         },
         {
             "Key": 419411210,
@@ -11831,6 +11847,10 @@
             "Value": "15x100mm High Velocity"
         },
         {
+            "Key": 588663789,
+            "Value": "O-44 BONDED PILOT"
+        },
+        {
             "Key": 588878433,
             "Value": "The classic Helldiver paint job."
         },
@@ -12179,6 +12199,10 @@
             "Value": "A lightweight flamethrower. Shoots pressurised fuel through a dispersion nozzle into an open flame. Safe."
         },
         {
+            "Key": 696072930,
+            "Value": "EXO-51"
+        },
+        {
             "Key": 696286169,
             "Value": "A cape that strikes a subroutine emulating fear into the CPUs of all Automatons who conduct visual scans of it."
         },
@@ -12217,6 +12241,10 @@
         {
             "Key": 714923769,
             "Value": "Atomises caustic chemicals into a fine mist that liquifies sensitive electronics and tissues. Blinds and slows most enemies."
+        },
+        {
+            "Key": 715492973,
+            "Value": "Thumb of Approval"
         },
         {
             "Key": 715614302,
@@ -12479,6 +12507,10 @@
             "Value": "TED-63"
         },
         {
+            "Key": 819134360,
+            "Value": "This cape's retro print, first made popular in GW1 cereal merchandising, helps children remember that not all machines are twisted mechano-socialists; some are piloted by true-hearted humans, and we can all rest easy in their gaze."
+        },
+        {
             "Key": 820522057,
             "Value": "Pyrotech"
         },
@@ -12517,6 +12549,10 @@
         {
             "Key": 831074521,
             "Value": "Orbital Walking Barrage"
+        },
+        {
+            "Key": 831139041,
+            "Value": "LUMBERER"
         },
         {
             "Key": 831483073,
@@ -12915,6 +12951,10 @@
             "Value": "This high-calibre marksman rifle trades magazine capacity and rate of fire for powerful, accurate shots."
         },
         {
+            "Key": 979608541,
+            "Value": "WATCHFUL COMPATRIOT"
+        },
+        {
             "Key": 980084344,
             "Value": "8x60mm Penetrator"
         },
@@ -12935,12 +12975,20 @@
             "Value": "FS-40 DIPLOMAT"
         },
         {
+            "Key": 982871080,
+            "Value": "An Exosuit equipped with a flak cannon and ballistic shield, optimised for mid-to-close combat range."
+        },
+        {
             "Key": 985325178,
             "Value": "Firing jet-propelled rounds, the Dominator trades fire rate and magazine capacity for increased damage per projectile."
         },
         {
             "Key": 986973078,
             "Value": "FLASH HIDER"
+        },
+        {
+            "Key": 987248759,
+            "Value": "BULLET STORM"
         },
         {
             "Key": 989431349,
@@ -13001,6 +13049,10 @@
         {
             "Key": 1004228550,
             "Value": "Extra Capacity"
+        },
+        {
+            "Key": 1005051052,
+            "Value": "O-44 Bonded Pilot"
         },
         {
             "Key": 1006230745,
@@ -13145,6 +13197,10 @@
         {
             "Key": 1044805146,
             "Value": "MORE FUEL"
+        },
+        {
+            "Key": 1044960240,
+            "Value": "This armour celebrates the wearer's close relationship to their Exosuit---as intimate as is possible without succumbing to cyborgry."
         },
         {
             "Key": 1045811468,
@@ -13647,6 +13703,10 @@
             "Value": "HIGH-SPEED SERVOS"
         },
         {
+            "Key": 1244403650,
+            "Value": "OXYGENATOR"
+        },
+        {
             "Key": 1244754797,
             "Value": "A heavily-armoured walking exosuit equipped with a rocket launcher and a gatling gun."
         },
@@ -13829,6 +13889,10 @@
         {
             "Key": 1292790287,
             "Value": "No Muzzle"
+        },
+        {
+            "Key": 1297446258,
+            "Value": "GALLANT"
         },
         {
             "Key": 1301909390,
@@ -14027,6 +14091,10 @@
             "Value": "9x70mm Self Propelled"
         },
         {
+            "Key": 1386708865,
+            "Value": "BREAKTHROUGH"
+        },
+        {
             "Key": 1387831894,
             "Value": "Anti-Tank Emplacement"
         },
@@ -14193,6 +14261,10 @@
         {
             "Key": 1446063753,
             "Value": "AR-59"
+        },
+        {
+            "Key": 1446123923,
+            "Value": "A single-use weapon sporting caseless ammunition stacked in multiple barrels. An electrical firing mechanism releases the rounds in rapid succession upon firing, after which the weapon is to be discarded."
         },
         {
             "Key": 1447724304,
@@ -14415,6 +14487,10 @@
             "Value": "SIEGE-READY"
         },
         {
+            "Key": 1511917268,
+            "Value": "O-2 Heavy Operator"
+        },
+        {
             "Key": 1512212255,
             "Value": "A Dark Fluid-powered backpack that generates a portable micro-wormhole. This safe and well-understood technology allows the wearer to warp short distances. Warning: do not use while pack is overloaded."
         },
@@ -14457,6 +14533,10 @@
         {
             "Key": 1535909110,
             "Value": "5.5x50mm Penetrator"
+        },
+        {
+            "Key": 1536255450,
+            "Value": "A submachine gun with a longer barrel, allowing for higher muzzle velocity and increased armour penetration."
         },
         {
             "Key": 1539723683,
@@ -14669,6 +14749,10 @@
         {
             "Key": 1621453557,
             "Value": "SHORT MAGAZINE"
+        },
+        {
+            "Key": 1622020473,
+            "Value": "EXO-55"
         },
         {
             "Key": 1623263170,
@@ -14909,6 +14993,10 @@
         {
             "Key": 1712527709,
             "Value": "De-Escalator"
+        },
+        {
+            "Key": 1714459044,
+            "Value": "Gallant"
         },
         {
             "Key": 1715612552,
@@ -15249,6 +15337,10 @@
         {
             "Key": 1838016973,
             "Value": "This cape recalls the popular folk tale of the 'Freedomslingers': re-educated dissidents, seeking redemption on the Federation's Borderline, hunting dangerous thought-traitors in exchange for ballot bounties. "
+        },
+        {
+            "Key": 1839032438,
+            "Value": "A modern reinvention of the Lumberers of the first Galactic War, this Exosuit is equipped with a flamethrower and an anti-tank cannon. "
         },
         {
             "Key": 1839035128,
@@ -15679,6 +15771,10 @@
             "Value": "This armour uses repurposed metal from verified sources, such as vending machine packaging and Automaton scrap, making it a sustainable choice for the environmentally conscious Helldiver."
         },
         {
+            "Key": 1995236842,
+            "Value": "O-3 FREE SPIRIT"
+        },
+        {
             "Key": 1995390179,
             "Value": "MAGNUM"
         },
@@ -15773,6 +15869,10 @@
         {
             "Key": 2018191462,
             "Value": "Pillars of Democracy"
+        },
+        {
+            "Key": 2020318492,
+            "Value": "MGX-42"
         },
         {
             "Key": 2020494211,
@@ -16351,6 +16451,10 @@
             "Value": "Lightened Casing"
         },
         {
+            "Key": 2201877789,
+            "Value": "Missile Pistol"
+        },
+        {
             "Key": 2202159575,
             "Value": "B-08 LIGHT GUNNER"
         },
@@ -16673,6 +16777,10 @@
         {
             "Key": 2305793144,
             "Value": "SMOKE"
+        },
+        {
+            "Key": 2305804327,
+            "Value": "Breakthrough"
         },
         {
             "Key": 2306363495,
@@ -17127,6 +17235,10 @@
             "Value": "The number of times the Energy shield emplacement can be called in is increased from 3 to 4 times."
         },
         {
+            "Key": 2467782030,
+            "Value": "DIAGRAM OF THE NOBLEST PAYLOAD"
+        },
+        {
             "Key": 2468465243,
             "Value": "9x20mm Explosive"
         },
@@ -17317,6 +17429,10 @@
         {
             "Key": 2545832384,
             "Value": "The thumper is equipped with a piston, used for sending out strong vibrations into the ground, which disrupt nearby bug nests."
+        },
+        {
+            "Key": 2548766534,
+            "Value": "MISSILE PISTOL"
         },
         {
             "Key": 2549383367,
@@ -17679,6 +17795,10 @@
             "Value": "DAB"
         },
         {
+            "Key": 2682411428,
+            "Value": "A pistol firing guided, jet-propelled ammunition. It's lock-on feature ensures high accuracy, but the weapon must be reloaded after every round fired."
+        },
+        {
             "Key": 2683992244,
             "Value": "120mm HE CANNON ROUND"
         },
@@ -17771,6 +17891,10 @@
             "Value": "Each round is filled with more explosive mass contributing to a slightly larger explosion."
         },
         {
+            "Key": 2719181791,
+            "Value": "This armour is the required uniform for many Super Earth Citizens operating heavy machinery. Long-time users will be delighted to learn that as of this year's Efficiency in Machine Operation Symposium and Gala, wearing this armour is no longer itself considered operating heavy machinery."
+        },
+        {
             "Key": 2721110291,
             "Value": "70mm STANDARD ROCKET"
         },
@@ -17809,6 +17933,10 @@
         {
             "Key": 2731845108,
             "Value": "10g Liberty Fire"
+        },
+        {
+            "Key": 2732014232,
+            "Value": "O-3 Free Spirit"
         },
         {
             "Key": 2736566458,
@@ -18527,6 +18655,10 @@
             "Value": "A thinner bomb casing allows for more explosives in each bomb. Increases explosion radius."
         },
         {
+            "Key": 2958374193,
+            "Value": "O-2 HEAVY OPERATOR"
+        },
+        {
             "Key": 2960842896,
             "Value": "Programmable Ammunition"
         },
@@ -18705,6 +18837,10 @@
         {
             "Key": 3032181602,
             "Value": "5.5x50mm DOUBLE POWER"
+        },
+        {
+            "Key": 3035121456,
+            "Value": "EXOSUIT CERTIFIED"
         },
         {
             "Key": 3035455512,
@@ -19959,6 +20095,10 @@
             "Value": "Each magazine carried by the drone now contains more ammunition."
         },
         {
+            "Key": 3444086720,
+            "Value": "SMG-203"
+        },
+        {
             "Key": 3444434997,
             "Value": "More HMG Mount Mags"
         },
@@ -20117,6 +20257,10 @@
         {
             "Key": 3506581074,
             "Value": "Halt"
+        },
+        {
+            "Key": 3506896603,
+            "Value": "Free-Spirited Spangles"
         },
         {
             "Key": 3507333225,
@@ -20383,6 +20527,10 @@
             "Value": "[NOT IMPLEMENTED] The A/MG-11 GATLING SENTRY is a beloved staple of the Helldivers, capable of shredding light targets en masse. Like all automated sentries it can distinguish between friend and foe and will target only enemies, but it has no safety mechanism that will prevent it from firing if a friendly is in the way of its target. It is highly recommended to stay behind the turret, though that might be difficult as it has a 360 degree field of fire."
         },
         {
+            "Key": 3602150526,
+            "Value": "OMBUDSMAN"
+        },
+        {
             "Key": 3610251186,
             "Value": "2x TUBE RED DOT"
         },
@@ -20529,6 +20677,10 @@
         {
             "Key": 3662120282,
             "Value": "CE-64 Grenadier"
+        },
+        {
+            "Key": 3662990498,
+            "Value": "Lumberer"
         },
         {
             "Key": 3663193426,
@@ -21087,8 +21239,16 @@
             "Value": "Each gilded detail is polished to perfection by re-educated dissidents, as part of the Lifelong Post-Infraction Atonement Programme."
         },
         {
+            "Key": 3847398060,
+            "Value": "Increases the wearer's walking and running speed."
+        },
+        {
             "Key": 3848706698,
             "Value": "YOU'RE NEXT"
+        },
+        {
+            "Key": 3849232494,
+            "Value": "A tribute to the mischief-makers and mavericks, those trailblazers who dutifully execute their orders with universally-endearing panache. The star-crossed trail calls to mind the special kind of Freedom that can only be achieved by going very fast in very expensive state-owned vehicles."
         },
         {
             "Key": 3851157562,
@@ -21131,6 +21291,10 @@
             "Value": "A pistol front-loaded with a single, powerful explosive. The weight of the projectile limits the weapon's range."
         },
         {
+            "Key": 3868128225,
+            "Value": "Rendering the Helldiver's descent to the battlefield in splendorous foil, this cape illustrates that in any successful military machinery, heroic humans are the most vital piece."
+        },
+        {
             "Key": 3868878125,
             "Value": "Improved Reloading Process"
         },
@@ -21168,7 +21332,7 @@
         },
         {
             "Key": 3876158673,
-            "Value": "Designed to render even the largest foes into considerably smaller, and vastly more compliant, constituent parts. Sacrifices throwing range for a massive detonation."
+            "Value": "Designed to render even the largest foes into considerably smaller, and vastly more compliant, constituent parts. Sacrifices throwing range for a massive detonation on impact."
         },
         {
             "Key": 3876419466,
@@ -21427,6 +21591,10 @@
             "Value": "LARGE DRUM"
         },
         {
+            "Key": 3969632957,
+            "Value": "Diagram of the Noblest Payload"
+        },
+        {
             "Key": 3970966164,
             "Value": "I-102 Draconaught"
         },
@@ -21453,6 +21621,10 @@
         {
             "Key": 3975562578,
             "Value": "Increased Storage"
+        },
+        {
+            "Key": 3982424137,
+            "Value": "Ombudsman"
         },
         {
             "Key": 3985944090,
@@ -21665,6 +21837,10 @@
         {
             "Key": 4058189154,
             "Value": "Creates a far-reaching incendiary blast ideal for crowd control against smaller enemies of Freedom. Equipped with a programmable timer for strategic versatility."
+        },
+        {
+            "Key": 4059265139,
+            "Value": "P-41"
         },
         {
             "Key": 4059966055,
@@ -22191,6 +22367,10 @@
             "Value": "The Tesla Tower can be active for longer. Increased from 3 to 4 minutes."
         },
         {
+            "Key": 4232324917,
+            "Value": "The SteerComfort fit of this armour allows the wearer to feel every curve, bump, and jostle of their Exosuit, as if they were one single being."
+        },
+        {
             "Key": 4232442047,
             "Value": "Research suggests that Helldivers wearing this cape are seen as 17% more patriotic."
         },
@@ -22253,6 +22433,10 @@
         {
             "Key": 4268863341,
             "Value": "ASSAULT RIFLE"
+        },
+        {
+            "Key": 4270320858,
+            "Value": "Watchful Compatriot"
         },
         {
             "Key": 4270905484,
@@ -22333,6 +22517,10 @@
         {
             "Key": 4290157837,
             "Value": "Explosive tipped projectile that does high damage against massive unarmoured targets."
+        },
+        {
+            "Key": 4291272963,
+            "Value": "Bullet Storm"
         },
         {
             "Key": 4292516491,
@@ -26631,6 +26819,10 @@
             "Value": "The current network connection has been lost."
         },
         {
+            "Key": 2519708566,
+            "Value": "Stratagem Failed"
+        },
+        {
             "Key": 2523245633,
             "Value": "Burst"
         },
@@ -29903,6 +30095,10 @@
             "Value": "Sonesson"
         },
         {
+            "Key": 149849300,
+            "Value": "MOBILE WHITE EXOSUIT PATTERN"
+        },
+        {
             "Key": 151044459,
             "Value": "ARTURION SECTOR"
         },
@@ -30635,6 +30831,10 @@
             "Value": "SHOTGUN SUMMIT"
         },
         {
+            "Key": 652324972,
+            "Value": "CONIFEROUS PLANET C"
+        },
+        {
             "Key": 652874502,
             "Value": "Ship TV"
         },
@@ -30787,6 +30987,10 @@
             "Value": "ASPEN HILLS"
         },
         {
+            "Key": 723344253,
+            "Value": "MOBILE WHITE SHUTTLE PATTERN"
+        },
+        {
             "Key": 723389311,
             "Value": "KEPLER-397b"
         },
@@ -30907,6 +31111,10 @@
             "Value": "LEVIATHAN"
         },
         {
+            "Key": 785130403,
+            "Value": "CONIFEROUS PLANET B"
+        },
+        {
             "Key": 787459040,
             "Value": "MINISTRY OF EXPANSION"
         },
@@ -30941,6 +31149,10 @@
         {
             "Key": 805511186,
             "Value": "PHACT BAY"
+        },
+        {
+            "Key": 805648087,
+            "Value": "MOBILE WHITE VEHICLE PATTERN"
         },
         {
             "Key": 811469586,
@@ -31675,6 +31887,10 @@
             "Value": "Charger"
         },
         {
+            "Key": 1302324884,
+            "Value": "Exo Experts"
+        },
+        {
             "Key": 1309239989,
             "Value": "Servants of Freedom"
         },
@@ -32137,6 +32353,10 @@
         {
             "Key": 1596772767,
             "Value": "BASE CAMP 8"
+        },
+        {
+            "Key": 1604430375,
+            "Value": "DECIDUOUS PLANET C"
         },
         {
             "Key": 1606616279,
@@ -32883,6 +33103,10 @@
             "Value": "ROCKET DEVASTATOR"
         },
         {
+            "Key": 2124371897,
+            "Value": "CONIFEROUS PLANET A"
+        },
+        {
             "Key": 2128884238,
             "Value": "of Midnight"
         },
@@ -33413,6 +33637,10 @@
         {
             "Key": 2534283905,
             "Value": "STAR KIELD"
+        },
+        {
+            "Key": 2538761587,
+            "Value": "OASIS PLANET A"
         },
         {
             "Key": 2540796782,
@@ -34095,10 +34323,6 @@
             "Value": "GENERATORSVILLE"
         },
         {
-            "Key": 3005334329,
-            "Value": "AQUILA MMCMXIV"
-        },
-        {
             "Key": 3006600704,
             "Value": "Reign"
         },
@@ -34313,6 +34537,10 @@
         {
             "Key": 3143846020,
             "Value": "CHARBAL-VII"
+        },
+        {
+            "Key": 3145142931,
+            "Value": "OASIS PLANET B"
         },
         {
             "Key": 3150403879,
@@ -34639,6 +34867,10 @@
             "Value": "SAFETY ORANGE HELLPOD PATTERN"
         },
         {
+            "Key": 3354959658,
+            "Value": "DECIDUOUS PLANET A"
+        },
+        {
             "Key": 3363066353,
             "Value": "Xenobite Ardent"
         },
@@ -34717,6 +34949,10 @@
         {
             "Key": 3405462970,
             "Value": "Ministry of Prosperity"
+        },
+        {
+            "Key": 3408611967,
+            "Value": "OASIS PLANET C"
         },
         {
             "Key": 3410420208,
@@ -34931,6 +35167,10 @@
             "Value": "SIRIUS II"
         },
         {
+            "Key": 3573666373,
+            "Value": "DECIDUOUS PLANET B"
+        },
+        {
             "Key": 3578469809,
             "Value": "SARAH SWIFT DAM"
         },
@@ -34981,6 +35221,10 @@
         {
             "Key": 3608538404,
             "Value": "SHRIEKER NEST"
+        },
+        {
+            "Key": 3611318386,
+            "Value": "EXO EXPERTS"
         },
         {
             "Key": 3616280245,
@@ -35625,6 +35869,10 @@
         {
             "Key": 4068320987,
             "Value": "Alpha Commanders"
+        },
+        {
+            "Key": 4069889950,
+            "Value": "MOBILE WHITE HELLPOD PATTERN"
         },
         {
             "Key": 4070447728,
@@ -61899,10 +62147,6 @@
             "Value": "Find and destroy any active Automaton fabricators"
         },
         {
-            "Key": 995660531,
-            "Value": "Deploy into the Exostorm and shatter the Exospires that sustain it."
-        },
-        {
             "Key": 998353290,
             "Value": "SYNAPTIC SPIRE"
         },
@@ -64395,6 +64639,10 @@
             "Value": "BLITZ"
         },
         {
+            "Key": 2570186237,
+            "Value": "Deploy into the Exostorm and shatter the Exospires that sustain it."
+        },
+        {
             "Key": 2572958008,
             "Value": "Release the fuel hose"
         },
@@ -66711,6 +66959,10 @@
             "Value": "BAY DOOR CONTROL"
         },
         {
+            "Key": 4142761914,
+            "Value": "Activate terminal"
+        },
+        {
             "Key": 4142990363,
             "Value": "Once the GATER is secured, use it to extract the resources in this area."
         },
@@ -67292,7 +67544,7 @@
         },
         {
             "Key": 219493118,
-            "Value": "The Automatons have deployed high numbers of Devastators to this planet."
+            "Value": "The Automatons have deployed high numbers of Devastators to this planet. Prepare to encounter heavily armoured enemies."
         },
         {
             "Key": 222371685,
@@ -67376,7 +67628,7 @@
         },
         {
             "Key": 276825548,
-            "Value": "A Gloom-enhanced strain of Terminids has been reported on this planet. SEAF patrols have been lured into ambushes, and picked off by unseen assailants. Every ounce of a Helldiver's superior senses will be required to hunt down this dangerous threat."
+            "Value": "A mutated strain of Terminids has been reported on this planet. Expect to encounter cunning hunter bugs."
         },
         {
             "Key": 278764970,
@@ -68216,7 +68468,7 @@
         },
         {
             "Key": 796165462,
-            "Value": "The Automatons have deployed a new series of specialised models on this planet. These upgraded bots utilise stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecogniseable."
+            "Value": "The Automatons have deployed a series of specialised models on this planet. Prepare to face bots upgraded with stolen Jump Pack technology."
         },
         {
             "Key": 796263081,
@@ -68400,7 +68652,7 @@
         },
         {
             "Key": 900034221,
-            "Value": "High numbers of enemy Hulks have been reported on this planet. Prepare to counter heavily armoured enemies."
+            "Value": "High numbers of enemy Hulks have been reported on this planet. Prepare to encounter heavily armoured enemies."
         },
         {
             "Key": 900097455,
@@ -68600,7 +68852,7 @@
         },
         {
             "Key": 1017745296,
-            "Value": "Terminid Dragonroaches menace the skies of this planet."
+            "Value": "Terminid Dragonroaches menace the skies of this planet. Prepare to encounter airborne enemies."
         },
         {
             "Key": 1025296589,
@@ -68787,6 +69039,10 @@
             "Value": "Not much is known about this planet."
         },
         {
+            "Key": 1134814559,
+            "Value": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+        },
+        {
             "Key": 1136412203,
             "Value": "This planet is home to millions of undiscovered plants, animals, and perhaps entire new domains of organic life. As a result, biological survey has been made a top priority. A massive project to exhaustively study, categorise, and protect this wildlife will take place immediately—just after extraction of critical resources to support the Galactic War."
         },
@@ -68801,6 +69057,10 @@
         {
             "Key": 1143206197,
             "Value": "FAILED"
+        },
+        {
+            "Key": 1147205144,
+            "Value": "SPORE BURST STRAIN"
         },
         {
             "Key": 1148626776,
@@ -69416,7 +69676,7 @@
         },
         {
             "Key": 1541244759,
-            "Value": "A deadly strain of ground-bursting Terminids is present on this planet."
+            "Value": "A deadly strain of ground-bursting Terminids is present on this planet. Prepare to face burrowing enemies."
         },
         {
             "Key": 1542765264,
@@ -69932,7 +70192,7 @@
         },
         {
             "Key": 1882925335,
-            "Value": "Prepare to counter high numbers of heavily armoured enemies."
+            "Value": "The Automatons are deploying an abnormal amount of War Striders and Tanks to this planet. Prepare to encounter high numbers of heavily armored enemies"
         },
         {
             "Key": 1886154499,
@@ -70005,10 +70265,6 @@
         {
             "Key": 1939963888,
             "Value": "Helldivers Redirected from Automaton Conflict Back to Terminids."
-        },
-        {
-            "Key": 1941457820,
-            "Value": "SPORE BURST STRAIN"
         },
         {
             "Key": 1942440765,
@@ -70381,10 +70637,6 @@
         {
             "Key": 2149309645,
             "Value": "ORBITAL BLOCKADE"
-        },
-        {
-            "Key": 2149389475,
-            "Value": "A Gloom-induced mutation causes Terminids on this planet to generate excess spores, which are released in an explosive burst upon death. Displaying an unnatural disregard for life, these insectoid extremists stop at nothing to spread their corruption."
         },
         {
             "Key": 2151089975,
@@ -70768,7 +71020,7 @@
         },
         {
             "Key": 2388346408,
-            "Value": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+            "Value": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. Prepare to face wanton arsonists who will not rest until they have razed all that humankind holds dear."
         },
         {
             "Key": 2390390042,
@@ -71784,7 +72036,7 @@
         },
         {
             "Key": 3033038880,
-            "Value": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies."
+            "Value": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies. Expect to encounter vile propagandists trained in both ranged and melee combat."
         },
         {
             "Key": 3033475065,
@@ -72204,7 +72456,7 @@
         },
         {
             "Key": 3303998986,
-            "Value": "ENEMY FORCES PRESENT"
+            "Value": "COMBATANT FORCES PRESENT"
         },
         {
             "Key": 3308761296,
@@ -73524,7 +73776,7 @@
         },
         {
             "Key": 4189958024,
-            "Value": "Terminid Hive Lords have been detected on this planet."
+            "Value": "Terminid Hive Lords have been detected on this planet. Prepare to face massive burrowing enemies."
         },
         {
             "Key": 4192344096,

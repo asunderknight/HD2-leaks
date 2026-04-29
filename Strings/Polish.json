@@ -4039,6 +4039,10 @@
             "Value": "Obecne połączenie z siecią zostało utracone."
         },
         {
+            "Key": 2519708566,
+            "Value": "Manewr zawiódł"
+        },
+        {
             "Key": 2523245633,
             "Value": "Seria"
         },
@@ -7668,7 +7672,7 @@
         },
         {
             "Key": 219493118,
-            "Value": "Na tej planecie automaty rozmieściły dużą liczbę niszczycieli."
+            "Value": "Na tej planecie automaty rozmieściły dużą liczbę niszczycieli. Przygotujcie się do walki z ciężko opancerzonymi wrogami."
         },
         {
             "Key": 222371685,
@@ -7728,7 +7732,7 @@
         },
         {
             "Key": 276825548,
-            "Value": "Na tej planecie zauważony został zmodyfikowany przez posępność szczep terminidów. Patrole SZSZ zostały zwabione w pułapki i wyeliminowane przez niewidocznych napastników. Aby zniszczyć to zagrożenie, potrzebne będą wszystkie wyostrzone zmysły helldiversów."
+            "Value": "Na tej planecie wykryto zmutowany szczep terminidów. Spodziewajcie się napotkać sprytne robale ze szczepu łowców."
         },
         {
             "Key": 280616943,
@@ -8352,7 +8356,7 @@
         },
         {
             "Key": 796165462,
-            "Value": "Na tej planecie automaty używają nowej serii wyspecjalizowanych modeli. Te ulepszone boty korzystają ze skradzionej technologii plecaków skoku, bezdusznie złupionej z ciał poległych helldiversów i wypaczonej w coś, co jest niemal nie do poznania."
+            "Value": "Na tej planecie automaty używają serii wyspecjalizowanych modeli. Przygotujcie się do walki z botami wyposażonymi w skradzioną technologię plecaków skoku."
         },
         {
             "Key": 796263081,
@@ -8672,7 +8676,7 @@
         },
         {
             "Key": 1017745296,
-            "Value": "Terminidzkie smokoluchy panoszą się na niebie nad tą planetą."
+            "Value": "Terminidzkie smokoluchy panoszą się na niebie nad tą planetą. Przygotujcie się do walki z powietrznymi wrogami."
         },
         {
             "Key": 1025296589,
@@ -8831,12 +8835,20 @@
             "Value": "Nieznany"
         },
         {
+            "Key": 1134814559,
+            "Value": "Mutacja powoduje, że terminidy na tej planecie generują nadmiar zarodników hormonalnych, które wywołują szał u podobnie zmutowanych robali. Przygotujcie się do zmierzenia z nieprzyjaciółmi, którzy zwiększają nawzajem swoją szybkość."
+        },
+        {
             "Key": 1142717293,
             "Value": "STACJA KOSMICZNA „DEMOKRACJA”"
         },
         {
             "Key": 1143206197,
             "Value": "PORAŻKA"
+        },
+        {
+            "Key": 1147205144,
+            "Value": "SZCZEP BUCHNIĘĆ ZARODNIKÓW"
         },
         {
             "Key": 1148626776,
@@ -9324,7 +9336,7 @@
         },
         {
             "Key": 1541244759,
-            "Value": "Na tej planecie obecny jest zabójczy szczep terminidów wyskakujących spod ziemi."
+            "Value": "Na tej planecie obecny jest zabójczy szczep terminidów wyskakujących spod ziemi. Przygotujcie się do walki z ryjącymi nieprzyjaciółmi."
         },
         {
             "Key": 1542765264,
@@ -9748,7 +9760,7 @@
         },
         {
             "Key": 1882925335,
-            "Value": "Przygotujcie się do walki z dużą liczbą ciężko opancerzonych wrogów."
+            "Value": "Na tej planecie automaty rozmieszczają ogromną liczbę wojennych biegaczy i czołgów. Przygotujcie się do walki z dużą liczbą ciężko opancerzonych wrogów."
         },
         {
             "Key": 1892826563,
@@ -9809,10 +9821,6 @@
         {
             "Key": 1939963888,
             "Value": "Helldiversi wycofani ze strefy walk z automatami, aby zająć się ponownie terminidami."
-        },
-        {
-            "Key": 1941457820,
-            "Value": "SZCZEP ROZSIEWAJĄCY"
         },
         {
             "Key": 1942440765,
@@ -10109,10 +10117,6 @@
         {
             "Key": 2149309645,
             "Value": "ORBITALNA BLOKADA"
-        },
-        {
-            "Key": 2149389475,
-            "Value": "Mutacja wywołana przez posępność powoduje, że terminidy na tej planecie generują nadmiar zarodników, uwalnianych po śmierci w potężnej eksplozji. Ci owadzi ekstremiści wykazują nienaturalną pogardę dla życia. Kiedy szerzą swe zepsucie, nic ich nie powstrzyma."
         },
         {
             "Key": 2151089975,
@@ -10412,7 +10416,7 @@
         },
         {
             "Key": 2388346408,
-            "Value": "Na tej planecie aktywna jest jednostka automatów wyposażona w miotacze płomieni i amunicję zapalającą. Ci bezwzględni podpalacze nie spoczną, dopóki nie spopielą wszystkiego, co jest drogie dla ludzkości."
+            "Value": "Na tej planecie aktywna jest jednostka automatów wyposażona w miotacze płomieni i amunicję zapalającą. Przygotujcie się do starcia z bezwzględnymi podpalaczami, którzy nie spoczną, dopóki nie spopielą wszystkiego, co drogie ludzkości."
         },
         {
             "Key": 2390390042,
@@ -11252,7 +11256,7 @@
         },
         {
             "Key": 3033038880,
-            "Value": "Na tę planetę wysłane zostały liczne cyborgi, prowadzące armie automatów."
+            "Value": "Na tę planetę wysłane zostały liczne cyborgi, prowadzące armie automatów. Spodziewajcie się napotkać złowrogich propagandystów, wyszkolonych w walce dystansowej i wręcz."
         },
         {
             "Key": 3033475065,
@@ -12572,7 +12576,7 @@
         },
         {
             "Key": 4189958024,
-            "Value": "Władcy roju terminidów zostali wykryci na tej planecie."
+            "Value": "Władcy roju terminidów zostali wykryci na tej planecie. Przygotujcie się do walki z potężnymi, ryjącymi nieprzyjaciółmi."
         },
         {
             "Key": 4192344096,
@@ -35867,6 +35871,10 @@
             "Value": "PROMIEŃ ZEWNĘTRZNY"
         },
         {
+            "Key": 40709597,
+            "Value": "KCIUK APROBATY"
+        },
+        {
             "Key": 51208102,
             "Value": "110 mm POCISK DO DZIAŁKA E.M.S."
         },
@@ -36071,6 +36079,10 @@
             "Value": "Lekko opancerzony pojazd zwiadowczy z zamontowanym ciężkim karabinem maszynowym. "
         },
         {
+            "Key": 130471606,
+            "Value": "Dłuższa lufa rewolweru daje większą prędkość wylotową i niższy odrzut kosztem gorszej poręczności."
+        },
+        {
             "Key": 131377774,
             "Value": "Orbitalny nabój gazowy Mk2"
         },
@@ -36239,12 +36251,20 @@
             "Value": "Ta peleryna przedstawia wnętrze urządzenia medycznego przesłanego Ministerstwu Nauki 70 lat temu. Proces akceptacji patentu ma zostać zakończony lada dzień."
         },
         {
+            "Key": 190436328,
+            "Value": "Zwiększa szybkość i czas trwania ślizgu."
+        },
+        {
             "Key": 194848098,
             "Value": "Ten dobrze widoczny pancerz zapewnia noszącemu rozpoznawalność nawet w dymie, mgle i wśród fruwających wszędzie szczątków."
         },
         {
             "Key": 196776936,
             "Value": "Szybki pojazd zwiadowczy"
+        },
+        {
+            "Key": 196875495,
+            "Value": "Korporacja badawczo-rozwojowa Zizer, pracująca nad bronią eksperymentalną, zaprezentowała ten zmodyfikowany rewolwer „Senator” z dłuższą lufą. Testy kliniczne wykazały, że użytkownik czuje się z nim o 23% bezpieczniejszy."
         },
         {
             "Key": 197005611,
@@ -36401,6 +36421,10 @@
         {
             "Key": 278490209,
             "Value": "INGRES-81"
+        },
+        {
+            "Key": 279082357,
+            "Value": "P-33"
         },
         {
             "Key": 280108911,
@@ -36741,6 +36765,10 @@
         {
             "Key": 416403214,
             "Value": "LIFT-860"
+        },
+        {
+            "Key": 419364955,
+            "Value": "BŁYSKOTKI WOLNEGO DUCHA"
         },
         {
             "Key": 419411210,
@@ -37119,6 +37147,10 @@
             "Value": "15x100 mm o dużej prędkości"
         },
         {
+            "Key": 588663789,
+            "Value": "O-44 JEDNOŚĆ Z PILOTEM"
+        },
+        {
             "Key": 588878433,
             "Value": "Klasyczne malowanie helldiversów."
         },
@@ -37427,6 +37459,10 @@
             "Value": "Lekki miotacz płomieni. Wystrzeliwuje paliwo pod dużym ciśnieniem, a dysza dyspersyjna ogarnia cel otwartym ogniem. Bezpieczny."
         },
         {
+            "Key": 696072930,
+            "Value": "EXO-51"
+        },
+        {
             "Key": 696286169,
             "Value": "Peleryna, która wyzwala podprocedurę emulującą strach w procesorach wszystkich automatów przeprowadzających jej wizualną identyfikację."
         },
@@ -37461,6 +37497,10 @@
         {
             "Key": 714923769,
             "Value": "Atomizuje żrące chemikalia na delikatną mgiełkę, która upłynnia wrażliwą elektronikę i tkanki. Oślepia i spowalnia większość wrogów."
+        },
+        {
+            "Key": 715492973,
+            "Value": "Kciuk aprobaty"
         },
         {
             "Key": 715614302,
@@ -37683,6 +37723,10 @@
             "Value": "TED-63"
         },
         {
+            "Key": 819134360,
+            "Value": "Retro nadruk tej peleryny, spopularyzowany po raz pierwszy w ramach merchandisingu płatków śniadaniowych z czasów 1WG, pomaga dzieciom zapamiętać, że nie wszystkie maszyny są spaczonymi mechano-socjalistami. Niektóre są pilotowane przez ludzi o czystych sercach, a pod ich czujnym okiem wszyscy możemy spać spokojnie."
+        },
+        {
             "Key": 820522057,
             "Value": "Pirotech"
         },
@@ -37721,6 +37765,10 @@
         {
             "Key": 831074521,
             "Value": "Orbitalna salwa postępująca"
+        },
+        {
+            "Key": 831139041,
+            "Value": "DRWAL"
         },
         {
             "Key": 831483073,
@@ -38059,6 +38107,10 @@
             "Value": "Ten karabin wyborowy dużego kalibru ma niewielki magazynek i niską szybkostrzelność, ale za to gwarantuje potężne, celne strzały."
         },
         {
+            "Key": 979608541,
+            "Value": "CZUJNY PATRIOTA"
+        },
+        {
             "Key": 980084344,
             "Value": "8x60 mm Penetrator"
         },
@@ -38079,12 +38131,20 @@
             "Value": "FS-40 DYPLOMATA"
         },
         {
+            "Key": 982871080,
+            "Value": "Egzokombinezon wyposażony w działko przeciwlotnicze i tarczę balistyczną, zoptymalizowany do walki na średnim i krótkim dystansie."
+        },
+        {
             "Key": 985325178,
             "Value": "Dominator wystrzeliwuje pociski odrzutowe. Ma mniejszą szybkostrzelność i pojemność magazynka, ale każdy pocisk zadaje ogromne obrażenia."
         },
         {
             "Key": 986973078,
             "Value": "TŁUMIK ROZBŁYSKU"
+        },
+        {
+            "Key": 987248759,
+            "Value": "BURZA KUL"
         },
         {
             "Key": 989431349,
@@ -38137,6 +38197,10 @@
         {
             "Key": 1004228550,
             "Value": "Dodatkowa pojemność"
+        },
+        {
+            "Key": 1005051052,
+            "Value": "O-44 Jedność z Pilotem"
         },
         {
             "Key": 1006230745,
@@ -38253,6 +38317,10 @@
         {
             "Key": 1044805146,
             "Value": "WIĘCEJ PALIWA"
+        },
+        {
+            "Key": 1044960240,
+            "Value": "Ten pancerz podkreśla bliskie relacje użytkownika z jego egzokombinezonem – to maksymalna możliwa intymność bez poddawania się cyborgizacji."
         },
         {
             "Key": 1045811468,
@@ -38675,6 +38743,10 @@
             "Value": "SZYBKIE SERWOMECHANIZMY"
         },
         {
+            "Key": 1244403650,
+            "Value": "NATLENIACZ"
+        },
+        {
             "Key": 1244754797,
             "Value": "Ciężko opancerzony chodzący egzokombinezon, wyposażony w wyrzutnię rakiet oraz działko Gatlinga."
         },
@@ -38829,6 +38901,10 @@
         {
             "Key": 1292790287,
             "Value": "Brak muszki"
+        },
+        {
+            "Key": 1297446258,
+            "Value": "GALANT"
         },
         {
             "Key": 1304003623,
@@ -39007,6 +39083,10 @@
             "Value": "9x70 mm samobieżne"
         },
         {
+            "Key": 1386708865,
+            "Value": "WYŁOM"
+        },
+        {
             "Key": 1387831894,
             "Value": "Gniazdo przeciwpancerne"
         },
@@ -39165,6 +39245,10 @@
         {
             "Key": 1446063753,
             "Value": "AR-59"
+        },
+        {
+            "Key": 1446123923,
+            "Value": "Broń jednorazowego użytku z amunicją bezłuskową umieszczoną w kilku lufach. Elektryczny mechanizm odpalania uwalnia pociski szybko po sobie. Broń jest następnie wyrzucana."
         },
         {
             "Key": 1447724304,
@@ -39351,6 +39435,10 @@
             "Value": "OBLĘŻNICZY"
         },
         {
+            "Key": 1511917268,
+            "Value": "O-2 Ciężki Operator"
+        },
+        {
             "Key": 1512212255,
             "Value": "Plecak napędzany Ciemnym Płynem, generujący przenośny mikroportal. Ta bezpieczna i dobrze zbadana technologia pozwala użytkownikowi dokonywać skoków warp na krótkie dystanse. Uwaga: nie używać, gdy plecak jest przeciążony."
         },
@@ -39389,6 +39477,10 @@
         {
             "Key": 1535909110,
             "Value": "5,5x50 mm Penetrator"
+        },
+        {
+            "Key": 1536255450,
+            "Value": "Długolufowy pistolet maszynowy o dużej prędkości wylotowej i większej penetracji pancerza."
         },
         {
             "Key": 1539723683,
@@ -39561,6 +39653,10 @@
         {
             "Key": 1621453557,
             "Value": "KRÓTKI MAGAZYNEK"
+        },
+        {
+            "Key": 1622020473,
+            "Value": "EXO-55"
         },
         {
             "Key": 1623263170,
@@ -39753,6 +39849,10 @@
         {
             "Key": 1712527709,
             "Value": "Deeskalator"
+        },
+        {
+            "Key": 1714459044,
+            "Value": "Galant"
         },
         {
             "Key": 1715612552,
@@ -40065,6 +40165,10 @@
         {
             "Key": 1838016973,
             "Value": "Ta peleryna przypomina popularną ludową opowieść o „Rewolwerowcach wolności” – zresocjalizowanych dysydentach, którzy szukają odkupienia na granicach federacji, polując na niebezpiecznych zdrajców idei w zamian za łupy w postaci prawa do głosowania. "
+        },
+        {
+            "Key": 1839032438,
+            "Value": "Nowoczesna wersja Drwali z Pierwszej Wojny Galaktycznej. Ten egzokombinezon jest wyposażony w miotacz płomieni i działko przeciwpancerne. "
         },
         {
             "Key": 1839035128,
@@ -40419,6 +40523,10 @@
             "Value": "Ten pancerz korzysta z przetworzonego metalu ze zweryfikowanych źródeł, takich jak opakowania z automatów sprzedażowych i złom z automatów bojowych. To ekologiczny wybór dla każdego świadomego helldiversa."
         },
         {
+            "Key": 1995236842,
+            "Value": "O-3 WOLNY DUCH"
+        },
+        {
             "Key": 1997458346,
             "Value": "ĆWICZENIA Z PRZEŁADOWANIA"
         },
@@ -40497,6 +40605,10 @@
         {
             "Key": 2018191462,
             "Value": "Filary demokracji"
+        },
+        {
+            "Key": 2020318492,
+            "Value": "MGX-42"
         },
         {
             "Key": 2020578531,
@@ -41003,6 +41115,10 @@
             "Value": "Lżejsze obudowy"
         },
         {
+            "Key": 2201877789,
+            "Value": "Pistolet pociskowy"
+        },
+        {
             "Key": 2202159575,
             "Value": "B-08 LEKKI STRZELEC"
         },
@@ -41277,6 +41393,10 @@
         {
             "Key": 2305793144,
             "Value": "DYMNY"
+        },
+        {
+            "Key": 2305804327,
+            "Value": "Wyłom"
         },
         {
             "Key": 2306363495,
@@ -41663,6 +41783,10 @@
             "Value": "Łopata, której można użyć jako broni do walki wręcz albo bardziej konwencjonalnie – do kopania dziur w ziemi."
         },
         {
+            "Key": 2467782030,
+            "Value": "DIAGRAM NAJSZLACHETNIEJSZEGO ŁADUNKU"
+        },
+        {
             "Key": 2468465243,
             "Value": "9x20 mm wybuchowy"
         },
@@ -41825,6 +41949,10 @@
         {
             "Key": 2545384143,
             "Value": "MINA WABIĄCA"
+        },
+        {
+            "Key": 2548766534,
+            "Value": "PISTOLET POCISKOWY"
         },
         {
             "Key": 2549383367,
@@ -42143,6 +42271,10 @@
             "Value": "DAB"
         },
         {
+            "Key": 2682411428,
+            "Value": "Pistolet strzelający kierowaną, napędzaną odrzutowo amunicją. Funkcja namierzania zapewnia wysoką celność, ale broń musi zostać przeładowana po wystrzeleniu każdego pocisku."
+        },
+        {
             "Key": 2683992244,
             "Value": "120 mm POCISK DO DZIAŁKA ODŁAMKOWO-BURZĄCEGO"
         },
@@ -42223,6 +42355,10 @@
             "Value": "Brak dodatkowych premii."
         },
         {
+            "Key": 2719181791,
+            "Value": "Ten pancerz jest wymaganym uniformem dla wielu obywateli Super Ziemi obsługujących ciężką maszynerię. Długotrwali użytkownicy ucieszą się na wieść, że począwszy od tegorocznej gali i sympozjum na temat wydajności obsługiwania maszyn noszenie tego pancerza nie jest samo w sobie uznawane za obsługę ciężkiej maszynerii."
+        },
+        {
             "Key": 2721110291,
             "Value": "70 mm STANDARDOWA RAKIETA"
         },
@@ -42261,6 +42397,10 @@
         {
             "Key": 2731845108,
             "Value": "10 g Strzał Wolności"
+        },
+        {
+            "Key": 2732014232,
+            "Value": "O-3 Wolny Duch"
         },
         {
             "Key": 2736566458,
@@ -42867,6 +43007,10 @@
             "Value": "STANDARDOWY POJEMNIK Z PLAZMĄ"
         },
         {
+            "Key": 2958374193,
+            "Value": "O-2 CIĘŻKI OPERATOR"
+        },
+        {
             "Key": 2960842896,
             "Value": "Programowana amunicja"
         },
@@ -43025,6 +43169,10 @@
         {
             "Key": 3032181602,
             "Value": "5,5x50 mm PODWÓJNEJ MOCY"
+        },
+        {
+            "Key": 3035121456,
+            "Value": "CERTYFIKOWANY EGZOKOMBINEZON"
         },
         {
             "Key": 3035455512,
@@ -44063,6 +44211,10 @@
             "Value": "Większa szybkostrzelność"
         },
         {
+            "Key": 3444086720,
+            "Value": "SMG-203"
+        },
+        {
             "Key": 3444434997,
             "Value": "Więcej magazynków do stacjonarnego CKM-u"
         },
@@ -44205,6 +44357,10 @@
         {
             "Key": 3506581074,
             "Value": "Stop"
+        },
+        {
+            "Key": 3506896603,
+            "Value": "Błyskotki wolnego ducha"
         },
         {
             "Key": 3507333225,
@@ -44423,6 +44579,10 @@
             "Value": "PPANC"
         },
         {
+            "Key": 3602150526,
+            "Value": "RZECZNIK PRAW"
+        },
+        {
             "Key": 3610251186,
             "Value": "2x RUROWA CZERWONA KROPKA"
         },
@@ -44545,6 +44705,10 @@
         {
             "Key": 3662120282,
             "Value": "CE-64 Grenadier"
+        },
+        {
+            "Key": 3662990498,
+            "Value": "Drwal"
         },
         {
             "Key": 3663193426,
@@ -45047,8 +45211,16 @@
             "Value": "Każdy złocony detal jest idealnie wypolerowany przez zresocjalizowanych dysydentów w ramach dożywotniego programu zadośćuczynienia po przestępstwach."
         },
         {
+            "Key": 3847398060,
+            "Value": "Zwiększa szybkość chodzenia i biegania użytkownika."
+        },
+        {
             "Key": 3848706698,
             "Value": "TERAZ TY"
+        },
+        {
+            "Key": 3849232494,
+            "Value": "Hołd dla psotników i wolnych strzelców – pionierów, którzy wykonują rozkazy, ale z chwaloną przez wszystkich klasą i stylem. Ta usłana gwiazdami ścieżka przypomina wyjątkową wolność, którą osiągnąć można jedynie, poruszając się bardzo drogimi pojazdami, będącymi własnością państwa."
         },
         {
             "Key": 3851872716,
@@ -45077,6 +45249,10 @@
         {
             "Key": 3865629619,
             "Value": "Pistolet ładowany od przodu pojedynczym, potężnym ładunkiem wybuchowym. Waga pocisku ogranicza zasięg broni."
+        },
+        {
+            "Key": 3868128225,
+            "Value": "Peleryna ta pozwala helldiversom spaść na pole bitwy w pełnym splendorze, podkreślając, że w każdej skutecznej machinie wojennej najważniejsi są bohaterscy ludzie."
         },
         {
             "Key": 3868878125,
@@ -45335,6 +45511,10 @@
             "Value": "DUŻY BĘBEN"
         },
         {
+            "Key": 3969632957,
+            "Value": "Diagram najszlachetniejszego ładunku"
+        },
+        {
             "Key": 3970966164,
             "Value": "I-102 Drakonauta"
         },
@@ -45357,6 +45537,10 @@
         {
             "Key": 3975562578,
             "Value": "Zwiększona pojemność"
+        },
+        {
+            "Key": 3982424137,
+            "Value": "Rzecznik Praw"
         },
         {
             "Key": 3985944090,
@@ -45541,6 +45725,10 @@
         {
             "Key": 4058189154,
             "Value": "Wywołuje wybuch zapalający dalekiego zasięgu, idealny do kontroli tłumu pomniejszych wrogów wolności. Wyposażony w programowany czasomierz dla strategicznej uniwersalności."
+        },
+        {
+            "Key": 4059265139,
+            "Value": "P-41"
         },
         {
             "Key": 4060448903,
@@ -45983,6 +46171,10 @@
             "Value": "PISTOLET Z PALCÓW"
         },
         {
+            "Key": 4232324917,
+            "Value": "Wyściółka SteerComfort tego pancerza pozwala użytkownikowi czuć każdy zakręt, wybój i potrącenie egzokombinezonu, jakby stali się jednością."
+        },
+        {
             "Key": 4232442047,
             "Value": "Badania wskazują, że helldiversi noszący tę pelerynę są uznawani za 17% bardziej patriotycznych."
         },
@@ -46041,6 +46233,10 @@
         {
             "Key": 4268863341,
             "Value": "KARABIN SZTURMOWY"
+        },
+        {
+            "Key": 4270320858,
+            "Value": "Czujny Patriota"
         },
         {
             "Key": 4270905484,
@@ -46109,6 +46305,10 @@
         {
             "Key": 4289418781,
             "Value": "Noszący ten pancerz są rzadko spostrzegani przez swoje cele... oraz towarzyszy. W przypadku zagubienia nie zwracamy pieniędzy. "
+        },
+        {
+            "Key": 4291272963,
+            "Value": "Burza Kul"
         },
         {
             "Key": 4292516491,
@@ -46789,6 +46989,10 @@
         {
             "Key": 147367428,
             "Value": "Sonesson"
+        },
+        {
+            "Key": 149849300,
+            "Value": "WZÓR EGZOKOMBINEZONU MOBILNEJ BIELI"
         },
         {
             "Key": 151044459,
@@ -47667,6 +47871,10 @@
             "Value": "WZGÓRZA ASPEN"
         },
         {
+            "Key": 723344253,
+            "Value": "WZÓR WAHADŁOWCA MOBILNEJ BIELI"
+        },
+        {
             "Key": 723389311,
             "Value": "KEPLER-397b"
         },
@@ -47817,6 +48025,10 @@
         {
             "Key": 805511186,
             "Value": "ZATOKA PHACT"
+        },
+        {
+            "Key": 805648087,
+            "Value": "WZÓR POJAZDU MOBILNEJ BIELI"
         },
         {
             "Key": 811469586,
@@ -48537,6 +48749,10 @@
         {
             "Key": 1299714559,
             "Value": "Szturmowiec"
+        },
+        {
+            "Key": 1302324884,
+            "Value": "Egzoeksperci"
         },
         {
             "Key": 1309239989,
@@ -50935,10 +51151,6 @@
             "Value": "GENERATORSVILLE"
         },
         {
-            "Key": 3005334329,
-            "Value": "AQUILA MMCMXIV"
-        },
-        {
             "Key": 3006600704,
             "Value": "Panowanie"
         },
@@ -51815,6 +52027,10 @@
             "Value": "GNIAZDO WRZASKUNÓW"
         },
         {
+            "Key": 3611318386,
+            "Value": "EGZOEKSPERCI"
+        },
+        {
             "Key": 3616280245,
             "Value": "PO'S RAVENNA"
         },
@@ -52451,6 +52667,10 @@
             "Value": "Dowódcy alfa"
         },
         {
+            "Key": 4069889950,
+            "Value": "WZÓR HELLPODA MOBILNEJ BIELI"
+        },
+        {
             "Key": 4070447728,
             "Value": "REWA"
         },
@@ -52829,22 +53049,6 @@
         {
             "Key": 4293347269,
             "Value": "Aureola"
-        },
-        {
-            "Key": 310338931,
-            "Value": "Wykryto niezgodny system operacyjny! W celu uruchomienia tej gry twój system operacyjny musi obsługiwać instrukcje AVX."
-        },
-        {
-            "Key": 2705675729,
-            "Value": "Zainstalowane sterowniki są nieaktualne. Zalecana jest ich aktualizacja. Chcesz kontynuować? Uruchomienie gry bez aktualizacji może spowodować błędy i wyłączenia.\n\nZainstalowana wersja: #INSTALLED_VERSION\nMinimalna zalecana: #RECOMMENDED_VERSION"
-        },
-        {
-            "Key": 3954684058,
-            "Value": "Wykryto niezgodny procesor! W celu uruchomienia tej gry twój procesor musi obsługiwać instrukcje AVX."
-        },
-        {
-            "Key": 4274889835,
-            "Value": "Sterowniki karty graficznej są nieaktualne."
         },
         {
             "Key": 22554536,
@@ -54889,10 +55093,6 @@
         {
             "Key": 988370961,
             "Value": "Znajdź i zniszcz wszelkie aktywne fabrykatory automatów"
-        },
-        {
-            "Key": 995660531,
-            "Value": "Ruszajcie w egzoburzę i strzaskajcie wywołujące ją egzoiglice."
         },
         {
             "Key": 1002982797,
@@ -57201,6 +57401,10 @@
         {
             "Key": 2570056183,
             "Value": "BŁYSKAWICZNA"
+        },
+        {
+            "Key": 2570186237,
+            "Value": "Ruszajcie w egzoburzę i strzaskajcie wywołujące ją egzoiglice."
         },
         {
             "Key": 2572958008,
@@ -61875,6 +62079,10 @@
             "Value": "OPCJA EMOTKI A"
         },
         {
+            "Key": 981331824,
+            "Value": "Po włączeniu co jakiś czas wyświetlane będą ankiety."
+        },
+        {
             "Key": 986079424,
             "Value": "Zacznij wyszukiwanie"
         },
@@ -62197,6 +62405,10 @@
         {
             "Key": 1248374475,
             "Value": "UKRYJ"
+        },
+        {
+            "Key": 1251107930,
+            "Value": "Ten przedmiot jest chwilowo niedostępny"
         },
         {
             "Key": 1255517193,
@@ -64815,6 +65027,10 @@
             "Value": "Pamiętaj: wolność!"
         },
         {
+            "Key": 3050991430,
+            "Value": "Twoje konto „#ACCOUNT” zostało tymczasowo zawieszone do #DD-#MM-#YY w związku z naruszeniem zasad EULA. Odwiedź stronę wsparcia Arrowhead pod adresem https://arrowhead.zendesk.com/, aby uzyskać więcej informacji."
+        },
+        {
             "Key": 3054021438,
             "Value": "ZAPROSZENIE DO ODDZIAŁU"
         },
@@ -65191,6 +65407,10 @@
             "Value": "#COUNT"
         },
         {
+            "Key": 3330197906,
+            "Value": "PRZEŚLIJ"
+        },
+        {
             "Key": 3332178855,
             "Value": "Oświeceni"
         },
@@ -65277,6 +65497,10 @@
         {
             "Key": 3407735719,
             "Value": "Uruchamia się po naciśnięciu przycisku przez określony czas."
+        },
+        {
+            "Key": 3408223831,
+            "Value": "Twoje konto „#ACCOUNT” zostało zawieszone na stałe w związku z naruszeniem zasad EULA. Odwiedź stronę wsparcia Arrowhead pod adresem https://arrowhead.zendesk.com/, aby uzyskać więcej informacji."
         },
         {
             "Key": 3409838466,
@@ -65733,6 +65957,10 @@
         {
             "Key": 3704112830,
             "Value": "Nie podoba ci się to, kim jesteś? Zmień wygląd i głos w komorze personalizacji. Bułka z masłem!"
+        },
+        {
+            "Key": 3705024369,
+            "Value": "Wyświetlaj ankiety"
         },
         {
             "Key": 3709301333,

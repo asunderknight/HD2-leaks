@@ -4043,6 +4043,10 @@
             "Value": "A conexão com a rede foi perdida."
         },
         {
+            "Key": 2519708566,
+            "Value": "Estratégia fracassada"
+        },
+        {
             "Key": 2523245633,
             "Value": "Rajada"
         },
@@ -6947,6 +6951,10 @@
             "Value": "RAIO EXTERIOR"
         },
         {
+            "Key": 40709597,
+            "Value": "POLEGAR DE APROVAÇÃO"
+        },
+        {
             "Key": 51208102,
             "Value": "MUNIÇÃO (ELETROMAGNÉTICA) DE 110 mm PARA CANHÃO"
         },
@@ -7151,6 +7159,10 @@
             "Value": "Veículo de reconhecimento semiblindado equipado com uma metralhadora pesada. "
         },
         {
+            "Key": 130471606,
+            "Value": "Um cano de revólver mais longo que resulta em maior velocidade de saída e menor recuo, porém com piora no manuseio."
+        },
+        {
             "Key": 131377774,
             "Value": "Munição de gás orbital Mk2"
         },
@@ -7319,12 +7331,20 @@
             "Value": "Esta capa ilustra os mecanismos de um dispositivo médico apresentado ao Ministério da Ciência há 70 anos e que deve ser aprovado no seu processo de patenteamento qualquer dia destes."
         },
         {
+            "Key": 190436328,
+            "Value": "Aumenta a velocidade e a duração dos deslizes."
+        },
+        {
             "Key": 194848098,
             "Value": "Esta armadura chamativa permite que seu usuário seja facilmente visto mesmo através de fumaça, neblina e vísceras jorradas."
         },
         {
             "Key": 196776936,
             "Value": "Veículo de reconhecimento rápido"
+        },
+        {
+            "Key": 196875495,
+            "Value": "A Zizer, corporação de pesquisa e desenvolvimento de armas experimentais, revelou esta versão modificada do revólver \"Senador\". Está clinicamente comprovado que seu cano avantajado aumenta em até 23% a autoconfiança de quem tem a arma em mãos."
         },
         {
             "Key": 197005611,
@@ -7481,6 +7501,10 @@
         {
             "Key": 278490209,
             "Value": "ACESSO-81"
+        },
+        {
+            "Key": 279082357,
+            "Value": "P-33"
         },
         {
             "Key": 280108911,
@@ -7821,6 +7845,10 @@
         {
             "Key": 416403214,
             "Value": "LIFT-860"
+        },
+        {
+            "Key": 419364955,
+            "Value": "ESPÍRITO LIVRE RELUZENTE"
         },
         {
             "Key": 419411210,
@@ -8199,6 +8227,10 @@
             "Value": "15x100 mm de alta velocidade"
         },
         {
+            "Key": 588663789,
+            "Value": "PILOTO VINCULADO O-44"
+        },
+        {
             "Key": 588878433,
             "Value": "A pintura clássica dos Helldivers."
         },
@@ -8507,6 +8539,10 @@
             "Value": "Um lança-chamas leve que dispara combustível pressurizado através de um bocal dispersor para alastrar as chamas. Absolutamente seguro."
         },
         {
+            "Key": 696072930,
+            "Value": "EXO-51"
+        },
+        {
             "Key": 696286169,
             "Value": "Quando os Autômatos fazem uma leitura desta capa, uma rotina secundária é ativada em seus processadores, emulando a emoção do medo."
         },
@@ -8541,6 +8577,10 @@
         {
             "Key": 714923769,
             "Value": "Transforma químicos corrosivos em uma névoa fina que liquefaz partes eletrônicas e tecidos sensíveis. Deixa a maioria dos inimigos cegos e mais lentos."
+        },
+        {
+            "Key": 715492973,
+            "Value": "Polegar de aprovação"
         },
         {
             "Key": 715614302,
@@ -8763,6 +8803,10 @@
             "Value": "TED-63"
         },
         {
+            "Key": 819134360,
+            "Value": "A estampa retrô desta capa, popularizada pela primeira vez em brindes de cereais da 1ª GG, ajuda as crianças a se lembrarem que nem todas as máquinas são mecanossocialistas perversas; algumas são pilotadas por humanos de coração verdadeiro, e todos nós podemos descansar tranquilos sob o olhar deles."
+        },
+        {
             "Key": 820522057,
             "Value": "Pirotécnica"
         },
@@ -8801,6 +8845,10 @@
         {
             "Key": 831074521,
             "Value": "Barragem Orbital Móvel"
+        },
+        {
+            "Key": 831139041,
+            "Value": "MADEIREIRO"
         },
         {
             "Key": 831483073,
@@ -9139,6 +9187,10 @@
             "Value": "Este rifle de atirador de alto calibre sacrifica a capacidade do carregador e a velocidade de tiro em prol de disparos mais poderosos e precisos."
         },
         {
+            "Key": 979608541,
+            "Value": "COMPATRIOTA VIGILANTE"
+        },
+        {
             "Key": 980084344,
             "Value": "8x60 mm penetrante"
         },
@@ -9159,12 +9211,20 @@
             "Value": "FS-40 DIPLOMATA"
         },
         {
+            "Key": 982871080,
+            "Value": "Exouniforme equipado com um canhão antiaéreo e um escudo balístico, otimizado para combate de médio a curto alcance."
+        },
+        {
             "Key": 985325178,
             "Value": "O Dominador faz uso de projéteis a jato, sacrificando a cadência de tiro e a capacidade do carregador em prol do poder destrutivo de cada projétil."
         },
         {
             "Key": 986973078,
             "Value": "OCULTADOR DE FLASH"
+        },
+        {
+            "Key": 987248759,
+            "Value": "TEMPESTADE DE BALAS"
         },
         {
             "Key": 989431349,
@@ -9217,6 +9277,10 @@
         {
             "Key": 1004228550,
             "Value": "Capacidade extra"
+        },
+        {
+            "Key": 1005051052,
+            "Value": "Piloto vinculado O-44"
         },
         {
             "Key": 1006230745,
@@ -9333,6 +9397,10 @@
         {
             "Key": 1044805146,
             "Value": "MAIS COMBUSTÍVEL"
+        },
+        {
+            "Key": 1044960240,
+            "Value": "Esta armadura celebra a estreita relação entre um exouniforme e seu usuário: a mais íntima possível sem sucumbir ao fanatismo ciborgue."
         },
         {
             "Key": 1045811468,
@@ -9755,6 +9823,10 @@
             "Value": "SERVOMECANISMOS DE ALTA VELOCIDADE"
         },
         {
+            "Key": 1244403650,
+            "Value": "OXIGENADOR"
+        },
+        {
             "Key": 1244754797,
             "Value": "Um exouniforme móvel de combate altamente blindado armado com um lança-foguetes e uma metralhadora gatling."
         },
@@ -9909,6 +9981,10 @@
         {
             "Key": 1292790287,
             "Value": "Sem boca"
+        },
+        {
+            "Key": 1297446258,
+            "Value": "GALANTE"
         },
         {
             "Key": 1304003623,
@@ -10087,6 +10163,10 @@
             "Value": "9x70 mm autopropulsada"
         },
         {
+            "Key": 1386708865,
+            "Value": "REVOLUÇÃO"
+        },
+        {
             "Key": 1387831894,
             "Value": "Plataforma antitanque"
         },
@@ -10245,6 +10325,10 @@
         {
             "Key": 1446063753,
             "Value": "AR-59"
+        },
+        {
+            "Key": 1446123923,
+            "Value": "Arma de uso único com munição sem cartucho acumulada em vários canos. Um mecanismo de disparo elétrico libera os projéteis em rápida sucessão. Depois disso, a arma deve ser descartada."
         },
         {
             "Key": 1447724304,
@@ -10431,6 +10515,10 @@
             "Value": "PRONTA PARA CERCOS"
         },
         {
+            "Key": 1511917268,
+            "Value": "Operador Pesado O-2"
+        },
+        {
             "Key": 1512212255,
             "Value": "Uma mochila movida a Fluido Escuro que gera um microburaco de minhoca portátil. Esta tecnologia segura e totalmente compreendida permite que o usuário dê um hipersalto a curtas distâncias. Aviso: não usar com a mochila sobrecarregada."
         },
@@ -10469,6 +10557,10 @@
         {
             "Key": 1535909110,
             "Value": "5.5x50 mm penetrante"
+        },
+        {
+            "Key": 1536255450,
+            "Value": "Uma submetralhadora com um cano mais longo, permitindo uma velocidade de saída maior e uma perfuração mais profunda na armadura."
         },
         {
             "Key": 1539723683,
@@ -10641,6 +10733,10 @@
         {
             "Key": 1621453557,
             "Value": "CARREGADOR CURTO"
+        },
+        {
+            "Key": 1622020473,
+            "Value": "EXO-55"
         },
         {
             "Key": 1623263170,
@@ -10833,6 +10929,10 @@
         {
             "Key": 1712527709,
             "Value": "Desescalador"
+        },
+        {
+            "Key": 1714459044,
+            "Value": "Galante"
         },
         {
             "Key": 1715612552,
@@ -11145,6 +11245,10 @@
         {
             "Key": 1838016973,
             "Value": "Esta capa remete ao conto popular dos \"Pistoleiros da Liberdade\": dissidentes ressocializados buscando a redenção no Limite da Federação, caçando perigosos traidores do pensamento em troca de recompensas eleitorais. "
+        },
+        {
+            "Key": 1839032438,
+            "Value": "Uma reinvenção moderna dos Madeireiros da Primeira Guerra Galáctica, esse Exouniforme está equipado com um lança-chamas e um canhão antitanque. "
         },
         {
             "Key": 1839035128,
@@ -11499,6 +11603,10 @@
             "Value": "Esta armadura usa metal reutilizado de fontes verificadas, como embalagens de máquinas de venda automática e sucata de Autômatos, tornando-a uma escolha sustentável para o Helldiver preocupado com o meio ambiente."
         },
         {
+            "Key": 1995236842,
+            "Value": "ESPÍRITO LIVRE O-3"
+        },
+        {
             "Key": 1997458346,
             "Value": "EXERCÍCIOS DE RECARGA"
         },
@@ -11577,6 +11685,10 @@
         {
             "Key": 2018191462,
             "Value": "Pilares da Democracia"
+        },
+        {
+            "Key": 2020318492,
+            "Value": "MGX-42"
         },
         {
             "Key": 2020578531,
@@ -12083,6 +12195,10 @@
             "Value": "Revestimento mais leve"
         },
         {
+            "Key": 2201877789,
+            "Value": "Pistola de míssil"
+        },
+        {
             "Key": 2202159575,
             "Value": "B-08 ATIRADORA LEVE"
         },
@@ -12357,6 +12473,10 @@
         {
             "Key": 2305793144,
             "Value": "FUMAÇA"
+        },
+        {
+            "Key": 2305804327,
+            "Value": "Revolução"
         },
         {
             "Key": 2306363495,
@@ -12743,6 +12863,10 @@
             "Value": "Uma pá que pode ser utilizada em combates corpo a corpo ou até mesmo para cavar buracos."
         },
         {
+            "Key": 2467782030,
+            "Value": "DIAGRAMA DA CARGA MAIS NOBRE"
+        },
+        {
             "Key": 2468465243,
             "Value": "9x20 mm explosiva"
         },
@@ -12905,6 +13029,10 @@
         {
             "Key": 2545384143,
             "Value": "MINA-ISCA"
+        },
+        {
+            "Key": 2548766534,
+            "Value": "PISTOLA DE MÍSSIL"
         },
         {
             "Key": 2549383367,
@@ -13223,6 +13351,10 @@
             "Value": "DAB"
         },
         {
+            "Key": 2682411428,
+            "Value": "Uma pistola capaz de disparar projéteis a jato teleguiados. Seu recurso de travamento de mira garante alta precisão, mas a arma deve ser recarregada após cada disparo."
+        },
+        {
             "Key": 2683992244,
             "Value": "MUNIÇÃO (DETONANTE) DE 120 mm PARA CANHÃO"
         },
@@ -13303,6 +13435,10 @@
             "Value": "Sem bônus adicionais."
         },
         {
+            "Key": 2719181791,
+            "Value": "Esta armadura é o uniforme obrigatório de muitos cidadãos da Superterra que operam maquinário pesado. Usuários de longa data ficarão felizes em saber que, a partir do Simpósio e Festa da Eficiência em Operação por Máquina deste ano, o uso desta armadura não é mais considerado operação de maquinário pesado."
+        },
+        {
             "Key": 2721110291,
             "Value": "FOGUETE 70 mm PADRÃO"
         },
@@ -13341,6 +13477,10 @@
         {
             "Key": 2731845108,
             "Value": "Cal. 10 fogo libertador"
+        },
+        {
+            "Key": 2732014232,
+            "Value": "Espírito Livre O-3"
         },
         {
             "Key": 2736566458,
@@ -13947,6 +14087,10 @@
             "Value": "RECIPIENTE DE PLASMA PADRÃO"
         },
         {
+            "Key": 2958374193,
+            "Value": "OPERADOR PESADO O-2"
+        },
+        {
             "Key": 2960842896,
             "Value": "Munição programável"
         },
@@ -14105,6 +14249,10 @@
         {
             "Key": 3032181602,
             "Value": "5.5x50 mm POTÊNCIA DUPLA"
+        },
+        {
+            "Key": 3035121456,
+            "Value": "EXOUNIFORME CERTIFICADO"
         },
         {
             "Key": 3035455512,
@@ -15143,6 +15291,10 @@
             "Value": "Maior velocidade de tiro"
         },
         {
+            "Key": 3444086720,
+            "Value": "SMG-203"
+        },
+        {
             "Key": 3444434997,
             "Value": "Mais carregadores para MP montada"
         },
@@ -15285,6 +15437,10 @@
         {
             "Key": 3506581074,
             "Value": "Contenção"
+        },
+        {
+            "Key": 3506896603,
+            "Value": "Espírito livre reluzente"
         },
         {
             "Key": 3507333225,
@@ -15503,6 +15659,10 @@
             "Value": "PDT"
         },
         {
+            "Key": 3602150526,
+            "Value": "PROVEDORA"
+        },
+        {
             "Key": 3610251186,
             "Value": "PONTO VERMELHO COM LENTE 2x"
         },
@@ -15625,6 +15785,10 @@
         {
             "Key": 3662120282,
             "Value": "CE-64 Granadeiro"
+        },
+        {
+            "Key": 3662990498,
+            "Value": "Madeireiro"
         },
         {
             "Key": 3663193426,
@@ -16127,8 +16291,16 @@
             "Value": "Cada detalhe dourado é meticulosamente polido por dissidentes reeducados no âmbito do Programa Vitalício de Redenção Pós-Infração."
         },
         {
+            "Key": 3847398060,
+            "Value": "Aumenta a velocidade de caminhada e de corrida do usuário."
+        },
+        {
             "Key": 3848706698,
             "Value": "VOCÊ É O PRÓXIMO"
+        },
+        {
+            "Key": 3849232494,
+            "Value": "Uma homenagem aos encrenqueiros e aventureiros, aqueles pioneiros que executam suas ordens com dedicação e um charme universalmente cativante. O caminho malfadado traz à mente o tipo especial de Liberdade que só pode ser alcançado andando muito rápido em veículos estatais muito caros."
         },
         {
             "Key": 3851872716,
@@ -16157,6 +16329,10 @@
         {
             "Key": 3865629619,
             "Value": "Uma pistola de carregamento frontal com uma única carga explosiva poderosa. Seu alcance é limitado devido ao peso do projétil."
+        },
+        {
+            "Key": 3868128225,
+            "Value": "Esta capa, que envolve a descida dos Helldivers ao campo de batalha em um manto metalizado esplendoroso, mostra como, em qualquer máquina militar bem-sucedida, os heróis humanos são a peça mais importante."
         },
         {
             "Key": 3868878125,
@@ -16415,6 +16591,10 @@
             "Value": "TAMBOR GRANDE"
         },
         {
+            "Key": 3969632957,
+            "Value": "Diagrama da carga mais nobre"
+        },
+        {
             "Key": 3970966164,
             "Value": "I-102 Draconauta"
         },
@@ -16437,6 +16617,10 @@
         {
             "Key": 3975562578,
             "Value": "Maior armazenamento"
+        },
+        {
+            "Key": 3982424137,
+            "Value": "Provedora"
         },
         {
             "Key": 3985944090,
@@ -16621,6 +16805,10 @@
         {
             "Key": 4058189154,
             "Value": "Cria uma explosão incendiária de longo alcance, ideal para controle de multidão contra pequenos inimigos da Liberdade. Equipada com um temporizador programável para versatilidade estratégica."
+        },
+        {
+            "Key": 4059265139,
+            "Value": "P-41"
         },
         {
             "Key": 4060448903,
@@ -17063,6 +17251,10 @@
             "Value": "ARMINHAS"
         },
         {
+            "Key": 4232324917,
+            "Value": "O ajuste de conforto de controle desta armadura permite que o usuário sinta cada curva, solavanco e tremulação de seu Exouniforme, como se fossem um único ser."
+        },
+        {
             "Key": 4232442047,
             "Value": "Pesquisas sugerem que Helldivers parecem 17% mais patrióticos vestindo esta capa."
         },
@@ -17121,6 +17313,10 @@
         {
             "Key": 4268863341,
             "Value": "RIFLE DE ASSALTO"
+        },
+        {
+            "Key": 4270320858,
+            "Value": "Compatriota vigilante"
         },
         {
             "Key": 4270905484,
@@ -17189,6 +17385,10 @@
         {
             "Key": 4289418781,
             "Value": "Usuários desta armadura furtiva não costumam ser vistos pelos inimigos (nem pelos amigos). Não há reembolso em caso de perda. "
+        },
+        {
+            "Key": 4291272963,
+            "Value": "Tempestade de balas"
         },
         {
             "Key": 4292516491,
@@ -18513,10 +18713,6 @@
         {
             "Key": 988370961,
             "Value": "Encontrar e destruir fabricantes ativos de Autômatos"
-        },
-        {
-            "Key": 995660531,
-            "Value": "Dirijam-se à exotempestade e estilhacem os exopináculos que a sustentam."
         },
         {
             "Key": 1002982797,
@@ -20825,6 +21021,10 @@
         {
             "Key": 2570056183,
             "Value": "Relâmpago"
+        },
+        {
+            "Key": 2570186237,
+            "Value": "Dirijam-se à exotempestade e estilhacem os exopináculos que a sustentam."
         },
         {
             "Key": 2572958008,
@@ -46119,22 +46319,6 @@
             "Value": "{0.09->3.61}Você sabia que os Ciborgues não têm coração? É verdade!{3.61->6.02}E nem cérebro também, pelo visto.{6.02->10.92}Deve ser por isso que traíram a Democracia Gerenciada cem anos atrás."
         },
         {
-            "Key": 310338931,
-            "Value": "Sistema operacional incompatível detectado! Seu SO deve ser compatível com instruções de AVX para executar este jogo."
-        },
-        {
-            "Key": 2705675729,
-            "Value": "Os drivers instalados estão desatualizados e é recomendado atualizá-los. Gostaria de prosseguir? Prosseguir sem a atualização pode causar erros e interrupções.\n\nVersão instalada: #INSTALLED_VERSION\nMínima recomendada: #RECOMMENDED_VERSION"
-        },
-        {
-            "Key": 3954684058,
-            "Value": "CPU incompatível detectada! Sua CPU deve ser compatível com instruções de AVX para executar este jogo."
-        },
-        {
-            "Key": 4274889835,
-            "Value": "Os drivers da placa de vídeo estão desatualizados"
-        },
-        {
             "Key": 149196,
             "Value": "Caminhantes exploradores"
         },
@@ -46357,6 +46541,10 @@
         {
             "Key": 147367428,
             "Value": "Sonesson"
+        },
+        {
+            "Key": 149849300,
+            "Value": "PADRÃO BRANCO MÓVEL DE EXOUNIFORME"
         },
         {
             "Key": 151044459,
@@ -47235,6 +47423,10 @@
             "Value": "VALES DE ASPEN"
         },
         {
+            "Key": 723344253,
+            "Value": "PADRÃO BRANCO MÓVEL DE TRANSPORTE"
+        },
+        {
             "Key": 723389311,
             "Value": "KEPLER-397b"
         },
@@ -47385,6 +47577,10 @@
         {
             "Key": 805511186,
             "Value": "BAÍA PHACT"
+        },
+        {
+            "Key": 805648087,
+            "Value": "PADRÃO BRANCO MÓVEL DE VEÍCULO"
         },
         {
             "Key": 811469586,
@@ -48105,6 +48301,10 @@
         {
             "Key": 1299714559,
             "Value": "Atropelador"
+        },
+        {
+            "Key": 1302324884,
+            "Value": "Exoperitos"
         },
         {
             "Key": 1309239989,
@@ -50503,10 +50703,6 @@
             "Value": "VILAR DOS GERADORES"
         },
         {
-            "Key": 3005334329,
-            "Value": "ÁQUILA MMCMXIV"
-        },
-        {
             "Key": 3006600704,
             "Value": "Reino"
         },
@@ -51383,6 +51579,10 @@
             "Value": "ANTRO DE ESTRIDENTES"
         },
         {
+            "Key": 3611318386,
+            "Value": "EXOPERITOS"
+        },
+        {
             "Key": 3616280245,
             "Value": "CORVALÂNIA"
         },
@@ -52017,6 +52217,10 @@
         {
             "Key": 4068320987,
             "Value": "Comandantes Alfas"
+        },
+        {
+            "Key": 4069889950,
+            "Value": "PADRÃO BRANCO MÓVEL DE HELLPOD"
         },
         {
             "Key": 4070447728,
@@ -54284,7 +54488,7 @@
         },
         {
             "Key": 219493118,
-            "Value": "Os Autômatos enviaram um grande contingente de Devastadores a este planeta."
+            "Value": "Os Autômatos enviaram um grande contingente de Devastadores a este planeta. Prepare-se para se deparar com mais inimigos com blindagem pesada."
         },
         {
             "Key": 222371685,
@@ -54344,7 +54548,7 @@
         },
         {
             "Key": 276825548,
-            "Value": "Recebemos relatos que há uma cepa de Terminídios aprimorada pelo Véu neste planeta. As patrulhas das SEAF foram atraídas para emboscadas e eliminadas por agressores não identificados. Mais do que nunca, vamos precisar dos sentidos aguçados dos Helldivers para caçar essa ameaça perigosa."
+            "Value": "Há relatos sobre a presença de uma cepa mutante de Terminídios neste planeta. Prepare-se para se deparar com Insetos caçadores ardilosos."
         },
         {
             "Key": 280616943,
@@ -54968,7 +55172,7 @@
         },
         {
             "Key": 796165462,
-            "Value": "Os Autômatos passaram a usar novos modelos em campo neste planeta. Tais Robôs aprimorados usam a tecnologia dos propulsores arrancados impiedosamente dos corpos de Helldivers caídos em uma estrutura quase irreconhecível, obtida a partir de engenharia reversa."
+            "Value": "Os Autômatos mobilizaram diversos modelos com funções específicas neste planeta. Prepare-se para enfrentar Robôs com tecnologia roubada de propulsores."
         },
         {
             "Key": 796263081,
@@ -55124,7 +55328,7 @@
         },
         {
             "Key": 900034221,
-            "Value": "Foi relatada a presença de um grande contingente de Hulks inimigos neste planeta. Prepare-se para enfrentar mais inimigos com blindagem pesada."
+            "Value": "Foi relatada a presença de um grande contingente de Hulks inimigos neste planeta. Prepare-se para se deparar com mais inimigos com blindagem pesada."
         },
         {
             "Key": 900097455,
@@ -55288,7 +55492,7 @@
         },
         {
             "Key": 1017745296,
-            "Value": "Dracobaratas terminídias ameaçam os céus desse planeta."
+            "Value": "Dracobaratas terminídias ameaçam os céus desse planeta. Prepare-se para se deparar com mais inimigos voadores."
         },
         {
             "Key": 1025296589,
@@ -55447,12 +55651,20 @@
             "Value": "Desconhecido"
         },
         {
+            "Key": 1134814559,
+            "Value": "Uma mutação leva os Terminídios neste planeta a gerarem esporos hormonais em excesso, o que faz outros Terminídios com a mesma mutação entrarem em frenesi. Prepare-se para encarar inimigos que aumentam a velocidade mutuamente."
+        },
+        {
             "Key": 1142717293,
             "Value": "ESTAÇÃO ESPACIAL DEMOCRACIA"
         },
         {
             "Key": 1143206197,
             "Value": "FRACASSO"
+        },
+        {
+            "Key": 1147205144,
+            "Value": "CEPA ESPORÍFERA"
         },
         {
             "Key": 1148626776,
@@ -55940,7 +56152,7 @@
         },
         {
             "Key": 1541244759,
-            "Value": "Há uma cepa letal de Terminídios capazes de romper o solo nesse planeta."
+            "Value": "Há uma cepa letal de Terminídios capazes de romper o solo nesse planeta. Prepare-se para enfrentar inimigos subterrâneos."
         },
         {
             "Key": 1544020724,
@@ -56360,7 +56572,7 @@
         },
         {
             "Key": 1882925335,
-            "Value": "Prepare-se para enfrentar grandes contingentes de inimigos com blindagem pesada."
+            "Value": "Os Autômatos estão mobilizando uma quantidade anormal de Caminhantes bélicos e Tanques neste planeta. Prepare-se para se deparar com grandes contingentes de inimigos com blindagem pesada."
         },
         {
             "Key": 1892826563,
@@ -56421,10 +56633,6 @@
         {
             "Key": 1939963888,
             "Value": "Helldivers são redirecionados do conflito com os Autômatos para enfrentar de novo os Terminídios"
-        },
-        {
-            "Key": 1941457820,
-            "Value": "CEPA ESPORÍFERA"
         },
         {
             "Key": 1942440765,
@@ -56721,10 +56929,6 @@
         {
             "Key": 2149309645,
             "Value": "BLOQUEIO ORBITAL"
-        },
-        {
-            "Key": 2149389475,
-            "Value": "Uma mutação induzida pelo Véu faz com que os Terminídios neste planeta gerem esporos em excesso e os lancem em uma explosão quando morrem. Demonstrando um desprezo anormal pela vida, esses extremistas insetiformes não param por nada em seu espalhar da corrupção."
         },
         {
             "Key": 2151089975,
@@ -57024,7 +57228,7 @@
         },
         {
             "Key": 2388346408,
-            "Value": "Uma unidade autômata equipada com lança-chamas e munição incendiária está em atividade neste planeta. Esses incendiários desenfreados não descansarão até que tenham aniquilado tudo o que a humanidade ama."
+            "Value": "Uma unidade autômata equipada com lança-chamas e munição incendiária está em atividade neste planeta. Prepare-se para enfrentar incendiários desenfreados que não descansarão até que tenham aniquilado tudo que a humanidade ama."
         },
         {
             "Key": 2390390042,
@@ -57860,7 +58064,7 @@
         },
         {
             "Key": 3033038880,
-            "Value": "Há Ciborgues presentes no campo de batalha deste planeta, liderando seus exércitos autômatos."
+            "Value": "Há Ciborgues presentes no campo de batalha deste planeta, liderando seus exércitos autômatos. Prepare-se para se deparar com propagandistas vis, versados tanto em combate à distância quanto corpo a corpo."
         },
         {
             "Key": 3033475065,
@@ -58164,7 +58368,7 @@
         },
         {
             "Key": 3303998986,
-            "Value": "TROPAS INIMIGAS PRESENTES"
+            "Value": "COMBATENTES INIMIGOS PRESENTES"
         },
         {
             "Key": 3308761296,
@@ -59184,7 +59388,7 @@
         },
         {
             "Key": 4189958024,
-            "Value": "Senhores dos Ninhos terminídios foram detectados nesse planeta."
+            "Value": "Senhores dos Ninhos terminídios foram detectados nesse planeta. Prepare-se para enfrentar inimigos subterrâneos enormes."
         },
         {
             "Key": 4192344096,
@@ -61875,6 +62079,10 @@
             "Value": "OPÇÃO DE GESTO A"
         },
         {
+            "Key": 981331824,
+            "Value": "Ao habilitar esta opção, enquetes serão exibidas de tempos em tempos."
+        },
+        {
             "Key": 986079424,
             "Value": "Iniciar busca"
         },
@@ -62197,6 +62405,10 @@
         {
             "Key": 1248374475,
             "Value": "OCULTAR"
+        },
+        {
+            "Key": 1251107930,
+            "Value": "Esse item está temporariamente desativado"
         },
         {
             "Key": 1255517193,
@@ -64815,6 +65027,10 @@
             "Value": "Lembre-se: Liberdade!"
         },
         {
+            "Key": 3050991430,
+            "Value": "Sua conta #ACCOUNT foi suspensa temporariamente por violar o EULA, até #DD-#MM-#YY. Visite o site de suporte da Arrowhead em: https://arrowhead.zendesk.com/ para saber mais."
+        },
+        {
             "Key": 3054021438,
             "Value": "CONVITE DE ESQUADRÃO"
         },
@@ -65191,6 +65407,10 @@
             "Value": "#COUNT"
         },
         {
+            "Key": 3330197906,
+            "Value": "ENVIAR"
+        },
+        {
             "Key": 3332178855,
             "Value": "Iluminado"
         },
@@ -65277,6 +65497,10 @@
         {
             "Key": 3407735719,
             "Value": "O efeito será acionado ao pressionar o botão por um tempo determinado."
+        },
+        {
+            "Key": 3408223831,
+            "Value": "Sua conta #ACCOUNT foi suspensa permanentemente por violar o EULA. Visite o site de suporte da Arrowhead em: https://arrowhead.zendesk.com/ para saber mais."
         },
         {
             "Key": 3409838466,
@@ -65729,6 +65953,10 @@
         {
             "Key": 3704112830,
             "Value": "Não está feliz com quem você é? Mude sua aparência e sua voz na câmara de personalização. É fácil assim!"
+        },
+        {
+            "Key": 3705024369,
+            "Value": "Exibir enquetes"
         },
         {
             "Key": 3709301333,

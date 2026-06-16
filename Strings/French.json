@@ -819,6 +819,10 @@
             "Value": "FINALOGIS"
         },
         {
+            "Key": 68531086,
+            "Value": "BUNKER AUTOMATON"
+        },
+        {
             "Key": 69604317,
             "Value": "MOTIF DE NAVETTE ORANGE DE SÉCURITÉ"
         },
@@ -1089,6 +1093,10 @@
         {
             "Key": 236578379,
             "Value": "COLOSSE"
+        },
+        {
+            "Key": 245997106,
+            "Value": "Bunker de commandement"
         },
         {
             "Key": 254555360,
@@ -1951,6 +1959,10 @@
             "Value": "Chasseurs explorifères"
         },
         {
+            "Key": 778063718,
+            "Value": "MOTIF DE NAVETTE VESPIDAE"
+        },
+        {
             "Key": 778160541,
             "Value": "SPECTRE"
         },
@@ -2089,6 +2101,10 @@
         {
             "Key": 867908736,
             "Value": "DIGNE I"
+        },
+        {
+            "Key": 870111091,
+            "Value": "Helldrivers"
         },
         {
             "Key": 870181849,
@@ -2341,10 +2357,6 @@
         {
             "Key": 1016650357,
             "Value": "REDFIELD"
-        },
-        {
-            "Key": 1019995927,
-            "Value": "KEPLER-390b"
         },
         {
             "Key": 1029235503,
@@ -2759,6 +2771,10 @@
             "Value": "Rôdeurs"
         },
         {
+            "Key": 1330041521,
+            "Value": "MOTIF D'EXOSQUELETTE VESPIDAE"
+        },
+        {
             "Key": 1331573605,
             "Value": "FISSURE D'ORIENT"
         },
@@ -2905,6 +2921,10 @@
         {
             "Key": 1441504339,
             "Value": "SUPER-TERRE"
+        },
+        {
+            "Key": 1441650636,
+            "Value": "Bunkers de commandement"
         },
         {
             "Key": 1441994227,
@@ -3995,6 +4015,10 @@
             "Value": "STATION WILFORD"
         },
         {
+            "Key": 2198854748,
+            "Value": "MOTIF DE HELLPOD VESPIDAE"
+        },
+        {
             "Key": 2206946868,
             "Value": "CRIQUE DE MALEVELON"
         },
@@ -4171,6 +4195,10 @@
             "Value": "MOTIF D'EXOSQUELETTE MOUTARDE"
         },
         {
+            "Key": 2356589594,
+            "Value": "MOTIF DE VÉHICULE VESPIDAE"
+        },
+        {
             "Key": 2357224115,
             "Value": "Capitaine du vaisseau"
         },
@@ -4269,6 +4297,10 @@
         {
             "Key": 2430884717,
             "Value": "SONGGUO CUN"
+        },
+        {
+            "Key": 2438321228,
+            "Value": "Bunkers automatons"
         },
         {
             "Key": 2439731458,
@@ -5051,10 +5083,6 @@
             "Value": "KUPER"
         },
         {
-            "Key": 2951703094,
-            "Value": "KEPLER-386b"
-        },
-        {
             "Key": 2952897881,
             "Value": "RIBLEUR"
         },
@@ -5069,6 +5097,10 @@
         {
             "Key": 2963023976,
             "Value": "PUITS INFINI"
+        },
+        {
+            "Key": 2967066434,
+            "Value": "BUNKER DE COMMANDEMENT"
         },
         {
             "Key": 2967304390,
@@ -5449,10 +5481,6 @@
         {
             "Key": 3225533687,
             "Value": "OTUR"
-        },
-        {
-            "Key": 3227753500,
-            "Value": "KEPLER-388b"
         },
         {
             "Key": 3235228187,
@@ -6195,10 +6223,6 @@
             "Value": "de la destruction"
         },
         {
-            "Key": 3749126267,
-            "Value": "KEPLER-387b"
-        },
-        {
             "Key": 3750017930,
             "Value": "KEPLER-398b"
         },
@@ -6423,6 +6447,10 @@
             "Value": "Tank rempart"
         },
         {
+            "Key": 3921936527,
+            "Value": "Bunker automaton"
+        },
+        {
             "Key": 3926941105,
             "Value": "Edstrom"
         },
@@ -6461,6 +6489,10 @@
         {
             "Key": 3949569347,
             "Value": "GAELLIVARE"
+        },
+        {
+            "Key": 3950823704,
+            "Value": "HELLDRIVERS"
         },
         {
             "Key": 3955894400,
@@ -8571,6 +8603,10 @@
             "Value": "Il est difficile de viser lorsque vous vous déplacez. Restez immobile pour améliorer votre précision !"
         },
         {
+            "Key": 33358005,
+            "Value": "NÉANT DÉVOREUR"
+        },
+        {
             "Key": 35443895,
             "Value": "Grand camp"
         },
@@ -8675,6 +8711,10 @@
             "Value": "Utilisez le <c=FFFFE900>TERMINAL INFORMATIQUE</c>."
         },
         {
+            "Key": 99319945,
+            "Value": "PHASE 3"
+        },
+        {
             "Key": 105054415,
             "Value": "+ de 9"
         },
@@ -8741,6 +8781,10 @@
         {
             "Key": 128077582,
             "Value": "DÉFI – DIFFICULTÉ 4"
+        },
+        {
+            "Key": 131992695,
+            "Value": "Les Helldivers déployés sur PlanetX ont vaincu d'innombrables vagues de masses serviles. Les échantillons génétiques de Sans-voix examinés par le ministère de la Science montrent une capacité d'adaptation rapide à un environnement en mutation constante, ce qui devrait permettre de mieux appréhender les organismes au sein du Néant. "
         },
         {
             "Key": 134629440,
@@ -9931,6 +9975,10 @@
             "Value": "DESTROYER"
         },
         {
+            "Key": 810343589,
+            "Value": "Grâce à la riposte rapide des Helldivers, la vague migratoire injuste qui a suivi la propagation des ténèbres a été endiguée. Aucune autre planète n'a été touchée, mais nous disposons à l'heure actuelle de peu d'informations qui nous permettraient de pénétrer à l'intérieur du Néant. Néanmoins, le ministère de la Science estime que les masses serviles issues des ténèbres possèdent des informations qui pourraient expliquer ce phénomène."
+        },
+        {
             "Key": 811589761,
             "Value": "De nouvelles recrues S.E.A.F. pleines de ferveur patriotique pour la destruction des automatons ont déferlé pour permettre une belle avancée sur <i=1>Maia</i>."
         },
@@ -10287,6 +10335,10 @@
             "Value": "PAS ASSEZ DE MÉDAILLES"
         },
         {
+            "Key": 994759124,
+            "Value": "PHASE 1"
+        },
+        {
             "Key": 1003483781,
             "Value": "RELÂCHER"
         },
@@ -10551,6 +10603,10 @@
             "Value": "Crocs"
         },
         {
+            "Key": 1170260091,
+            "Value": "Les masses serviles illuministes ont submergé les Helldivers et envahi planetX. La perte de ces planètes va engendrer une pénurie de ressources et des contraintes logistiques, merci de vous entretenir avec le capitaine de votre vaisseau pour en savoir plus.  \n\nSi l'invasion se poursuit à ce rythme, il n'est pas exagéré d'imaginer ces masses serviles déambuler dans les rues de la Super-Terre d'ici quelques semaines."
+        },
+        {
             "Key": 1172079006,
             "Value": "Bonus score parfait"
         },
@@ -10699,6 +10755,10 @@
             "Value": "Rejoindre ce serveur et aller sur leur vaisseau ?"
         },
         {
+            "Key": 1265522119,
+            "Value": "CENTRE DE CONTRÔLE"
+        },
+        {
             "Key": 1270852926,
             "Value": "PROGRESSION DE L'ARME"
         },
@@ -10745,6 +10805,10 @@
         {
             "Key": 1304631953,
             "Value": "SUPER-BOUTIQUE"
+        },
+        {
+            "Key": 1309198938,
+            "Value": "Les Sans-voix ont profité de leur nombre pour envahir planetX et planetY, mais ne sont pas parvenus à briser la fière résistance des Helldivers. \n\nCes poulpes libéraux assoiffés de conquête pensent peut-être avoir vaincu les forces de la Super-Terre, mais c'est sans compter sur la soif de vengeance inextinguible de Dame Liberté. Cette ignorance causera leur perte. Helldivers ! Reprenez ce qui nous revient de droit ! Et si cela implique d'écrabouiller du poulpe pour y parvenir, alors nous nous ferons un plaisir de nettoyer les roues de vos VRR."
         },
         {
             "Key": 1312323707,
@@ -10953,6 +11017,10 @@
         {
             "Key": 1443315300,
             "Value": "Vous avez subi une <c=FFFFE900>BLESSURE</c>. Les blessures ralentissent vos mouvements, nuisent à votre visée et peuvent même provoquer une hémorragie mortelle."
+        },
+        {
+            "Key": 1443491514,
+            "Value": "Les masses serviles continuent d'émerger du Néant avec une arrogance persistante. Continuez de massacrer les Sans-voix près du Néant, tout en conservant le contrôle de planetX et planetY face aux illuministes. Plus vous abattrez de poulpes, plus les scientifiques de la Super-Terre auront de chances de trouver un moyen d'accéder au Néant et de combattre sur leur territoire. \n\nLa campagne de déploiement de VRR s'est montrée hautement efficace contre les masses serviles. Néanmoins, les Helldivers doivent rassembler des métaux précieux pour soutenir la production de VRR requis au front. Le meilleur moyen d'obtenir les ressources nécessaires consiste à faire fondre des carcasses d'automatons dénués d'émotions. Chaque tas de ferraille abattu augmente vos chances d'écrabouiller d'innombrables poulpes au volant d'un VRR flambant neuf. Une cause qui mérite des sacrifices. "
         },
         {
             "Key": 1444368518,
@@ -11177,6 +11245,10 @@
         {
             "Key": 1620218677,
             "Value": "(#MINSm #SECSs)"
+        },
+        {
+            "Key": 1622248549,
+            "Value": "Le Néant, région ténébreuse entièrement sous contrôle illuministe, s'est propagé sans le moindre avertissement il y a à peine quelques heures. Deux planètes ont disparu et les mondes voisins sont déjà envahis par de perfides immigrants illuministes. Nous devons à tout prix empêcher le Néant d'emporter d'autres planètes."
         },
         {
             "Key": 1627376863,
@@ -12127,6 +12199,10 @@
             "Value": "SAC À DOS"
         },
         {
+            "Key": 2200938833,
+            "Value": "Plusieurs ministères indiquent que le Néant se propage de façon rapide, sans la moindre alerte de la part de nos systèmes de surveillance. Comme nous avons perdu toutes communications avec Hort et Rirga Bay, nous pensons que ces deux planètes ont été consumées par les ténèbres. "
+        },
+        {
             "Key": 2203633835,
             "Value": "Grand nid"
         },
@@ -12607,8 +12683,16 @@
             "Value": "Stratagèmes Aigle utilisés"
         },
         {
+            "Key": 2538257809,
+            "Value": "OPÉRATION TERMINÉE"
+        },
+        {
             "Key": 2539179263,
             "Value": "RENFORTS PARTIELS, VOUS ÊTES DÉSORMAIS #QUEUE_POS DANS LA FILE D'ATTENTE"
+        },
+        {
+            "Key": 2539261245,
+            "Value": "Le ministère de la Défense a annoncé une augmentation considérable de la production de VRR afin de permettre une offensive rapide sur le front illuministe. Les munitions allouées aux Helldivers ont également été augmentées. "
         },
         {
             "Key": 2539601384,
@@ -12717,6 +12801,10 @@
         {
             "Key": 2620777981,
             "Value": "ou sprinter pour traverser plusieurs obstacles"
+        },
+        {
+            "Key": 2621608221,
+            "Value": "Les masses serviles ont envahi planetX. Toutes les informations que nous aurions pu obtenir sur les forces ennemies sont désormais irrécupérables. "
         },
         {
             "Key": 2627863304,
@@ -12993,6 +13081,10 @@
         {
             "Key": 2814427746,
             "Value": "DÉTRUISEZ L'AVANT-POSTE DES AUTOMATONS"
+        },
+        {
+            "Key": 2816576345,
+            "Value": "VENGEANCE MOTORISÉE "
         },
         {
             "Key": 2816857631,
@@ -13725,6 +13817,10 @@
         {
             "Key": 3306677318,
             "Value": "EXPLOSIF"
+        },
+        {
+            "Key": 3315565588,
+            "Value": "CONDUITE DÉMOCRATIQUE"
         },
         {
             "Key": 3317194938,
@@ -14499,6 +14595,10 @@
             "Value": "NNO (#COUNT°)"
         },
         {
+            "Key": 3823751890,
+            "Value": "En contenant les frontières du Néant et en repoussant les masses serviles, les Helldivers ont enfoncé la démocratie dans le crâne des illuministes. Le ministère de la Science a recueilli tous les échantillons nécessaires sur les Sans-voix issus du Néant pour déterminer les conditions qui règnent au sein de ces ténèbres grandissantes. \n\nVictoire à la Super-Terre ! \n\nLe montant des réparations nécessaires au maintien opérationnel des VRR sera prélevé sur le salaire des Helldivers."
+        },
+        {
             "Key": 3830647204,
             "Value": "Aspirant"
         },
@@ -14547,6 +14647,10 @@
             "Value": "RÉCUPÉRER LES OBLIGATIONS DE GUERRE LÉGENDAIRES"
         },
         {
+            "Key": 3856524019,
+            "Value": "PHASE 2"
+        },
+        {
             "Key": 3856949076,
             "Value": "CONTENANT D'ÉCHANTILLON"
         },
@@ -14565,6 +14669,10 @@
         {
             "Key": 3868912809,
             "Value": "COMBAT MINEUR (ROBOTS)"
+        },
+        {
+            "Key": 3873985093,
+            "Value": "SUCCÈS DE L'OPÉRATION ÉRADICATION DU NÉANT"
         },
         {
             "Key": 3876695064,
@@ -14673,6 +14781,10 @@
         {
             "Key": 3947908635,
             "Value": "Lancer"
+        },
+        {
+            "Key": 3953355018,
+            "Value": "BLACK-OUT PLANÉTAIRE"
         },
         {
             "Key": 3960339541,
@@ -15463,6 +15575,10 @@
             "Value": "Inconnu"
         },
         {
+            "Key": 41194867,
+            "Value": "SYSTÈME DE CONTRÔLE DES TERMINIDES+"
+        },
+        {
             "Key": 56725756,
             "Value": "Des tempêtes de sable denses <i=1>réduisent la mobilité</i> et <i=1>diminuent grandement la visibilité</i> des ennemis et des alliés."
         },
@@ -15736,7 +15852,7 @@
         },
         {
             "Key": 271258196,
-            "Value": "Le nombre de grenades dont disposent les Helldivers déployés est augmenté de #V_ONE."
+            "Value": "Le nombre de grenades dont disposent les Helldivers déployés est augmenté de <i=1>#V_ONE</i>."
         },
         {
             "Key": 276825548,
@@ -15920,7 +16036,7 @@
         },
         {
             "Key": 420079450,
-            "Value": "Le nombre de grenades dont disposent les Helldivers déployés est réduit de #V_ONE."
+            "Value": "Le nombre de grenades dont disposent les Helldivers déployés est réduit de <i=1>#V_ONE</i>."
         },
         {
             "Key": 421418845,
@@ -19705,6 +19821,10 @@
         {
             "Key": 3425904814,
             "Value": "Inconnu"
+        },
+        {
+            "Key": 3431457534,
+            "Value": "Sur cette planète, un réseau de tours de diffusion du termicide repousse les terminides émergeant de l'Ombre."
         },
         {
             "Key": 3438649121,
@@ -43763,6 +43883,10 @@
             "Value": "Les terminides on fait de ce monde un bastion de l'oppression fasciste. Mais il peut encore être ramené vers la lumière de la liberté.\n\nDéployez-vous sur la ruche planétaire et dressez-y le drapeau de la Super-Terre."
         },
         {
+            "Key": 181032423,
+            "Value": "Ceci est le voyage inaugural du vaisseau <i=1>#SHIP_NAME</i>. Son premier défi est de tracer une voie démocratique vers la région désignée et d'apporter un soutien décisif dans la suppression d'une infestation terminide à petite échelle.\n\nHelldiver, ce n'est pas un exercice. Appliquez chaque précieuse leçon apprise au centre de formation des Helldivers. Que la liberté vous guide."
+        },
+        {
             "Key": 183799415,
             "Value": "Lancez le processus d'évacuation des artéfacts précieux, et protégez le site jusqu'à la fin de l'opération."
         },
@@ -44171,6 +44295,10 @@
             "Value": "PHARE FOUDROYANT"
         },
         {
+            "Key": 500173640,
+            "Value": "L'arrivée de la liberté dans ce nouveau monde a plongé les insectes dans une frénésie fasciste furieuse. Leurs pulsions destructrices privent nos citoyens de l'avenir prospère qu'ils étaient destinés à hériter sur cette terre.\n\nUne nouvelle génération de tours de contrôle des terminides+ est prête à neutraliser cette menace et à garantir la sécurité absolue de la planète à l'aide d'une fumigation contrôlée. Assurez-vous qu'elles soient toutes bien activées et pleinement opérationnelles."
+        },
+        {
             "Key": 503902376,
             "Value": "ALIGNER LE SIGNAL"
         },
@@ -44293,6 +44421,10 @@
         {
             "Key": 581608860,
             "Value": "Camion"
+        },
+        {
+            "Key": 583599188,
+            "Value": "Passez à l'objectif suivant."
         },
         {
             "Key": 583619049,
@@ -44691,6 +44823,10 @@
             "Value": "TRAPPE DU SILO VERROUILLÉE"
         },
         {
+            "Key": 863497904,
+            "Value": "ACTIVEZ LE SCT+"
+        },
+        {
             "Key": 863574571,
             "Value": "OPÉRATION COMMANDO"
         },
@@ -44760,7 +44896,7 @@
         },
         {
             "Key": 927042336,
-            "Value": "ALERTE : TRANSMISSION CRYPTÉE REÇUE\n\nDÉCRYPTAGE…\n.\n.\n.\nCLASSIFICATION : TOP-SECRET\n\nMINISTÈRE DE LA DÉFENSE\nDIRECTORAT DE LA PRÉPARATION DES HELLDIVERS\nSTATION D'ORIGINE : MARS\n\nMÉMORANDUM POUR : Commandant de la préparation des Helldivers\nSUJET : Rapport de recrues quotidiennes\n\nNombre total de recrues : 48 736\n Âge moyen : 18,7 ans \n Taux d'aptitude au combat moyen : 27,1 %\n Taux de patriotisme moyen : 97,4 %\n\nEstimation du taux de survie : 21,3 %  \nProjection de formation des Helldivers : QUOTA RESPECTÉ\n\nFIN DE LA TRANSMISSION"
+            "Value": "ALERTE : TRANSMISSION CRYPTÉE REÇUE\n\nDÉCRYPTAGE…\n.\n.\n.\nCLASSIFICATION : TOP-SECRET\n\nMINISTÈRE DE LA DÉFENSE\nDIRECTORAT DE LA PRÉPARATION DES HELLDIVERS\nSTATION D'ORIGINE : MARS\n\nMÉMORANDUM POUR : Commandant de la préparation des Helldivers\nOBJET : Rapport de recrues quotidiennes\n\nNombre total de recrues : 48 736\nÂge moyen (années) : 18,7 \nTaux d'aptitude au combat : 27,1 %\nTaux moyen de patriotisme : 97,4 %\n\nEstimation du taux de survie : 21,3 % \nProjection de formation des Helldivers : QUOTA RESPECTÉ\n\nFIN DE LA TRANSMISSION"
         },
         {
             "Key": 928577212,
@@ -44885,6 +45021,10 @@
         {
             "Key": 1015910248,
             "Value": "ÉVACUATION D'URGENCE"
+        },
+        {
+            "Key": 1017317795,
+            "Value": "OPÉRATION BAPTÊME DU FEU"
         },
         {
             "Key": 1021441989,
@@ -45275,6 +45415,10 @@
             "Value": "ÉCHEC DE L'ACTIVATION : VALVES BLOQUÉES"
         },
         {
+            "Key": 1304788798,
+            "Value": "Activation du SCT+ terminée"
+        },
+        {
             "Key": 1305039869,
             "Value": "Influence de la mission de communication (personnelle)"
         },
@@ -45469,6 +45613,10 @@
         {
             "Key": 1409974189,
             "Value": "Réussissez l'épreuve finale."
+        },
+        {
+            "Key": 1413828601,
+            "Value": "La station locale du SCT+ est chargée de Termicide 2.0 raffiné, désormais sans risque anticipé d'effets secondaires mutagènes imprévus. Une fois activée, elle stérilisera la zone avec des vapeurs extrêmement létales pour les insectes, mais complètement inoffensives pour les humains.\n\nActivez la station du SCT+ pour baigner la région dans une brume purificatrice de termicide."
         },
         {
             "Key": 1413914605,
@@ -45680,7 +45828,7 @@
         },
         {
             "Key": 1576177655,
-            "Value": "Silo actif"
+            "Value": "SILO COMPLÈTEMENT CHARGÉ"
         },
         {
             "Key": 1578281421,
@@ -46191,6 +46339,10 @@
             "Value": "FORAGE EN COURS"
         },
         {
+            "Key": 1895350756,
+            "Value": "ACTIVER LA STATION DU SCT+"
+        },
+        {
             "Key": 1895607022,
             "Value": "RÉCUPÉREZ LA CAMÉRA TACTIQUE"
         },
@@ -46473,6 +46625,10 @@
         {
             "Key": 2102569661,
             "Value": "Récupérez et transférez les données de recherche capitales."
+        },
+        {
+            "Key": 2103923543,
+            "Value": "SILO À BATTERIE 2"
         },
         {
             "Key": 2116361915,
@@ -47056,7 +47212,7 @@
         },
         {
             "Key": 2488533786,
-            "Value": "Activez les trois silos à batterie puis démarrez la dispersion du termicide."
+            "Value": "Mettez chacun des trois silos à batterie en ligne pour activer cette station du SCT+."
         },
         {
             "Key": 2492072473,
@@ -47077,6 +47233,10 @@
         {
             "Key": 2503033309,
             "Value": "Nous avons identifié plusieurs bunkers lourdement protégés dans cette région. Nous pensons qu'ils renferment des noyaux de commandement essentiels au centre de transmission des automatons.\n\nDétruisez ces bunkers pour couper le flux d'informations des automatons."
+        },
+        {
+            "Key": 2503736186,
+            "Value": "TERMINAL D'ACTIVATION DU SCT+"
         },
         {
             "Key": 2506614173,
@@ -47101,6 +47261,10 @@
         {
             "Key": 2510839207,
             "Value": "HELLPODS DE RENFORTS"
+        },
+        {
+            "Key": 2512561516,
+            "Value": "SILO À BATTERIE 1"
         },
         {
             "Key": 2525564346,
@@ -47152,7 +47316,7 @@
         },
         {
             "Key": 2554621228,
-            "Value": "Système de contrôle des terminides"
+            "Value": "SYSTÈME DE CONTRÔLE DES TERMINIDES+"
         },
         {
             "Key": 2554856065,
@@ -47237,6 +47401,10 @@
         {
             "Key": 2598690750,
             "Value": "Trouvez et éliminez le mutant terminide."
+        },
+        {
+            "Key": 2600483602,
+            "Value": "SILO À BATTERIE 3"
         },
         {
             "Key": 2606029791,
@@ -48039,6 +48207,10 @@
             "Value": "Veuillez vous connecter"
         },
         {
+            "Key": 3206624266,
+            "Value": "Activez la station du SCT+ pour purger cette zone de toute vermine terminide."
+        },
+        {
             "Key": 3209764160,
             "Value": "Les planètes infestées par l'Ombre semblent présenter des modèles de ruche plus étendus que la normale.\n\nDéployez des sondes sismiques pour cartographier leurs réseaux de tunnels, puis utilisez un relais local pour transférer les données au ministère de la Science."
         },
@@ -48600,7 +48772,7 @@
         },
         {
             "Key": 3576100908,
-            "Value": "Système de contrôle des terminides"
+            "Value": "SYSTÈME DE CONTRÔLE DES TERMINIDES+"
         },
         {
             "Key": 3576715076,
@@ -48763,6 +48935,10 @@
             "Value": "Libérez la planète"
         },
         {
+            "Key": 3692892761,
+            "Value": "Utilisez le terminal pour terminer l'activation du SCT+."
+        },
+        {
             "Key": 3699768441,
             "Value": "SÉCURISER L'EXTRACTION DE PÉTROLE"
         },
@@ -48909,6 +49085,10 @@
         {
             "Key": 3801054157,
             "Value": "Le forage peut déranger les créatures qui vivent sous terre."
+        },
+        {
+            "Key": 3801761417,
+            "Value": "Procédez à une fumigation à grande échelle des terminides pour garantir la sécurité de la planète."
         },
         {
             "Key": 3804465095,
@@ -49112,7 +49292,7 @@
         },
         {
             "Key": 3967915737,
-            "Value": "ACTIVEZ LA TOUR DE TERMICIDE"
+            "Value": "ACTIVER LA STATION DU SCT+"
         },
         {
             "Key": 3968375375,
@@ -49283,6 +49463,10 @@
             "Value": "INTERROMPEZ LA PRODUCTION DE CYBORGS"
         },
         {
+            "Key": 4068448225,
+            "Value": "Voyage inaugural du vaisseau <i=1>#SHIP_NAME</i>."
+        },
+        {
             "Key": 4069339786,
             "Value": "Les automatons ont lourdement industrialisé cette région et fabriquent de nouvelles troupes en flux continu. \n\nDétruisez leurs infrastructures et éliminez autant de robots que possible."
         },
@@ -49320,7 +49504,7 @@
         },
         {
             "Key": 4083735584,
-            "Value": "Demandez une bombe pour détruire le canon de défense orbitale."
+            "Value": "Demandez une bombe pour détruire le canon de défense orbitale"
         },
         {
             "Key": 4089331914,
@@ -49373,6 +49557,10 @@
         {
             "Key": 4139471255,
             "Value": "CONTRÔLE DE LA PORTE DE L'AÉRODROME"
+        },
+        {
+            "Key": 4142761914,
+            "Value": "Activez le terminal"
         },
         {
             "Key": 4142990363,
@@ -49452,7 +49640,7 @@
         },
         {
             "Key": 4183229977,
-            "Value": "Allez au site d'extraction et démarrez la dispersion du termicide"
+            "Value": "Allez au terminal d'activation du SCT+."
         },
         {
             "Key": 4184186012,
@@ -49731,6 +49919,10 @@
             "Value": "CONFIGURATION"
         },
         {
+            "Key": 98658779,
+            "Value": "Qualité Ultra Plus"
+        },
+        {
             "Key": 100464181,
             "Value": "Cette option permet de déterminer comment vous naviguez sur la carte.\n\nHybride : permet de vous déplacer et de regarder autour de vous quand la carte est ouverte. Vous devez utiliser des commandes alternatives pour naviguer sur la carte.\nSéparé : vous pouvez seulement vous déplacer quand la carte est ouverte et votre regard vous permet de naviguer sur la carte."
         },
@@ -49777,6 +49969,10 @@
         {
             "Key": 133707452,
             "Value": "Veuillez sélectionner l'écran sur lequel le jeu sera affiché."
+        },
+        {
+            "Key": 133801951,
+            "Value": "CAMPAGNES PASSÉES"
         },
         {
             "Key": 142046361,
@@ -50591,6 +50787,10 @@
             "Value": "AFFICHER"
         },
         {
+            "Key": 670224387,
+            "Value": "FSR3"
+        },
+        {
             "Key": 671544406,
             "Value": "L'ancien site du Complexe métallurgique du manteau profond, volé et détruit par les automatons."
         },
@@ -50625,6 +50825,10 @@
         {
             "Key": 698713821,
             "Value": "Permet de régler l'accélération de la vitesse du curseur lorsque vous utilisez la manette."
+        },
+        {
+            "Key": 700206000,
+            "Value": "AMD Anti-Lag 2 tente de minimiser la latence système pour vous proposer une expérience plus réactive."
         },
         {
             "Key": 716447849,
@@ -50943,6 +51147,10 @@
             "Value": "ACTIVÉE PENDANT : #DAYS j #HOURS h"
         },
         {
+            "Key": 925599844,
+            "Value": "Variable Rate Shading"
+        },
+        {
             "Key": 925995066,
             "Value": "Lorsqu'ils parcourent la galaxie, les Helldivers traversent parfois des ruines antiques étranges. N'oubliez pas : seuls les traîtres s'intéressent aux extraterrestres !"
         },
@@ -51253,6 +51461,10 @@
         {
             "Key": 1152275333,
             "Value": "Inverser le regard (horizontal)"
+        },
+        {
+            "Key": 1157962409,
+            "Value": "Les uniformes des Helldivers intègrent un système anti-incendie automatique et rapide, adapté à la morphologie de chacun. Ce dispositif réduit considérablement le temps nécessaire à l'extinction des feux, sans avoir recours à la technique traditionnelle du plongeon terrestre."
         },
         {
             "Key": 1159669979,
@@ -51967,6 +52179,10 @@
             "Value": "Les tours installées sur ces planètes jouent un rôle fondamental dans la communication des automatons."
         },
         {
+            "Key": 1722220547,
+            "Value": "Extincteurs intégrés"
+        },
+        {
             "Key": 1722303028,
             "Value": "Veuillez sélectionner la bibliothèque graphique utilisée."
         },
@@ -52008,7 +52224,7 @@
         },
         {
             "Key": 1751900625,
-            "Value": "DÉPLOIEMENTS"
+            "Value": "DÉPÊCHES"
         },
         {
             "Key": 1752319148,
@@ -52667,6 +52883,10 @@
             "Value": "SITE DE CONSTRUCTION DE VILLENEUVE-ESPOIR"
         },
         {
+            "Key": 2181332236,
+            "Value": "FSR"
+        },
+        {
             "Key": 2182630814,
             "Value": "Pensez à récupérer les conteneurs d'échantillons de vos alliés morts au champ d'honneur. Ils sont indispensables à notre avancée scientifique collective !"
         },
@@ -53147,6 +53367,10 @@
             "Value": "Augmente la quantité de grenades que peuvent emporter tous les Helldivers."
         },
         {
+            "Key": 2505236864,
+            "Value": "NVIDIA Reflex tente de minimiser la latence système pour vous proposer une expérience plus réactive. Lorsqu'il est activé, NVIDIA Reflex réduit la latence du GPU. Le mode Boost tentera également de réduire la latence du CPU."
+        },
+        {
             "Key": 2512004502,
             "Value": "Lorsque vous souffrez d'une blessure au bras, vous avez plus de mal à absorber le recul des armes et à stabiliser vos tirs."
         },
@@ -53599,6 +53823,10 @@
             "Value": "EFFET DE L'AMÉLIORATION"
         },
         {
+            "Key": 2808737988,
+            "Value": "Activé + Boost"
+        },
+        {
             "Key": 2810302848,
             "Value": "Permet de régler la sensibilité relative des mouvements de la caméra lorsque vous visez."
         },
@@ -53789,6 +54017,10 @@
         {
             "Key": 2929529678,
             "Value": "Couleur du réticule"
+        },
+        {
+            "Key": 2929862318,
+            "Value": "AMD Anti-Lag 2"
         },
         {
             "Key": 2936206351,
@@ -53983,10 +54215,6 @@
             "Value": "N'oubliez jamais : LIBERTÉ !"
         },
         {
-            "Key": 3050991430,
-            "Value": "Votre compte #ACCOUNT a été temporairement suspendu, jusqu'au #DD-#MM-#YY, pour violation du CLUF. Pour en savoir plus, veuillez consulter le site d'assistance d'Arrowhead : https://arrowhead.zendesk.com/"
-        },
-        {
             "Key": 3054021438,
             "Value": "INVITATION DANS L'ESCOUADE"
         },
@@ -54147,6 +54375,10 @@
             "Value": "NIVEAU #LEVEL"
         },
         {
+            "Key": 3177759969,
+            "Value": "NVIDIA Reflex faible latence"
+        },
+        {
             "Key": 3178254909,
             "Value": "ACTIVER/DÉSACTIVER LE SYSTÈME DE GUIDAGE LASER"
         },
@@ -54181,6 +54413,10 @@
         {
             "Key": 3213683288,
             "Value": "ACHETER"
+        },
+        {
+            "Key": 3217996618,
+            "Value": "Réduit la résolution de manière sélective lorsque les détails sont moins essentiels."
         },
         {
             "Key": 3218362271,
@@ -54455,10 +54691,6 @@
             "Value": "Appuyez sur une touche pendant une durée définie pour déclencher l'action."
         },
         {
-            "Key": 3408223831,
-            "Value": "Votre compte #ACCOUNT a été suspendu de manière permanente pour violation du CLUF. Pour en savoir plus, veuillez consulter le site d'assistance d'Arrowhead : https://arrowhead.zendesk.com/"
-        },
-        {
             "Key": 3409838466,
             "Value": "AVANT-POSTE MILITAIRE DES S.E.A.F."
         },
@@ -54667,6 +54899,10 @@
             "Value": "-\n-\n-\n-"
         },
         {
+            "Key": 3539126901,
+            "Value": "Sélectionnez la technique d'anticrénelage et de mise à l'échelle souhaitée. Ces techniques permettent d'améliorer la qualité visuelle et les performances. Elles incluent TAA, NVIDIA DLSS, AMD FSR et Intel XeSS, si pris en charge."
+        },
+        {
             "Key": 3539223805,
             "Value": "CENTRE D'ÉTUDE DE L'ÉNERGIE NÉGATIVE"
         },
@@ -54717,6 +54953,10 @@
         {
             "Key": 3577795458,
             "Value": "Qualité de l'éclairage ambiant"
+        },
+        {
+            "Key": 3584382195,
+            "Value": "Désactivé (Diagnostic)"
         },
         {
             "Key": 3587284262,
@@ -54825,6 +55065,10 @@
         {
             "Key": 3648034434,
             "Value": "ÉLEVÉE"
+        },
+        {
+            "Key": 3649073332,
+            "Value": "XeSS"
         },
         {
             "Key": 3649943605,
@@ -54965,6 +55209,10 @@
         {
             "Key": 3732778833,
             "Value": "La Super-Terre vous remercie pour votre généreux soutien envers la démocratie contrôlée."
+        },
+        {
+            "Key": 3744156159,
+            "Value": "EXTINCTEURS INTÉGRÉS"
         },
         {
             "Key": 3749095091,
@@ -55471,6 +55719,10 @@
             "Value": "PAS DE CARACTÉRISTIQUES SPÉCIALES"
         },
         {
+            "Key": 4020457783,
+            "Value": "DLSS"
+        },
+        {
             "Key": 4022269421,
             "Value": "Le ministère de la Prospérité gère l'économie de la Super-Terre et assure un transfert stable de ressources aux citoyens les plus méritants."
         },
@@ -55505,6 +55757,10 @@
         {
             "Key": 4046469061,
             "Value": "Qualité des détails des objets"
+        },
+        {
+            "Key": 4048162659,
+            "Value": "FSR4"
         },
         {
             "Key": 4048435997,
@@ -55713,6 +55969,10 @@
         {
             "Key": 4150107695,
             "Value": "JETER LE PROCHAIN OBJET DE L'INVENTAIRE"
+        },
+        {
+            "Key": 4151724965,
+            "Value": "TAA"
         },
         {
             "Key": 4154432606,
@@ -55941,6 +56201,10 @@
         {
             "Key": 4272289192,
             "Value": "FREIN À MAIN"
+        },
+        {
+            "Key": 4272867463,
+            "Value": "ORDRE PRIORITAIRE ACTUEL"
         },
         {
             "Key": 4275273032,
@@ -56531,6 +56795,10 @@
             "Value": "APPROBATION TOTALE"
         },
         {
+            "Key": 44963207,
+            "Value": "En hommage aux audacieux pionniers qui ont été les premiers à maîtriser les nouveaux mécanismes tactiques développés par l'état-major. La reproduction distincte des marques et impacts sur la visière représente l'échange idéologique au corps à corps avec le fléau terminide, comme une preuve que la démocratie contrôlée restera insensible à l'agression fasciste."
+        },
+        {
             "Key": 51208102,
             "Value": "OBUS O.C.E. DE 110 mm"
         },
@@ -56679,6 +56947,10 @@
             "Value": "GÉNÉRAL 10 ÉTOILES"
         },
         {
+            "Key": 111718644,
+            "Value": "HYÈNE"
+        },
+        {
             "Key": 113684085,
             "Value": "Inspiré de l'uniforme de Jackie 6, un vétéran des commandos « Vipère » qui, en poste sur Nublaria lors de la Première Guerre intergalactique, a repoussé une couvée entière de terminides à l'aide d'une simple mitrailleuse, de son couteau et de frappes de Laser orbital."
         },
@@ -56732,7 +57004,7 @@
         },
         {
             "Key": 130433830,
-            "Value": "Un véhicule de reconnaissance au blindage léger et équipé d'une mitrailleuse lourde. "
+            "Value": "Un véhicule de reconnaissance rapide au blindage léger, équipé d'une mitrailleuse lourde. "
         },
         {
             "Key": 130471606,
@@ -56777,6 +57049,10 @@
         {
             "Key": 142525292,
             "Value": "ASSISTANCE MÉCANIQUE"
+        },
+        {
+            "Key": 143843098,
+            "Value": "KDM-73 DRAGOON"
         },
         {
             "Key": 146259175,
@@ -56935,6 +57211,10 @@
             "Value": "LUNETTE DE COMBAT x4"
         },
         {
+            "Key": 205828823,
+            "Value": "RÉDUCTION DES IMPACTS CINÉTIQUES"
+        },
+        {
             "Key": 206775492,
             "Value": "MISSILE SOL-SOL À TÊTE CHERCHEUSE"
         },
@@ -56949,6 +57229,10 @@
         {
             "Key": 210430859,
             "Value": "MUNITIONS À CHARGE DOUBLE DE 8x60 mm"
+        },
+        {
+            "Key": 210509947,
+            "Value": "AUTO-STOP"
         },
         {
             "Key": 211201349,
@@ -57003,6 +57287,10 @@
             "Value": "Vigoureux"
         },
         {
+            "Key": 227037594,
+            "Value": "Podium de la prospérité"
+        },
+        {
             "Key": 232332901,
             "Value": "SERVOMOTEURS DE CIBLAGE AMÉLIORÉS"
         },
@@ -57037,6 +57325,10 @@
         {
             "Key": 256058930,
             "Value": "Sénateur"
+        },
+        {
+            "Key": 256705610,
+            "Value": "G-8"
         },
         {
             "Key": 260330276,
@@ -57239,6 +57531,10 @@
             "Value": "Armure à grand succès conçue par SUMY Corp. pour promouvoir une marque de yaourt glacé."
         },
         {
+            "Key": 335550317,
+            "Value": "KDM-500 Éclaireur blindé"
+        },
+        {
             "Key": 339848168,
             "Value": "Spécialiste technique"
         },
@@ -57361,6 +57657,10 @@
         {
             "Key": 391548033,
             "Value": "Aigle - Missiles air-air"
+        },
+        {
+            "Key": 392655212,
+            "Value": "Un dissipateur thermique conçu pour accumuler plus rapidement de la chaleur."
         },
         {
             "Key": 392929288,
@@ -57745,6 +58045,10 @@
         {
             "Key": 575503280,
             "Value": "Munitions blindées de 5,5x50 mm"
+        },
+        {
+            "Key": 576576475,
+            "Value": "Un fusil laser équipé d'un puissant convertisseur de couple, capable de tirer un rayon d'énergie thermique continu. En cas de surcharge, il provoque une puissante décharge d'énergie explosive, et le dissipateur thermique doit être remplacé."
         },
         {
             "Key": 576792479,
@@ -58207,6 +58511,10 @@
             "Value": "Exosquelette patriote"
         },
         {
+            "Key": 734989203,
+            "Value": "Auto-stop"
+        },
+        {
             "Key": 735411736,
             "Value": "Un fusil à pompe automatique à cadence de tir élevée, idéal pour maîtriser de grands groupes d'ennemis. Il faut néanmoins le recharger souvent."
         },
@@ -58315,6 +58623,10 @@
             "Value": "Idéal pour les combats à moyenne et longue distance, ce viseur offre l'agrandissement maximum pour les armes standard."
         },
         {
+            "Key": 782020106,
+            "Value": "Un fusil de précision gros calibre qui allie précision et puissance dévastatrice. Ses munitions anti-blindage possèdent un revêtement incendiaire composé de thermite qui permet d'embraser les cibles."
+        },
+        {
             "Key": 783007437,
             "Value": "ROUAGES DE LA GLOIRE ÉTERNELLE"
         },
@@ -58351,8 +58663,16 @@
             "Value": "Déploie un champ de mines défensives incendiaires qui embrasent les ennemis et l'environnement lorsqu'elles sont déclenchées."
         },
         {
+            "Key": 796620782,
+            "Value": "LAS-22"
+        },
+        {
             "Key": 799057006,
             "Value": "Rechargement efficace"
+        },
+        {
+            "Key": 799811187,
+            "Value": "VRR INCINÉRATEUR"
         },
         {
             "Key": 806358289,
@@ -58403,6 +58723,10 @@
             "Value": "Cette cape ornée d'un crâne de Helldiver remplit d'effroi quiconque ose se faufiler dans le dos des garants de la liberté."
         },
         {
+            "Key": 825679587,
+            "Value": "Souveraineté recyclée"
+        },
+        {
             "Key": 826748686,
             "Value": "Une réplique fidèle de l'armure portée par nos soldats lors de la bataille du Pic Liberté. Honorez leur héritage, portez-la avec fierté. "
         },
@@ -58428,7 +58752,7 @@
         },
         {
             "Key": 831139041,
-            "Value": "BÛCHERON"
+            "Value": "EXOSQUELETTE BÛCHERON"
         },
         {
             "Key": 831483073,
@@ -58807,6 +59131,10 @@
             "Value": "DÉLUGE DE TIRS"
         },
         {
+            "Key": 988887129,
+            "Value": "G-11"
+        },
+        {
             "Key": 989431349,
             "Value": "Roquettes IEM de 15x100 mm"
         },
@@ -58877,6 +59205,10 @@
         {
             "Key": 1009979598,
             "Value": "CAMOUFLAGE ARCTIQUE"
+        },
+        {
+            "Key": 1011072076,
+            "Value": "Équipement alloué aux troupes de choc du ministère de la Prospérité. Cette armure confère la protection nécessaire pour mener des assauts agressifs et assurer avec aplomb la circulation des individus, que ce soient des civils, des soldats, des dissidents ou des ennemis."
         },
         {
             "Key": 1011607504,
@@ -59013,6 +59345,10 @@
         {
             "Key": 1053958077,
             "Value": "Vos attaques au corps à corps peuvent <c=#COLOR>retirer les obstacles imposants</c>, comme les clôtures."
+        },
+        {
+            "Key": 1055226367,
+            "Value": "DISSIPATEUR THERMIQUE RAPIDE"
         },
         {
             "Key": 1057583371,
@@ -59187,6 +59523,10 @@
             "Value": "VISION DE LA LIBERTÉ"
         },
         {
+            "Key": 1150774255,
+            "Value": "PODIUM DE LA PROSPÉRITÉ"
+        },
+        {
             "Key": 1151116802,
             "Value": "Le pistolet standard de la Super-Terre. Cadence de tir élevée, chargeur haute capacité et rechargement rapide."
         },
@@ -59343,6 +59683,10 @@
             "Value": "RÉCEPTACLE À SPÉCIMEN"
         },
         {
+            "Key": 1218936454,
+            "Value": "IMMOLATION"
+        },
+        {
             "Key": 1219584954,
             "Value": "REMPART"
         },
@@ -59383,6 +59727,10 @@
             "Value": "Munition toxique de 9X20 mm"
         },
         {
+            "Key": 1233838964,
+            "Value": "FLÉAU DE LA TYRANNIE"
+        },
+        {
             "Key": 1235129181,
             "Value": "VÉHICULE BLINDÉ LÉGER"
         },
@@ -59408,7 +59756,11 @@
         },
         {
             "Key": 1244754797,
-            "Value": "Un exosquelette motorisé blindé, équipé d'un lance-roquettes et d'une gatling."
+            "Value": "Un exosquelette équipé d'un lance-roquettes et d'une gatling, offrant une flexibilité fiable contre les unités lourdes et les essaims de petites cibles."
+        },
+        {
+            "Key": 1247156468,
+            "Value": "Son symbole vif et parfaitement visible évoque la victoire inéluctable de la fédération. Cette cape rappelle à tout le monde que, si la route vers la liberté est pavée de sacrifices, le podium de la victoire est réservé aux citoyens dociles."
         },
         {
             "Key": 1248707192,
@@ -59573,6 +59925,10 @@
         {
             "Key": 1306153500,
             "Value": "B-01 ARMURE TACTIQUE"
+        },
+        {
+            "Key": 1306411358,
+            "Value": "Protecteur suprême"
         },
         {
             "Key": 1308129373,
@@ -59744,7 +60100,7 @@
         },
         {
             "Key": 1386708865,
-            "Value": "PERCÉE"
+            "Value": "EXOSQUELETTE PERCÉE"
         },
         {
             "Key": 1387831894,
@@ -59785,6 +60141,14 @@
         {
             "Key": 1403939755,
             "Value": "Oursin"
+        },
+        {
+            "Key": 1404743455,
+            "Value": "À l'impact, ce projectile déploie un vaste champ de mines de proximité. Ces charges infligent de faibles dégâts, mais étourdissent et ralentissent les ennemis retranchés."
+        },
+        {
+            "Key": 1404797742,
+            "Value": "Cisaille"
         },
         {
             "Key": 1407844961,
@@ -59841,6 +60205,10 @@
         {
             "Key": 1420309294,
             "Value": "FLAK"
+        },
+        {
+            "Key": 1422895272,
+            "Value": "R-4"
         },
         {
             "Key": 1426096779,
@@ -60115,6 +60483,10 @@
             "Value": "Munition blindée de 12x25 mm"
         },
         {
+            "Key": 1515040346,
+            "Value": "Dispersion large"
+        },
+        {
             "Key": 1518177291,
             "Value": "Honneur des justes"
         },
@@ -60163,8 +60535,16 @@
             "Value": "SCEAU DES IMMACULÉS"
         },
         {
+            "Key": 1554678688,
+            "Value": "B-02 GARDIEN DE L'OMBRE"
+        },
+        {
             "Key": 1555196278,
             "Value": "ÉQUIPEMENT STANDARD"
+        },
+        {
+            "Key": 1557516932,
+            "Value": "Cette cape est composée de fibres industrielles et de bannières recyclées. Elle évoque l'instant de grâce, la beauté suprême que l'on éprouve après avoir purgé la tyrannie à une vitesse effrénée. Les débris de ce triomphe nous rappellent le caractère sacré de notre souveraineté."
         },
         {
             "Key": 1557897402,
@@ -60453,6 +60833,10 @@
         {
             "Key": 1692584896,
             "Value": "Compensateur de combusteur à plasma"
+        },
+        {
+            "Key": 1694264298,
+            "Value": "Immolation"
         },
         {
             "Key": 1694926820,
@@ -61227,6 +61611,10 @@
             "Value": "FRAPPE ORBITALE GCS"
         },
         {
+            "Key": 2006721785,
+            "Value": "KDM-763 Héraut"
+        },
+        {
             "Key": 2006946784,
             "Value": "Sentinelle de flammes"
         },
@@ -61987,6 +62375,10 @@
             "Value": "MUNITION DÉCHIQUETEUSE DE 12x25 mm"
         },
         {
+            "Key": 2285567490,
+            "Value": "Fléau de la tyrannie"
+        },
+        {
             "Key": 2286332848,
             "Value": "Sondage de ruche"
         },
@@ -62056,7 +62448,7 @@
         },
         {
             "Key": 2305804327,
-            "Value": "Percée"
+            "Value": "Exosquelette Percée"
         },
         {
             "Key": 2306363495,
@@ -62069,6 +62461,10 @@
         {
             "Key": 2306949512,
             "Value": "AIGLE - RAVITAILLEMENT"
+        },
+        {
+            "Key": 2310432885,
+            "Value": "PROTECTEUR SUPRÊME"
         },
         {
             "Key": 2311688101,
@@ -62323,6 +62719,10 @@
             "Value": "TÉLÉCOMMANDE DE CIBLAGE DU SILO SOLO"
         },
         {
+            "Key": 2414516585,
+            "Value": "SOUVERAINETÉ RECYCLÉE"
+        },
+        {
             "Key": 2416187473,
             "Value": "Capable de transporter des armes de lancer supplémentaires, cette armure vous permettra de ventiler stratégiquement les forteresses ennemies, conformément aux protocoles de destructions officiels."
         },
@@ -62485,6 +62885,10 @@
         {
             "Key": 2478785269,
             "Value": "SENTINELLE MORTIER NEUROTOXIQUE"
+        },
+        {
+            "Key": 2484425642,
+            "Value": "CHAUSSE-TRAPPES"
         },
         {
             "Key": 2486107935,
@@ -62691,6 +63095,10 @@
             "Value": "Double liberté"
         },
         {
+            "Key": 2583815220,
+            "Value": "Ce symbole représente la poussée constante de la démocratie contrôlée. La course pour la liberté ne connaît aucun ralentissement, seulement divers degrés d'accélération."
+        },
+        {
             "Key": 2584047110,
             "Value": "Grenade de proximité de 40 mm"
         },
@@ -62769,6 +63177,10 @@
         {
             "Key": 2616985430,
             "Value": "Pas de choke installé sur le canon."
+        },
+        {
+            "Key": 2620623882,
+            "Value": "Épurée pour conférer une vélocité maximale, cette armure est inspirée des coursiers longue distance d'antan, qui privilégiaient la livraison des votes à leur sécurité personnelle, symboles mêmes de nos liens patriotiques. Les articulations renforcées permettent de mieux supporter la transition violente entre déplacements rapides et arrêts imprévus."
         },
         {
             "Key": 2621718089,
@@ -62987,6 +63399,10 @@
             "Value": "AD-26 INNOVANTE"
         },
         {
+            "Key": 2707764633,
+            "Value": "KDM-73 Dragoon"
+        },
+        {
             "Key": 2708010566,
             "Value": "Ce P-113 semi-automatique à emprunt de gaz tire des balles « Délibérations rapides » de 14 mm, les cartouches à percussion centrale les plus grandes pour ce type de pistolet."
         },
@@ -63017,6 +63433,10 @@
         {
             "Key": 2716085286,
             "Value": "Pas de bonus supplémentaire."
+        },
+        {
+            "Key": 2716312739,
+            "Value": "Dispersion étroite"
         },
         {
             "Key": 2719181791,
@@ -63113,6 +63533,10 @@
         {
             "Key": 2748911653,
             "Value": "Une mire métallique standard destinée aux Helldivers qui veulent revivre les mêmes difficultés que leurs ancêtres."
+        },
+        {
+            "Key": 2749716801,
+            "Value": "KLAXON TRIOMPHAL"
         },
         {
             "Key": 2751547914,
@@ -63359,12 +63783,20 @@
             "Value": "DISTANCE DE SÉCURITÉ"
         },
         {
+            "Key": 2830999836,
+            "Value": "KDM-763 HÉRAUT"
+        },
+        {
             "Key": 2833861096,
             "Value": "Chargeur haute capacité"
         },
         {
             "Key": 2837576582,
             "Value": "Le moyen le plus sûr d'être immortalisé dans les Archives numériques des valeureux héros de la Super-Terre."
+        },
+        {
+            "Key": 2838258743,
+            "Value": "M-103"
         },
         {
             "Key": 2839874015,
@@ -63409,6 +63841,10 @@
         {
             "Key": 2852294319,
             "Value": "RE-2310 Garde d'honneur"
+        },
+        {
+            "Key": 2852813790,
+            "Value": "Réduit de <c=#COLOR>#BONUS</c> les dégâts infligés par les impacts et les collisions."
         },
         {
             "Key": 2852851210,
@@ -63569,6 +64005,10 @@
         {
             "Key": 2907397059,
             "Value": "Honneur du délateur"
+        },
+        {
+            "Key": 2907822320,
+            "Value": "CISAILLE"
         },
         {
             "Key": 2908523052,
@@ -63980,7 +64420,7 @@
         },
         {
             "Key": 3085604271,
-            "Value": "Un exosquelette motorisé blindé, équipé de deux canons automatiques."
+            "Value": "Un exosquelette équipé de deux canons automatiques, conçu pour un tir explosif soutenu."
         },
         {
             "Key": 3088795731,
@@ -64065,6 +64505,10 @@
         {
             "Key": 3112422815,
             "Value": "CE-67 ARMURE DE TITAN"
+        },
+        {
+            "Key": 3113764814,
+            "Value": "EXTERMINATEUR DE VERMINE"
         },
         {
             "Key": 3114200480,
@@ -64183,6 +64627,10 @@
             "Value": "Récolteur de butin"
         },
         {
+            "Key": 3157507895,
+            "Value": "HELLDRIVER"
+        },
+        {
             "Key": 3159679973,
             "Value": "DOUBLE LIBERTÉ"
         },
@@ -64233,6 +64681,10 @@
         {
             "Key": 3186597808,
             "Value": "Agent de l'oubli"
+        },
+        {
+            "Key": 3187441995,
+            "Value": "Tissée pour les pionniers qui ont ouvert la voie avec brio lors du premier déploiement autorisé d'une nouvelle approche tactique. Le design audacieux des épaulettes de cette cape garantit que, tandis que les Helldivers continueront de regarder vers l'avenir, les ennemis de la liberté ne pourront que contempler leur propre extinction."
         },
         {
             "Key": 3192024450,
@@ -64289,6 +64741,10 @@
         {
             "Key": 3217844104,
             "Value": "Missile antiaérien"
+        },
+        {
+            "Key": 3219331767,
+            "Value": "M-104"
         },
         {
             "Key": 3221073801,
@@ -64393,6 +64849,10 @@
         {
             "Key": 3260894616,
             "Value": "CW-9 Loup blanc"
+        },
+        {
+            "Key": 3262991996,
+            "Value": "VECTEUR DE VICTOIRE"
         },
         {
             "Key": 3264472874,
@@ -64553,6 +65013,10 @@
         {
             "Key": 3317762411,
             "Value": "Feu de la liberté de 12 g"
+        },
+        {
+            "Key": 3318361937,
+            "Value": "Hyène"
         },
         {
             "Key": 3318448997,
@@ -64991,6 +65455,10 @@
             "Value": "AR/GL-21"
         },
         {
+            "Key": 3491726516,
+            "Value": "Dissipateur thermique rapide"
+        },
+        {
             "Key": 3492692240,
             "Value": "Cette armure est notamment portée par les chirurgiens des colonies, lesquels doivent souvent s'interrompre en pleine opération pour défendre leur base."
         },
@@ -65127,6 +65595,10 @@
             "Value": "Un fusil d'assaut haute capacité qui tire des munitions incapacitantes chargées de compassion. Les rapports faisant état de tirs mortels ont été intégralement réfutés."
         },
         {
+            "Key": 3550526620,
+            "Value": "Un véhicule de reconnaissance rapide spécial, lourdement blindé, équipé d'un pare-buffle hérissé de piques et d'une tourelle lance-flammes. Capable d'accueillir trois Helldivers, ce VRR permet de rendre une justice expéditive et de déblayer tous les obstacles qui bloquent le chemin."
+        },
+        {
             "Key": 3552683375,
             "Value": "Dynamite"
         },
@@ -65161,6 +65633,10 @@
         {
             "Key": 3561306084,
             "Value": "MUNITIONS SOCOM ASSASSIN DE 9x70 mm"
+        },
+        {
+            "Key": 3561843631,
+            "Value": "Un véhicule de reconnaissance rapide équipé d'une tourelle automatique et d'un compartiment de ravitaillement, permettant de faire le plein de stims et de munitions tout en restant mobile."
         },
         {
             "Key": 3562238942,
@@ -65245,6 +65721,10 @@
         {
             "Key": 3602150526,
             "Value": "OMBUDSMAN"
+        },
+        {
+            "Key": 3604350372,
+            "Value": "Exterminateur de vermine"
         },
         {
             "Key": 3610251186,
@@ -65351,6 +65831,10 @@
             "Value": "LOGISTIQUE"
         },
         {
+            "Key": 3653323664,
+            "Value": "Vecteur de victoire"
+        },
+        {
             "Key": 3657693272,
             "Value": "Fléau de la tyrannie"
         },
@@ -65372,7 +65856,7 @@
         },
         {
             "Key": 3662990498,
-            "Value": "Bûcheron"
+            "Value": "Exosquelette Bûcheron"
         },
         {
             "Key": 3663193426,
@@ -65473,6 +65957,10 @@
         {
             "Key": 3694530584,
             "Value": "C'EST MOI"
+        },
+        {
+            "Key": 3695439276,
+            "Value": "Un projectile incendiaire qui se brise à l'impact. Il ne provoque pas d'explosion, mais déclenche instantanément un incendie localisé."
         },
         {
             "Key": 3695835500,
@@ -65755,6 +66243,10 @@
             "Value": "Purificateur"
         },
         {
+            "Key": 3807063955,
+            "Value": "VRR de ravitaillement"
+        },
+        {
             "Key": 3807486766,
             "Value": "Incapacitante"
         },
@@ -65952,7 +66444,7 @@
         },
         {
             "Key": 3876158673,
-            "Value": "Une arme conçue pour transformer les ennemis, même colossaux, en petits morceaux beaucoup plus coopératifs. Sa distance de lancer réduite est compensée par une puissance hors du commun."
+            "Value": "Une arme conçue pour transformer les ennemis, même colossaux, en petits morceaux beaucoup plus coopératifs. Sa distance de lancer réduite est compensée par une puissance d'impact hors du commun."
         },
         {
             "Key": 3876419466,
@@ -66127,6 +66619,10 @@
             "Value": "CE-81 ARMURE DE MASTODONTE"
         },
         {
+            "Key": 3947494337,
+            "Value": "VRR DE RAVITAILLEMENT"
+        },
+        {
             "Key": 3949936246,
             "Value": "RS-89 Parangon des ténèbres"
         },
@@ -66201,6 +66697,10 @@
         {
             "Key": 3975562578,
             "Value": "Stockage accru"
+        },
+        {
+            "Key": 3977251416,
+            "Value": "Klaxon triomphal"
         },
         {
             "Key": 3982424137,
@@ -66359,6 +66859,10 @@
             "Value": "Idéologie suprême"
         },
         {
+            "Key": 4042032021,
+            "Value": "Cette armure a été renforcée pour permettre une action prolongée en milieu hostile. Dotée de plaques de blindage lourdes, elle confère aux éclaireurs réfractaires aux obstacles environnementaux tous les outils nécessaires pour déblayer le terrain."
+        },
+        {
             "Key": 4042984776,
             "Value": "Si le porteur de cette cape venait à mourir de la main des ennemis de la liberté, il est coutume de transmettre cette dernière à son enfant le plus courageux au cours des funérailles, inspirant la nouvelle génération à prendre les armes."
         },
@@ -66423,6 +66927,10 @@
             "Value": "PIÑATA SATURÉE"
         },
         {
+            "Key": 4066610996,
+            "Value": "Chausse-trappes"
+        },
+        {
             "Key": 4067475808,
             "Value": "Ses couleurs rouge, blanche et verte, symboles de la Brigade médicale intergalactique, indiquent à tous les Helldivers que les soins arrivent."
         },
@@ -66469,6 +66977,10 @@
         {
             "Key": 4089838094,
             "Value": "CAPE DE LA LUMIÈRE DE LA LIBERTÉ ÉTERNELLE"
+        },
+        {
+            "Key": 4091309553,
+            "Value": "VRR incinérateur"
         },
         {
             "Key": 4094305762,
@@ -66675,6 +67187,10 @@
             "Value": "AMIRAL"
         },
         {
+            "Key": 4165878208,
+            "Value": "B-02 Gardien de l'Ombre"
+        },
+        {
             "Key": 4168280481,
             "Value": "Véto"
         },
@@ -66757,6 +67273,10 @@
         {
             "Key": 4201323204,
             "Value": "Une cape inspirée par d'hypothétiques agents clandestins, piliers de l'ordre démocratique qui auraient servi dans les abysses, un endroit que la lumière de la liberté ne peut atteindre."
+        },
+        {
+            "Key": 4201560668,
+            "Value": "KDM-500 ÉCLAIREUR BLINDÉ"
         },
         {
             "Key": 4201645655,

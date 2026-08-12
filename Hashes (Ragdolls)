@@ -22,11 +22,13 @@
 0x6b202392f4ab605e: a_charger_acid/cha_charger_acid
 0x72a83e49ced6db3d: r_spitter/cha_scavenger_spitter
 0x746a7f3beda32699: g_elite/cha_cyborg_elite_rusher
+0x75f7e96af7dcd303: h/cha_seaf/cha_battlefront_seaf
 0x78e1497571012c47: ate/cha_corrupted/cha_corrupted
 0x79e4b3d2da5e45e3: les/combat_walker/combat_walker
 0x7a3637cd33a54e4c: c_super_earth/cha_seaf/cha_seaf
 0x846bc06c6b213a06: s/cha_lieutenant/cha_lieutenant
 0x8fc2784308e9ba99: lieutenant_flag/lieutenant_flag
+0x905809a4c28d8a45: metguy/cha_bodyhorror_helmetguy
 0x960b48a421a3faaa: /fac_bugs/cha_dragon/cha_dragon
 0x965eae5a51acdd4a: lluminate/cha_tripod/cha_tripod
 0x9821303bd499cd62: script/cha_conscript_iron_fleet
@@ -55,6 +57,7 @@
 0xc14e0e887e7d2106: ugs/cha_scavenger/cha_scavenger
 0xc28b3482e73d1ea9: a_hunter/cha_hunter_gloom_tier1
 0xc626d2bb495a202d: _soldier/cha_soldier_iron_fleet
+0xcc188f0c80505c6c: or_bladed/cha_bodyhorror_bladed
 0xcc7022fdd172089b: boomer_nurser/cha_boomer_nurser
 0xccae5264acd591b7: gs/cha_boomer/cha_boomer_tier_2
 0xd0cf4d493ca08bed: ers/fp_cha_avatar/fp_cha_avatar
@@ -76,3 +79,4 @@
 0xf540ca9d9d4a422e: ac_bugs/cha_stalker/cha_stalker
 0xf79cd8bb654397df: rrior_big/cha_warrior_big_tier2
 0xf8131632aa867107: alker_scout/cyborg_walker_scout
+

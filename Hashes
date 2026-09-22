@@ -60,6 +60,7 @@
 0x1338b552afe68f0a: un/cyborg_elite_shotgun
 0x133fa5083079dc79: ts/mutated_ravine_4m_01
 0x1349408e762e98d9: azard_freezing_plant_01
+0x135024824ebe6118: er_smg_blaster_extended
 0x135090870a21866b: xy_government_54x54m_01
 0x135f542d1ba817d9: mineral_blocker_152m_01
 0x136ca0a1e465e67c: rrain_units/lake_16m_01
@@ -198,6 +199,7 @@
 0x1a0a3dd5de7eaef7: he_ammo_3m_ms51_dupe_05
 0x1a226f730402d1f7: ive_node_no_destruction
 0x1a3c51ec3fc5fe99: ne_mg/drome_mg_magazine
+0x1a40b64c51519874: se_defend_horde_city_03
 0x1a437158e1b8d2a1: um_pistol/magnum_pistol
 0x1a56891deb06ca97: /sandy_mountains_16m_01
 0x1a7fcdff98c664b0: cha_charger/cha_charger
@@ -228,7 +230,6 @@
 0x1b961733b2b05a11: inate/props/il_signpost
 0x1b9ac59697006337: e/energy_shield_grenade
 0x1b9c02b122a6f066: ntains_coldrocky_24m_02
-0x1ba18135e2c137c3: shes/helldiver_size_ref
 0x1ba2e24078a7440d: t_cyborg_factory_96m_02
 0x1baeef36a88ae579: ha_warrior_gloom_tier_1
 0x1bd02eb4f1e58059: t/se_wallmed_wall_third
@@ -261,6 +262,7 @@
 0x1d36c90ab1900636: g_hive/spore_cluster_01
 0x1d40307f422e6d43: its/rift_mountain_4m_01
 0x1d4595328b92326a: ds/vents/hazard_vent_01
+0x1d4b29f82ed04ede: ug_web/bug_web_gloom_02
 0x1d53a0c018349426: b_collect_code_discs_02
 0x1d5489482a78cb5d: sets/trees/log_small_01
 0x1d5b33a5dd6ef809: latform_stairs_right_6r
@@ -340,6 +342,7 @@
 0x20adf75b703710ce: convoy_assault_start_01
 0x20b487e386d1824: t/forest_bush_set_01_01
 0x20b9c7734daead65: melee/cha_exomech_melee
+0x20c03774d6e1d87f: _risk_magazine_standard
 0x20c84213eceace32: /cy_objective_button_01
 0x20c9da8309cbfba4: units/woods_route_8m_01
 0x20d5a8e71de743e4: city_se_generic_4x4m_02
@@ -375,6 +378,7 @@
 0x22b2112c8bdf19f9: h/smooth_rock_medium_02
 0x22b9724559264cfa: rain_units/jungle_8m_01
 0x22c5179731f8e503: mic_probe/seismic_probe
+0x22d74a8ba18b505d: cy_unlock_extraction_02
 0x22d80935cc4c4619: cy_camp_phalanx_hard_03
 0x22e61566e4a2a4f1: l_water_temple_well_lid
 0x22f2fe24bd29bdc1: _railing_corner_noplate
@@ -408,7 +412,6 @@
 0x24e38a39d487daf9: utilities/gate_light_01
 0x24e3fbf90c420069: lien_tree_04_leafy_gibs
 0x24e8ec4d31b1c85d: generic_debris_large_04
-0x24f379ec73159499: ead_medium_01_destroyed
 0x24f5f2878ffa8c63: r_arid_tree_set_02_gibs
 0x251453bcb777123c: rops/colony_camera_pole
 0x251f3abff1723c1b: ies/cy_resource_silo_01
@@ -626,7 +629,6 @@
 0x2ebc4a671345f632: worker_female_corpse_06
 0x2ec189121be140ee: walls/se_pillbox_pillar
 0x2ed3696e12a14d4c: egun/soldier_machinegun
-0x2ee0a70437c105ba: cables/il_cable_root_09
 0x2ee963f7d3e2bb52: ug_government_54x54m_03
 0x2eecd0b1fa49630: uncher/grenade_launcher
 0x2eee1850723950ac: g_cave_rock_overhang_01
@@ -710,7 +712,7 @@
 0x33634e85cb8dea72: n_tac_seaf_artillery_04
 0x3366b28e689afaff: ke_plume_dark_medium_02
 0x3388cd92b19e8d51: 2x2_scaffolding_walkway
-0x3399525964b65bfd: ees/tree_dead_medium_01
+0x33ac3cc54bcd5bc5: e_stalagmites_medium_01
 0x33b3e0ce8d179eec: mppack/soldier_jumppack
 0x33c568e8c17ec799: y_cyborg_wall_32x32m_02
 0x33c56a9991340852: env_ship/hangar/bay_12m
@@ -736,7 +738,6 @@
 0x352de316aefe6c12: veworld_infested_32m_01
 0x352e7ae940cc2964: s/deciduous_woods_8m_01
 0x3541c7596703f4b8: ees/cities_shrub_medium
-0x354c8deeee51bbd5: cables/il_cable_root_08
 0x3563705a399d3db6: tral_easy_checkpoint_01
 0x3575aabc5f1f9326: pistol/automatic_pistol
 0x3584e2384d3d4eb7: s/bone_creature_hive_04
@@ -792,7 +793,6 @@
 0x3828e2051aa9e897: harpoon_gun/harpoon_gun
 0x38324bfc8be9d82b: ug_tac_fog_generator_03
 0x384ef5ee8c18df7a: y_camp_panzer_medium_02
-0x386c414ef3903470: /smooth_rock_massive_02
 0x3876f88ea0d6d7b1: cities_cy_crate_open_01
 0x3894d7ccd0ad4e73: _wallbig_wall_top_third
 0x3896697ff83ae879: _abandoned_field_64m_01
@@ -802,7 +802,6 @@
 0x38c733dc72022a24: /gen_tac_radar_wagon_01
 0x38e1abe8a395cb63: bles/il_cables_thick_04
 0x38e755284c7eeb12: e/props/il_container_01
-0x38fb6c7c2bc0355f: ve_stalagmites_large_01
 0x38fecb7b95ccb027: es/rift_red_plant_01_01
 0x39079634f56a5eb9: ts/rocks/magma_floor_03
 0x390db6eae9d98d06: /neutral/rock_pillar_04
@@ -828,6 +827,7 @@
 0x3aa92a0c752e638: sandy_dunes_moon_24m_02
 0x3ab63c624968ba7b: ies_streetlight_800_01a
 0x3ac6ec441efd9d1b: city_wall_bridge_80m_01
+0x3ae72ebc158c772f: mg_blaster_fastcooldown
 0x3af10835dcd537b8: est/forest_hero_tree_02
 0x3aff5fd7d5450b99: r_bull/cha_charger_bull
 0x3b03e7bf4d2eb9d5: _city_assassinate_lt_02
@@ -1006,7 +1006,6 @@
 0x43639dc374b75c5f: /smg_nacho_mag_standard
 0x43689a76fe4d369c: ry_city_generic_8x8m_01
 0x439d95d27c089218: /cy_prime_kill_hulks_03
-0x439f9e65c18567da: _gun/turret_tank_gun_mg
 0x43a58cb89cfa197c: weapons/minigun/minigun
 0x43ae02e3350bdae2: b_collect_code_discs_01
 0x43b218610d5acef5: g_pipe_pressure_display
@@ -1188,7 +1187,6 @@
 0x4b5cdee2613f83eb: utral_medium_arsenal_01
 0x4b7cd895ff08ec3f: th/vehicles/city_car_05
 0x4b826f8b3529dea0: utilities/base_light_01
-0x4b9b82e2b9fc7475: cables/il_cable_root_06
 0x4b9f89c0b0783f47: rrain_units/lush_24m_01
 0x4ba41b6f9f405cc2: g_helghast/smg_helghast
 0x4bacf7ef893546f9: /meshes/plane_primitive
@@ -1357,6 +1355,7 @@
 0x540c672c73b15d56: d/meshes/cube_primitive
 0x541eb319127c7484: adier_magazine_standard
 0x5421cc1972f84f01: cache_tech_sample_4m_01
+0x543e78ee0adb805f: ug_web/bug_web_gloom_07
 0x5440280a505d81f: _adboard_top_50x400_01a
 0x545429ff89beead6: cy_sub_hack_refinery_03
 0x545a1196be4cdb8: eneric_debris_small_013
@@ -1438,6 +1437,7 @@
 0x5826bc9f2befba22: tilities/pipeline_curve
 0x5829ff7be497acf4: l/rock_mountain_wall_01
 0x582cdaa9e8caa47d: /props/generator_box_01
+0x58338b9990b50283: tilities/cctv_camera_02
 0x5835bf7cf1a8f639: /il_ruin_wall_broken_04
 0x583ecde0d7718126: hellpod/hellpod/hellpod
 0x5850b4a316a0d362: s/bug_city_killhorde_02
@@ -1570,7 +1570,6 @@
 0x5e80fa2dad9224cf: /flag_hanging_01_simple
 0x5e9538db3868fd99: irport_chair_2_seats_01
 0x5ea5b4ca9140cb78: outpost_medium_ruins_03
-0x5eb1bf651193df1: _bush_fern_06_clustered
 0x5ec554ef0662bd37: endarium_sample_mine_01
 0x5ec80f4f1cdb66cf: backpack/hover_backpack
 0x5edb8f9354daaedb: units/sandy_lakes_8m_01
@@ -1704,6 +1703,7 @@
 0x65b084ccdf332852: _cave_clear_bug_nest_03
 0x65bf599659eebed: nits/il_outpost_hard_01
 0x65ce2ae36cfe1fde: rcial_8x8m_destroyed_02
+0x6600b5e755a21f1f: er_smg_blaster_standard
 0x662e085698220227: _hunter_spawners_20m_01
 0x665c18461dbec82: dead_alien_tree_07_gibs
 0x665fe2571aa027b1: rg_lights/light_pole_02
@@ -1845,6 +1845,7 @@
 0x6dce83c2055bae19: ng_inner_corner_noplate
 0x6de772fe5f83519d: cyborg/props/antenna_01
 0x6defc0c01c759959: gs/_proxies/24x12_proxy
+0x6df239f37c591851: e_tutorial_wall_half_03
 0x6df3e79827dbee9d: its/cy_prime_airbase_01
 0x6df76bdd7e758061: eberg_lake_route_32m_01
 0x6e0016ba97033ee4: _colony_outpost_easy_02
@@ -1852,6 +1853,7 @@
 0x6e165f05a49233f6: rifle_standard_magazine
 0x6e1905ad5e142d08: n_units/moor_bog_96m_01
 0x6e3b144bfd99777e: /grassland_bush_fern_01
+0x6e44327bb953fe: r/pump_grenade_launcher
 0x6e499c5c95b019fc: r/cyborg_command_bunker
 0x6e658a05d2d7fa22: ld_prospecting_drill_01
 0x6e661f10c2ec4ca: cy_camp_phalanx_hard_01
@@ -1909,11 +1911,11 @@
 0x70bc8d3e18bb8f9: /soldier_standard_rifle
 0x70c4bc03e447bd62: rge_01/bot_cog_large_01
 0x70d302adc0debcf2: rest_alien_hero_tree_07
-0x70e6df35e621df83: cables/il_cable_root_07
 0x70f9e645aeb15931: grade_modules/pillar_01
 0x7107f0ab5cedacea: ead_alien_tree_03_leafy
 0x71192f7970c468f2: _32x32m_01_destroyed_01
 0x713002b926ae4f92: admarking_crossing_2_02
+0x713b582fe36f2acf: bug_cave_stalactites_03
 0x71543cb6a38c7bc3: bs/props/se_flagpole_01
 0x7158082bcc1f11d0: t_cyborg_factory_96m_01
 0x716da4e1d3729a59: _factory_generic_96m_01
@@ -2046,10 +2048,10 @@
 0x7686544f539bb9b7: _grenade/impact_grenade
 0x768b4c66c6cf6968: arctic_mountains_24m_02
 0x768c1e591818297d: gma/magma_lava_splashes
-0x768f5cee265211f2: cables/il_cable_root_05
 0x769533b3827352b5: les/bug_intel_sample_01
 0x76972344db5b78f6: ocks/bug_cave_bridge_01
 0x76b7cb05a0e1484: s/forest/forest_tree_02
+0x76bcb615b5c45d21: nits/se_defend_horde_08
 0x76c067aaaafca314: nits/sandy_dunes_32m_04
 0x76c7671937c6ef31: rench_wall_medium_3m_x4
 0x76dd5d4f4360204: arc_shotgun/arc_shotgun
@@ -2081,6 +2083,7 @@
 0x78970bf6dab9467f: ctic_frozenlakes_48m_01
 0x789fda0e15d27df1: ts/cy_sat_mining_24m_03
 0x78a8185f63a70795: ower/heavy_flamethrower
+0x78abadf5744c4901: nits/se_defend_horde_07
 0x78b8245a7f3bf0cc: rops/colony_cable_10m_a
 0x78e1497571012c47: corrupted/cha_corrupted
 0x78eacc27be373b9f: ts/cy_sat_mining_24m_02
@@ -2285,6 +2288,7 @@
 0x824c58d02be998b4: /il_destroy_monolith_01
 0x82500c13a67dcdbd: /deciduous_woods_24m_01
 0x8278a25194e2e74b: mage_plane/damage_plane
+0x828ff1e5f00cd374: /planter_bush_medium_01
 0x8293d69054d8bb1: worker_female_corpse_01
 0x8298228be0312a49: s/cy_world_killhorde_02
 0x82a56c054953086f: rees/rift_tree_stump_01
@@ -2405,7 +2409,6 @@
 0x892b866646afed0b: ve_locate_escape_pod_01
 0x8933a685721cda6b: filtration_black_box_01
 0x89387757887fe496: s/spores/rift_spores_02
-0x89397b0735641607: cables/il_cable_root_01
 0x893f7b9b610a593: escape_pod_satellite_01
 0x89492a4f200fbc23: /lights/il_spotlight_01
 0x894bb5dbcd95bf18: _corner_outer_64x64m_02
@@ -2448,6 +2451,7 @@
 0x8ae7185af26caadb: outpost_medium_ruins_01
 0x8aed086018b1ba13: s_cy_ammocrate_stack_x2
 0x8af5242a29db8add: est_bush_regular_med_01
+0x8aff7f0793a5bced: rm_silo/tank_storm_silo
 0x8b024a509d2eeadd: _barrier_fence_small_01
 0x8b16cfc108beec24: s/sandy_mountains_8m_02
 0x8b2676be95713bc8: _abandoned_field_96m_02
@@ -2478,7 +2482,6 @@
 0x8cd83103293fc2b7: he_ammo_3m_ms51_dupe_03
 0x8cd89cf40c23a9a8: creature/hive_lord_head
 0x8cd8ba732bd62a59: /neutral/rock_pillar_03
-0x8cde51e1f1ff175e: cables/il_cable_root_03
 0x8cea2b83c80d128d: deciduous_extraction_01
 0x8ceceacf83664b48: borg/props/cy_robot_arm
 0x8d04f5fba4429556: _weather_device_battery
@@ -2504,6 +2507,7 @@
 0x8e28e3250e278a31: escape_pod_satellite_01
 0x8e2a6341771ba888: _greeble_side_01_merged
 0x8e2d81a61bac34fa: _colony_pipes_prefab_03
+0x8e325c933e55bf62: /at_self_destruct_drone
 0x8e38fcceffb8d18: bio_sample_massgrave_01
 0x8e415f41c6b25519: mmunications_relay_door
 0x8e46ee5f639acf5c: tilities/solar_panel_01
@@ -2538,6 +2542,7 @@
 0x8fd90877e2202fce: le_bay_building_antenna
 0x8fda04d2d85e87ae: encounter_ship_invasion
 0x8fdf28f3d6cac261: se_commercial_54x54m_04
+0x8fee5fc2f782a3a0: board_asset_400x400_01b
 0x8ff5ce215c0fddb9: ps/cardboard_box_medium
 0x90001feac563d6a1: mon/briefcase/briefcase
 0x90157dd19248e173: /bug_tac_stalkerlair_01
@@ -2580,7 +2585,6 @@
 0x92521022e05ee0c7: container/bug_container
 0x925b08e8fad4b36b: rge_quick_fire_heatsink
 0x925c96ac8f03d5bf: colony_roadmarking_e_01
-0x926de7698e1f729f: /grassland_bush_fern_02
 0x928210bb914475c4: planter_flower_large_01
 0x92875f5290959e1d: reet_planter_400x100_2b
 0x92a466b2f1eb68e6: s/moor_arid_tree_set_03
@@ -2696,7 +2700,6 @@
 0x984838da18443cb: roof_solar_panel_5x5_01
 0x9867307dabdbba26: ture/il_ruin_pillar_top
 0x986919477907c07c: d_landing_area_large_02
-0x986a7471857b21a5: e_stalagmites_medium_01
 0x986e6696b34b8902: manrifle_short_magazine
 0x9872e66d1276e1f: cha_warrior/cha_warrior
 0x9872eeb31a5f88fd: annon/turret_autocannon
@@ -2864,6 +2867,7 @@
 0xa0555ae8ce47947d: d_infested_route_16m_02
 0xa0810a6d0cf2568d: e_assassinate_tripod_01
 0xa0833b92d01a2d8d: es/neutral_palm_tree_03
+0xa087c79b8b3af5da: _defend_horde_colony_02
 0xa0908fe9b1938191: ns/cy_trench_wall_3m_x2
 0xa09155ac2a635e0: _shuttle_theft_horde_02
 0xa0937c04de35dcd8: jective_horde_colony_08
@@ -2967,10 +2971,11 @@
 0xa4fa3ef43a8cecaf: rifle_standard_magazine
 0xa506b8235a0552b1: ranium_sample_nature_02
 0xa507bbe7e31377fe: s/hiveworld_cave_16m_01
-0xa50ebb7a4747fd25: _units/cy_extraction_07
+0xa515234f1e02a395: oard_asset_1200x400_01a
 0xa51e5b1d9907988b: il_unlock_extraction_03
+0xa5213f1c49f7e222: oard_asset_1000x400_01a
 0xa526dc7d89ff696d: e/combat_walker_missile
-0xa52a5eae0d0539c6: dead_large_01_destroyed
+0xa5412f85f83df30: g_infested_colony_8m_03
 0xa55e504092b981d: backpack/medic_backpack
 0xa5605378c2bebe29: y_generic_rock_small_01
 0xa56b64c54be1ad09: tion_northern_trench_01
@@ -3023,6 +3028,7 @@
 0xa7143f0c95d02a8e: wdunes_coldrocky_16m_01
 0xa71aafd82c6ebc92: cha_conscript_commander
 0xa71c53ce4d70a754: _infested_colony_48m_01
+0xa727c6f229b50c2c: e_stalagmites_medium_02
 0xa738eac4c8cfd970: _filling_station_barrel
 0xa741e2147fa1901c: /flies_and_vapor_medium
 0xa743470c96cd391e: /hazard_molten_metal_01
@@ -3062,6 +3068,7 @@
 0xa8674d7e85e742c6: /002/36x12_002_slice_02
 0xa8953ec4dceb4cf5: ug_cave_rock_massive_01
 0xa8955c40ee0bf490: d_right_wing_section_01
+0xa8a91eb54892b6b2: risk/assault_rifle_risk
 0xa8abba4895c1e8c5: rench_wall_medium_3m_01
 0xa8ae6952b375ef6c: /cyborg_gunship_spawner
 0xa8b40e12e5369663: generic_debris_small_05
@@ -3077,9 +3084,9 @@
 0xa942730dfde1e5b5: nits/sandy_dunes_64m_02
 0xa942bea8463f4e81: se_commercial_54x54m_02
 0xa946ee6908b8ec53: tions/trench_wall_1m_01
-0xa949e7a75e565c02: hes/cube_navmesh_volume
 0xa955c4ea6f6d4203: assault_rifle_grenadier
 0xa9650095d27aa964: folding/cy_cable_set_01
+0xa96e80389ab653de: ve_stalagmites_large_01
 0xa987ec6bb24f466f: units/moor_field_24m_01
 0xa98f8b559c7993d8: /cyborg_emplacement_hmg
 0xa9936cbe561e8180: mple_pouch/sample_pouch
@@ -3185,6 +3192,7 @@
 0xae0174ec08a5ce32: ity_center_spotlight_01
 0xae02abb57dd45fb6: riekernest_satellite_02
 0xae2037589b041a49: il_base_platform_cables
+0xae4170c984933bb5: ony_street_sign_octagon
 0xae466cb2225e8477: /arctic_mountains_4m_01
 0xae5d0d2c45985f6d: ecrate_water_temples_01
 0xae5d3368efc24656: rain_units/field_16m_01
@@ -3234,6 +3242,7 @@
 0xb0984618a3115780: ns_acid_blocker_152m_01
 0xb09cc495d281730d: ead_alien_tree_05_leafy
 0xb0c85ee76e75b291: g_spawner_decoration_01
+0xb0c9faf4af8903f9: s/tank_storm/tank_storm
 0xb0cd0dbb9b96510c: estroyed_turret_body_02
 0xb0e998cbeaa2d30e: ts/rift_mountain_16m_01
 0xb0f1b354ba1d38d8: weapons/flag/melee_flag
@@ -3317,6 +3326,7 @@
 0xb555239eba2772c9: y_activate_generator_01
 0xb56fa3f5510000ab: rectional_energy_shield
 0xb5766db1d405dec7: /bug_wastes_route_8m_01
+0xb587ad886607ce0: _units/cy_extraction_09
 0xb5891334963fad6e: kit/platform_kit_square
 0xb58b6546b76811e0: abs/props/tire_stack_04
 0xb58b93751b72f960: tform_kit_floor_seating
@@ -3342,12 +3352,14 @@
 0xb69cc4ac6a3cc280: lony_railing_4m_noplate
 0xb6a740bad64a14e1: ug_outpost_cave_hard_01
 0xb6b19ec23e14bf11: e_sat_containers_20m_03
+0xb6b2cf6cdad51843: er_bush_medium_cover_01
 0xb6bd245aa8692e58: /hiveworld_dunes_24m_01
 0xb6e76076e5c6fe44: mera/gen_footage_volume
 0xb6f322bc71a6ce93: rocks/bug_rock_spike_02
 0xb6f35fadd073f14f: /il_modularkit_playtest
 0xb6fe45036b80ac55: rest_bush_spruce_sml_01
 0xb7272cbf00e565a8: /il_destroy_monolith_03
+0xb7465b9f13641a68: rees/cw_buckeye_tree_02
 0xb74a45de7943594: y_detained_prisoners_01
 0xb74f3684956dded0: /bug_wastes_route_8m_02
 0xb7526cc2e9c4982a: se_colony_bug_32x32m_01
@@ -3393,7 +3405,6 @@
 0xb938a17f1a41420f: units/lake_shore_16m_01
 0xb940a63de1208c09: _corner_outer_64x64m_01
 0xb940c889d77f8219: pack/lieutenant_jetpack
-0xb941bb39917f2b09: l_easy_supporttrench_04
 0xb9548004890ab9f4: roy_corrupted_growth_02
 0xb95847f68e877690: reet_planter_200x100_1b
 0xb9597ff8321ec08d: units/swamp_hill_32m_01
@@ -3489,7 +3500,6 @@
 0xbd5d60d94f0c6e8b: reet_planter_400x100_1a
 0xbd73dbaeb62a70ca: g_residential_96x64m_05
 0xbd88c1824f112c4d: eshes/proxies/b02_proxy
-0xbd8aba1d26ca915b: e_stalagmites_medium_02
 0xbd93b765e2224dae: objective_ammo_depot_02
 0xbda0faa64e7f75a3: cks/bug_hive_wall_small
 0xbda5396e1a796cbf: /001/24x12_001_slice_02
@@ -3526,6 +3536,7 @@
 0xbe465761a031209: ny_curb_inner_corner_02
 0xbe70ee0d8d44028e: ons/smg_nacho/smg_nacho
 0xbe72ce0b24f9708e: light_01_head_01_simple
+0xbe8b2cc751aa9532: _outpost_easy_nature_01
 0xbe8d1b9265065bda: uper_earth_cache_wing_r
 0xbe90ef7320842b34: rees/swamp_dead_bush_01
 0xbeafa575d06ccbcc: e_artifact_sample_2m_01
@@ -3550,6 +3561,7 @@
 0xbf9e45427c3813ab: male_civilian_corpse_01
 0xbfa798fd62d62748: tutorial_wall_pillar_01
 0xbfb5b59ba604b3a2: anic/trees/tree_nest_03
+0xbfbe04acdc8b3a98: ug_web/bug_web_gloom_01
 0xbfc3a108c853a738: ine/laser_battery_small
 0xbff466b98cc12df4: ns/poster_propaganda_01
 0xbffcb4cd971a8eda: _gas_projector_backpack
@@ -3619,10 +3631,10 @@
 0xc3d5cf46872c6f14: rg_bunker/cyborg_bunker
 0xc3d654893360ab90: /airport/airport_bag_01
 0xc3ea74cedd49294: y_round_rock_massive_01
-0xc3ed23ec648c83c1: cables/il_cable_root_02
 0xc3fc3047dffcd48b: cial_16x8m_destroyed_01
 0xc3fc3e13a2c44d68: /grassland_bush_fern_03
 0xc40eecdbe9a871a2: me_upload_commstower_04
+0xc4205cc678d01b67: _defend_horde_colony_01
 0xc421f489c77181d2: igns/se_sign_noentry_01
 0xc4232a0e62166d91: l_defense_weapon_pepper
 0xc424a0ef4df886ef: wdunes_coldrocky_24m_02
@@ -3707,6 +3719,7 @@
 0xc7fffd6fedec4e1e: loadout_room_ceiling_02
 0xc80f7f5b1943fa59: /001/16x16_001_slice_02
 0xc859bad9533e8538: g_dropship_destroyed_02
+0xc85f576d5e086147: aster/laser_smg_blaster
 0xc86130f67c2b764d: orial/sign_welcome_cape
 0xc87155ca229a713b: tral_palm_tree_04_stump
 0xc875bc9246cc5b41: st/forest_tree_03_stump
@@ -3762,6 +3775,7 @@
 0xcade209a33ed6354: untains_coldrocky_4m_01
 0xcaecb77bed438bca: ld_stratagem_blocker_01
 0xcaf75a6f9d989f5a: _kit_outerwall_wall_80m
+0xcafb58a4c201a5ad: cy_unlock_extraction_03
 0xcb04377a8205e33a: g_residential_96x64m_01
 0xcb3731ee44d7c82f: lony_roof_trim_pipes_01
 0xcb41444da7c8b44f: edtrees/cities_hedge_01
@@ -3796,6 +3810,7 @@
 0xccc3a466c7fa00b7: tory_city_turret_10m_01
 0xccc8a6c965e9a455: ables/il_cables_huge_01
 0xccda98c1a066ba94: les/il_cable_greeble_01
+0xccf18b6315a3d67f: ornet_pistol_projectile
 0xccf99d0a2f3c5bb: military_uplink_city_01
 0xccfae6d4a601c741: wable/snowball/snowball
 0xcd0486d2baf5429e: tomaton_intel_sample_01
@@ -3816,6 +3831,7 @@
 0xce0af3113c5b2ae7: t/platform_kit_stairs_b
 0xce1f498c4d2338c0: _sat_parking_lot_16m_01
 0xce4427870372e26b: al_bug_pit_back_wall_02
+0xce46ce9302da257e: rees/cw_buckeye_tree_01
 0xce4c42935887c3d0: bug_prime_hive_drill_03
 0xce519c8fb3017ada: t/helldiver_left_arm_01
 0xce65b7be15b0e7ca: road_embankment_rock_01
@@ -3832,7 +3848,6 @@
 0xcee74a8ca6e1124a: egendarium_sample_4m_01
 0xcee77b65a6a82253: ber_destroyed_main_body
 0xceede8870e419929: ns_blocker_spiky_32m_01
-0xceee2f35c57224c1: bles/il_cables_thick_01
 0xcef78265861ba78: _arid_tree_set_02_stump
 0xcefc9f8d12280ff5: he_ammo_4m_ms51_dupe_05
 0xcf02b41da8e5cdd6: g_infested_colony_4m_02
@@ -3869,6 +3884,7 @@
 0xd0ea77b4964b14cd: y_mountains_route_8m_01
 0xd0ff98f4d597b242: ison_wall_straight_gate
 0xd101ce353891b6a3: /props/se_pa_speaker_01
+0xd108b7a34f28d9d3: g_hiveworld_delta_8m_01
 0xd1137ad4675db2d7: pipe_tiny_attachment_01
 0xd11c5bb11970f747: ve_locate_escape_pod_01
 0xd11e426365eb07db: /habs/props/trashbin_01
@@ -3960,6 +3976,7 @@
 0xd569d4da7b2256c4: e_residential_16x16m_05
 0xd56a26c307fc7583: dy_rock_acid_massive_02
 0xd573953f24be2cbe: _sat_solar_panel_16m_01
+0xd58ae6a04edb10de: ngun/tank_storm_maingun
 0xd5951559c7f1bafb: /arctic_glaciers_32m_02
 0xd596b723d698f4b6: in_cover_straight_3m_02
 0xd59c446675a04a89: _outpost_medium_city_03
@@ -4004,6 +4021,7 @@
 0xd7107b04b760f904: ets/simple_water_circle
 0xd715d35634bed1b7: g_corpse_strider_leg_01
 0xd74d2f0d4b6db4cc: oration_superuranium_05
+0xd7607cae39178e3b: se_defend_horde_city_04
 0xd76607fd92a04c51: /cities_corpse_piles_03
 0xd766a9a4e2d91d1c: s/bug_sat_hole_small_01
 0xd768a8c5b0a58623: jungle_dead_route_8m_01
@@ -4054,6 +4072,7 @@
 0xda355d08e15e8827: cave_tunnel_straight_01
 0xda39761b218341be: _cargo_truck_dropoff_02
 0xda40bb347c7447f2: ha_illuminate_guy_staff
+0xda487bf2ac2d4f7f: borg/signs/sign_down_01
 0xda5ef25b60829de1: cy_colony_ammo_depot_01
 0xda6fa6152cbadcef: cities_destroyed_car_05
 0xda7cca20aaa72071: /neutral/rock_rubble_04
@@ -4129,6 +4148,7 @@
 0xdde7c4c1c8db01d9: et_tree_haunted_02_gibs
 0xddee5d5b8ca74dd4: _detector_tower_city_01
 0xddf3f836621475ee: platform_kit_floor_4m4m
+0xde01ba4e9b59d56f: cy_unlock_extraction_01
 0xde059fe2407a0431: oration_superuranium_06
 0xde2ebef32f024b3d: all_generic_windmill_01
 0xde3b8e4a0ffea4f6: /il_ruin_wall_broken_05
@@ -4149,6 +4169,7 @@
 0xded2be2a4b32eaee: its/blocker_lake_24m_01
 0xdedfc9d33f30a03f: es/cyborg_pipeline_ring
 0xdefe062c2567c23d: 1/legendarium_sample_01
+0xdf001dab76b604a9: e_tutorial_wall_half_01
 0xdf02bbc4d4e0bdf: ts/cy_gather_footage_01
 0xdf19eae0fe30177e: d_landing_area_small_01
 0xdf203a818bde4350: rdial_shrub_medium_dead
@@ -4159,6 +4180,7 @@
 0xdf509a0ee497afac: tac_city_mortar_base_01
 0xdf517d7419cb61d7: eneric_debris_medium_06
 0xdf51fe8d62f294be: mbat_walker_flak_cannon
+0xdf657367d712cd8e: cbm_silo/icbm_silo_wide
 0xdf685b4dc75bc874: e_node_lvl2_destruction
 0xdf6b5100959ebb5: spawner_shrieker_middle
 0xdf873c8a1cdf0d7b: s/hiveworld_cave_16m_02
@@ -4200,6 +4222,7 @@
 0xe14e8d4d89986cf6: me_upload_commstower_01
 0xe15bcc903a3cd973: ion/power_station_horde
 0xe15cc5694ccf0759: units/rift_woods_24m_01
+0xe15e2da376d5e2b2: bug_cave_stalactites_01
 0xe160b9db1315ba8b: ial_sink_hole_32x32m_01
 0xe161e870903c74: ain_units/jungle_16m_01
 0xe163a4e39c621d16: e/props/il_mobile_cover
@@ -4258,6 +4281,7 @@
 0xe38720bc2b7e4adf: dy_round_rock_medium_02
 0xe389ae44e21d9c86: /deciduous_vista_32m_01
 0xe3a60fde1a3f7ebf: rrain_units/field_8m_01
+0xe3af20da76995abd: ug_web/bug_web_gloom_06
 0xe3b6aedd07fcb464: s/stun_spear/stun_spear
 0xe3b8c1b3f3324282: orest_pinetree_01_stump
 0xe3b992e4a6b0bf3b: _outpost_colony_easy_01
@@ -4295,6 +4319,7 @@
 0xe5b052448c8e9645: s/gen_war_crater_16m_02
 0xe5b14182b25f7f7d: /wep_scoutwalker_rocket
 0xe5b4208d228cb4f2: ratagem_blocker_city_02
+0xe5b6dc04457f2971: _defend_horde_colony_03
 0xe5b95d9d5ab05cdc: 24_001_ceremonial_flags
 0xe5d58dbd88871a38: _outpost_colony_easy_03
 0xe5d785395a08eef2: veguard_spawners_20m_01
@@ -4326,6 +4351,7 @@
 0xe6d8fe2331ed5d1c: se_defend_horde_city_02
 0xe6d932be83729076: 1/lever_action_rifle_01
 0xe6ea916c056a1c15: de_modules/handtruck_01
+0xe6ec3546d5266ea9: e_tutorial_wall_half_02
 0xe700ad22e4645f78: en_tree_set_02_01_stump
 0xe70b72919e1d8117: wdunes_coldrocky_96m_02
 0xe71542ea01efce22: nits/sandy_dunes_32m_02
@@ -4364,6 +4390,7 @@
 0xe8f19a0aa958e46d: ion/cha_beamer_champion
 0xe8ffad77b73c221c: s/railgun/railgun_sabot
 0xe91301fb44578f30: _rock_generic_rubble_03
+0xe91f569c2ad8af01: et_pistol/hornet_pistol
 0xe94424c20ea0e8b0: nt_54x54m_01_illuminate
 0xe954452303d6dabd: _colony_destroy_eggs_04
 0xe96172663c8fb441: /hangar_box_supplies_01
@@ -4384,6 +4411,7 @@
 0xea29dcf5220b0ab9: dead_alien_tree_04_gibs
 0xea70f0cc07410c9: s/props/cables/cable_02
 0xea7c1d37c17d1e01: units/moor_shore_96m_01
+0xea8c2a8cd46bad4f: ug_web/bug_web_gloom_05
 0xea8e5a281fc729ee: /oasis_mountains_48m_01
 0xea9114a837f8a4d3: il_ruin_pillar_small_01
 0xeaab099f93d7d738: bris/generic_debris_mix
@@ -4408,6 +4436,7 @@
 0xeb642b243e147006: rwall/kit_outerwall_40m
 0xeb725c39fc38b87c: cendiary_impact_grenade
 0xeb7420f3f5366569: te/cables/il_cables_006
+0xeb75cb9fae4cb506: bug_cave_stalactites_02
 0xeb796f4d6892fff6: ug_rock_wall_slanted_01
 0xeb80342395522cde: rks_small_light_smoking
 0xeb9247ca2504ec9: als/rift_tree_corals_02
@@ -4421,7 +4450,6 @@
 0xebc719df1a5a7453: ure/il_ruin_trim_pillar
 0xebe47bdbd77c3977: in_units/moor_bog_8m_01
 0xebe830a7b6d0134c: /001/32x32_001_slice_02
-0xebf8db3e36c7c250: rees/tree_dead_large_01
 0xebfddc4b36810591: es/xl_pipe_accessory_01
 0xec07b89886ca205: p_wet_tree_set_01_stump
 0xec19bc4df934d55e: atform_kit_floor_32m32m
@@ -4479,6 +4507,7 @@
 0xef11271825f21077: ts/il_outpost_medium_02
 0xef26bfa3fbc77801: ac_stratagem_blocker_01
 0xef3136430c7b1707: es/il_corpse_sitting_01
+0xef3404e19603ffcc: ny_street_sign_triangle
 0xef38a24c8f86e3c4: bble/il_rubble_small_04
 0xef3a4136b21592cb: gunship/shuttle_gunship
 0xef570293245a17c2: r/cyborg_assault_walker
@@ -4519,7 +4548,6 @@
 0xf1572fd75c7a4b3e: /colony_plastic_bush_01
 0xf1610ac48cdc5240: luminate_guy_staff_fake
 0xf163b08c44946b09: rest_hero_tree_01_stump
-0xf1771ca9b6ea74d4: nits/se_defend_horde_01
 0xf17b9bdbf91862d: ather_tower_mountain_01
 0xf180e30aff5bddb2: /cy_prime_oil_pickup_01
 0xf1884d8f82ac1314: ase/signs/sign_bullseye
@@ -4558,12 +4586,12 @@
 0xf3bb53060effcfa5: _outpost_cave_medium_02
 0xf3c94c1a64e0b536: ops/concrete_barrier_02
 0xf3ce5b5baad76a6a: gen_sub_collect_data_08
+0xf3e2751cab21daeb: ial_wall_pillar_half_01
 0xf3eee69ef3728651: ign_diversity_poster_01
 0xf3f5d9da831de8eb: speedtrees/rift_bush_01
 0xf4069d882d1f53aa: _outpost_colony_hard_01
 0xf41432892465c5fd: n/carry_data/carry_data
 0xf42addc56e4d0f40: /cy_prime_kill_hulks_01
-0xf42cfe1f0898b08c: cables/il_cable_root_04
 0xf42df341056aa328: bases/props/cy_crate_01
 0xf436258d5c1c0006: units/cy_tac_gunship_01
 0xf44bfbe8c4b0ac7a: s/base_light_01_head_01
@@ -4589,7 +4617,6 @@
 0xf513f0ff1146f49b: rctic_mountains_152m_01
 0xf540ca9d9d4a422e: cha_stalker/cha_stalker
 0xf58ce10f37540c82: ts/moor_mountain_24m_02
-0xf58fbb26cb64a354: big_wall_halfpipe_third
 0xf5972c44931344e3: s/forest/forest_tree_01
 0xf5a65007259afa8e: s/24x12_destroyed_proxy
 0xf5a98da86b613019: _city_government_32x32m
@@ -4650,12 +4677,14 @@
 0xf7fd6c55de3729a1: gue_research_station_04
 0xf8054edc8505c107: ial_54x54m_destroyed_03
 0xf8131632aa867107: out/cyborg_walker_scout
+0xf81e284d3d815f8d: cw_buckeye_tree_01_gibs
 0xf82d8303a57f6cff: eature/bone_creature_14
 0xf831d4712e2a3b4d: tics_area/wall_block_01
 0xf83639ab8c86165: battle_rifle_ceremonial
 0xf8401556c11d124b: t_phalanx_medium_fob_02
 0xf8499ceaa8a0134b: /grassland_red_grass_03
 0xf888a44370cfc18: hts/search_light_ground
+0xf88b9d9b85ae4dee: cy_unlock_extraction_04
 0xf8b02c1be0dec021: _colony_stalker_lair_02
 0xf8d407160ee0a6a3: da_broadcast_se_city_01
 0xf8d5af8b388ec73b: barrier_fence_corner_01
@@ -4756,7 +4785,6 @@
 0xfe3b29b2cfa63f9b: enade_launcher_tactical
 0xfe46a2767a536c85: ee_set_02_04_leafy_gibs
 0xfe547ed0bb3993a3: lava_river_route_16m_02
-0xfe63c6cf18fecb6b: /grassland_bush_fern_04
 0xfe76ba8b95f8811d: re/il_ruin_stair_single
 0xfe7b842a4ccec664: ts/se_sat_colony_16m_01
 0xfe8b306de9948f67: borg_cooling_pipe_valve

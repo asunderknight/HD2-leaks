@@ -459,6 +459,10 @@
             "Value": "Com as perdas sofridas, os Autômatos começam a ter dificuldades em produzir novas unidades. Eles já não conseguem resistir tanto. Ataquem sem piedade!"
         },
         {
+            "Key": 220762632,
+            "Value": "Bombardeios orbitais da EED ativos"
+        },
+        {
             "Key": 225116831,
             "Value": "Missão"
         },
@@ -7215,6 +7219,10 @@
             "Value": "Aumenta o dano corpo a corpo em <c=#COLOR>#BONUS</c>."
         },
         {
+            "Key": 120104945,
+            "Value": "Manto da Jamanta"
+        },
+        {
             "Key": 120146337,
             "Value": "Tambor de munição grande"
         },
@@ -7661,6 +7669,10 @@
         {
             "Key": 286244856,
             "Value": "Morteiro sentinela"
+        },
+        {
+            "Key": 286599935,
+            "Value": "ÁRBITRO"
         },
         {
             "Key": 289101936,
@@ -8411,6 +8423,10 @@
             "Value": "Uma arma laser que dispara um feixe contínuo. Não requer munição, mas é necessário trocar o dissipador de calor em caso de superaquecimento."
         },
         {
+            "Key": 598140873,
+            "Value": "TD-110"
+        },
+        {
             "Key": 598279086,
             "Value": "GS-11 Delegado da Democracia"
         },
@@ -8767,6 +8783,10 @@
             "Value": "DESBANCA-BUNKER"
         },
         {
+            "Key": 717014193,
+            "Value": "Antitanque Teleguiado"
+        },
+        {
             "Key": 717377401,
             "Value": "MINA DE CONTATO"
         },
@@ -8983,6 +9003,10 @@
             "Value": "Sem acessório óptico"
         },
         {
+            "Key": 813522502,
+            "Value": "AR-11"
+        },
+        {
             "Key": 813559744,
             "Value": "Servomecanismos aprimorados"
         },
@@ -9171,6 +9195,10 @@
             "Value": "Uma pistola laser que dispara um feixe contínuo. Não requer munição, mas pode superaquecer, e é preciso trocar as baterias."
         },
         {
+            "Key": 866905090,
+            "Value": "Árbitro"
+        },
+        {
             "Key": 866947018,
             "Value": "Os colchetes desta capa são feitos de carcaças derretidas de Autômatos, prova da inevitável vitória da Democracia."
         },
@@ -9185,6 +9213,10 @@
         {
             "Key": 868871432,
             "Value": "Arma de uma mão para desferir golpes vigorosos em combates corpo a corpo."
+        },
+        {
+            "Key": 870226241,
+            "Value": "G-60"
         },
         {
             "Key": 873843443,
@@ -9481,6 +9513,10 @@
         {
             "Key": 996378365,
             "Value": "CARREGADOR EXTRA"
+        },
+        {
+            "Key": 997517569,
+            "Value": "Caminho da Liberdade"
         },
         {
             "Key": 999321846,
@@ -10017,6 +10053,10 @@
         {
             "Key": 1221303241,
             "Value": "CANO PADRÃO"
+        },
+        {
+            "Key": 1222153591,
+            "Value": "CAMINHO DA LIBERDADE"
         },
         {
             "Key": 1223137345,
@@ -10883,6 +10923,10 @@
             "Value": "RELÉ DE GERADOR DE ESCUDO"
         },
         {
+            "Key": 1558808734,
+            "Value": "Moldada a partir de polímeros sintéticos de alto impacto. Trata-se de uma elegante armadura branca e sem firulas no rosto, o que reduz massivamente os custos de fabricação e confere alta visibilidade ao usuário em quase qualquer campo de batalha, servindo ao propósito de atrair bravamente o fogo inimigo para longe de ativos veiculares consideravelmente mais caros."
+        },
+        {
             "Key": 1561103553,
             "Value": "Uma lâmina pesada de uma mão. Tem golpes mais lentos que outras armas corpo a corpo, mas causa mais dano."
         },
@@ -10909,6 +10953,10 @@
         {
             "Key": 1574114144,
             "Value": "RE-1861 COMANDANTE DO DESFILE"
+        },
+        {
+            "Key": 1574299520,
+            "Value": "BFM-77 Reformista"
         },
         {
             "Key": 1575860721,
@@ -11107,8 +11155,16 @@
             "Value": "SMG-72"
         },
         {
+            "Key": 1672153501,
+            "Value": "Sai"
+        },
+        {
             "Key": 1672483217,
             "Value": "Uma mira holográfica."
+        },
+        {
+            "Key": 1673011979,
+            "Value": "BFM-16 INEXORÁVEL"
         },
         {
             "Key": 1673875834,
@@ -11233,6 +11289,10 @@
         {
             "Key": 1712527709,
             "Value": "Desescalador"
+        },
+        {
+            "Key": 1714392392,
+            "Value": "LAS-12"
         },
         {
             "Key": 1714459044,
@@ -11361,6 +11421,10 @@
         {
             "Key": 1758285928,
             "Value": "Combinação de combate"
+        },
+        {
+            "Key": 1759411076,
+            "Value": "ORDEM DE DESPEJO"
         },
         {
             "Key": 1761328847,
@@ -11525,6 +11589,14 @@
         {
             "Key": 1825331623,
             "Value": "SA-04 Técnica de Combate"
+        },
+        {
+            "Key": 1825935594,
+            "Value": "TURBILHÃO"
+        },
+        {
+            "Key": 1828041057,
+            "Value": "Um conjunto de três lentes que proporciona uma alta cadência de tiro com ampla dispersão."
         },
         {
             "Key": 1828467212,
@@ -11709,6 +11781,10 @@
         {
             "Key": 1898044942,
             "Value": "Exercícios de recarga"
+        },
+        {
+            "Key": 1903306495,
+            "Value": "GL-15"
         },
         {
             "Key": 1907319741,
@@ -12411,6 +12487,10 @@
             "Value": "GR-8"
         },
         {
+            "Key": 2149115198,
+            "Value": "Turbilhão"
+        },
+        {
             "Key": 2152148492,
             "Value": "P-19"
         },
@@ -12429,6 +12509,10 @@
         {
             "Key": 2158812628,
             "Value": "PRIMEIRO DIVE-MESTRE"
+        },
+        {
+            "Key": 2160849942,
+            "Value": "Inspirado na lendária cavalaria blindada da Primeira Guerra Galáctica, este traje leve possui abafadores acústicos integrados para proteger o usuário do rugido ensurdecedor da Liberdade e dos prantos subversivos dos dissidentes."
         },
         {
             "Key": 2165143260,
@@ -13127,6 +13211,10 @@
             "Value": "CARBONIZANTE"
         },
         {
+            "Key": 2427979536,
+            "Value": "MANTO DA JAMANTA"
+        },
+        {
             "Key": 2429942127,
             "Value": "IE-57 Obstinada"
         },
@@ -13215,6 +13303,10 @@
             "Value": "Canhão Automático Sentinela"
         },
         {
+            "Key": 2462543295,
+            "Value": "4 MM"
+        },
+        {
             "Key": 2463174816,
             "Value": "12x25 mm térmita"
         },
@@ -13301,6 +13393,10 @@
         {
             "Key": 2489495420,
             "Value": "TORRE TESLA"
+        },
+        {
+            "Key": 2491825007,
+            "Value": "BFM-16 Inexorável"
         },
         {
             "Key": 2492665796,
@@ -13603,6 +13699,10 @@
             "Value": "B/FLAM-80"
         },
         {
+            "Key": 2626464813,
+            "Value": "P-34"
+        },
+        {
             "Key": 2631236711,
             "Value": "Broca de prospecção"
         },
@@ -13645,6 +13745,10 @@
         {
             "Key": 2650929962,
             "Value": "SELEÇÃO DE VELOCIDADE DE TIRO"
+        },
+        {
+            "Key": 2653685031,
+            "Value": "PADRÃO DE EVACUAÇÃO RÁPIDA"
         },
         {
             "Key": 2654556013,
@@ -13917,6 +14021,10 @@
         {
             "Key": 2740898511,
             "Value": "Dissipador de calor padrão"
+        },
+        {
+            "Key": 2741072830,
+            "Value": "O marcante padrão dorsal que remete à passagem de uma lagarta representa a marcha inexorável, esmagadora e uniforme da Democracia Gerenciada. Audaciosamente dá o recado a todos que botarem os olhos nela de que resistir não apenas é uma tentativa fútil, como também logisticamente ineficaz e estatisticamente desastrosa."
         },
         {
             "Key": 2744478874,
@@ -14555,6 +14663,10 @@
             "Value": "Rifle de Assalto"
         },
         {
+            "Key": 2976200526,
+            "Value": "SAI"
+        },
+        {
             "Key": 2977726740,
             "Value": "Canhões orbitais"
         },
@@ -14701,6 +14813,10 @@
         {
             "Key": 3042160115,
             "Value": "Atordoa temporariamente todos os alvos dentro da área de atuação."
+        },
+        {
+            "Key": 3045262509,
+            "Value": "Uma submetralhadora a laser de disparo rápido que prioriza a saturação de área em detrimento da precisão cirúrgica. Sua alta cadência de tiro a torna eficaz na pacificação de multidões a curta distância, desde que não se abale pela escolha indiscriminada de alvos."
         },
         {
             "Key": 3046397365,
@@ -15119,6 +15235,10 @@
             "Value": "Munição de gás orbital Mk3"
         },
         {
+            "Key": 3199189069,
+            "Value": "Equipado com uma ogiva pesada, adequada contra veículos blindados, este drone portador de granadas segue o usuário até detectar um inimigo por perto; momento em que voa em direção a ele e explode com o impacto."
+        },
+        {
             "Key": 3199795572,
             "Value": "Caça-Perigo AF-02"
         },
@@ -15367,6 +15487,10 @@
             "Value": "O tipo de corpo não afeta a jogabilidade"
         },
         {
+            "Key": 3295638196,
+            "Value": "Padrão de Evacuação Rápida"
+        },
+        {
             "Key": 3297369983,
             "Value": "Aumenta em <c=#COLOR>#BONUS</c> o alcance da identificação de pontos de interesse."
         },
@@ -15387,8 +15511,16 @@
             "Value": "Cada exemplar desta capa acompanha um formulário complementar de emenda ao testamento que assegura ao futuro falecido um lugar de destaque no Muro dos Mártires."
         },
         {
+            "Key": 3303328962,
+            "Value": "Este lança-granadas de ação deslizante abre mão da precisão e foca em devastar uma área. A necessidade de recarga manual a cada disparo faz dela uma opção diligente para esquadrões que precisem empregar uma abordagem explosiva na resolução de disputas."
+        },
+        {
             "Key": 3303496283,
             "Value": "As plumas douradas e perfurantes simbolizam a Justiça mortal e poética aplicada a oposicionistas sediciosos. Sanções silenciosas, impostas com precisão inequívoca e negação mais que plausível."
+        },
+        {
+            "Key": 3305893397,
+            "Value": "O peso massivo deste manto camuflado cai como uma luva para Helldivers que operam como um tanque ambulante. Os observadores mais perspicazes notarão ainda que o padrão de floresta fragmentado oculta uma mensagem em código Morse altamente confidencial para elevar o moral."
         },
         {
             "Key": 3306288095,
@@ -15409,6 +15541,10 @@
         {
             "Key": 3313875777,
             "Value": "Tempo de recarga menor"
+        },
+        {
+            "Key": 3313966979,
+            "Value": "Concentra o trio de lentes para realizar disparos únicos, mais concentrados, porém a uma cadência menor."
         },
         {
             "Key": 3313983701,
@@ -15479,6 +15615,10 @@
             "Value": "Barreira defensiva"
         },
         {
+            "Key": 3327050355,
+            "Value": "Um fuzil de assalto que utiliza munição sem cartucho e um carregador montado na parte superior. Um mecanismo de disparo elétrico libera os projéteis em rápida sucessão. Vem equipado com uma escopeta acoplada na parte inferior para oferecer maior versatilidade."
+        },
+        {
             "Key": 3328664087,
             "Value": "CAMINHO DO BANDOLEIRO"
         },
@@ -15537,6 +15677,10 @@
         {
             "Key": 3342293369,
             "Value": "EX-16 PROTÓTIPO 16"
+        },
+        {
+            "Key": 3344685447,
+            "Value": "ANTITANQUE TELEGUIADO"
         },
         {
             "Key": 3345385259,
@@ -15771,6 +15915,10 @@
             "Value": "Mais carregadores para MP montada"
         },
         {
+            "Key": 3450064054,
+            "Value": "TANQUISTA"
+        },
+        {
             "Key": 3450368998,
             "Value": "Diligência Certeira Superior"
         },
@@ -15805,6 +15953,10 @@
         {
             "Key": 3460715746,
             "Value": "BARRAGEM ORBITAL MÓVEL DE FUMAÇA"
+        },
+        {
+            "Key": 3461671349,
+            "Value": "LENTES FOCAIS"
         },
         {
             "Key": 3461754799,
@@ -15849,6 +16001,10 @@
         {
             "Key": 3478059223,
             "Value": "ASSALTO"
+        },
+        {
+            "Key": 3478978019,
+            "Value": "LENTE TRIPLA"
         },
         {
             "Key": 3480470718,
@@ -15897,6 +16053,10 @@
         {
             "Key": 3495182510,
             "Value": "DP-40 HERÓI DA FEDERAÇÃO"
+        },
+        {
+            "Key": 3496469977,
+            "Value": "TESTE DE RESISTÊNCIA DO CAPACETE"
         },
         {
             "Key": 3498937342,
@@ -16083,6 +16243,10 @@
             "Value": "Você é o próximo"
         },
         {
+            "Key": 3566069292,
+            "Value": "Adornada com o temível brasão de uma divisão blindada, esta capa curta não deixa dúvidas aos subalternos de que diante deles está alguém que pertence à elite. Tudo isso evitando que a barra se enrosque nos mecanismos de esteira pesada de seu próprio veículo, com resultados letais."
+        },
+        {
             "Key": 3571107666,
             "Value": "ORGULHO DO DELATOR"
         },
@@ -16165,6 +16329,10 @@
         {
             "Key": 3610251186,
             "Value": "PONTO VERMELHO COM LENTE 2x"
+        },
+        {
+            "Key": 3614978999,
+            "Value": "Forjado a partir de placas de casco excedentes, este traje colossal possui um sistema integrado de reforço por servomecanismos e uma gola imponente de proteção contra explosões, sendo o favorito dos Helldivers barbeiros por toda a Galáxia."
         },
         {
             "Key": 3619549886,
@@ -16421,6 +16589,10 @@
         {
             "Key": 3705134773,
             "Value": "CREMADOR"
+        },
+        {
+            "Key": 3705477714,
+            "Value": "BFM-220 ENCOURAÇADA"
         },
         {
             "Key": 3707094389,
@@ -16951,6 +17123,10 @@
             "Value": "TG-122 Demoguarda"
         },
         {
+            "Key": 3897706997,
+            "Value": "BFM-220 Encouraçada"
+        },
+        {
             "Key": 3898500608,
             "Value": "AC-2 Obediente"
         },
@@ -16973,6 +17149,10 @@
         {
             "Key": 3899708304,
             "Value": "A/M-12"
+        },
+        {
+            "Key": 3900081651,
+            "Value": "BFM-77 REFORMISTA"
         },
         {
             "Key": 3900912102,
@@ -17075,6 +17255,10 @@
             "Value": "HIPERMOCHILA"
         },
         {
+            "Key": 3943508564,
+            "Value": "Uma pistola de míssil equipada com projéteis adesivos que utilizam combustível baseado em fósforo para derreter a blindagem do inimigo — ou qualquer outra camada externa — antes de finalmente explodir."
+        },
+        {
             "Key": 3944495922,
             "Value": "VELOCIDADE DE ATAQUE"
         },
@@ -17121,6 +17305,10 @@
         {
             "Key": 3960518775,
             "Value": "Cal. 12 CHUMBO INSETICIDA"
+        },
+        {
+            "Key": 3961796442,
+            "Value": "INVASOR"
         },
         {
             "Key": 3964760731,
@@ -17437,6 +17625,10 @@
         {
             "Key": 4084206755,
             "Value": "Peça um farol de emergência para avisar aos outros Helldivers que você precisa de ajuda."
+        },
+        {
+            "Key": 4088299906,
+            "Value": "10 G"
         },
         {
             "Key": 4088907109,
@@ -17835,6 +18027,10 @@
             "Value": "ARMINHAS"
         },
         {
+            "Key": 4229784342,
+            "Value": "MITIGAÇÃO DE FORÇA CONTUNDENTE"
+        },
+        {
             "Key": 4232324917,
             "Value": "O ajuste de conforto de controle desta armadura permite que o usuário sinta cada curva, solavanco e tremulação de seu Exouniforme, como se fossem um único ser."
         },
@@ -17895,6 +18091,10 @@
             "Value": "FS-34 Exterminadora"
         },
         {
+            "Key": 4267625524,
+            "Value": "Um veículo de combate de infantaria (VCI) com blindagem pesada, armado com metralhadoras Gatling duplas na dianteira, contramedida acionável na forma de cortina de fumaça e acomodando também silos de mísseis na traseira, cujos projéteis são guiados a laser a partir da torre de artilharia."
+        },
+        {
             "Key": 4268863341,
             "Value": "RIFLE DE ASSALTO"
         },
@@ -17927,6 +18127,10 @@
             "Value": "GL-52"
         },
         {
+            "Key": 4275496005,
+            "Value": "Ordem de Despejo"
+        },
+        {
             "Key": 4275591293,
             "Value": "DEFENSORA DO NOSSO SONHO"
         },
@@ -17951,6 +18155,10 @@
             "Value": "DISTÂNCIA DA MIRA"
         },
         {
+            "Key": 4284770213,
+            "Value": "Invasor"
+        },
+        {
             "Key": 4284803845,
             "Value": "M90A"
         },
@@ -17969,6 +18177,10 @@
         {
             "Key": 4289418781,
             "Value": "Usuários desta armadura furtiva não costumam ser vistos pelos inimigos (nem pelos amigos). Não há reembolso em caso de perda. "
+        },
+        {
+            "Key": 4290511038,
+            "Value": "Teste de Resistência do Capacete"
         },
         {
             "Key": 4291272963,
@@ -18045,6 +18257,10 @@
         {
             "Key": 33739635,
             "Value": "VOCÊ PRECISA COMPLETAR OS OBJETIVOS PARCIAIS PRIMEIRO"
+        },
+        {
+            "Key": 34251571,
+            "Value": "Gerador"
         },
         {
             "Key": 35026167,
@@ -18137,6 +18353,10 @@
         {
             "Key": 85322608,
             "Value": "Aguarde o sistema de artilharia iniciar"
+        },
+        {
+            "Key": 87072529,
+            "Value": "Há uma concentração de forças dos Iluminados no local."
         },
         {
             "Key": 87612306,
@@ -18931,6 +19151,10 @@
             "Value": "Estridentes: #CURRENT / #TOTAL eliminações"
         },
         {
+            "Key": 670087520,
+            "Value": "Defenda o sistema do gerador até que todos os foguetes tenham sido lançados.\n\nFoguetes lançados: #CURRENT/#TARGET #GENERATORS"
+        },
+        {
             "Key": 672372755,
             "Value": "Proteja #ENTITY durante o carregamento"
         },
@@ -18965,6 +19189,10 @@
         {
             "Key": 703225368,
             "Value": "Os Autômatos usam um sistema de segurança com cartão-chave muito avançado. Um cartão-chave localizado aqui vai dar acesso à unidade de contenção segura deles."
+        },
+        {
+            "Key": 704505443,
+            "Value": "Ajuste a válvula da tubulação na caverna"
         },
         {
             "Key": 704813543,
@@ -19056,7 +19284,7 @@
         },
         {
             "Key": 759965318,
-            "Value": "Ajuste as válvulas da tubulação"
+            "Value": "Ajuste a válvula da tubulação"
         },
         {
             "Key": 760871862,
@@ -19451,6 +19679,10 @@
             "Value": "CARREGAR PROJÉTEIS DE ARTILHARIA"
         },
         {
+            "Key": 1028231809,
+            "Value": "Destruir as forças dos Iluminados"
+        },
+        {
             "Key": 1029340711,
             "Value": "Bombeamento em andamento..."
         },
@@ -19537,6 +19769,10 @@
         {
             "Key": 1095612653,
             "Value": "INSERIR SEQUÊNCIA DE ATIVAÇÃO"
+        },
+        {
+            "Key": 1098430576,
+            "Value": "CARREGAR COORDENADAS DA PLATAFORMA"
         },
         {
             "Key": 1103087785,
@@ -20936,7 +21172,7 @@
         },
         {
             "Key": 1991475686,
-            "Value": "SISTEMA DE VENTILAÇÃO NORMAL"
+            "Value": "INTERFACE DO SISTEMA EXAUSTOR"
         },
         {
             "Key": 1991803739,
@@ -22232,7 +22468,7 @@
         },
         {
             "Key": 2831289147,
-            "Value": "Procure pelo Pulmão Esporófito nas cavernas"
+            "Value": "Localizar o Pulmão Esporófito no subsolo"
         },
         {
             "Key": 2833945694,
@@ -22996,7 +23232,7 @@
         },
         {
             "Key": 3339054218,
-            "Value": "ELIMINEM OS SUPERVISORES"
+            "Value": "DIZIME AS FILEIRAS DOS ILUMINADOS"
         },
         {
             "Key": 3340732873,
@@ -23492,7 +23728,11 @@
         },
         {
             "Key": 3678406658,
-            "Value": "Principais componentes da refinaria listados"
+            "Value": "Selecione componentes para controlar"
+        },
+        {
+            "Key": 3679243511,
+            "Value": "Use o terminal para confirmar as coordenadas da plataforma"
         },
         {
             "Key": 3680203702,
@@ -23612,7 +23852,7 @@
         },
         {
             "Key": 3739334762,
-            "Value": "RELIGUE AS BOMBAS"
+            "Value": "RESTAURAR LOCAL DA BOMBA"
         },
         {
             "Key": 3743248579,
@@ -24079,6 +24319,10 @@
             "Value": "Destrua a fonte de energia do Disruptor Cognitivo."
         },
         {
+            "Key": 4059074351,
+            "Value": "Confirme as coordenadas da plataforma de extração"
+        },
+        {
             "Key": 4060481832,
             "Value": "CAPTURAR BATERIAS DE FUSÃO"
         },
@@ -24435,6 +24679,10 @@
             "Value": "BARRAGEM ORBITAL MÓVEL DE FUMAÇA"
         },
         {
+            "Key": 941512589,
+            "Value": "NOVA DIFICULDADE DESBLOQUEADA"
+        },
+        {
             "Key": 1772996316,
             "Value": "Um bombardeiro de artilharia linear que se desloca intercaladamente enquanto dispara bombas de fumaça para bloquear a visibilidade do inimigo."
         },
@@ -24649,6 +24897,10 @@
         {
             "Key": 16288186,
             "Value": "{0.00->3.14}Recruta morto. Iniciar protocolo de contenção terminídia."
+        },
+        {
+            "Key": 17359527,
+            "Value": "{0.03->2.10}Pela Democracia Gerenciada!"
         },
         {
             "Key": 17859641,
@@ -25025,6 +25277,10 @@
         {
             "Key": 73021388,
             "Value": "{0.03->0.63}Continuem."
+        },
+        {
+            "Key": 73414446,
+            "Value": "{0.00->1.40}Mandou bem, Helldiver!"
         },
         {
             "Key": 73452387,
@@ -26635,6 +26891,10 @@
             "Value": "{0.00->0.84}Estamos quase lá?"
         },
         {
+            "Key": 318686522,
+            "Value": "{0.03->2.04}Esse é o espírito democrático!"
+        },
+        {
             "Key": 319824412,
             "Value": "{0.02->1.08}Objetivo próximo."
         },
@@ -26743,6 +27003,10 @@
             "Value": "{0.02->1.66}Toma! TOMAAAAA!"
         },
         {
+            "Key": 333976837,
+            "Value": "{0.00->1.57}Vambora, Helldiver!"
+        },
+        {
             "Key": 334464368,
             "Value": "{0.06->4.60}Hmm! Que cheiro de tripa de Molusco... Deve ter sido uma bela missão."
         },
@@ -26775,6 +27039,10 @@
             "Value": "{0.00->1.85}Reforços inimigos se aproximando."
         },
         {
+            "Key": 341908612,
+            "Value": "{0.00->2.22}Pela Democracia Gerenciada!"
+        },
+        {
             "Key": 342054487,
             "Value": "{0.00->1.20}O inimigo já era."
         },
@@ -26801,6 +27069,10 @@
         {
             "Key": 344347970,
             "Value": "{0.00->5.68}Boas-vindas à ponte, Helldiver. Daqui, guiaremos a Galáxia até a Liberdade. {6.19->9.30}Abra o mapa galáctico e assuma o comando da luta."
+        },
+        {
+            "Key": 345163003,
+            "Value": "{0.00->0.91}Heroico!"
         },
         {
             "Key": 346665154,
@@ -28781,6 +29053,10 @@
         {
             "Key": 642564285,
             "Value": "{0.10->2.49}ISTO é o que eu chamo de Helldiver. {2.88->9.64}Parece eu era quando jovem — destemido, implacável e com dois metros de altura."
+        },
+        {
+            "Key": 643109429,
+            "Value": "{0.00->0.73}Vambora,{1.10->1.76}Helldiver!"
         },
         {
             "Key": 643189793,
@@ -31235,6 +31511,10 @@
             "Value": "{0.00->3.89}Expulse os inimigos. Acabe com esta ocupação injusta."
         },
         {
+            "Key": 1026515786,
+            "Value": "{0.03->1.85}É isso mesmo, tá certo."
+        },
+        {
             "Key": 1026968415,
             "Value": "{0.00->5.72}Ele teria que amarrar um gerador de antimatéria dos Iluminados no peito e libertar todos os amigos {5.72->6.12}dele."
         },
@@ -32807,6 +33087,10 @@
             "Value": "{0.02->5.17}Em todos os registros da Superterra, não há um só caso confirmado de um Hellpod matar um Helldiver."
         },
         {
+            "Key": 1265977461,
+            "Value": "{0.00->1.24}Heroico!"
+        },
+        {
             "Key": 1266537929,
             "Value": "{0.01->2.79}Foi acionada?! Vai, vai, vai, vai, vai!"
         },
@@ -33859,6 +34143,10 @@
             "Value": "{0.00->0.77}50 metros."
         },
         {
+            "Key": 1421265321,
+            "Value": "{0.06->1.91}Viu só? Vai ficar tudo bem!"
+        },
+        {
             "Key": 1421886081,
             "Value": "{0.00->0.66}Inimigo de elite."
         },
@@ -34101,6 +34389,10 @@
         {
             "Key": 1459545139,
             "Value": "{0.00->1.34}Pedindo ataque orbital."
+        },
+        {
+            "Key": 1459638435,
+            "Value": "{0.00->1.15}Certamente, Helldiver."
         },
         {
             "Key": 1459810117,
@@ -34489,6 +34781,10 @@
         {
             "Key": 1525283168,
             "Value": "{0.00->3.53}PELA SUPERTERRAAAAAA!"
+        },
+        {
+            "Key": 1525376231,
+            "Value": "{0.00->1.21}Majestoso."
         },
         {
             "Key": 1525829500,
@@ -38039,6 +38335,10 @@
             "Value": "{0.00->2.70}São os Helldivers! Vão nos salvar!"
         },
         {
+            "Key": 2106534627,
+            "Value": "{0.00->1.27}Certamente, Helldiver."
+        },
+        {
             "Key": 2106720526,
             "Value": "{0.00->1.93}Eu vou me lembrar disso pra sempre."
         },
@@ -40115,6 +40415,10 @@
             "Value": "{0.00->1.63}Eu já me sinto mais seguro."
         },
         {
+            "Key": 2433523948,
+            "Value": "{0.04->1.41}Que da hora!"
+        },
+        {
             "Key": 2435757531,
             "Value": "{0.00->0.67}Sudeste."
         },
@@ -40201,6 +40505,10 @@
         {
             "Key": 2450349725,
             "Value": "{0.00->3.95}Os inimigos não conseguiram abater nem sequer um Helldiver hoje. {5.12->7.31}Você é invencível mesmo."
+        },
+        {
+            "Key": 2450381921,
+            "Value": "{0.00->0.74}Mandou bem,{1.11->1.87}Helldiver!"
         },
         {
             "Key": 2450808114,
@@ -43975,6 +44283,10 @@
             "Value": "{0.00->4.57}A EED é tão grande que precisa de 10 comandantes.{4.73->5.95}Dá pra imaginar?"
         },
         {
+            "Key": 3025025811,
+            "Value": "{0.00->1.52}Majestoso."
+        },
+        {
             "Key": 3025382533,
             "Value": "{0.00->0.77}Conseguimos!"
         },
@@ -44669,6 +44981,10 @@
         {
             "Key": 3113662795,
             "Value": "{0.05->4.54}Esta operação não é mais viável. Precisamos redirecionar o nosso foco."
+        },
+        {
+            "Key": 3114836861,
+            "Value": "{0.03->1.66}Igualzinho nos filmes."
         },
         {
             "Key": 3115697932,
@@ -45895,6 +46211,10 @@
             "Value": "{0.03->1.01}Estão vindo!"
         },
         {
+            "Key": 3303620142,
+            "Value": "{0.01->1.58}É isso mesmo, tá certo."
+        },
+        {
             "Key": 3303758698,
             "Value": "{0.00->4.74}Boas-vindas a bordo, Helldiver. Com você aqui, a guerra já está quase ganha."
         },
@@ -46173,6 +46493,10 @@
         {
             "Key": 3346410913,
             "Value": "{0.00->1.11}Mais Iluminados!"
+        },
+        {
+            "Key": 3346570712,
+            "Value": "{0.05->1.34}Que da hora!"
         },
         {
             "Key": 3348156033,
@@ -49289,6 +49613,10 @@
         {
             "Key": 3810131705,
             "Value": "{0.04->2.20}Mate eles! Todos eles!"
+        },
+        {
+            "Key": 3810276659,
+            "Value": "{0.05->2.56}Uau, quanta classe..."
         },
         {
             "Key": 3810308506,
@@ -53599,6 +53927,10 @@
             "Value": "Párias retalhadores"
         },
         {
+            "Key": 701778717,
+            "Value": "PADRÃO CAMUFLAGEM VERDEJANTE DE TANQUE"
+        },
+        {
             "Key": 702073419,
             "Value": "NOVO ARMAZENAL"
         },
@@ -54547,6 +54879,10 @@
             "Value": "Atropelador"
         },
         {
+            "Key": 1301918093,
+            "Value": "PADRÃO POLÍMERO GLACIAL DE TANQUE"
+        },
+        {
             "Key": 1302324884,
             "Value": "Exoperitos"
         },
@@ -54749,6 +55085,10 @@
         {
             "Key": 1443392861,
             "Value": "REAF"
+        },
+        {
+            "Key": 1444277062,
+            "Value": "DEMOCRACIA IMPENETRÁVEL"
         },
         {
             "Key": 1450751683,
@@ -55347,6 +55687,10 @@
             "Value": "DISTRITO ELEITORAL F-012357"
         },
         {
+            "Key": 1840550856,
+            "Value": "Pináculos Bisbilhoteiros"
+        },
+        {
             "Key": 1842172307,
             "Value": "MENKENT"
         },
@@ -55799,6 +56143,10 @@
             "Value": "Superterra"
         },
         {
+            "Key": 2173773782,
+            "Value": "PINÁCULO BISBILHOTEIRO"
+        },
+        {
             "Key": 2174969617,
             "Value": "da Integridade"
         },
@@ -55927,6 +56275,10 @@
             "Value": "Garra"
         },
         {
+            "Key": 2259733865,
+            "Value": "Pináculo Bisbilhoteiro"
+        },
+        {
             "Key": 2260123791,
             "Value": "YORK SUPREMA"
         },
@@ -55997,6 +56349,10 @@
         {
             "Key": 2327521397,
             "Value": "Vigia"
+        },
+        {
+            "Key": 2329483149,
+            "Value": "PADRÃO ÔNIX EXECUTIVO DE TANQUE"
         },
         {
             "Key": 2337934883,
@@ -56209,6 +56565,10 @@
         {
             "Key": 2480584215,
             "Value": "Caçadores"
+        },
+        {
+            "Key": 2491297982,
+            "Value": "BROTO DO VAZIO"
         },
         {
             "Key": 2493835917,
@@ -57059,6 +57419,10 @@
             "Value": "CARAMOOR"
         },
         {
+            "Key": 3042563908,
+            "Value": "Broto do Vazio"
+        },
+        {
             "Key": 3042591905,
             "Value": "Fanáticos"
         },
@@ -57217,6 +57581,10 @@
         {
             "Key": 3150803681,
             "Value": "Mãe"
+        },
+        {
+            "Key": 3153187845,
+            "Value": "Brotos do Vazio"
         },
         {
             "Key": 3158883809,
@@ -58461,6 +58829,10 @@
         {
             "Key": 4018724654,
             "Value": "Baskin"
+        },
+        {
+            "Key": 4022308390,
+            "Value": "Democracia Impenetrável"
         },
         {
             "Key": 4036369765,
@@ -67051,6 +67423,10 @@
             "Value": "Libertem Malevelon Creek."
         },
         {
+            "Key": 2686165,
+            "Value": "Atrasa o progresso inimigo nas <i=1>campanhas de defesa</i>."
+        },
+        {
             "Key": 6392759,
             "Value": "METODOLOGIA DE ACONDICIONAMENTO SUPERIOR"
         },
@@ -67081,6 +67457,10 @@
         {
             "Key": 26981275,
             "Value": "Você atingiu o limite aprovado de generosidade. Aguarde #DAYSd e #HOURSh até a próxima doação."
+        },
+        {
+            "Key": 29654180,
+            "Value": "BOMBARDEIO PLANETÁRIO (OEM)"
         },
         {
             "Key": 30700920,
@@ -67371,6 +67751,10 @@
             "Value": "Melhora o controle de direção dos Hellpods no posicionamento de Helldivers."
         },
         {
+            "Key": 219781294,
+            "Value": "ÁGUIA TEMPESTIVA (GÁS)"
+        },
+        {
             "Key": 222601610,
             "Value": "ESTILHAÇOS EXPLOSIVOS"
         },
@@ -67457,6 +67841,10 @@
         {
             "Key": 267703664,
             "Value": "Tecla"
+        },
+        {
+            "Key": 268849305,
+            "Value": "Acelera o progresso das <i=1>campanhas de libertação</i>."
         },
         {
             "Key": 269788141,
@@ -67791,6 +68179,10 @@
             "Value": "ESTRATÉGIA"
         },
         {
+            "Key": 486084074,
+            "Value": "Alocação de EAT Excedente"
+        },
+        {
             "Key": 488540690,
             "Value": "Agosto"
         },
@@ -67829,6 +68221,10 @@
         {
             "Key": 511125198,
             "Value": "EXPANSÃO DE CIRCUITOS"
+        },
+        {
+            "Key": 516388599,
+            "Value": "A EED envia <i=1>Ataques com Gás via Águia</i> durante as missões."
         },
         {
             "Key": 517790385,
@@ -68307,6 +68703,10 @@
             "Value": "A melhor coisa que eu já comprei desde minha faca de combate!"
         },
         {
+            "Key": 839663680,
+            "Value": "CONTRAMEDIDAS VEICULARES"
+        },
+        {
             "Key": 843419660,
             "Value": "Perfil de qualidade"
         },
@@ -68317,6 +68717,10 @@
         {
             "Key": 852429409,
             "Value": "CANCELAR PEDIDO DE AMIZADE"
+        },
+        {
+            "Key": 854049255,
+            "Value": "Envia <i=1>Ataques com Gás via Águia</i> periódicos durante as missões. Atrasa o progresso inimigo nas <i=1>campanhas de defesa</i>."
         },
         {
             "Key": 854540367,
@@ -68483,6 +68887,10 @@
             "Value": "POSTO AVANÇADO ALPHA II"
         },
         {
+            "Key": 954250205,
+            "Value": "Dispara <i=1>Barragens Orbitais com Gás</i> periódicas durante as missões. Acelera o progresso das <i=1>campanhas de libertação</i>."
+        },
+        {
             "Key": 954274193,
             "Value": "<i=1>Vote</i> no local para onde você gostaria que a EED se deslocasse a seguir.\n\n<i=1>Doe recursos</i> para ativar <i=1>ações táticas</i> da estação, que são habilidades poderosas que podem influenciar bastante os rumos da batalha pela libertação planetária. Apenas uma <i=1>ação tática</i> pode estar ativa por vez."
         },
@@ -68579,6 +68987,10 @@
             "Value": "Autômatos"
         },
         {
+            "Key": 1049762364,
+            "Value": "Acelera o progresso das <i=1>campanhas de libertação</i>."
+        },
+        {
             "Key": 1056438189,
             "Value": "ALTERNAR HUD"
         },
@@ -68644,7 +69056,7 @@
         },
         {
             "Key": 1098847091,
-            "Value": "TANQUE"
+            "Value": "BASTIÃO"
         },
         {
             "Key": 1098929518,
@@ -68732,7 +69144,7 @@
         },
         {
             "Key": 1157962409,
-            "Value": "Incrementa os uniformes dos Helldivers com sistemas de supressão de incêndio automatizados, de resposta rápida e ajustados ao corpo. Reduz significativamente o tempo necessário para um Helldiver em chamas extinguir o fogo naturalmente, sem a necessidade de realizar manobras rápidas de abafamento auxiliadas pelo solo."
+            "Value": "Incrementa os uniformes dos Helldivers com sistemas de supressão de incêndio automatizados, de resposta rápida e ajustados ao corpo. Reduz significativamente o tempo necessário para extinguir as chamas naturalmente, sem realizar manobras de abafamento auxiliadas pelo solo."
         },
         {
             "Key": 1159669979,
@@ -68963,6 +69375,10 @@
             "Value": "Limite de estabilização do sensor de movimento"
         },
         {
+            "Key": 1327925108,
+            "Value": "ALOCAÇÃO DE EAT EXCEDENTE"
+        },
+        {
             "Key": 1332690519,
             "Value": "Dispara <i=1>barragens orbitais</i> periódicas durante as missões. Acelera o progresso das <i=1>campanhas de libertação.</i>"
         },
@@ -68973,6 +69389,10 @@
         {
             "Key": 1336786945,
             "Value": "ALTERNAR MENU"
+        },
+        {
+            "Key": 1339687646,
+            "Value": "Envia <i=1>Ataques de Napalm via Águia</i> periódicos durante as missões. Atrasa o progresso inimigo nas <i=1>Campanhas de defesa</i>."
         },
         {
             "Key": 1341439698,
@@ -69065,6 +69485,10 @@
         {
             "Key": 1418104632,
             "Value": "Qualidade das sombras"
+        },
+        {
+            "Key": 1418512280,
+            "Value": "Concede dois usos gratuitos da Estratégia Antitanque Descartável (EAT) por missão; o suficiente para munir um esquadrão inteiro com lança-foguetes descartáveis, desde que os integrantes apliquem o protocolo adequado de compartilhamento de equipamentos."
         },
         {
             "Key": 1423642964,
@@ -69217,6 +69641,10 @@
         {
             "Key": 1562816190,
             "Value": "Atenção para o seguinte Anúncio de Serviço Patriótico.\nA falta de atenção será considerada traição.\n\n\nAgradecemos a cooperação."
+        },
+        {
+            "Key": 1565920730,
+            "Value": "A EED dispara bombardeios orbitais ininterruptos a partir dos seus 77 canhões da classe CONSTITUIÇÃO, fornecendo apoio de artilharia ao redor do planeta e acelerando os esforços de libertação."
         },
         {
             "Key": 1566020817,
@@ -69823,6 +70251,10 @@
             "Value": "Bate-papo por voz"
         },
         {
+            "Key": 1997876688,
+            "Value": "A tripulação da EED usa o enorme Compartimento de Convocação triplo para manter uma verdadeira frota de Caças Águias, que se reveza em serviço 24 horas para apoiar de perto todas as operações dos Helldivers, restringindo as ofensivas inimigas."
+        },
+        {
             "Key": 1998725604,
             "Value": "SOLTAR DEVAGAR"
         },
@@ -69888,7 +70320,7 @@
         },
         {
             "Key": 2022070704,
-            "Value": "Se a opção estiver ativada, sempre que você equipar uma arma, as últimas funções de arma usadas serão lembradas, por exemplo, o modo de disparo."
+            "Value": "Se a opção estiver ativada, sempre que você equipar ou entrar em ação com uma arma, serão lembrados os últimos parâmetros usados, como o modo de disparo."
         },
         {
             "Key": 2022789461,
@@ -70080,7 +70512,7 @@
         },
         {
             "Key": 2124980752,
-            "Value": "VEÍCULO DE RECONHECIMENTO RÁPIDO"
+            "Value": "VRR METRALHADOR"
         },
         {
             "Key": 2131964075,
@@ -70255,6 +70687,10 @@
             "Value": "SOLTAR"
         },
         {
+            "Key": 2255958927,
+            "Value": "A EED envia <i=1>Ataques de Napalm via Águia</i> durante as missões."
+        },
+        {
             "Key": 2258202023,
             "Value": "A dificuldade da missão é determinada em parte pelos tipos de unidades inimigas na área. Não deixe de levar o armamento apropriado!"
         },
@@ -70365,6 +70801,10 @@
         {
             "Key": 2334087255,
             "Value": "EXTRATOR DE AMOSTRAS"
+        },
+        {
+            "Key": 2335821577,
+            "Value": "A EED dispara <i=1>Ataques Orbitais de OEM</i> durante as missões."
         },
         {
             "Key": 2336690627,
@@ -70537,6 +70977,10 @@
         {
             "Key": 2432548796,
             "Value": "Escolha a resolução da tela. Essa configuração determina o número de pixels da imagem final. Valores mais baixos resultarão em uma imagem menos detalhada. No modo de janela, essa configuração também determina o tamanho da janela. Nos outros modos, recomendamos usar a resolução da tela e ajustar a escala de renderização para obter o desempenho desejado."
+        },
+        {
+            "Key": 2437506181,
+            "Value": "A EED dispara bombardeios orbitais ininterruptos a partir dos seus 77 canhões da classe CONSTITUIÇÃO, fornecendo apoio de artilharia ao redor do planeta e acelerando os esforços de libertação."
         },
         {
             "Key": 2439654161,
@@ -71055,6 +71499,10 @@
             "Value": "MÓDULOS DESBLOQUEADOS"
         },
         {
+            "Key": 2778454966,
+            "Value": "BOMBARDEIO PLANETÁRIO (CANHÃO ELÉTRICO)"
+        },
+        {
             "Key": 2787485826,
             "Value": "Qualidade das nuvens volumétricas"
         },
@@ -71157,6 +71605,10 @@
         {
             "Key": 2846437244,
             "Value": "Supercréditos"
+        },
+        {
+            "Key": 2847856946,
+            "Value": "ÁGUIA TEMPESTIVA (NAPALM)"
         },
         {
             "Key": 2848920507,
@@ -71381,6 +71833,10 @@
         {
             "Key": 2992434631,
             "Value": "As missões estão cheias de pontos de interesse não explorados. Confira todos — você nunca sabe o que vai encontrar."
+        },
+        {
+            "Key": 2993028844,
+            "Value": "A tripulação da EED usa o enorme Compartimento de Convocação triplo para manter uma verdadeira frota de Caças Águias, que se reveza em serviço 24 horas para apoiar de perto todas as operações dos Helldivers, restringindo as ofensivas inimigas."
         },
         {
             "Key": 2993112532,
@@ -71901,6 +72357,10 @@
         {
             "Key": 3348047729,
             "Value": "Determina como a transcrição de bate-papo será usada. Opções disponíveis:\nDesligada: nenhuma transcrição de bate-papo.\nApenas para receber: transcreve o bate-papo por voz recebido para texto.\nApenas para enviar: converte o texto para bate-papo por voz a ser enviado. \nCompleta: combina ambas as opções anteriores."
+        },
+        {
+            "Key": 3349506732,
+            "Value": "Dispara <i=1>Ataques de Canhão Elétrico Orbitais</i> periódicos durante as missões. Acelera o progresso das <i=1>campanhas de libertação</i>."
         },
         {
             "Key": 3351977030,
@@ -72463,6 +72923,10 @@
             "Value": "DISPONÍVEL NO <i=1>NÍVEL #RANK</i>"
         },
         {
+            "Key": 3728787125,
+            "Value": "A EED dispara <i=1>Ataques de Canhão Elétrico Orbitais</i> durante as missões."
+        },
+        {
             "Key": 3728886375,
             "Value": "Gesto"
         },
@@ -72839,6 +73303,10 @@
             "Value": "Grande alcance dinâmico (HDR)"
         },
         {
+            "Key": 3962818076,
+            "Value": "Atrasa o progresso inimigo nas <i=1>Campanhas de defesa</i>."
+        },
+        {
             "Key": 3965496950,
             "Value": "MIRAS"
         },
@@ -72933,6 +73401,10 @@
         {
             "Key": 4000019774,
             "Value": "Leia o código QR ou pressione o botão abaixo para começar a vincular suas contas do Steam e da PlayStation™Network"
+        },
+        {
+            "Key": 4000426134,
+            "Value": "ÁGUIA TEMPESTIVA (NAPALM)"
         },
         {
             "Key": 4000977582,
@@ -73095,6 +73567,10 @@
             "Value": "ARMA PRINCIPAL"
         },
         {
+            "Key": 4080572359,
+            "Value": "BOMBARDEIO PLANETÁRIO (OEM)"
+        },
+        {
             "Key": 4080586754,
             "Value": "RODA DE ARMAS RÁPIDA PARA CIMA"
         },
@@ -73223,6 +73699,10 @@
             "Value": "SECUNDÁRIO"
         },
         {
+            "Key": 4140620777,
+            "Value": "BOMBARDEIO PLANETÁRIO (CANHÃO ELÉTRICO)"
+        },
+        {
             "Key": 4142720788,
             "Value": "Módulo da nave"
         },
@@ -73277,6 +73757,10 @@
         {
             "Key": 4174538412,
             "Value": "INTERAÇÃO DO JOGADOR"
+        },
+        {
+            "Key": 4175225310,
+            "Value": "ÁGUIA TEMPESTIVA (GÁS)"
         },
         {
             "Key": 4177152212,

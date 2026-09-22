@@ -2303,6 +2303,10 @@
             "Value": "+#COUNT"
         },
         {
+            "Key": 2686165,
+            "Value": "Enemy progress in <i=1>Defence Campaigns</i> is slowed."
+        },
+        {
             "Key": 6392759,
             "Value": "SUPERIOR PACKING METHODOLOGY"
         },
@@ -2337,6 +2341,10 @@
         {
             "Key": 26981275,
             "Value": "You have reached the approved generosity limit. Please wait #DAYS d #HOURS h before donating again."
+        },
+        {
+            "Key": 29654180,
+            "Value": "PLANETARY BOMBARDMENT—EMS"
         },
         {
             "Key": 30700920,
@@ -2683,6 +2691,10 @@
             "Value": "Improves steering for Helldivers during Hellpod deployment."
         },
         {
+            "Key": 219781294,
+            "Value": "EAGLE STORM—GAS"
+        },
+        {
             "Key": 222601610,
             "Value": "EXPLODING SHRAPNEL"
         },
@@ -2789,6 +2801,10 @@
         {
             "Key": 267703664,
             "Value": "Key"
+        },
+        {
+            "Key": 268849305,
+            "Value": "Progress in <i=1>Liberation Campaigns</i> is accelerated."
         },
         {
             "Key": 269788141,
@@ -3207,6 +3223,10 @@
             "Value": "STRATAGEM"
         },
         {
+            "Key": 486084074,
+            "Value": "Surplus EAT Allocation"
+        },
+        {
             "Key": 488540690,
             "Value": "August"
         },
@@ -3257,6 +3277,10 @@
         {
             "Key": 511125198,
             "Value": "CIRCUIT EXPANSION"
+        },
+        {
+            "Key": 516388599,
+            "Value": "The DSS deploys <i=1>Eagle Gas Strikes</i> during missions."
         },
         {
             "Key": 517790385,
@@ -3827,6 +3851,10 @@
             "Value": "The best thing I've bought since my Combat Knife!"
         },
         {
+            "Key": 839663680,
+            "Value": "VEHICLE COUNTERMEASURES"
+        },
+        {
             "Key": 843419660,
             "Value": "Quality Profile"
         },
@@ -3837,6 +3865,10 @@
         {
             "Key": 852429409,
             "Value": "CANCEL FRIEND REQUEST"
+        },
+        {
+            "Key": 854049255,
+            "Value": "Deploys periodic <i=1>Eagle Gas Strikes</i> during missions. Slows enemy progress in <i=1>Defence Campaigns</i>."
         },
         {
             "Key": 854540367,
@@ -4043,6 +4075,10 @@
             "Value": "OUTPOST ALPHA II"
         },
         {
+            "Key": 954250205,
+            "Value": "Fires periodic <i=1>Orbital Gas Barrages</i> during missions. Accelerates progress in <i=1>Liberation Campaigns</i>."
+        },
+        {
             "Key": 954274193,
             "Value": "<i=1>Cast your vote</i> to influence where the DSS will be stationed during its next cycle.\n\n<i=1>Donate resources</i> to activate the Station's <i=1>Tactical Actions:</i> powerful abilities that can dramatically alter the fight for a planet's freedom. Only one <i=1>Tactical Action</i> can be active at a time."
         },
@@ -4183,6 +4219,10 @@
             "Value": "Inventory full"
         },
         {
+            "Key": 1049762364,
+            "Value": "Progress in <i=1>Liberation Campaigns</i> is accelerated."
+        },
+        {
             "Key": 1056438189,
             "Value": "TOGGLE HUD"
         },
@@ -4268,7 +4308,7 @@
         },
         {
             "Key": 1098847091,
-            "Value": "TANK"
+            "Value": "BASTION"
         },
         {
             "Key": 1098929518,
@@ -4388,7 +4428,7 @@
         },
         {
             "Key": 1157962409,
-            "Value": "Upgrades Helldiver uniforms with form-fitting, automated, rapid-response fire suppression systems. Significantly reduces the time it takes for a burning Helldiver to naturally extinguish flames without the need to conduct rapid ground-aided smothering manoeuvres."
+            "Value": "Equips Helldiver uniforms with form-fitting, automated, rapid-response fire suppression systems. Significantly reduces the time it takes to naturally extinguish flames without conducting ground-aided smothering manoeuvres."
         },
         {
             "Key": 1159669979,
@@ -4675,6 +4715,10 @@
             "Value": "Motion Sensor Steadying Threshold"
         },
         {
+            "Key": 1327925108,
+            "Value": "SURPLUS EAT ALLOCATION"
+        },
+        {
             "Key": 1332690519,
             "Value": "Fires periodic <i=1>Orbital Barrages</i> during missions. Accelerates progress in <i=1>Liberation Campaigns.</i>"
         },
@@ -4685,6 +4729,10 @@
         {
             "Key": 1336786945,
             "Value": "TOGGLE MENU"
+        },
+        {
+            "Key": 1339687646,
+            "Value": "Deploys periodic <i=1>Eagle Napalm Strikes</i> during missions. Slows enemy progress in <i=1>Defence Campaigns</i>."
         },
         {
             "Key": 1341439698,
@@ -4805,6 +4853,10 @@
         {
             "Key": 1418104632,
             "Value": "Shadow Quality"
+        },
+        {
+            "Key": 1418512280,
+            "Value": "Grants two free uses of the Expendable Anti-Tank (EAT) Stratagem per mission; enough to grant a full squad one single-use rocket launcher each, provided squad members employ the proper equipment distribution protocol."
         },
         {
             "Key": 1423227819,
@@ -5041,6 +5093,10 @@
         {
             "Key": 1565655438,
             "Value": "TACTICIAN"
+        },
+        {
+            "Key": 1565920730,
+            "Value": "The DSS fires nonstop orbital bombardments from its suite of 77 CONSTITUTION-Class Cannons, providing planetwide artillery support and accelerating liberation efforts."
         },
         {
             "Key": 1566020817,
@@ -5787,6 +5843,10 @@
             "Value": "STRATAGEM UPGRADES"
         },
         {
+            "Key": 1997876688,
+            "Value": "DSS crews maintain deployment of a 24-hour rotating fleet of Eagle Fighters from the massive three-tiered Convocation Bay, supporting all Helldiver operations on the planet with close air support and slowing enemy offensives."
+        },
+        {
             "Key": 1998725604,
             "Value": "LONG RELEASE"
         },
@@ -5864,7 +5924,7 @@
         },
         {
             "Key": 2022070704,
-            "Value": "If enabled, whenever you equip a weapon, it will recall the last weapon functions you had used, such as the firing mode."
+            "Value": "If enabled, whenever you drop in with or call in a weapon, it will recall the last weapon functions you had used, such as the firing mode."
         },
         {
             "Key": 2022789461,
@@ -6088,7 +6148,7 @@
         },
         {
             "Key": 2124980752,
-            "Value": "FAST RECON VEHICLE"
+            "Value": "GUNNER FRV"
         },
         {
             "Key": 2131964075,
@@ -6295,6 +6355,10 @@
             "Value": "RELEASE"
         },
         {
+            "Key": 2255958927,
+            "Value": "The DSS deploys <i=1>Eagle Napalm Strikes</i> during missions."
+        },
+        {
             "Key": 2258202023,
             "Value": "Mission difficulty is determined in part by the types of enemy units in the area. Make sure you bring the appropriate weaponry!"
         },
@@ -6449,6 +6513,10 @@
         {
             "Key": 2334543399,
             "Value": "RANGER"
+        },
+        {
+            "Key": 2335821577,
+            "Value": "The DSS fires <i=1>Orbital EMS Strikes</i> during missions."
         },
         {
             "Key": 2336690627,
@@ -6645,6 +6713,10 @@
         {
             "Key": 2434289620,
             "Value": "MARRE IV GUERRILLA SHOULDER (R)"
+        },
+        {
+            "Key": 2437506181,
+            "Value": "The DSS fires nonstop orbital bombardments from its suite of 77 CONSTITUTION-Class Cannons, providing planetwide artillery support and accelerating liberation efforts."
         },
         {
             "Key": 2439654161,
@@ -7335,6 +7407,10 @@
             "Value": "Brought to you by the Super Earth Ministry of Truth. Undivided attention is mandatory."
         },
         {
+            "Key": 2778454966,
+            "Value": "PLANETARY BOMBARDMENT—RAILCANNON"
+        },
+        {
             "Key": 2782793494,
             "Value": "IMPROVED GUIDANCE SENSORS"
         },
@@ -7485,6 +7561,10 @@
         {
             "Key": 2847648278,
             "Value": "Placeholder. Description required here."
+        },
+        {
+            "Key": 2847856946,
+            "Value": "EAGLE STORM—NAPALM"
         },
         {
             "Key": 2848920507,
@@ -7769,6 +7849,10 @@
         {
             "Key": 2992434631,
             "Value": "Missions are filled with unexplored points of interest. Check them out—you never know what you might find."
+        },
+        {
+            "Key": 2993028844,
+            "Value": "DSS crews maintain deployment of a 24-hour rotating fleet of Eagle Fighters from the massive three-tiered Convocation Bay, supporting all Helldiver operations on the planet with close air support and slowing enemy offensives."
         },
         {
             "Key": 2993112532,
@@ -8429,6 +8513,10 @@
         {
             "Key": 3348047729,
             "Value": "Determines how voice chat transcription is used. Available options:\nOff: No voice chat transcription \nIncoming only: Transcribe incoming voice chat as text\nOutgoing only: Outgoing voice chat is synthesised from text\nFull: Combines both of the previous options"
+        },
+        {
+            "Key": 3349506732,
+            "Value": "Fires periodic <i=1>Orbital Railcannon Strikes</i> during missions. Accelerates progress in <i=1>Liberation Campaigns</i>."
         },
         {
             "Key": 3351977030,
@@ -9115,6 +9203,10 @@
             "Value": "AVAILABLE AT <i=1>LEVEL #RANK</i>"
         },
         {
+            "Key": 3728787125,
+            "Value": "The DSS fires <i=1>Orbital Railcannon Strikes</i> during missions."
+        },
+        {
             "Key": 3728886375,
             "Value": "Emote"
         },
@@ -9579,6 +9671,10 @@
             "Value": "Weapons variants TEST pack"
         },
         {
+            "Key": 3962818076,
+            "Value": "Enemy progress in <i=1>Defence Campaigns</i> is slowed."
+        },
+        {
             "Key": 3965496950,
             "Value": "OPTICS"
         },
@@ -9677,6 +9773,10 @@
         {
             "Key": 4000019774,
             "Value": "Scan the QR code or press the button below to begin linking your accounts from Steam and PlayStation™Network"
+        },
+        {
+            "Key": 4000426134,
+            "Value": "EAGLE STORM—NAPALM"
         },
         {
             "Key": 4000977582,
@@ -9875,6 +9975,10 @@
             "Value": "PRIMARY WEAPON"
         },
         {
+            "Key": 4080572359,
+            "Value": "PLANETARY BOMBARDMENT—EMS"
+        },
+        {
             "Key": 4080586754,
             "Value": "QUICK WEAPON WHEEL UP"
         },
@@ -10031,6 +10135,10 @@
             "Value": "SECONDARY"
         },
         {
+            "Key": 4140620777,
+            "Value": "PLANETARY BOMBARDMENT—RAILCANNON"
+        },
+        {
             "Key": 4142720788,
             "Value": "Ship Module"
         },
@@ -10105,6 +10213,10 @@
         {
             "Key": 4174951892,
             "Value": "Grants *Super Earth Armed Forces squad* Stratagem for the mission. "
+        },
+        {
+            "Key": 4175225310,
+            "Value": "EAGLE STORM—GAS"
         },
         {
             "Key": 4177152212,
@@ -10631,6 +10743,10 @@
             "Value": "Increases melee damage by <c=#COLOR>#BONUS</c>."
         },
         {
+            "Key": 120104945,
+            "Value": "Shroud of the Juggernaut"
+        },
+        {
             "Key": 120146337,
             "Value": "Large Ammo-Drum"
         },
@@ -11141,6 +11257,10 @@
         {
             "Key": 286244856,
             "Value": "Mortar Sentry"
+        },
+        {
+            "Key": 286599935,
+            "Value": "ARBITRATOR"
         },
         {
             "Key": 289101936,
@@ -12027,6 +12147,10 @@
             "Value": "A laser weapon firing a continuous beam. Doesn't require ammunition, but will need heat sink replaced if it overheats."
         },
         {
+            "Key": 598140873,
+            "Value": "TD-110"
+        },
+        {
             "Key": 598279086,
             "Value": "GS-11 Democracy's Deputy"
         },
@@ -12427,6 +12551,10 @@
             "Value": "BUNKER BUSTER"
         },
         {
+            "Key": 717014193,
+            "Value": "Anti-Tank Seeker"
+        },
+        {
             "Key": 717377401,
             "Value": "CONTACT MINE"
         },
@@ -12679,6 +12807,10 @@
             "Value": "No optic attachment"
         },
         {
+            "Key": 813522502,
+            "Value": "AR-11"
+        },
+        {
             "Key": 813559744,
             "Value": "Improved Servos"
         },
@@ -12875,6 +13007,10 @@
             "Value": "A laser pistol that fires a continuous beam. Does not require ammo but can overheat and need to change batteries."
         },
         {
+            "Key": 866905090,
+            "Value": "Arbitrator"
+        },
+        {
             "Key": 866947018,
             "Value": "The clasps on this cape are made from melted down Automaton housings — evidence of Democracy's inevitable triumph."
         },
@@ -12893,6 +13029,10 @@
         {
             "Key": 869458607,
             "Value": "SG-8F"
+        },
+        {
+            "Key": 870226241,
+            "Value": "G-60"
         },
         {
             "Key": 870471178,
@@ -13249,6 +13389,10 @@
         {
             "Key": 996378365,
             "Value": "EXTRA MAGAZINE"
+        },
+        {
+            "Key": 997517569,
+            "Value": "Tread of Liberty"
         },
         {
             "Key": 999321846,
@@ -13893,6 +14037,10 @@
         {
             "Key": 1221303241,
             "Value": "STANDARD BARREL"
+        },
+        {
+            "Key": 1222153591,
+            "Value": "TREAD OF LIBERTY"
         },
         {
             "Key": 1223137345,
@@ -14863,6 +15011,10 @@
             "Value": "SHIELD GENERATOR RELAY"
         },
         {
+            "Key": 1558808734,
+            "Value": "Moulded from high-impact synthetic polymers. This sleek, stark white faceless armour both reduces mass manufacturing costs and ensures the wearer is highly visible on almost every battlefield, bravely drawing enemy fire away from considerably more costly vehicular assets."
+        },
+        {
             "Key": 1561103553,
             "Value": "A heavy one-handed blade. Slower to swing than other melee weapons, but deals more damage."
         },
@@ -14893,6 +15045,10 @@
         {
             "Key": 1574114144,
             "Value": "RE-1861 PARADE COMMANDER"
+        },
+        {
+            "Key": 1574299520,
+            "Value": "BFM-77 Reformer"
         },
         {
             "Key": 1575860721,
@@ -15139,8 +15295,16 @@
             "Value": "SMG-72"
         },
         {
+            "Key": 1672153501,
+            "Value": "Sai"
+        },
+        {
             "Key": 1672483217,
             "Value": "A holographic sight."
+        },
+        {
+            "Key": 1673011979,
+            "Value": "BFM-16 TANKER"
         },
         {
             "Key": 1673875834,
@@ -15295,6 +15459,10 @@
             "Value": "De-Escalator"
         },
         {
+            "Key": 1714392392,
+            "Value": "LAS-12"
+        },
+        {
             "Key": 1714459044,
             "Value": "Gallant"
         },
@@ -15421,6 +15589,10 @@
         {
             "Key": 1758285928,
             "Value": "Combat Blend"
+        },
+        {
+            "Key": 1759411076,
+            "Value": "EVICTOR"
         },
         {
             "Key": 1761328847,
@@ -15613,6 +15785,14 @@
         {
             "Key": 1825331623,
             "Value": "SA-04 Combat Technician"
+        },
+        {
+            "Key": 1825935594,
+            "Value": "MAELSTROM"
+        },
+        {
+            "Key": 1828041057,
+            "Value": "A trio of lenses, enabling a rapid rate of fire with a wide spread."
         },
         {
             "Key": 1828467212,
@@ -15817,6 +15997,10 @@
         {
             "Key": 1898044942,
             "Value": "Reload Drills"
+        },
+        {
+            "Key": 1903306495,
+            "Value": "GL-15"
         },
         {
             "Key": 1904969535,
@@ -16639,6 +16823,10 @@
             "Value": "GR-8"
         },
         {
+            "Key": 2149115198,
+            "Value": "Maelstrom"
+        },
+        {
             "Key": 2152148492,
             "Value": "P-19"
         },
@@ -16661,6 +16849,10 @@
         {
             "Key": 2160430656,
             "Value": "For technology-focused Helldivers. \nSpecialised in utilising offensive and defensive high-tech gadgetry in warfare."
+        },
+        {
+            "Key": 2160849942,
+            "Value": "Inspired by the legendary armoured cavalry of the First Galactic War, this lightweight suit features integrated acoustic dampeners to shield the wearer from the deafening roar of Freedom, and the disruptive screams of dissidence."
         },
         {
             "Key": 2163309955,
@@ -17483,6 +17675,10 @@
             "Value": "TORCHER"
         },
         {
+            "Key": 2427979536,
+            "Value": "SHROUD OF THE JUGGERNAUT"
+        },
+        {
             "Key": 2429942127,
             "Value": "IE-57 Hell-Bent"
         },
@@ -17577,6 +17773,10 @@
         {
             "Key": 2460445122,
             "Value": "Autocannon Sentry"
+        },
+        {
+            "Key": 2462543295,
+            "Value": "4MM"
         },
         {
             "Key": 2463174816,
@@ -17681,6 +17881,10 @@
         {
             "Key": 2489495420,
             "Value": "TESLA TOWER"
+        },
+        {
+            "Key": 2491825007,
+            "Value": "BFM-16 Tanker"
         },
         {
             "Key": 2492665796,
@@ -18023,6 +18227,10 @@
             "Value": "B/FLAM-80"
         },
         {
+            "Key": 2626464813,
+            "Value": "P-34"
+        },
+        {
             "Key": 2627000247,
             "Value": "The wheels can take more damage before they are destroyed."
         },
@@ -18077,6 +18285,10 @@
         {
             "Key": 2650929962,
             "Value": "FIRE RATE SELECTION"
+        },
+        {
+            "Key": 2653685031,
+            "Value": "STANDARD OF RAPID EVACUATION"
         },
         {
             "Key": 2654556013,
@@ -18369,6 +18581,10 @@
         {
             "Key": 2740898511,
             "Value": "Standard Heatsink"
+        },
+        {
+            "Key": 2741072830,
+            "Value": "The striking dorsal tread pattern represents the unstoppable, grinding, and uniform march of Managed Democracy. It boldly assures all onlookers that resistance is not merely futile, but also logistically inefficient and statistically disastrous."
         },
         {
             "Key": 2744478874,
@@ -19123,6 +19339,10 @@
             "Value": "Assault Rifle"
         },
         {
+            "Key": 2976200526,
+            "Value": "SAI"
+        },
+        {
             "Key": 2977726740,
             "Value": "Orbital Cannons"
         },
@@ -19297,6 +19517,10 @@
         {
             "Key": 3043462985,
             "Value": "Kill 'Em All"
+        },
+        {
+            "Key": 3045262509,
+            "Value": "A rapid-fire laser submachine gun prioritising area saturation over pinpoint precision. Its high fire rate makes it effective for close-quarters crowd pacification, provided the user is comfortable with indiscriminate choice of targets."
         },
         {
             "Key": 3045826599,
@@ -19787,6 +20011,10 @@
             "Value": "Orbital Gas Round Mk3"
         },
         {
+            "Key": 3199189069,
+            "Value": "Equipped with a heavy payload suitable against armoured vehicles, this grenade delivery drone follows the user until it detects an enemy nearby, then flies towards it and explodes on impact."
+        },
+        {
             "Key": 3199795572,
             "Value": "AF-02 Haz-Master"
         },
@@ -20075,6 +20303,10 @@
             "Value": "Body type has no impact on gameplay"
         },
         {
+            "Key": 3295638196,
+            "Value": "Standard of Rapid Evacuation"
+        },
+        {
             "Key": 3297369983,
             "Value": "Increases point-of-interest identification range by <c=#COLOR>#BONUS</c>."
         },
@@ -20095,8 +20327,16 @@
             "Value": "Each purchase of this cape comes with a complimentary will and testament amendment form, which guarantees the soon-to-be-deceased a prominent spot on the Wall of Martyrs."
         },
         {
+            "Key": 3303328962,
+            "Value": "This pump-action grenade launcher trades precision for devastating area-of-effect capabilities. Its manual single-round reload makes it a highly methodical choice for squads requiring an explosive approach to dispute resolution."
+        },
+        {
             "Key": 3303496283,
             "Value": "The golden, piercing quills symbolise the deadly and poetic Justice delivered to seditious oppositionists. Silent sanctions, delivered with unerring precision and incontestable deniability."
+        },
+        {
+            "Key": 3305893397,
+            "Value": "The sheer weight of this camouflage shroud perfectly complements a Helldiver operating as a walking tank. Astute observers will also note that the shattered woodland pattern conceals a highly classified, morale-boosting message in Morse code."
         },
         {
             "Key": 3306288095,
@@ -20121,6 +20361,10 @@
         {
             "Key": 3313875777,
             "Value": "Shorter Charge Time"
+        },
+        {
+            "Key": 3313966979,
+            "Value": "Focuses the trio of lenses into firing single shots, trading a slower rate of fire for a reduction in spread."
         },
         {
             "Key": 3313983701,
@@ -20199,6 +20443,10 @@
             "Value": "Heavy Projectile with better damage and ballistics, the downside is the worse accuracy."
         },
         {
+            "Key": 3327050355,
+            "Value": "An assault rifle sporting caseless ammunition and a top-mounted magazine. An electrical firing mechanism releases the rounds in rapid succession upon firing. Equipped with an underslung shotgun for added versatility."
+        },
+        {
             "Key": 3328397576,
             "Value": "The AAPF rounds are designed for surface to air combat against lightly armoured fliers."
         },
@@ -20265,6 +20513,10 @@
         {
             "Key": 3344599083,
             "Value": "The installation of an auto-loader allows the crew to fill a reloadable magazine, reducing the time between uses. Cooldown is lowered by 30 seconds."
+        },
+        {
+            "Key": 3344685447,
+            "Value": "ANTI-TANK SEEKER"
         },
         {
             "Key": 3345385259,
@@ -20571,6 +20823,10 @@
             "Value": "More HMG Mount Mags"
         },
         {
+            "Key": 3450064054,
+            "Value": "TREADHEAD"
+        },
+        {
             "Key": 3450368998,
             "Value": "Diligence Counter Sniper"
         },
@@ -20605,6 +20861,10 @@
         {
             "Key": 3460715746,
             "Value": "ORBITAL WALKING BARRAGE SMOKE"
+        },
+        {
+            "Key": 3461671349,
+            "Value": "FOCUS LENS"
         },
         {
             "Key": 3461754799,
@@ -20663,6 +20923,10 @@
             "Value": "ASSAULT"
         },
         {
+            "Key": 3478978019,
+            "Value": "TRIPLE LENS"
+        },
+        {
             "Key": 3480470718,
             "Value": "12x25mm High Velocity"
         },
@@ -20713,6 +20977,10 @@
         {
             "Key": 3495182510,
             "Value": "DP-40 HERO OF THE FEDERATION"
+        },
+        {
+            "Key": 3496469977,
+            "Value": "HELMET DURABILITY CHECK"
         },
         {
             "Key": 3498937342,
@@ -20927,6 +21195,10 @@
             "Value": "Breaker BugBiter Fluff"
         },
         {
+            "Key": 3566069292,
+            "Value": "Adorned with a fearsome armoured division crest, this abbreviated cape ensures the wearer's elite status is clearly broadcast to their subordinates, without the hem becoming fatally entangled in their own vehicle's heavy tread mechanisms."
+        },
+        {
             "Key": 3570818015,
             "Value": "The 'DAGGER' is a pistol based on a scaled down version of the 'SCYTHE'. It fires a continuous beam capable of heating up surfaces to extreme temperatures in seconds.\n\nThe beam is focused on extreme distance but can be focused further using different prisms, allowing for greater damage if used correctly. Refocusing the beam reduces the efficiency for the non-focused interval."
         },
@@ -21029,6 +21301,10 @@
         {
             "Key": 3610251186,
             "Value": "2x TUBE RED DOT"
+        },
+        {
+            "Key": 3614978999,
+            "Value": "Forged from surplus hull plating, this hulking suit features an integrated servo-bracing system, and a towering blast-shield collar, as favoured by Helldiver barbershop quartets throughout the galaxy."
         },
         {
             "Key": 3619549886,
@@ -21325,6 +21601,10 @@
         {
             "Key": 3705134773,
             "Value": "CREMATOR"
+        },
+        {
+            "Key": 3705477714,
+            "Value": "BFM-220 IRONCLAD"
         },
         {
             "Key": 3707094389,
@@ -21919,6 +22199,10 @@
             "Value": "Several medium damage pellets for unarmoured targets."
         },
         {
+            "Key": 3897706997,
+            "Value": "BFM-220 Ironclad"
+        },
+        {
             "Key": 3898500608,
             "Value": "AC-2 Obedient"
         },
@@ -21945,6 +22229,10 @@
         {
             "Key": 3899708304,
             "Value": "A/M-12"
+        },
+        {
+            "Key": 3900081651,
+            "Value": "BFM-77 REFORMER"
         },
         {
             "Key": 3900912102,
@@ -22067,6 +22355,10 @@
             "Value": "Standard projectile"
         },
         {
+            "Key": 3943508564,
+            "Value": "A missile pistol equipped with sticky projectiles that use phosphorus fuel to burn through an enemy's armour—or any other outer layer—before finally exploding."
+        },
+        {
             "Key": 3944495922,
             "Value": "ATTACK SPEED"
         },
@@ -22113,6 +22405,10 @@
         {
             "Key": 3960518775,
             "Value": "12g BUGSHOT"
+        },
+        {
+            "Key": 3961796442,
+            "Value": "BREACHER"
         },
         {
             "Key": 3964305620,
@@ -22485,6 +22781,10 @@
         {
             "Key": 4084206755,
             "Value": "Call in an emergency beacon to show other Helldivers that you need assistance."
+        },
+        {
+            "Key": 4088299906,
+            "Value": "10G"
         },
         {
             "Key": 4088907109,
@@ -22947,6 +23247,10 @@
             "Value": "The Tesla Tower can be active for longer. Increased from 3 to 4 minutes."
         },
         {
+            "Key": 4229784342,
+            "Value": "BLUNT-FORCE MITIGATION"
+        },
+        {
             "Key": 4232324917,
             "Value": "The SteerComfort fit of this armour allows the wearer to feel every curve, bump, and jostle of their Exosuit, as if they were one single being."
         },
@@ -23011,6 +23315,10 @@
             "Value": "FS-34 Exterminator"
         },
         {
+            "Key": 4267625524,
+            "Value": "A heavily-armoured Infantry Fighting Vehicle (IFV) armed with front-mounted dual Gatling guns, equipped with a deployable smoke screen, and featuring rear-mounted missile silos—its projectiles laser-guided by the gunner's turret."
+        },
+        {
             "Key": 4268863341,
             "Value": "ASSAULT RIFLE"
         },
@@ -23051,6 +23359,10 @@
             "Value": "Fires a spray of lead pellets that spread over distance."
         },
         {
+            "Key": 4275496005,
+            "Value": "Evictor"
+        },
+        {
             "Key": 4275591293,
             "Value": "DEFENDER OF OUR DREAM"
         },
@@ -23075,6 +23387,10 @@
             "Value": "TARGETING DISTANCE"
         },
         {
+            "Key": 4284770213,
+            "Value": "Breacher"
+        },
+        {
             "Key": 4284803845,
             "Value": "M90A"
         },
@@ -23097,6 +23413,10 @@
         {
             "Key": 4290157837,
             "Value": "Explosive tipped projectile that does high damage against massive unarmoured targets."
+        },
+        {
+            "Key": 4290511038,
+            "Value": "Helmet Durability Check"
         },
         {
             "Key": 4291272963,
@@ -23569,6 +23889,10 @@
         {
             "Key": 220517326,
             "Value": "The Automatons' losses have begun to impact their ability to supply fresh units. Their resistance is crumbling. Press the assault!"
+        },
+        {
+            "Key": 220762632,
+            "Value": "DSS Orbital Bombardment Active"
         },
         {
             "Key": 225116831,
@@ -30479,6 +30803,10 @@
             "Value": "ORBITAL WALKING BARRAGE SMOKE"
         },
         {
+            "Key": 941512589,
+            "Value": "NEW DIFFICULTY UNLOCKED"
+        },
+        {
             "Key": 1772996316,
             "Value": "A linear artillery barrage which moves at intervals while firing smoke bombs to obscure enemy visibility."
         },
@@ -31643,6 +31971,10 @@
             "Value": "Outcast Slashers"
         },
         {
+            "Key": 701778717,
+            "Value": "VERDANT CAMOUFLAGE TANK PATTERN"
+        },
+        {
             "Key": 702073419,
             "Value": "NEW STOROUSE"
         },
@@ -32615,6 +32947,10 @@
             "Value": "Charger"
         },
         {
+            "Key": 1301918093,
+            "Value": "GLACIAL POLYMER TANK PATTERN"
+        },
+        {
             "Key": 1302324884,
             "Value": "Exo Experts"
         },
@@ -32817,6 +33153,10 @@
         {
             "Key": 1443392861,
             "Value": "REAF"
+        },
+        {
+            "Key": 1444277062,
+            "Value": "IRONCLAD DEMOCRACY"
         },
         {
             "Key": 1450751683,
@@ -33419,6 +33759,10 @@
             "Value": "VOTING DISTRICT F-012357"
         },
         {
+            "Key": 1840550856,
+            "Value": "Gazer Spires"
+        },
+        {
             "Key": 1842172307,
             "Value": "MENKENT"
         },
@@ -33891,6 +34235,10 @@
             "Value": "Super Earth"
         },
         {
+            "Key": 2173773782,
+            "Value": "GAZER SPIRE"
+        },
+        {
             "Key": 2174969617,
             "Value": "of Integrity"
         },
@@ -34019,6 +34367,10 @@
             "Value": "Claw"
         },
         {
+            "Key": 2259733865,
+            "Value": "Gazer Spire"
+        },
+        {
             "Key": 2260123791,
             "Value": "YORK SUPREME"
         },
@@ -34089,6 +34441,10 @@
         {
             "Key": 2327521397,
             "Value": "Eye"
+        },
+        {
+            "Key": 2329483149,
+            "Value": "EXECUTIVE ONYX TANK PATTERN"
         },
         {
             "Key": 2337934883,
@@ -34305,6 +34661,10 @@
         {
             "Key": 2480584215,
             "Value": "Hunters"
+        },
+        {
+            "Key": 2491297982,
+            "Value": "VOID BLOSSOM"
         },
         {
             "Key": 2493835917,
@@ -35163,6 +35523,10 @@
             "Value": "CARAMOOR"
         },
         {
+            "Key": 3042563908,
+            "Value": "Void Blossom"
+        },
+        {
             "Key": 3042591905,
             "Value": "Zealots"
         },
@@ -35325,6 +35689,10 @@
         {
             "Key": 3150803681,
             "Value": "Mother"
+        },
+        {
+            "Key": 3153187845,
+            "Value": "Void Blossoms"
         },
         {
             "Key": 3158883809,
@@ -36599,6 +36967,10 @@
             "Value": "Baskin"
         },
         {
+            "Key": 4022308390,
+            "Value": "Ironclad Democracy"
+        },
+        {
             "Key": 4036369765,
             "Value": "MERIDIAN SECTOR"
         },
@@ -37195,6 +37567,10 @@
             "Value": "{0.00->1.28}Recruit expired.{1.93->4.33} Initiate Terminid Containment Protocol."
         },
         {
+            "Key": 17359527,
+            "Value": "{0.12->1.55}For Managed Democracy!"
+        },
+        {
             "Key": 17859641,
             "Value": "{0.00->0.94}I've got you."
         },
@@ -37573,6 +37949,10 @@
         {
             "Key": 73021388,
             "Value": "{0.03->0.70}Keep moving."
+        },
+        {
+            "Key": 73414446,
+            "Value": "{0.04->1.95}Looking good, Helldiver!"
         },
         {
             "Key": 73452387,
@@ -39255,6 +39635,10 @@
             "Value": "{0.00->0.78}Are we nearly there?"
         },
         {
+            "Key": 318686522,
+            "Value": "{0.07->1.61}That's the Democratic spirit!"
+        },
+        {
             "Key": 319824412,
             "Value": "{0.25->1.15}Objective nearby."
         },
@@ -39375,6 +39759,10 @@
             "Value": "{0.02->1.66}Get some! GET SOOOOME!"
         },
         {
+            "Key": 333976837,
+            "Value": "{0.06->1.69}Let's go, Helldiver!"
+        },
+        {
             "Key": 334464368,
             "Value": "{0.00->0.72}Mmm! {1.12->4.77}Smells like squid guts in here. Must've been a good mission."
         },
@@ -39411,6 +39799,10 @@
             "Value": "{0.38->2.22}Enemy Reinforcements incoming."
         },
         {
+            "Key": 341908612,
+            "Value": "{0.05->1.48}For Managed Democracy!"
+        },
+        {
             "Key": 342054487,
             "Value": "{0.00->1.10}Enemy down, baby."
         },
@@ -39437,6 +39829,10 @@
         {
             "Key": 344347970,
             "Value": "{0.00->1.89}Welcome to the bridge, Helldiver. {2.36->5.85}From here, we shall shepherd the galaxy towards Freedom. {6.41->9.45}Open the Galactic Map, and guide us to the fight."
+        },
+        {
+            "Key": 345163003,
+            "Value": "{0.10->0.69}Heroic!"
         },
         {
             "Key": 346665154,
@@ -41485,6 +41881,10 @@
         {
             "Key": 642564285,
             "Value": "{0.07->2.30}Now THERE'S a Helldiver. {2.84->9.23}You remind me of a younger me—fearless, invulnerable, and 7 feet tall.  "
+        },
+        {
+            "Key": 643109429,
+            "Value": "{0.04->1.78}Let's go, Helldiver!"
         },
         {
             "Key": 643189793,
@@ -44035,6 +44435,10 @@
             "Value": "{0.00->3.89}Push back the enemy. End their unjust occupation."
         },
         {
+            "Key": 1026515786,
+            "Value": "{0.07->1.76}That's it, that's the stuff."
+        },
+        {
             "Key": 1026968415,
             "Value": "{0.00->5.37}He would have to strap an Illuminate anti-matter generator to his chest and Liberate all his old {5.37->5.86}friends. "
         },
@@ -45651,6 +46055,10 @@
             "Value": "{0.00->4.36}You know, in all the Super Earth records, there isn't a single confirmed case of a Hellpod killing {4.36->4.91}a Helldiver."
         },
         {
+            "Key": 1265977461,
+            "Value": "{0.07->0.70}Heroic!"
+        },
+        {
             "Key": 1266537929,
             "Value": "{0.01->2.79}It's armed?! Go go go go!!"
         },
@@ -46743,6 +47151,10 @@
             "Value": "{0.00->0.71}50 metres."
         },
         {
+            "Key": 1421265321,
+            "Value": "{1.54->2.50}See that? We'll be alright!"
+        },
+        {
             "Key": 1421886081,
             "Value": "{0.00->0.62}Enemy elite."
         },
@@ -47001,6 +47413,10 @@
         {
             "Key": 1459545139,
             "Value": "{0.00->1.22}Calling in orbital strike."
+        },
+        {
+            "Key": 1459638435,
+            "Value": "{0.05->1.70}Indeed, Helldiver."
         },
         {
             "Key": 1459810117,
@@ -47417,6 +47833,10 @@
         {
             "Key": 1525283168,
             "Value": "{0.01->3.57}FOR SUPER EAAAAARRRTTHHHH!"
+        },
+        {
+            "Key": 1525376231,
+            "Value": "{0.06->0.76}Majestic."
         },
         {
             "Key": 1525829500,
@@ -51159,6 +51579,10 @@
             "Value": "{0.00->2.70}It's the Helldivers! We're saved!"
         },
         {
+            "Key": 2106534627,
+            "Value": "{0.05->1.64}Indeed, Helldiver."
+        },
+        {
             "Key": 2106720526,
             "Value": "{0.06->1.50}I'll remember this forever."
         },
@@ -53363,6 +53787,10 @@
             "Value": "{0.00->1.63}I feel safer already."
         },
         {
+            "Key": 2433523948,
+            "Value": "{0.06->0.95}Super duper!"
+        },
+        {
             "Key": 2435757531,
             "Value": "{0.00->0.71}Southeast."
         },
@@ -53449,6 +53877,10 @@
         {
             "Key": 2450349725,
             "Value": "{0.07->4.25}Our enemies couldn't take down even a single Helldiver today. {5.18->7.11}You truly are invincible."
+        },
+        {
+            "Key": 2450381921,
+            "Value": "{0.06->1.81}Looking good, Helldiver!"
         },
         {
             "Key": 2450808114,
@@ -57423,6 +57855,10 @@
             "Value": "{0.00->4.66}The DSS is so large, it's run by 10 Ship Masters.{5.01->5.95}Can you imagine?"
         },
         {
+            "Key": 3025025811,
+            "Value": "{0.00->1.52}Oh, majestic."
+        },
+        {
             "Key": 3025382533,
             "Value": "{0.00->0.77}We made it!"
         },
@@ -58161,6 +58597,10 @@
         {
             "Key": 3113850858,
             "Value": "{0.01->4.25}Did you have any idea people were gonna die on these missions?{4.25->7.67}They should tell you that shit when you sign up.{7.67->11.97}But hey, shared suffering brings people closer together right.{11.97->15.73}So...we, we're really sharin', which...I'm gonna pilot."
+        },
+        {
+            "Key": 3114836861,
+            "Value": "{0.06->1.35}Just like in the movies."
         },
         {
             "Key": 3114978428,
@@ -59455,6 +59895,10 @@
             "Value": "{0.03->1.01}They're coming!"
         },
         {
+            "Key": 3303620142,
+            "Value": "{0.07->1.76}That's it, that's the stuff."
+        },
+        {
             "Key": 3303758698,
             "Value": "{0.25->1.59}Welcome aboard, Helldiver. {2.02->4.90}Now that you're here, the war is as good as won."
         },
@@ -59733,6 +60177,10 @@
         {
             "Key": 3346410913,
             "Value": "{0.04->1.11}More Illuminate!"
+        },
+        {
+            "Key": 3346570712,
+            "Value": "{0.06->0.95}Super duper!"
         },
         {
             "Key": 3348156033,
@@ -62997,6 +63445,10 @@
         {
             "Key": 3810131705,
             "Value": "{0.04->2.20}Cut them down! All of 'em!"
+        },
+        {
+            "Key": 3810276659,
+            "Value": "{0.06->0.80}So smooth,{1.21->1.57}wow..."
         },
         {
             "Key": 3810308506,
@@ -66827,6 +67279,10 @@
             "Value": "ERROR: Evacuate The Area."
         },
         {
+            "Key": 34251571,
+            "Value": "Generator"
+        },
+        {
             "Key": 35026167,
             "Value": "SECURE GROUND ALL-TERRAIN EXTRACTION RIG"
         },
@@ -66925,6 +67381,10 @@
         {
             "Key": 85322608,
             "Value": "Wait for artillery system to initiate"
+        },
+        {
+            "Key": 87072529,
+            "Value": "Illuminate forces have amassed here."
         },
         {
             "Key": 87612306,
@@ -67779,6 +68239,10 @@
             "Value": "Shriekers: #CURRENT / #TOTAL kills"
         },
         {
+            "Key": 670087520,
+            "Value": "Defend generator system until all rockets have launched.\n\nRockets launched: #CURRENT/#TARGET #GENERATORS"
+        },
+        {
             "Key": 672372755,
             "Value": "Protect #ENTITY during upload"
         },
@@ -67813,6 +68277,10 @@
         {
             "Key": 703225368,
             "Value": "The Automatons use a highly-advanced keycard security system. A keycard located here will grant access to their secure containment unit."
+        },
+        {
+            "Key": 704505443,
+            "Value": "Adjust pipe valve in cave"
         },
         {
             "Key": 704813543,
@@ -68431,6 +68899,10 @@
             "Value": "INPUT ACTIVATION SEQUENCE"
         },
         {
+            "Key": 1098430576,
+            "Value": "UPLOAD RIG COORDINATES"
+        },
+        {
             "Key": 1103087785,
             "Value": "THREAT LEVEL: LOW"
         },
@@ -68549,10 +69021,6 @@
         {
             "Key": 1168390666,
             "Value": "ACTIVATE"
-        },
-        {
-            "Key": 1170300122,
-            "Value": "WIPE OUT THE ILLUMINATE FORCES"
         },
         {
             "Key": 1170483735,
@@ -69944,7 +70412,7 @@
         },
         {
             "Key": 1991475686,
-            "Value": "EXHAUST SYSTEM NORMAL"
+            "Value": "EXHAUST SYSTEM INTERFACE"
         },
         {
             "Key": 1991803739,
@@ -70597,6 +71065,10 @@
         {
             "Key": 2368120173,
             "Value": "SWITCH 4"
+        },
+        {
+            "Key": 2369973147,
+            "Value": "#NAME #ID: #PERCENT%"
         },
         {
             "Key": 2370408778,
@@ -71328,7 +71800,7 @@
         },
         {
             "Key": 2831289147,
-            "Value": "Search Caves for Spore Lung"
+            "Value": "Locate the Spore Lung underground"
         },
         {
             "Key": 2833945694,
@@ -72128,7 +72600,7 @@
         },
         {
             "Key": 3339054218,
-            "Value": "ELIMINATE OVERSEERS"
+            "Value": "PURGE ILLUMINATE RANKS"
         },
         {
             "Key": 3339082793,
@@ -72644,7 +73116,11 @@
         },
         {
             "Key": 3678406658,
-            "Value": "Main Refinery Components Listed"
+            "Value": "Select components to override"
+        },
+        {
+            "Key": 3679243511,
+            "Value": "Use terminal to confirm rig coordinates"
         },
         {
             "Key": 3680203702,
@@ -72768,7 +73244,7 @@
         },
         {
             "Key": 3739334762,
-            "Value": "RESTORE OIL PUMPS"
+            "Value": "RESTORE PUMP SITE"
         },
         {
             "Key": 3743248579,
@@ -73257,6 +73733,10 @@
         {
             "Key": 4057995659,
             "Value": "Destroy the Cognitive Disruptor's power supply."
+        },
+        {
+            "Key": 4059074351,
+            "Value": "Confirm oil rig grid coordinates"
         },
         {
             "Key": 4060481832,

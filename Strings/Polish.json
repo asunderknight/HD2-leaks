@@ -495,6 +495,10 @@
             "Value": "Oczekiwanie na hosta"
         },
         {
+            "Key": 255821732,
+            "Value": "Planeta #V_ONE jest atakowana przez terminidy! Wszyscy helldiversi muszą natychmiast ruszać do jej obrony!"
+        },
+        {
             "Key": 256689238,
             "Value": "W JEDNEJ RĘCE"
         },
@@ -1397,6 +1401,10 @@
         {
             "Key": 789486835,
             "Value": "EKSPERYMENTY Z BRONIĄ\nManewr wieży Tesli został tymczasowo autoryzowany do użycia przez wszystkich helldiversów."
+        },
+        {
+            "Key": 790401600,
+            "Value": "Dobra robota, helldiversi. Automaty zostały zmuszone do wycofania się z planety #V_ONE."
         },
         {
             "Key": 790885089,
@@ -2339,6 +2347,10 @@
             "Value": "WŁĄCZ/WYŁĄCZ INFORMACJE"
         },
         {
+            "Key": 1341366236,
+            "Value": "Automaty atakują planetę #V_ONE. Helldiversi muszą się zebrać i odeprzeć tę nielegalną próbę aneksji."
+        },
+        {
             "Key": 1342481939,
             "Value": "ZAPALAJĄCY"
         },
@@ -2627,6 +2639,10 @@
             "Value": "NE"
         },
         {
+            "Key": 1572224323,
+            "Value": "Obrona planety #V_ONE zakończona sukcesem. Siły automatów zostały odparte. Dobra robota, helldiversi."
+        },
+        {
             "Key": 1573437979,
             "Value": "Użyte manewry"
         },
@@ -2733,6 +2749,10 @@
         {
             "Key": 1645631779,
             "Value": "Przejdź do <c=FFFFE900>TERMINALA ZAPOTRZEBOWANIA</c> i złóż zapotrzebowanie na więcej <c=FFFFE900>MANEWRÓW</c>."
+        },
+        {
+            "Key": 1653674066,
+            "Value": "Po niezliczonych szlachetnych i nieuniknionych poświęceniach planeta #V_ONE została obroniona przed terminidami."
         },
         {
             "Key": 1654406343,
@@ -3311,6 +3331,10 @@
             "Value": "MAG"
         },
         {
+            "Key": 1959264157,
+            "Value": "Robale zaatakowały planetę #V_ONE. Trzeba przygotować obronę, zanim zaczną się tam panoszyć na dobre."
+        },
+        {
             "Key": 1959371383,
             "Value": "BARDZIEJ EFEKTYWNE MISJE"
         },
@@ -3385,6 +3409,10 @@
         {
             "Key": 2007030524,
             "Value": "KONTRATAK AUTOMATÓW\nPrzechwycone komunikaty wskazują na potężną ofensywę planowaną przez boty. Spodziewany jest wzrost siły oporu na planetach automatów."
+        },
+        {
+            "Key": 2008817751,
+            "Value": "Boty rozpoczęły tchórzliwy i niespodziewany atak na planetę #V_ONE. Władze nadały pilną prośbę o wsparcie. Musicie pomóc."
         },
         {
             "Key": 2015558774,
@@ -4419,6 +4447,10 @@
             "Value": "PLANETA WYZWOLONA\nCałkowicie wyparliśmy automaty z planety i prawowicie odzyskaliśmy ją dla Super Ziemi. "
         },
         {
+            "Key": 2740300439,
+            "Value": "Automaty maszerują na planetę #V_ONE. Trzeba je odeprzeć!"
+        },
+        {
             "Key": 2742417987,
             "Value": "Nie udało się dołączyć, ponieważ nałożono na ciebie blokadę w tej sesji."
         },
@@ -4605,6 +4637,10 @@
         {
             "Key": 2854932487,
             "Value": "PRZYGOTUJ SIĘ"
+        },
+        {
+            "Key": 2865292046,
+            "Value": "Dzięki bezinteresownemu męstwu helldiversów obywatele planety #V_ONE zostali obronieni przed zagrożeniem ze strony terminidów."
         },
         {
             "Key": 2869491808,
@@ -5371,6 +5407,10 @@
             "Value": "OPERATOR: <i=1>#NAME</i>"
         },
         {
+            "Key": 3400432042,
+            "Value": "Terminidy zaatakowały planetę #V_ONE. Wszyscy dostępni helldiversi zostali wezwani do jej obrony."
+        },
+        {
             "Key": 3401389966,
             "Value": "PORÓWNAJ INFORMACJE"
         },
@@ -5991,6 +6031,10 @@
             "Value": "OSTRZAŁ"
         },
         {
+            "Key": 3791941330,
+            "Value": "Zarodniki terminidów zalewają niebo planety #V_ONE. Wszyscy helldiversi wzywani są do jej obrony!"
+        },
+        {
             "Key": 3794551534,
             "Value": "FENRIR III JEST ATAKOWANY\nTerminidy próbują wyroić się na Fenrirze III. Wszyscy helldiversi zostają natychmiast wezwani do obrony planety."
         },
@@ -6123,6 +6167,14 @@
             "Value": "ODPRAWA WYWIADOWCZA\nNowa odmiana latających terminidów pojawiła się nagle na wszystkich ich planetach, bez ostrzeżenia czy jakiejkolwiek zapowiedzi. Choć Ministerstwo Wywiadu od zawsze spodziewało się takiego obrotu spraw, nagła ewolucja wskazuje na duże prawdopodobieństwo elementów dysydenckich w całym tym procesie.\n\nNa szczęście na czas zastosowaliśmy termicyd, co zapobiegło jeszcze gorszej ewolucji. Helldiversi mają rozkaz natychmiastowej eksterminacji tych mutantów, jeśli tylko je napotkają."
         },
         {
+            "Key": 3864465687,
+            "Value": "Obrona planety #V_ONE zakończona sukcesem. Terminidy zostały odparte."
+        },
+        {
+            "Key": 3865365794,
+            "Value": "Robale zostały wyparte z planety #V_ONE. Obywatele planety oddają cześć bohaterstwu helldiversów."
+        },
+        {
             "Key": 3868912809,
             "Value": "LEKKA WALKA (BOTY)"
         },
@@ -6185,6 +6237,10 @@
         {
             "Key": 3917311779,
             "Value": "Czarny szafran"
+        },
+        {
+            "Key": 3919857455,
+            "Value": "Terminidy atakują planetę #V_ONE. Musicie je zwalczyć!"
         },
         {
             "Key": 3920963891,
@@ -6849,6 +6905,10 @@
         {
             "Key": 4248187236,
             "Value": "SE (#COUNT°)"
+        },
+        {
+            "Key": 4253946297,
+            "Value": "Niezłomni helldiversi ocalili planetę #V_ONE od tchórzliwej inwazji botów. Teraz, gdy się przegrupowują, nadszedł czas na atak."
         },
         {
             "Key": 4253970205,
@@ -8077,6 +8137,10 @@
         {
             "Key": 459656999,
             "Value": "Uwaga: na polu bitwy znajdują się lojalni cywile."
+        },
+        {
+            "Key": 461034013,
+            "Value": "SZCZEP ŻRĄCY"
         },
         {
             "Key": 463730113,
@@ -9951,6 +10015,10 @@
             "Value": "SKANOWANIE..."
         },
         {
+            "Key": 1937755919,
+            "Value": "SZCZEP TOKSYCZNY"
+        },
+        {
             "Key": 1939963888,
             "Value": "Helldiversi wycofani ze strefy walk z automatami, aby zająć się ponownie terminidami."
         },
@@ -11375,6 +11443,10 @@
             "Value": "Okresy wysokich temperatur <i=1>zwiększają zużycie kondycji</i> i <i=1>przyspieszają przegrzewanie się broni</i>."
         },
         {
+            "Key": 3001998873,
+            "Value": "Na tej planecie wyroił się szczep terminidów z mocno alkalicznymi workami żółciowymi. Przygotujcie się do walki z wrogami, którzy wypluwają żrące płyny i wybuchają gwałtownie po śmierci."
+        },
+        {
             "Key": 3007670585,
             "Value": "Liczba stymulantów dla wszystkich helldiversów zostaje zmniejszona o <i=1>#V_ONE</i> na tej planecie."
         },
@@ -11693,6 +11765,10 @@
         {
             "Key": 3271778464,
             "Value": "Latające okręty Lewiatan patrolują pole bitwy."
+        },
+        {
+            "Key": 3273516527,
+            "Value": "Na tej planecie czyha szczep terminidów z gruczołami wydzielającymi toksyny. Przygotujcie się do stawienia czoła nieprzyjaciołom, którzy atakują obezwładniającym jadem."
         },
         {
             "Key": 3279518460,
@@ -13745,6 +13821,10 @@
         {
             "Key": 127833235,
             "Value": "{0.00->3.99}Cyborgi zawsze śniły o zniszczeniu Super Ziemi.{3.99->9.17}Cóż, ten sen właśnie się kończy. Ustawiliśmy pobudkę sprawiedliwości."
+        },
+        {
+            "Key": 129468710,
+            "Value": "{0.85->3.06}Niedobre wieści, helldiversie.{3.50->5.89}Posępność, na długi czas uśpiona,{6.08->8.31}znów się szerzy."
         },
         {
             "Key": 129670549,
@@ -17999,6 +18079,10 @@
             "Value": "{0.06->0.60}Trafili mnie!{1.43->3.27} Słodka wolności... ile krwi."
         },
         {
+            "Key": 776552320,
+            "Value": "{0.00->3.01}Setki razy, każdego dnia, patrzę na was, helldiversów,{3.06->4.96}jak ruszacie do boju i poświęcacie się dla nas.{5.47->8.90}Raz za razem, raz za razem.{9.41->11.40}Gdyby dysydenci to zobaczyli,{11.75->14.79}może przestaliby jęczeć, chwycili za karabin i pomogli."
+        },
+        {
             "Key": 777021613,
             "Value": "{0.28->2.91}Słodka wolności! Helldivers!"
         },
@@ -21063,6 +21147,10 @@
             "Value": "{0.01->0.70}Sanitariusz!"
         },
         {
+            "Key": 1245069277,
+            "Value": "{0.03->2.46}Słyszałam, że na niektórych planetach, głęboko w dziczy{2.62->5.45}są obozy dla dysydentów, w których osadzeni jedzą terminidy.{6.33->7.93}I ponoć nie tylko jedzą.{8.64->10.78}Robią rzeczy, o których nie chcę nawet mówić."
+        },
+        {
             "Key": 1245256655,
             "Value": "{0.03->1.12}Zginiemy!"
         },
@@ -22713,6 +22801,14 @@
         {
             "Key": 1497835747,
             "Value": "{0.00->1.09}Pusty pojemnik."
+        },
+        {
+            "Key": 1498444003,
+            "Value": "{0.06->4.85}Każdy zabity robal to setki kolejnych, które trzeba wykurzyć z ich rojów.{4.94->8.87}Wyobraź sobie dzień, w którym ich planety roju staną się po prostu cmentarzami.{9.54->11.95}Przepiękna myśl."
+        },
+        {
+            "Key": 1499432371,
+            "Value": "{0.00->2.59}Wygląda na to, że terminidy mogą tworzyć nowe planety roju w miejscach,{2.68->4.74}które dotąd nie pasowały do ich sposobu działania.{5.21->11.17}Jeśli nie zatrzymamy ich tam, nawet Super Ziemia może stać się wylęgarnią robali!"
         },
         {
             "Key": 1500152451,
@@ -30423,6 +30519,10 @@
             "Value": "{0.05->2.69}Przepraszam, helldiversie!"
         },
         {
+            "Key": 2738101045,
+            "Value": "{0.03->2.90}Codziennie budzę się na tym statku i dziękuję procesowi demokratycznemu,{2.90->4.66}za którego sprawą zostałam tu przydzielona.{4.66->7.33}Robale nigdy nie zrozumieją, jakie to uczucie – wolność."
+        },
+        {
             "Key": 2738607821,
             "Value": "{0.00->1.55}Układ Zatoki Vega"
         },
@@ -30697,6 +30797,10 @@
         {
             "Key": 2776901046,
             "Value": "{0.00->0.73}Mamy sprzęt."
+        },
+        {
+            "Key": 2777786351,
+            "Value": "{0.00->5.86}Każda planeta roju jest wektorem zarazy i źródłem faszyzmu.{6.14->10.18}Wypluwa zarodniki posępności na kolejne planety."
         },
         {
             "Key": 2779874637,
@@ -31637,6 +31741,10 @@
         {
             "Key": 2904766046,
             "Value": "{0.00->0.53}Nie!"
+        },
+        {
+            "Key": 2906045449,
+            "Value": "{0.00->4.05}Każda chwila bezczynności oznacza, że posępność się rozszerza,{4.28->10.51}zakaża nieskazitelne światy i plugawi je, tworząc planety roju."
         },
         {
             "Key": 2908477842,
@@ -36325,6 +36433,10 @@
         {
             "Key": 3611537551,
             "Value": "{0.01->2.42}Dzięki Super Ziemi za helldiversów!"
+        },
+        {
+            "Key": 3612460931,
+            "Value": "{0.00->2.46}Widziałam film z helldiversami, którzy miażdżyli robale.{3.27->6.27}O rany, chętnie sama poczułabym ten rozprysk ich krwi."
         },
         {
             "Key": 3612898552,
@@ -41343,8 +41455,16 @@
             "Value": "Potrafią wystrzeliwać salwy ognia pośredniego „kosmos-ziemia”, który szybko wyzwala z tyranii całe pola bitew."
         },
         {
+            "Key": 30937403,
+            "Value": "Sztandar granicy"
+        },
+        {
             "Key": 31985882,
             "Value": "Luk inżynieryjny"
+        },
+        {
+            "Key": 32343373,
+            "Value": "Ciężki karabin snajperski z zamkiem czterotaktowym. Wystrzeliwuje potężne pociski przeciwpancerne z ogromną precyzją i z dużej odległości. Dzięki niemu demokrację można dostarczać niezależnie od dystansu."
         },
         {
             "Key": 34542068,
@@ -41587,6 +41707,10 @@
             "Value": "Bokser"
         },
         {
+            "Key": 128895797,
+            "Value": "Linia wzroku"
+        },
+        {
             "Key": 130433830,
             "Value": "Lekko opancerzony szybki pojazd zwiadowczy z zamontowanym ciężkim karabinem maszynowym. "
         },
@@ -41729,6 +41853,10 @@
         {
             "Key": 169627781,
             "Value": "Ulepszony skład amunicji"
+        },
+        {
+            "Key": 171885009,
+            "Value": "SS-500 BLADY PROKURATOR"
         },
         {
             "Key": 178234324,
@@ -41993,6 +42121,10 @@
         {
             "Key": 286599935,
             "Value": "SĘDZIA ROZJEMCZY"
+        },
+        {
+            "Key": 287973358,
+            "Value": "SS-500 Blady prokurator"
         },
         {
             "Key": 289101936,
@@ -42491,6 +42623,10 @@
             "Value": "200 kg bomba"
         },
         {
+            "Key": 484651750,
+            "Value": "Projekt tej peleryny wygrał w konkursie „Dziecko-patriota” w roku 2186. Był to rok wdzięczności za mężne operacje helldiversów na Yed Prior. Przypomina, że dzisiejsza młodzież to jutrzejsi bohaterowie. Trzeba ich chronić przed wrogami demokracji."
+        },
+        {
             "Key": 485709728,
             "Value": "BEZ MANEWRÓW"
         },
@@ -42601,6 +42737,10 @@
         {
             "Key": 549159351,
             "Value": "Orbitalny zrzut napalmu"
+        },
+        {
+            "Key": 552571525,
+            "Value": "R-40"
         },
         {
             "Key": 552680240,
@@ -43363,6 +43503,10 @@
             "Value": "Strzępy suwerenności"
         },
         {
+            "Key": 826650508,
+            "Value": "Pokaz kolorowego konfetti. Podwyższa demokratyczne morale, ale nie ma żadnej wartości strategicznej."
+        },
+        {
             "Key": 826748686,
             "Value": "Wierna replika pancerzy noszonych przez żołnierzy podczas Bitwy o Wzgórze Wolności. Uhonoruj ich dziedzictwo i noś go z dumą. "
         },
@@ -43593,6 +43737,10 @@
         {
             "Key": 900451699,
             "Value": "40 mm MOŹDZIERZOWY ODŁAMKOWO-BURZĄCY"
+        },
+        {
+            "Key": 901728465,
+            "Value": "AMW-20"
         },
         {
             "Key": 905652168,
@@ -43887,6 +44035,10 @@
             "Value": "SG-451"
         },
         {
+            "Key": 1012540073,
+            "Value": "Zmodyfikowana wersja AR-23 Wyzwalacza, inspirowana oryginalnym Wyzwalaczem, używanym przez helldiversów podczas Pierwszej Wojny Galaktycznej."
+        },
+        {
             "Key": 1012577819,
             "Value": "Standardowy bęben"
         },
@@ -44017,6 +44169,10 @@
         {
             "Key": 1053958077,
             "Value": "Pozwala <c=#COLOR>usuwać większe przeszkody</c>, takie jak płoty, atakami wręcz."
+        },
+        {
+            "Key": 1054807389,
+            "Value": "KLASYCZNY WYZWALACZ"
         },
         {
             "Key": 1055226367,
@@ -44419,6 +44575,10 @@
             "Value": "LEKKI POJAZD PANCERNY"
         },
         {
+            "Key": 1235536510,
+            "Value": "SS-15 PUNKT SKUPIENIA"
+        },
+        {
             "Key": 1236709379,
             "Value": "DEMOKRACJA CHRONI"
         },
@@ -44721,6 +44881,10 @@
         {
             "Key": 1357287836,
             "Value": "PATRIOTYCZNY BŁĘKIT"
+        },
+        {
+            "Key": 1360044099,
+            "Value": "LINIA WZROKU"
         },
         {
             "Key": 1362075423,
@@ -45123,6 +45287,10 @@
             "Value": "G-23"
         },
         {
+            "Key": 1500433226,
+            "Value": "Zaprojektowany dla zwiadowców przednich, koordynujących działania dalekiego zasięgu. Ten średni kombinezon wyposażony jest w zintegrowany kamuflaż adaptacyjny oraz asymetryczny wizjer optyczny, dzięki czemu ruchy wroga są starannie i dyskretnie katalogowane. Następnie nieprzyjaciel zostaje efektywnie wymazany z państwowej bazy danych."
+        },
+        {
             "Key": 1501540430,
             "Value": "PRZEŁADOWANIE NABOJÓW"
         },
@@ -45233,6 +45401,10 @@
         {
             "Key": 1555196278,
             "Value": "WERSJA STANDARDOWA"
+        },
+        {
+            "Key": 1555547319,
+            "Value": "Przelot Orłów"
         },
         {
             "Key": 1557516932,
@@ -45483,6 +45655,10 @@
             "Value": "Celownik holograficzny."
         },
         {
+            "Key": 1672951456,
+            "Value": "SS-33 MARSZAŁEK MIMETYCZNY"
+        },
+        {
             "Key": 1673011979,
             "Value": "BFM-16 TANKOWIEC"
         },
@@ -45657,6 +45833,10 @@
         {
             "Key": 1730845486,
             "Value": "SZRAPNEL"
+        },
+        {
+            "Key": 1731145253,
+            "Value": "Plecak szczytowy"
         },
         {
             "Key": 1732453131,
@@ -46115,6 +46295,10 @@
             "Value": "Broń jednorazowego użytku wystrzeliwująca pocisk z napalmowymi bombami kasetowymi, uwalniającymi się po trafieniu."
         },
         {
+            "Key": 1912361092,
+            "Value": "ORBITALNE KONFETTI"
+        },
+        {
             "Key": 1914879563,
             "Value": "Odłamkowy"
         },
@@ -46237,6 +46421,10 @@
         {
             "Key": 1963170034,
             "Value": "12x25 mm WYBUCHOWY"
+        },
+        {
+            "Key": 1965275277,
+            "Value": "SS-15 Punkt skupienia"
         },
         {
             "Key": 1966586923,
@@ -46671,6 +46859,10 @@
             "Value": "WIĘKSZE OBRAŻENIA OD POCISKÓW"
         },
         {
+            "Key": 2100163737,
+            "Value": "Nova"
+        },
+        {
             "Key": 2103607856,
             "Value": "12x25 mm półpłaszczowy"
         },
@@ -46763,6 +46955,10 @@
             "Value": "B-08 Lekki strzelec"
         },
         {
+            "Key": 2132290123,
+            "Value": "Ku pamięci śmiałków, którzy weszli do pustki i nigdy z niej nie wrócili. "
+        },
+        {
             "Key": 2133995538,
             "Value": "Niezawodny karabin szturmowy z przestarzałym celownikiem mechanicznym. Strzela amunicją zapalającą."
         },
@@ -46823,6 +47019,10 @@
             "Value": "Opatentowane włókna pochłaniają promieniowanie widzialne, podczerwone i ultrafioletowe, zapobiegając wykryciu przez wszystkie znane gatunki."
         },
         {
+            "Key": 2153738163,
+            "Value": "AR-23L"
+        },
+        {
             "Key": 2156827055,
             "Value": "Wsparcie ogniem"
         },
@@ -46873,6 +47073,10 @@
         {
             "Key": 2174348946,
             "Value": "Standardowy karabin szturmowy Sił Zbrojnych Super Ziemi równoważący siłę ognia, szybkostrzelność i wagę. Niezawodna broń w walce z mniejszymi celami."
+        },
+        {
+            "Key": 2176213077,
+            "Value": "Mgła"
         },
         {
             "Key": 2177206078,
@@ -47187,6 +47391,10 @@
             "Value": "Rozszerzony magazynek"
         },
         {
+            "Key": 2290050022,
+            "Value": "Bohater dzieci"
+        },
+        {
             "Key": 2292840975,
             "Value": "KASETOWA WYRZUTNIA RAKIETOWA"
         },
@@ -47251,6 +47459,10 @@
             "Value": "DOZBROJENIE ORŁA"
         },
         {
+            "Key": 2308267573,
+            "Value": "Ta peleryna, uszyta z płótna premium i wyposażona w zintegrowany adaptacyjny kamuflaż, ma nadrukowaną bezpośrednio na plecach wyraźną, kontrastową siatkę celowniczą."
+        },
+        {
             "Key": 2310432885,
             "Value": "OPOKA ALFA"
         },
@@ -47273,6 +47485,10 @@
         {
             "Key": 2325179655,
             "Value": "To jest demokracja"
+        },
+        {
+            "Key": 2325885932,
+            "Value": "O <c=#COLOR>#BONUS</c> zmniejsza wahania uzbrojenia podczas celowania."
         },
         {
             "Key": 2327923803,
@@ -47393,6 +47609,10 @@
         {
             "Key": 2372554040,
             "Value": "Niech żyją helldiversi, którzy zapewniają dobrobyt obywatelom Super Ziemi."
+        },
+        {
+            "Key": 2373066199,
+            "Value": "Przelot Orłów będący pokazem potęgi demokracji. Wzmacnia morale w warunkach polowych."
         },
         {
             "Key": 2376192175,
@@ -47663,6 +47883,10 @@
             "Value": "Opracowany na podstawie szeregu Pomników Sprawiedliwej Wolności, które pilnie strzegą kolejek w sklepach, boisk szkolnych, społeczności ciągłej resocjalizacji oraz teatrów publicznej spowiedzi."
         },
         {
+            "Key": 2470263896,
+            "Value": "CAŁUN STACJONARNY"
+        },
+        {
             "Key": 2471906021,
             "Value": "Spust domyślny"
         },
@@ -47733,6 +47957,10 @@
         {
             "Key": 2495515626,
             "Value": "10 g śrut na robale"
+        },
+        {
+            "Key": 2497601417,
+            "Value": "SS-33 Marszałek mimetyczny"
         },
         {
             "Key": 2497843047,
@@ -47939,6 +48167,10 @@
             "Value": "TRIUMF NAD PRZEBIEGŁOŚCIĄ"
         },
         {
+            "Key": 2598735985,
+            "Value": "Protokół manualnej projekcji balistycznej"
+        },
+        {
             "Key": 2598955031,
             "Value": "ULEPSZONE HAMULCE POWIETRZNE"
         },
@@ -47989,6 +48221,10 @@
         {
             "Key": 2616985430,
             "Value": "Brak dławika u wylotu lufy."
+        },
+        {
+            "Key": 2620110255,
+            "Value": "Orbitalne konfetti"
         },
         {
             "Key": 2620623882,
@@ -48217,6 +48453,10 @@
         {
             "Key": 2698867856,
             "Value": "AD-26 SZCZYT TECHNIKI"
+        },
+        {
+            "Key": 2706019637,
+            "Value": "Ogromny, wielkokalibrowy karabin snajperski. Choć jego ogromny odrzut kinetyczny wymaga od użytkownika przykucnięcia lub położenia się, zasilane z plecaka pociski kalibru 20 mm wydają ostateczny, nieodwołalny wyrok na opancerzone cele."
         },
         {
             "Key": 2707764633,
@@ -48467,6 +48707,10 @@
             "Value": "Pancerz opracowany na podstawie Pomnika Żałobnej Wolności, która opłakuje istnienie tyranii. Jest noszony przez żołnierzy, którzy chętnie oddadzą życie, aby osuszyć jej łzy."
         },
         {
+            "Key": 2779662342,
+            "Value": "Elegancki karabin energetyczny, wymagający krótkiego cyklu ładowania, aby wystrzelić niezwykle precyzyjny, niewybuchający pocisk termiczny. Zapewnia nieskończony zapas amunicji i zoptymalizowany cykl chłodzenia dzięki odprowadzaniu pary po każdym strzale."
+        },
+        {
             "Key": 2780448514,
             "Value": "EXO-49"
         },
@@ -48663,6 +48907,10 @@
             "Value": "Ulepszone gotowe stojaki"
         },
         {
+            "Key": 2849040043,
+            "Value": "PRZELOT ORŁÓW "
+        },
+        {
             "Key": 2851548532,
             "Value": "Krótsza regeneracja po strzale"
         },
@@ -48701,6 +48949,10 @@
         {
             "Key": 2856919707,
             "Value": "W pełni automatyczny pistolet o niezwykle dużej szybkostrzelności, pozwalający na skuteczną kontrolę tłumu."
+        },
+        {
+            "Key": 2859365322,
+            "Value": "Szczyt"
         },
         {
             "Key": 2859707695,
@@ -49459,6 +49711,10 @@
             "Value": "WIĘCEJ ŁADUNKU WYBUCHOWEGO"
         },
         {
+            "Key": 3152296411,
+            "Value": "PROTOKÓŁ MANUALNEJ PROJEKCJI BALISTYCZNEJ"
+        },
+        {
             "Key": 3152417024,
             "Value": "Odprowadza gazy i kompensuje podrzut lufy podczas ostrzału."
         },
@@ -49485,6 +49741,10 @@
         {
             "Key": 3160067283,
             "Value": "ZMNIEJSZONA SYGNATURA"
+        },
+        {
+            "Key": 3161274217,
+            "Value": "Weteran pustki"
         },
         {
             "Key": 3161943025,
@@ -49535,6 +49795,10 @@
             "Value": "Utkana dla pionierów, którzy z powodzeniem wytyczali szlak podczas pierwszego autoryzowanego wdrożenia nowego paradygmatu taktycznego. Wyrazisty projekt pagonów tej peleryny wskazuje, że helldiversi zawsze patrzą w przyszłość, a wrogowie wolności spoglądają w oblicze zagłady, którą sami na siebie sprowadzili."
         },
         {
+            "Key": 3189846034,
+            "Value": "SZTANDAR GRANICY"
+        },
+        {
             "Key": 3192024450,
             "Value": "AF-02 BIO-MISTRZ"
         },
@@ -49565,6 +49829,10 @@
         {
             "Key": 3200900560,
             "Value": "EGZOKOMBINEZON PATRIOTA"
+        },
+        {
+            "Key": 3200915213,
+            "Value": "Dekret arktyczny"
         },
         {
             "Key": 3202104171,
@@ -49739,6 +50007,10 @@
             "Value": "Zwiększona pojemność"
         },
         {
+            "Key": 3273207852,
+            "Value": "Klasyczny Wyzwalacz"
+        },
+        {
             "Key": 3276705068,
             "Value": "DZIAŁKO ELEKTROMAGNETYCZNE"
         },
@@ -49853,6 +50125,10 @@
         {
             "Key": 3308224804,
             "Value": "Minidziałko z taśmą amunicyjną o ogromnej pojemności. Nie można przeładować standardową amunicją, jedynie taśmą."
+        },
+        {
+            "Key": 3311097117,
+            "Value": "P-44"
         },
         {
             "Key": 3312133772,
@@ -50187,8 +50463,16 @@
             "Value": "Konstytucja"
         },
         {
+            "Key": 3414611380,
+            "Value": "Siatka mimetyczna"
+        },
+        {
             "Key": 3417364792,
             "Value": "MAGAZYNKI"
+        },
+        {
+            "Key": 3418368755,
+            "Value": "WETERAN PUSTKI"
         },
         {
             "Key": 3418552701,
@@ -50233,6 +50517,10 @@
         {
             "Key": 3444434997,
             "Value": "Więcej magazynków do stacjonarnego CKM-u"
+        },
+        {
+            "Key": 3446557954,
+            "Value": "PLECAK SZCZYTOWY"
         },
         {
             "Key": 3450064054,
@@ -50305,6 +50593,10 @@
         {
             "Key": 3468591970,
             "Value": "PROGRAMOWANE NABOJE OGŁUSZAJĄCE"
+        },
+        {
+            "Key": 3469869269,
+            "Value": "BOHATER DZIECI"
         },
         {
             "Key": 3473231131,
@@ -50427,6 +50719,10 @@
             "Value": "Broń rzucana, generująca po zetknięciu z podłożem sferyczną, blokującą pociski tarczę. Działa tylko przez pewien czas po rozmieszczeniu."
         },
         {
+            "Key": 3513766226,
+            "Value": "MGŁA"
+        },
+        {
             "Key": 3514184557,
             "Value": "BASTION LOJALNOŚCI"
         },
@@ -50449,6 +50745,10 @@
         {
             "Key": 3519672519,
             "Value": "Ćwiczenia z ładowania"
+        },
+        {
+            "Key": 3521129928,
+            "Value": "Uszyty z izolowanego płótna, z motywami doceniającymi snajperów podobnych duchom ze starożytnych kampanii przeprowadzanych w temperaturach poniżej zera. Jest wyposażony w adaptacyjny kamuflaż i stworzony z myślą o długotrwałym czuwaniu. Pozwala szybko i zgodnie z prawem realizować wyroki z ekstremalnego dystansu."
         },
         {
             "Key": 3522846961,
@@ -50485,6 +50785,10 @@
         {
             "Key": 3541935699,
             "Value": "Więcej amunicji w plecaku"
+        },
+        {
+            "Key": 3543072495,
+            "Value": "SIATKA MIMETYCZNA"
         },
         {
             "Key": 3546044726,
@@ -50959,6 +51263,10 @@
             "Value": "70 mm rakieta odłamkowo-burząca"
         },
         {
+            "Key": 3726591119,
+            "Value": "SZCZYT"
+        },
+        {
             "Key": 3727877127,
             "Value": "PLECAK LATAJĄCY"
         },
@@ -51315,6 +51623,10 @@
             "Value": "Zwiększa szybkość chodzenia i biegania użytkownika."
         },
         {
+            "Key": 3848264618,
+            "Value": "Utkana z oddychającej adaptacyjnej siateczki z kamuflażem, zaprojektowanej do naśladowania otaczających ją biomów. Pozwala przeprowadzać dyskretne testy zgodności, bez zainteresowania ze strony mało spostrzegawczych nieprzyjaciół."
+        },
+        {
             "Key": 3848706698,
             "Value": "TERAZ TY"
         },
@@ -51337,6 +51649,10 @@
         {
             "Key": 3861046095,
             "Value": "JEDYNA PRAWDZIWA FLAGA"
+        },
+        {
+            "Key": 3861141528,
+            "Value": "Niewielki, jednoręczny pistolet maszynowy, charakteryzujący się umiarkowaną szybkostrzelnością dla doskonałej kontroli. Automatycznie składana kolba minimalizuje odchylenie, zapewniając niezwykle stabilne rozwiązanie taktyczne na wypadek przełamania perymetru."
         },
         {
             "Key": 3862006380,
@@ -51393,6 +51709,10 @@
         {
             "Key": 3876419466,
             "Value": "Oficjalny uniform Ligi Patriotycznego Siłowania Się Na Rękę, uszyty z lycry. Jest elastyczny i pochłaniający pot, dla maksymalnego komfortu napinania mięśni."
+        },
+        {
+            "Key": 3878757649,
+            "Value": "Zapewnia kamuflaż wśród roślinności, zmniejszając zasięg wykrywania przez wrogów, gdy użytkownik pozostaje w bezruchu i w przykucnięciu lub leży."
         },
         {
             "Key": 3882630018,
@@ -51573,6 +51893,10 @@
         {
             "Key": 3940822269,
             "Value": "PLECAK WARP"
+        },
+        {
+            "Key": 3942753638,
+            "Value": "LAS-44"
         },
         {
             "Key": 3943508564,
@@ -51767,6 +52091,10 @@
             "Value": "POLOWANIE NA SKARBY"
         },
         {
+            "Key": 4022090431,
+            "Value": "Ten lekki pancerz wykorzystuje nowatorskie syntetyczne włókna adaptacyjne oraz siatkę rozpraszającą światło, aby użytkownik mógł wtopić się w każdą roślinność i przeprowadzić niezapowiedziane audyty zgodności o wybranym przez siebie poziomie zaskoczenia."
+        },
+        {
             "Key": 4022404578,
             "Value": "Bez dławika"
         },
@@ -51857,6 +52185,10 @@
         {
             "Key": 4045553464,
             "Value": "TR-40 ZŁOTY ORZEŁ"
+        },
+        {
+            "Key": 4046411614,
+            "Value": "STRZELEC DYSTANSOWY"
         },
         {
             "Key": 4049901344,
@@ -52041,6 +52373,10 @@
         {
             "Key": 4118666908,
             "Value": "PODNIEŚ BROŃ"
+        },
+        {
+            "Key": 4118717225,
+            "Value": "NOVA"
         },
         {
             "Key": 4118932090,
@@ -52287,6 +52623,10 @@
             "Value": "Noszący tę pelerynę przyjmują na siebie święty obowiązek: wymierzania sprawiedliwej kary wszystkim istotom, które na nią zasługują."
         },
         {
+            "Key": 4207989923,
+            "Value": "DEKRET ARKTYCZNY"
+        },
+        {
             "Key": 4208429133,
             "Value": "Zaprowadza cichą sprawiedliwość wśród wrogów wolności."
         },
@@ -52405,6 +52745,10 @@
         {
             "Key": 4260022829,
             "Value": "Szybsze rozmieszczanie"
+        },
+        {
+            "Key": 4266284657,
+            "Value": "Ta peleryna wyposażona jest w zintegrowany adaptacyjny kamuflaż i pionowy wzór siatki drabinkowej, wyznaczający absolutną granicę jurysdykcji Super Ziemi. Wrogie istoty przekraczające tę granicę uznaje się za wyrażające zgodę na własną obowiązkową likwidację."
         },
         {
             "Key": 4267611838,
@@ -52571,6 +52915,10 @@
             "Value": "#DAYS DNI #HOURS GODZ. #MINUTES MIN."
         },
         {
+            "Key": 320865082,
+            "Value": "Pokaz kolorowego konfetti. Podwyższa demokratyczne morale, ale nie ma żadnej wartości strategicznej. "
+        },
+        {
             "Key": 688156730,
             "Value": "NALOT GAZOWY ORŁA"
         },
@@ -52589,6 +52937,18 @@
         {
             "Key": 1868966435,
             "Value": "Salwa bomb gazowych, która pozostawia po sobie chmurę żrącego gazu."
+        },
+        {
+            "Key": 3592482370,
+            "Value": "PRZELOT ORŁÓW"
+        },
+        {
+            "Key": 4059777878,
+            "Value": "ORBITALNE KONFETTI"
+        },
+        {
+            "Key": 4235481791,
+            "Value": "Przelot Orłów będący pokazem potęgi demokracji. Wzmacnia morale w warunkach polowych."
         },
         {
             "Key": 2410138797,
@@ -53616,7 +53976,7 @@
         },
         {
             "Key": 444529084,
-            "Value": "Plujący żółcią"
+            "Value": "Żrący plwacz"
         },
         {
             "Key": 444653002,
@@ -53840,7 +54200,7 @@
         },
         {
             "Key": 592325338,
-            "Value": "Plujący żółcią"
+            "Value": "Żrący plwacze"
         },
         {
             "Key": 593716614,
@@ -54023,12 +54383,16 @@
             "Value": "AUTOMAT LATAJĄCY"
         },
         {
+            "Key": 689411023,
+            "Value": "Toksyczny wypluwacz"
+        },
+        {
             "Key": 689956975,
             "Value": "TARSH"
         },
         {
             "Key": 689998581,
-            "Value": "SZTURMOWIEC ZARODNIKOWY"
+            "Value": "ŻRĄCY SZUTRMOWIEC"
         },
         {
             "Key": 690834076,
@@ -54100,7 +54464,7 @@
         },
         {
             "Key": 717622970,
-            "Value": "Wypluwacz żółci"
+            "Value": "Żrący wypluwacz"
         },
         {
             "Key": 722264741,
@@ -54149,6 +54513,10 @@
         {
             "Key": 734122764,
             "Value": "SEKTOR RICTUS"
+        },
+        {
+            "Key": 737095831,
+            "Value": "TOKSYCZNY WYPLUWACZ"
         },
         {
             "Key": 740173750,
@@ -54451,6 +54819,10 @@
             "Value": "Moore"
         },
         {
+            "Key": 924935946,
+            "Value": "Toksyczni wypluwacze"
+        },
+        {
             "Key": 925731532,
             "Value": "AUTOMAT"
         },
@@ -54476,7 +54848,7 @@
         },
         {
             "Key": 939195481,
-            "Value": "Szturmowcy zarodnikowi"
+            "Value": "Żrący szturmowcy"
         },
         {
             "Key": 940091660,
@@ -55360,7 +55732,7 @@
         },
         {
             "Key": 1524275396,
-            "Value": "PLUJĄCY ŻÓŁCIĄ"
+            "Value": "ŻRĄCY PLWACZ"
         },
         {
             "Key": 1526662829,
@@ -55792,7 +56164,7 @@
         },
         {
             "Key": 1805104840,
-            "Value": "Wojownicy żółci"
+            "Value": "Żrący wojownicy"
         },
         {
             "Key": 1815342243,
@@ -56000,7 +56372,7 @@
         },
         {
             "Key": 1939105083,
-            "Value": "Szturmowiec zarodnikowy"
+            "Value": "Żrący szutrmowiec"
         },
         {
             "Key": 1940364089,
@@ -56779,6 +57151,10 @@
             "Value": "WYŻSZOŚĆ"
         },
         {
+            "Key": 2528666920,
+            "Value": "Toksyczni zbieracze"
+        },
+        {
             "Key": 2531617188,
             "Value": "WZGÓRZE FAMEWOLF"
         },
@@ -56848,7 +57224,7 @@
         },
         {
             "Key": 2572786553,
-            "Value": "Wypluwacze żółci"
+            "Value": "Żrący wypluwacze"
         },
         {
             "Key": 2574167973,
@@ -57607,8 +57983,16 @@
             "Value": "Biegacze fabryczni"
         },
         {
+            "Key": 3075862396,
+            "Value": "SKALA WŁADZY"
+        },
+        {
             "Key": 3077749065,
             "Value": "Przywódca roju"
+        },
+        {
+            "Key": 3081607124,
+            "Value": "TOKSYCZNY ZBIERACZ"
         },
         {
             "Key": 3084412776,
@@ -57641,6 +58025,10 @@
         {
             "Key": 3097344451,
             "Value": "Lewiatan"
+        },
+        {
+            "Key": 3100212748,
+            "Value": "Skala władzy"
         },
         {
             "Key": 3101528587,
@@ -57725,6 +58113,10 @@
         {
             "Key": 3160372667,
             "Value": "ERATA PRIME"
+        },
+        {
+            "Key": 3163013034,
+            "Value": "Toksyczny zbieracz"
         },
         {
             "Key": 3164522440,
@@ -57980,11 +58372,11 @@
         },
         {
             "Key": 3302818592,
-            "Value": "WYPLUWACZ ŻÓŁCI"
+            "Value": "ŻRĄCY WYPLUWACZ"
         },
         {
             "Key": 3306812932,
-            "Value": "WOJOWNIK ŻÓŁCI"
+            "Value": "ŻRĄCY WOJOWNIK"
         },
         {
             "Key": 3311517734,
@@ -58040,7 +58432,7 @@
         },
         {
             "Key": 3365898186,
-            "Value": "Wojownik żółci"
+            "Value": "Żrący wojownik"
         },
         {
             "Key": 3367789650,
@@ -60403,6 +60795,10 @@
             "Value": "Automaty zdobyły stację badawczą SZSZ i zabiły wszystkich dzielnych członków personelu naukowego.\n\nRuszaj na stację, pobierz badawczą bazę danych i prześlij ją do centralnego komputera Super Ziemi, używając pobliskiej stacji łączności satelitarnej."
         },
         {
+            "Key": 164492868,
+            "Value": "Zlikwidujcie ciałotłumy i miażdżycieli"
+        },
+        {
             "Key": 172073450,
             "Value": "Zlokalizuj i wyeliminuj niszczycieli automatów."
         },
@@ -60917,10 +61313,6 @@
         {
             "Key": 549040800,
             "Value": "Ucisk terminidów na tej planecie zelżał. Musimy zaatakować teraz, zanim zdołają się zregenerować.\n\nJako helldiversi możecie zacząć walkę w pozostałych rdzeniach rojów terminidów i raz na zawsze wykorzenić plagę."
-        },
-        {
-            "Key": 549189300,
-            "Value": "Nastaw na częstotliwość Super Ziemi"
         },
         {
             "Key": 552388957,
@@ -62676,7 +63068,7 @@
         },
         {
             "Key": 1703292542,
-            "Value": "Zlikwidujcie kwitnienia pustki, aby walczyć z planetarną mutacją."
+            "Value": "Pozbądźcie się plagi kwitnienia pustki."
         },
         {
             "Key": 1705537422,
@@ -63300,7 +63692,7 @@
         },
         {
             "Key": 2120670482,
-            "Value": "Botanicy bojowi SZSZ potwierdzili: oświeceni sadzą pąki zmodyfikowane przez pustkę, aby przekształcić ekosystem tej planety. Obce pyłki skażają miejscową florę poprzez zapylanie krzyżowe i szerzą toksyny, które stopniowo dokonują mutacji na całej planecie.\n\nTo bioinżynieryjne ohydztwo musi zostać wycięte u samego korzenia. Wykorzeńcie wszystkie kwiaty."
+            "Value": "Botanicy bojowi SZSZ potwierdzili w tym regionie plagę kwitnienia pustki. Ten inwazyjny gatunek syntetyzowany przez oświeconych rozpyla toksyczny pyłek, rozprzestrzeniający się agresywnie i skażający lokalną florę.\n\nTo bioinżynieryjne ohydztwo musi zostać opanowane. Wykorzeńcie wszystko, do ostatniego kwiatu."
         },
         {
             "Key": 2124411631,
@@ -63840,7 +64232,7 @@
         },
         {
             "Key": 2453551750,
-            "Value": "Podnieś siłę sygnału do 100%"
+            "Value": "Nastaw na częstotliwość Super Ziemi"
         },
         {
             "Key": 2455424748,
@@ -65347,10 +65739,6 @@
             "Value": "Zniszcz nadajniki antenowe"
         },
         {
-            "Key": 3437936223,
-            "Value": "Na tym obszarze roi się od toksycznych kwitnień, które szerzą plugastwo pustki."
-        },
-        {
             "Key": 3438445098,
             "Value": "Wezwijcie duży kontener do załadowania wyzwolonych zasobów i ich bezpiecznego odbioru."
         },
@@ -66024,7 +66412,7 @@
         },
         {
             "Key": 3906982366,
-            "Value": "Skonfiskujcie platynę i akumulatory fuzyjne znajdujące się w tym miejscu."
+            "Value": "Skonfiskujcie platynę i akumulatory fuzyjne."
         },
         {
             "Key": 3908101367,
@@ -66136,7 +66524,7 @@
         },
         {
             "Key": 3980829391,
-            "Value": "Wśród splątanych pnączy tego regionu oświeceni wycięli sobie totalitarne siedlisko. Heretyckie ołtarze i plugawe laboratoria wytwarzają niewypowiedziane okropieństwa, które chcą sterroryzować wszystkie gospodarstwa domowe w galaktyce. \n\nZinfiltrujcie tę wypaczoną kołyskę plugastwa. Ujawnijcie tę deprawację i połóżcie jej kres."
+            "Value": "Fanatycy oświeconych stworzyli siedlisko zniewolenia całej galaktyki. Wewnątrz hodowane są nienawidzące wolności okropieństwa, które po uwolnieniu mają naruszyć wszystkie możliwe fundamentalne prawa człowieka.\n\nZinfiltrujcie to siedlisko i skończcie z ich spiskami. Bądźcie gotowi na wszystko."
         },
         {
             "Key": 3983103464,
@@ -66209,6 +66597,10 @@
         {
             "Key": 4022988243,
             "Value": "Filtr"
+        },
+        {
+            "Key": 4026645163,
+            "Value": "Zlikwidujcie fałszywców i odźwiernych"
         },
         {
             "Key": 4027814450,
@@ -69551,6 +69943,10 @@
             "Value": "Wiesz, że w trakcie sekwencji przejścia pojawiają się wskazówki?"
         },
         {
+            "Key": 1465771321,
+            "Value": "Nie można połączyć z siecią Easy Anti Cheat. Jeśli problem będzie się powtarzał, spróbuj ponownie później lub skontaktuj się ze wsparciem. Opuścisz teraz grę Helldivers 2."
+        },
+        {
             "Key": 1467505284,
             "Value": "MAPA"
         },
@@ -71497,6 +71893,10 @@
         {
             "Key": 2761160728,
             "Value": "POD KOMPASEM"
+        },
+        {
+            "Key": 2765302830,
+            "Value": "Czat wyłączony."
         },
         {
             "Key": 2769225748,
@@ -73587,6 +73987,10 @@
             "Value": "BROŃ PODSTAWOWA"
         },
         {
+            "Key": 4080024300,
+            "Value": "Błąd Easy Anti Cheat."
+        },
+        {
             "Key": 4080572359,
             "Value": "BOMBARDOWANIE PLANETARNE – EMS"
         },
@@ -73741,6 +74145,10 @@
         {
             "Key": 4151724965,
             "Value": "TAA"
+        },
+        {
+            "Key": 4151809581,
+            "Value": "Nie udało się połączyć z siecią Easy Anti Cheat. Jeśli problem będzie się powtarzał, spróbuj ponownie później lub skontaktuj się ze wsparciem. Opuścisz teraz grę Helldivers 2."
         },
         {
             "Key": 4154432606,

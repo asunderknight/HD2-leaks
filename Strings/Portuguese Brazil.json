@@ -495,6 +495,10 @@
             "Value": "Esperando anfitrião"
         },
         {
+            "Key": 255821732,
+            "Value": "#V_ONE está sob ataque terminídio! Chamando todos os Helldivers com urgência para defender o local!"
+        },
+        {
             "Key": 256689238,
             "Value": "DE UMA MÃO"
         },
@@ -1397,6 +1401,10 @@
         {
             "Key": 789486835,
             "Value": "TESTE DE ARMA\nO uso da Estratégia Torre Tesla foi temporariamente autorizado para todos os Helldivers."
+        },
+        {
+            "Key": 790401600,
+            "Value": "Bom trabalho, Helldivers. Os Autômatos foram forçados a se retirar de #V_ONE."
         },
         {
             "Key": 790885089,
@@ -2339,6 +2347,10 @@
             "Value": "ALTERNAR INFORMAÇÃO"
         },
         {
+            "Key": 1341366236,
+            "Value": "Os Autômatos invadem #V_ONE. Helldivers, reúnam forças e impeçam essa tentativa de anexação ilegal."
+        },
+        {
             "Key": 1342481939,
             "Value": "INCENDIÁRIO"
         },
@@ -2631,6 +2643,10 @@
             "Value": "NE"
         },
         {
+            "Key": 1572224323,
+            "Value": "A defesa de #V_ONE foi um sucesso. Os Autômatos foram repelidos. Bom trabalho, Helldivers."
+        },
+        {
             "Key": 1573437979,
             "Value": "Total de Estratégias usadas"
         },
@@ -2737,6 +2753,10 @@
         {
             "Key": 1645631779,
             "Value": "Entre num <c=FFFFE900>TERMINAL DE REQUISIÇÃO</c> e requisite mais <c=FFFFE900>ESTRATÉGIAS</c>."
+        },
+        {
+            "Key": 1653674066,
+            "Value": "Depois de inúmeros e inevitáveis sacrifícios, #V_ONE está livre dos Terminídios."
         },
         {
             "Key": 1654406343,
@@ -3315,6 +3335,10 @@
             "Value": "PNT"
         },
         {
+            "Key": 1959264157,
+            "Value": "Os Insetos atacaram #V_ONE. Rápido, defendam o planeta antes que eles consigam infestá-lo permanentemente."
+        },
+        {
             "Key": 1959371383,
             "Value": "MISSÕES MAIS EFICIENTES"
         },
@@ -3389,6 +3413,10 @@
         {
             "Key": 2007030524,
             "Value": "CONTRA-ATAQUE AUTÔMATO\nInterceptamos mensagens indicando que os Robôs planejam uma ofensiva importante. Espera-se uma resistência acirrada em planetas autômatos."
+        },
+        {
+            "Key": 2008817751,
+            "Value": "Os Robôs lançaram um ataque surpresa covarde contra #V_ONE. O planeta emitiu um pedido emergencial de reforços. Vocês precisam ajudar."
         },
         {
             "Key": 2015558774,
@@ -4423,6 +4451,10 @@
             "Value": "PLANETA LIBERTADO\nNós expulsamos completamente os Autômatos de um planeta, devolvendo-o ao justo controle da Superterra. "
         },
         {
+            "Key": 2740300439,
+            "Value": "Os Autômatos marcham sobre #V_ONE. É preciso detê-los!"
+        },
+        {
             "Key": 2742417987,
             "Value": "Falha ao entrar. Você havia sido banido desta sessão."
         },
@@ -4609,6 +4641,10 @@
         {
             "Key": 2854932487,
             "Value": "PREPARE-SE"
+        },
+        {
+            "Key": 2865292046,
+            "Value": "Graças à bravura altruísta dos Helldivers, os cidadãos de #V_ONE estão a salvo da ameaça terminídia."
         },
         {
             "Key": 2869491808,
@@ -5375,6 +5411,10 @@
             "Value": "OPERADO POR <i=1>#NAME</i>"
         },
         {
+            "Key": 3400432042,
+            "Value": "Os Terminídios atacaram #V_ONE. Chamando todos os Helldivers disponíveis para defender o planeta."
+        },
+        {
             "Key": 3401389966,
             "Value": "COMPARAR INFORMAÇÕES"
         },
@@ -5991,6 +6031,10 @@
             "Value": "BARRAGEM"
         },
         {
+            "Key": 3791941330,
+            "Value": "Esporos de Terminídios enchem os céus de #V_ONE. Chamando todos os Helldivers para defender o planeta!"
+        },
+        {
             "Key": 3794551534,
             "Value": "FENRIR III SOB ATAQUE\nOs Terminídios tentam se espalhar por Fenrir III. Chamando todos os Helldivers para defender o planeta imediatamente!"
         },
@@ -6123,6 +6167,14 @@
             "Value": "RESUMO DE INFORMAÇÕES\nUma nova cepa de Terminídios voadores apareceu em todos os planetas dos Insetos. Apesar de o Ministério da Inteligência sempre ter aventado a possibilidade de a evolução acontecer, a forma abrupta como ela se deu, sem qualquer sinal prévio, contou, muito provavelmente, com a cobertura de dissidentes.\n\nO termicida entrou em ação em um excelente momento — o que, sem dúvidas, evitou uma evolução ainda pior. Recomenda-se aos Helldivers que exterminem essas mutações sempre que depararem com elas."
         },
         {
+            "Key": 3864465687,
+            "Value": "A defesa de #V_ONE foi um sucesso. Os Terminídios foram expulsos."
+        },
+        {
+            "Key": 3865365794,
+            "Value": "Os Insetos foram expulsos de #V_ONE. Por todo o planeta, os cidadãos estão celebrando o heroísmo dos Helldivers."
+        },
+        {
             "Key": 3868912809,
             "Value": "COMBATE LEVE (ROBÔS)"
         },
@@ -6185,6 +6237,10 @@
         {
             "Key": 3917311779,
             "Value": "Açafrão-negro"
+        },
+        {
+            "Key": 3919857455,
+            "Value": "Os Terminídios estão invadindo #V_ONE. Afugentem os Insetos!"
         },
         {
             "Key": 3920963891,
@@ -6851,6 +6907,10 @@
             "Value": "SE (#COUNT°)"
         },
         {
+            "Key": 4253946297,
+            "Value": "Os valentes Helldivers salvaram #V_ONE de outra invasão covarde dos Robôs. Está na hora de avançarmos, antes que eles se reagrupem."
+        },
+        {
             "Key": 4253970205,
             "Value": "Salva"
         },
@@ -7023,8 +7083,16 @@
             "Value": "Podem realizar diversos disparos espaço-superfície indiretos capazes de liberar rapidamente um campo de batalha de seus opressores."
         },
         {
+            "Key": 30937403,
+            "Value": "Estandarte Tutelar"
+        },
+        {
             "Key": 31985882,
             "Value": "Polo de Engenharia"
+        },
+        {
+            "Key": 32343373,
+            "Value": "Um rifle de precisão pesado de ação por ferrolho. Dispara munição perfurante de alto impacto com extrema precisão a longa distância, garantindo que a Democracia chegue, não importa quão longe."
         },
         {
             "Key": 34542068,
@@ -7267,6 +7335,10 @@
             "Value": "Boxeador"
         },
         {
+            "Key": 128895797,
+            "Value": "Alinhador"
+        },
+        {
             "Key": 130433830,
             "Value": "Veículo de reconhecimento rápido com blindagem leve e equipado com uma metralhadora pesada. "
         },
@@ -7409,6 +7481,10 @@
         {
             "Key": 169627781,
             "Value": "Armazenamento de munição aprimorado"
+        },
+        {
+            "Key": 171885009,
+            "Value": "SS-500 PROMOTORA PÁLIDA"
         },
         {
             "Key": 178234324,
@@ -7673,6 +7749,10 @@
         {
             "Key": 286599935,
             "Value": "ÁRBITRO"
+        },
+        {
+            "Key": 287973358,
+            "Value": "SS-500 Promotora Pálida"
         },
         {
             "Key": 289101936,
@@ -8171,6 +8251,10 @@
             "Value": "Bomba de 200 kg"
         },
         {
+            "Key": 484651750,
+            "Value": "Este modelo de capa venceu o concurso \"Patriota Mirim\" de 2186, que neste ano homenageou os Helldivers pelas valorosas operações em Yed Prior. Ela lembra a todos que os jovens de hoje são os heróis de amanhã e que, portanto, devem ser protegidos dos inimigos da Democracia."
+        },
+        {
             "Key": 485709728,
             "Value": "SEM ESTRATÉGIAS"
         },
@@ -8281,6 +8365,10 @@
         {
             "Key": 549159351,
             "Value": "Barragem Orbital de Napalm"
+        },
+        {
+            "Key": 552571525,
+            "Value": "R-40"
         },
         {
             "Key": 552680240,
@@ -9043,6 +9131,10 @@
             "Value": "Pedaços de Soberania"
         },
         {
+            "Key": 826650508,
+            "Value": "Uma chuva de confetes coloridíssimos. Bom para dar um ânimo democrático, mas não oferece nenhuma vantagem estratégica."
+        },
+        {
             "Key": 826748686,
             "Value": "Uma réplica fiel da armadura usada na Batalha do Pico da Liberdade. Honre a memória dos heróis, use-a com orgulho. "
         },
@@ -9273,6 +9365,10 @@
         {
             "Key": 900451699,
             "Value": "MORTEIRO DT DE 40 mm"
+        },
+        {
+            "Key": 901728465,
+            "Value": "AMW-20"
         },
         {
             "Key": 905652168,
@@ -9567,6 +9663,10 @@
             "Value": "SG-451"
         },
         {
+            "Key": 1012540073,
+            "Value": "Uma versão modificada do AR-23 Liberador que foi inspirada no modelo original usado pelos Helldivers durante a Primeira Guerra Galáctica."
+        },
+        {
             "Key": 1012577819,
             "Value": "Tambor padrão"
         },
@@ -9697,6 +9797,10 @@
         {
             "Key": 1053958077,
             "Value": "Permite que os ataques corpo a corpo <c=#COLOR>eliminem obstáculos maiores</c>, como cercas."
+        },
+        {
+            "Key": 1054807389,
+            "Value": "LIBERADOR LEGATÁRIO"
         },
         {
             "Key": 1055226367,
@@ -10099,6 +10203,10 @@
             "Value": "VEÍCULO BLINDADO LEVE"
         },
         {
+            "Key": 1235536510,
+            "Value": "SS-15 PONTO FOCAL"
+        },
+        {
             "Key": 1236709379,
             "Value": "PROTEÇÃO DEMOCRÁTICA"
         },
@@ -10401,6 +10509,10 @@
         {
             "Key": 1357287836,
             "Value": "AZUL PATRIÓTICO"
+        },
+        {
+            "Key": 1360044099,
+            "Value": "ALINHADOR"
         },
         {
             "Key": 1362075423,
@@ -10803,6 +10915,10 @@
             "Value": "G-23"
         },
         {
+            "Key": 1500433226,
+            "Value": "Projetada para observadores coordenadores de aplicações de sentenças à distância. Esta armadura média possui capacidades integradas de camuflagem adaptativa e uma viseira óptica assimétrica, de forma a assegurar que os movimentos inimigos sejam catalogados discreta e meticulosamente antes de serem permanentemente apagados dos registros oficiais."
+        },
+        {
             "Key": 1501540430,
             "Value": "RECARGA DE MUNIÇÃO"
         },
@@ -10913,6 +11029,10 @@
         {
             "Key": 1555196278,
             "Value": "PADRÃO"
+        },
+        {
+            "Key": 1555547319,
+            "Value": "Voo das Águias"
         },
         {
             "Key": 1557516932,
@@ -11163,6 +11283,10 @@
             "Value": "Uma mira holográfica."
         },
         {
+            "Key": 1672951456,
+            "Value": "SS-33 MARECHAL MIMÉTICA"
+        },
+        {
             "Key": 1673011979,
             "Value": "BFM-16 INEXORÁVEL"
         },
@@ -11337,6 +11461,10 @@
         {
             "Key": 1730845486,
             "Value": "ESTILHAÇO"
+        },
+        {
+            "Key": 1731145253,
+            "Value": "Mochila Apoteose"
         },
         {
             "Key": 1732453131,
@@ -11795,6 +11923,10 @@
             "Value": "Uma arma de uso único que dispara um míssil contendo bombas de napalm de fragmentação que são liberadas no impacto."
         },
         {
+            "Key": 1912361092,
+            "Value": "CONFETE ORBITAL"
+        },
+        {
             "Key": 1914879563,
             "Value": "Fragmentadora"
         },
@@ -11917,6 +12049,10 @@
         {
             "Key": 1963170034,
             "Value": "12x25 mm EXPLOSIVA"
+        },
+        {
+            "Key": 1965275277,
+            "Value": "SS-15 Ponto Focal"
         },
         {
             "Key": 1966586923,
@@ -12351,6 +12487,10 @@
             "Value": "DANO DE MÍSSIL AUMENTADO"
         },
         {
+            "Key": 2100163737,
+            "Value": "Nova"
+        },
+        {
             "Key": 2103607856,
             "Value": "12x25 mm ponta oca"
         },
@@ -12443,6 +12583,10 @@
             "Value": "B-08 Atiradora Leve"
         },
         {
+            "Key": 2132290123,
+            "Value": "Confeccionada para homenagear as almas corajosas que adentraram o Vazio e jamais retornaram. "
+        },
+        {
             "Key": 2133995538,
             "Value": "Um rifle de assalto com uma mira de ferro clássica e que dispara munição incendiária."
         },
@@ -12503,6 +12647,10 @@
             "Value": "O tecido patenteado desta armadura absorve radiação visível, infravermelha e ultravioleta para evitar a detecção por qualquer espécie conhecida."
         },
         {
+            "Key": 2153738163,
+            "Value": "AR-23L"
+        },
+        {
             "Key": 2156827055,
             "Value": "Apoio de fogo"
         },
@@ -12553,6 +12701,10 @@
         {
             "Key": 2174348946,
             "Value": "O rifle de assalto padrão das SEAF, com poder de fogo, cadência e peso balanceados. Ideal para alvos de pequeno porte."
+        },
+        {
+            "Key": 2176213077,
+            "Value": "Bruma"
         },
         {
             "Key": 2177206078,
@@ -12867,6 +13019,10 @@
             "Value": "Carregador estendido"
         },
         {
+            "Key": 2290050022,
+            "Value": "Heroína das Crianças"
+        },
+        {
             "Key": 2292840975,
             "Value": "LANÇA-FOGUETES DE EXPLOSÃO ATMOSFÉRICA"
         },
@@ -12931,6 +13087,10 @@
             "Value": "REARMAR ÁGUIA"
         },
         {
+            "Key": 2308267573,
+            "Value": "Confeccionada em lona de luxo e equipada com capacidades integradas de camuflagem adaptativa, esta capa apresenta uma proeminente retícula de mira de alto contraste impressa diretamente nas costas."
+        },
+        {
             "Key": 2310432885,
             "Value": "PROTEÇÃO SUPREMA"
         },
@@ -12953,6 +13113,10 @@
         {
             "Key": 2325179655,
             "Value": "Isso é democracia"
+        },
+        {
+            "Key": 2325885932,
+            "Value": "Reduz em <c=#COLOR>#BONUS</c> a oscilação da arma ao mirar."
         },
         {
             "Key": 2327923803,
@@ -13073,6 +13237,10 @@
         {
             "Key": 2372554040,
             "Value": "Todos saúdem os Helldivers, que trazem abundância inigualável aos cidadãos da Superterra."
+        },
+        {
+            "Key": 2373066199,
+            "Value": "As Águias passam voando para fazer uma exibição de força democrática. Ajuda no moral em campo."
         },
         {
             "Key": 2376192175,
@@ -13343,6 +13511,10 @@
             "Value": "Armadura inspirada nas inúmeras Estátuas da Liberdade Abalizadora que observam atentamente as filas dos caixas, os pátios das escolas, as comunidades de reabilitação perpétua e os confessionários públicos."
         },
         {
+            "Key": 2470263896,
+            "Value": "MORTALHA ESTÁTICA"
+        },
+        {
             "Key": 2471906021,
             "Value": "Gatilho padrão"
         },
@@ -13413,6 +13585,10 @@
         {
             "Key": 2495515626,
             "Value": "Cal. 10 chumbo inseticida"
+        },
+        {
+            "Key": 2497601417,
+            "Value": "SS-33 Marechal Mimética"
         },
         {
             "Key": 2497843047,
@@ -13619,6 +13795,10 @@
             "Value": "TRIUNFO SOBRE A MÁQUINA"
         },
         {
+            "Key": 2598735985,
+            "Value": "Protocolo de Lançamento Balístico Manual"
+        },
+        {
             "Key": 2598955031,
             "Value": "FREIOS AERODINÂMICOS APRIMORADOS"
         },
@@ -13669,6 +13849,10 @@
         {
             "Key": 2616985430,
             "Value": "Sem estrangulador na boca da arma."
+        },
+        {
+            "Key": 2620110255,
+            "Value": "Confete Orbital"
         },
         {
             "Key": 2620623882,
@@ -13897,6 +14081,10 @@
         {
             "Key": 2698867856,
             "Value": "AD-26 SUPERFLUIDO"
+        },
+        {
+            "Key": 2706019637,
+            "Value": "Um rifle antimatéria de precisão e dimensões enormes. Embora seu imenso recuo cinético exija que o atirador se agache ou deite, seus projéteis de 20 mm alimentados por mochila decretam a retirada irrevogável de circulação de ameaças blindadas."
         },
         {
             "Key": 2707764633,
@@ -14147,6 +14335,10 @@
             "Value": "Inspirada na Estátua da Liberdade Angustiada que se mostra amargurada pela existência da tirania, esta armadura é usada por aqueles que se dispõem a dar a própria vida para alegrá-la."
         },
         {
+            "Key": 2779662342,
+            "Value": "Um rifle de energia elegante que exige um breve ciclo de carregamento para disparar um projétil térmico de alta precisão não explosivo. Jamais fica sem munição e possui um ciclo de resfriamento otimizado graças à liberação de vapor após cada disparo."
+        },
+        {
             "Key": 2780448514,
             "Value": "EXO-49"
         },
@@ -14343,6 +14535,10 @@
             "Value": "Compartimento de alimentação aprimorado"
         },
         {
+            "Key": 2849040043,
+            "Value": "VOO DAS ÁGUIAS "
+        },
+        {
             "Key": 2851548532,
             "Value": "Tempo de espera de disparo menor"
         },
@@ -14381,6 +14577,10 @@
         {
             "Key": 2856919707,
             "Value": "Uma pistola automática que apresenta cadência extremamente alta. Ótima opção para controle de multidões."
+        },
+        {
+            "Key": 2859365322,
+            "Value": "Apoteose"
         },
         {
             "Key": 2859707695,
@@ -15139,6 +15339,10 @@
             "Value": "MAIS SUBSTÂNCIA EXPLOSIVA"
         },
         {
+            "Key": 3152296411,
+            "Value": "PROTOCOLO DE LANÇAMENTO BALÍSTICO MANUAL"
+        },
+        {
             "Key": 3152417024,
             "Value": "Redistribui os gases propelentes para reduzir a temperatura do cano ao disparar a arma."
         },
@@ -15165,6 +15369,10 @@
         {
             "Key": 3160067283,
             "Value": "ASSINATURA REDUZIDA"
+        },
+        {
+            "Key": 3161274217,
+            "Value": "Veterana do Vazio"
         },
         {
             "Key": 3161943025,
@@ -15215,6 +15423,10 @@
             "Value": "Confeccionada para os desbravadores que abriram caminho durante o primeiro uso sancionado e bem-sucedido de um novo paradigma tático. O design arrojado da peça de ombro desta capa faz com que os inimigos da Liberdade contemplem a destruição que eles mesmos causaram a si enquanto os Helldivers continuam voltados para o futuro."
         },
         {
+            "Key": 3189846034,
+            "Value": "ESTANDARTE TUTELAR"
+        },
+        {
             "Key": 3192024450,
             "Value": "CAÇA-PERIGO AF-02"
         },
@@ -15245,6 +15457,10 @@
         {
             "Key": 3200900560,
             "Value": "EXOUNIFORME PATRIOTA"
+        },
+        {
+            "Key": 3200915213,
+            "Value": "Sentença Ártica"
         },
         {
             "Key": 3202104171,
@@ -15419,6 +15635,10 @@
             "Value": "Maior armazenamento"
         },
         {
+            "Key": 3273207852,
+            "Value": "Liberador Legatário"
+        },
+        {
             "Key": 3276705068,
             "Value": "RAILGUN"
         },
@@ -15533,6 +15753,10 @@
         {
             "Key": 3308224804,
             "Value": "Uma miniarma alimentada por fita com uma capacidade de munição excepcional. Só pode ser recarregada com fita, não com munição comum."
+        },
+        {
+            "Key": 3311097117,
+            "Value": "P-44"
         },
         {
             "Key": 3312133772,
@@ -15867,8 +16091,16 @@
             "Value": "Constituição"
         },
         {
+            "Key": 3414611380,
+            "Value": "Malha Mimética"
+        },
+        {
             "Key": 3417364792,
             "Value": "CARREGADORES"
+        },
+        {
+            "Key": 3418368755,
+            "Value": "VETERANA DO VAZIO"
         },
         {
             "Key": 3418552701,
@@ -15913,6 +16145,10 @@
         {
             "Key": 3444434997,
             "Value": "Mais carregadores para MP montada"
+        },
+        {
+            "Key": 3446557954,
+            "Value": "MOCHILA APOTEOSE"
         },
         {
             "Key": 3450064054,
@@ -15985,6 +16221,10 @@
         {
             "Key": 3468591970,
             "Value": "MUNIÇÕES DE ATORDOAMENTO PROGRAMÁVEIS"
+        },
+        {
+            "Key": 3469869269,
+            "Value": "HEROÍNA DAS CRIANÇAS"
         },
         {
             "Key": 3473231131,
@@ -16107,6 +16347,10 @@
             "Value": "Uma plataforma arremessável que gera um escudo bloqueador de projéteis esférico no impacto. Tem vida útil limitada depois de ser implantada."
         },
         {
+            "Key": 3513766226,
+            "Value": "BRUMA"
+        },
+        {
             "Key": 3514184557,
             "Value": "BASTIÃO DA INTEGRIDADE"
         },
@@ -16129,6 +16373,10 @@
         {
             "Key": 3519672519,
             "Value": "Exercícios de carregamento"
+        },
+        {
+            "Key": 3521129928,
+            "Value": "Confeccionada em lona isolante, com um design que homenageia os franco-atiradores fantasmagóricos nas velhas campanhas em ambientes glaciais. Com capacidades de camuflagem adaptativa, ela foi projetada para longos períodos de vigilância, cumprindo com celeridade sentenças de caráter legal a longuíssimas distâncias."
         },
         {
             "Key": 3522846961,
@@ -16165,6 +16413,10 @@
         {
             "Key": 3541935699,
             "Value": "Mais munição na mochila"
+        },
+        {
+            "Key": 3543072495,
+            "Value": "MALHA MIMÉTICA"
         },
         {
             "Key": 3546044726,
@@ -16639,6 +16891,10 @@
             "Value": "Foguete 70 mm detonante"
         },
         {
+            "Key": 3726591119,
+            "Value": "APOTEOSE"
+        },
+        {
             "Key": 3727877127,
             "Value": "FLUTUADOR"
         },
@@ -16995,6 +17251,10 @@
             "Value": "Aumenta a velocidade de caminhada e de corrida do usuário."
         },
         {
+            "Key": 3848264618,
+            "Value": "Sua confecção utiliza uma malha de camuflagem adaptativa respirável projetada para mimetizar o bioma local, permitindo a realização de auditorias de conformidade discretas, sem a interferência dos inimigos mais desavisados."
+        },
+        {
             "Key": 3848706698,
             "Value": "VOCÊ É O PRÓXIMO"
         },
@@ -17017,6 +17277,10 @@
         {
             "Key": 3861046095,
             "Value": "A BANDEIRA UNA"
+        },
+        {
+            "Key": 3861141528,
+            "Value": "Uma pistola-metralhadora compacta de uma mão que utiliza uma cadência de tiro moderada para oferecer um controle impecável. Sua coronha retrátil automática minimiza o recuo, servindo como uma garantia tática altamente estável caso o perímetro seja comprometido."
         },
         {
             "Key": 3862006380,
@@ -17073,6 +17337,10 @@
         {
             "Key": 3876419466,
             "Value": "O uniforme oficial da Liga dos Lutadores de Braço de Ferro Patriotas. A base de elastano desta armadura se adapta bem ao corpo e absorve o suor, proporcionando conforto total para a flexão dos músculos."
+        },
+        {
+            "Key": 3878757649,
+            "Value": "Oferece camuflagem perfeita em meio à vegetação local, reduzindo o alcance de detecção inimiga enquanto o usuário permanece imóvel e agachado ou deitado."
         },
         {
             "Key": 3882630018,
@@ -17253,6 +17521,10 @@
         {
             "Key": 3940822269,
             "Value": "HIPERMOCHILA"
+        },
+        {
+            "Key": 3942753638,
+            "Value": "LAS-44"
         },
         {
             "Key": 3943508564,
@@ -17447,6 +17719,10 @@
             "Value": "CAÇA AO TESOURO"
         },
         {
+            "Key": 4022090431,
+            "Value": "Esta armadura leve possui fibras sintéticas adaptativas de última geração e uma rede de camuflagem difusora de luz, permitindo que seu usuário se mescle perfeitamente a qualquer ambiente selvagem e realize auditorias de falta de conformidade surpresa, sem qualquer aviso prévio."
+        },
+        {
             "Key": 4022404578,
             "Value": "Sem estrangulador"
         },
@@ -17537,6 +17813,10 @@
         {
             "Key": 4045553464,
             "Value": "TR-40 ÁGUIA DOURADA"
+        },
+        {
+            "Key": 4046411614,
+            "Value": "TIRO NO ESCURO"
         },
         {
             "Key": 4049901344,
@@ -17721,6 +18001,10 @@
         {
             "Key": 4118666908,
             "Value": "ERGUER ARMA"
+        },
+        {
+            "Key": 4118717225,
+            "Value": "NOVA"
         },
         {
             "Key": 4118932090,
@@ -17967,6 +18251,10 @@
             "Value": "Quem usa esta capa assume um dever sagrado: punir adequadamente todo e qualquer ser que mereça."
         },
         {
+            "Key": 4207989923,
+            "Value": "SENTENÇA ÁRTICA"
+        },
+        {
             "Key": 4208429133,
             "Value": "Justiça silenciosa e sem alarde aos inimigos da Liberdade."
         },
@@ -18085,6 +18373,10 @@
         {
             "Key": 4260022829,
             "Value": "Posicionamento mais ágil"
+        },
+        {
+            "Key": 4266284657,
+            "Value": "Esta capa possui capacidades integradas de camuflagem adaptativa e um padrão de alinhamento em grade vertical, definindo o alcance absoluto da tutela da Superterra. Quaisquer elementos hostis que cruzem essa linha anuem tacitamente à alienação compulsória de seus ativos."
         },
         {
             "Key": 4267611838,
@@ -18449,6 +18741,10 @@
         {
             "Key": 161452983,
             "Value": "Os Autômatos capturaram uma estação de pesquisa das SEAF após massacrar a corajosa equipe científica.\n\nVá até a estação, baixe os dados de pesquisa e envie-os ao mainframe da Superterra através da estação de uplink via satélite."
+        },
+        {
+            "Key": 164492868,
+            "Value": "Mate Carnemontes e Esmagadores"
         },
         {
             "Key": 172073450,
@@ -18965,10 +19261,6 @@
         {
             "Key": 549040800,
             "Value": "O controle dos Terminídios sobre este planeta enfraqueceu. Precisamos atacar agora, antes que eles possam se regenerar.\n\nComo Helldivers, vocês podem encarar os núcleos dos ninhos de Terminídios que sobraram e erradicar de vez a infestação."
-        },
-        {
-            "Key": 549189300,
-            "Value": "Sintonize com a frequência da Superterra"
         },
         {
             "Key": 552388957,
@@ -20724,7 +21016,7 @@
         },
         {
             "Key": 1703292542,
-            "Value": "Extermine os brotos do Vazio a fim de combater a mutação planetária."
+            "Value": "Exterminem a infestação dos Brotos do Vazio."
         },
         {
             "Key": 1705537422,
@@ -21348,7 +21640,7 @@
         },
         {
             "Key": 2120670482,
-            "Value": "Os botânicos de combate das SEAF confirmaram: os Iluminados estão semeando brotos alterados pelo Vazio para transformar o ecossistema do planeta. O pólen alienígena contamina a flora nativa por meio da polinização cruzada, espalhando uma toxina que sofre mutações graduais por todo o planeta.\n\nPrecisamos cortar pela raiz o mal dessa praga criada por bioengenharia. Erradique até a última dessas flores."
+            "Value": "Os botânicos de combate das SEAF confirmaram uma infestação de Brotos do Vazio nesta região. Sintetizada pelos Iluminados, essa espécie invasora expele pólen tóxico que se espalha rapidamente e contamina a flora nativa.\n\nPrecisamos conter essa doença criada em laboratório. Exterminem até a última flor."
         },
         {
             "Key": 2124411631,
@@ -21888,7 +22180,7 @@
         },
         {
             "Key": 2453551750,
-            "Value": "Eleve a intensidade do sinal para 100%"
+            "Value": "Sintonize com a frequência da Superterra"
         },
         {
             "Key": 2455424748,
@@ -23395,10 +23687,6 @@
             "Value": "Destruir as antenas transmissoras."
         },
         {
-            "Key": 3437936223,
-            "Value": "Esta área está tomada por flores nocivas que disseminam a contaminação do Vazio."
-        },
-        {
             "Key": 3438445098,
             "Value": "Solicite um contêiner grande para carregá-lo com materiais libertados e extrai-los com segurança."
         },
@@ -24072,7 +24360,7 @@
         },
         {
             "Key": 3906982366,
-            "Value": "Confisquem platina e baterias de fusão neste local."
+            "Value": "Confisquem platina e baterias de fusão."
         },
         {
             "Key": 3908101367,
@@ -24184,7 +24472,7 @@
         },
         {
             "Key": 3980829391,
-            "Value": "Os Iluminados estabeleceram um covil totalitário em meio à vegetação densa desta região. Altares profanos e laboratórios abomináveis geram horrores indescritíveis, que aterrorizariam todos os lares da Galáxia. \n\nInfiltre-se nesse reduto deturpado de corrupção. Exponha e encerre a depravação inimiga."
+            "Value": "Fanáticos dos Iluminados estabeleceram um covil com o único propósito de escravizar a galáxia. Em seu interior, são gerados verdadeiros horrores que, de fato, odeiam a Liberdade e não veem a hora de se verem livres para violar todos os direitos humanos fundamentais.\n\nInfiltrem-se no covil e deem um basta às tramas do inimigo. Não se sabe o que vem pela frente. Preparem-se."
         },
         {
             "Key": 3983103464,
@@ -24257,6 +24545,10 @@
         {
             "Key": 4022988243,
             "Value": "Filtro"
+        },
+        {
+            "Key": 4026645163,
+            "Value": "Mate Veracitors e Porteiros"
         },
         {
             "Key": 4027814450,
@@ -24671,6 +24963,10 @@
             "Value": "A estação está inoperante no momento"
         },
         {
+            "Key": 320865082,
+            "Value": "Uma chuva de confetes coloridíssimos. Bom para dar um ânimo democrático, mas não oferece nenhuma vantagem estratégica. "
+        },
+        {
             "Key": 688156730,
             "Value": "ATAQUE AÉREO DE GÁS VIA ÁGUIA"
         },
@@ -24689,6 +24985,18 @@
         {
             "Key": 1868966435,
             "Value": "Um bombardeio de gás que espalha uma nuvem corrosiva onde atinge."
+        },
+        {
+            "Key": 3592482370,
+            "Value": "VOO DAS ÁGUIAS"
+        },
+        {
+            "Key": 4059777878,
+            "Value": "CONFETE ORBITAL"
+        },
+        {
+            "Key": 4235481791,
+            "Value": "As Águias passam voando para fazer uma exibição de força democrática. Ajuda no moral em campo."
         },
         {
             "Key": 2410138797,
@@ -25641,6 +25949,10 @@
         {
             "Key": 127833235,
             "Value": "{0.00->3.56}Os Ciborgues sempre sonharam em destruir a Superterra. Bem,{3.94->8.87}o sonho acaba agora, com o toque de despertar pontual da Justiça."
+        },
+        {
+            "Key": 129468710,
+            "Value": "{0.56->3.15}Notícias inquietantes, Helldiver.{3.55->6.12}O Véu, há muito adormecido,{6.40->8.13}alastra-se novamente."
         },
         {
             "Key": 129670549,
@@ -29899,6 +30211,10 @@
             "Value": "{1.09->1.90}Me acertaram! Bendita Liberdade... o sangue."
         },
         {
+            "Key": 776552320,
+            "Value": "{0.00->4.50}Eu vejo vocês, Helldivers, se sacrificarem centenas de vezes todos os dias.{4.73->7.89}De novo, e de novo, e de novo.{8.27->10.30}Se os dissidentes pudessem ver isso,{10.53->14.26}talvez parassem de choramingar, pegassem um fuzil e ajudassem."
+        },
+        {
             "Key": 777021613,
             "Value": "{0.28->2.91}Bendita Liberdade, um Helldiver!"
         },
@@ -32971,6 +33287,10 @@
             "Value": "{0.01->0.70}Médico!"
         },
         {
+            "Key": 1245069277,
+            "Value": "{0.03->5.51}Me falaram que tem bases de dissidentes em alguns planetas, no meio do nada, onde comem Terminídios.{6.62->8.20}E que talvez não parem por aí.{8.93->11.42}Vou nem te falar o que mais eles fazem."
+        },
+        {
             "Key": 1245256655,
             "Value": "{0.00->1.23}A gente vai morrer!"
         },
@@ -34621,6 +34941,14 @@
         {
             "Key": 1497835747,
             "Value": "{0.00->0.95}Cilindro zerado."
+        },
+        {
+            "Key": 1498444003,
+            "Value": "{0.10->4.78}Para cada Inseto morto, há centenas de outros que precisam ser expulsos dos ninhos.{5.07->8.63}Mas imagina quando os planetas-ninho não passarem de cemitérios...{9.38->11.17}Que lindo será."
+        },
+        {
+            "Key": 1499432371,
+            "Value": "{0.00->4.74}Parece que os Terminídios estão criando novos planetas-ninho em lugares que antes ignoravam.{5.36->7.10}Se não fizermos pararem por aqui,{7.37->11.79}quanto tempo temos até a Superterra ser reduzida a um antro de Insetos?"
         },
         {
             "Key": 1500152451,
@@ -42327,6 +42655,10 @@
             "Value": "{0.00->2.71}Foi mal, Helldiver!"
         },
         {
+            "Key": 2738101045,
+            "Value": "{0.03->4.09}Todo dia que acordo nesta nave, sou grata ao processo democrático que me mandou pra cá.{5.07->7.74}Os Insetos nunca vão entender como é bom ser livre."
+        },
+        {
             "Key": 2738607821,
             "Value": "{0.00->1.53}O sistema Baía Vega"
         },
@@ -42605,6 +42937,10 @@
         {
             "Key": 2776901046,
             "Value": "{0.00->0.73}Temos equipamento."
+        },
+        {
+            "Key": 2777786351,
+            "Value": "{0.00->3.66}Todo planeta-ninho é um vetor de transmissão,{4.09->10.14}fonte de fascismo, expelindo esporos do Véu para mais e mais planetas."
         },
         {
             "Key": 2779874637,
@@ -43545,6 +43881,10 @@
         {
             "Key": 2904766046,
             "Value": "{0.00->0.53}Não!"
+        },
+        {
+            "Key": 2906045449,
+            "Value": "{0.00->4.11}A cada momento de inação, o Véu se espalha,{4.78->10.53}infectando mundos imaculados e deles gerando novos planetas-ninho."
         },
         {
             "Key": 2908477842,
@@ -48233,6 +48573,10 @@
         {
             "Key": 3611537551,
             "Value": "{0.01->2.42}Agradeçam à Superterra pelos Helldivers!"
+        },
+        {
+            "Key": 3612460931,
+            "Value": "{0.00->2.88}Vi vídeos dos Helldivers esmagando Insetos por aí e,{3.32->8.07}cara, eu daria tudo pra sentir aquele sangue esguichando pessoalmente."
         },
         {
             "Key": 3612898552,
@@ -53488,7 +53832,7 @@
         },
         {
             "Key": 444529084,
-            "Value": "Cuspidor ácido"
+            "Value": "Cuspidor Cáustico"
         },
         {
             "Key": 444653002,
@@ -53712,7 +54056,7 @@
         },
         {
             "Key": 592325338,
-            "Value": "Cuspidores ácidos"
+            "Value": "Cuspidores Cáusticos"
         },
         {
             "Key": 593716614,
@@ -53895,12 +54239,16 @@
             "Value": "ARTILHAÉREO"
         },
         {
+            "Key": 689411023,
+            "Value": "Repugnante Nocivo"
+        },
+        {
             "Key": 689956975,
             "Value": "TARSH"
         },
         {
             "Key": 689998581,
-            "Value": "ATROPELADOR ESPORULADO"
+            "Value": "ATROPELADOR CÁUSTICO"
         },
         {
             "Key": 690834076,
@@ -53972,7 +54320,7 @@
         },
         {
             "Key": 717622970,
-            "Value": "Repugnante ácido"
+            "Value": "Repugnante Cáustico"
         },
         {
             "Key": 722264741,
@@ -54021,6 +54369,10 @@
         {
             "Key": 734122764,
             "Value": "SETOR RICTUS"
+        },
+        {
+            "Key": 737095831,
+            "Value": "REPUGNANTE NOCIVO"
         },
         {
             "Key": 740173750,
@@ -54323,6 +54675,10 @@
             "Value": "Moore"
         },
         {
+            "Key": 924935946,
+            "Value": "Repugnantes Nocivos"
+        },
+        {
             "Key": 925731532,
             "Value": "AUTÔMATO"
         },
@@ -54348,7 +54704,7 @@
         },
         {
             "Key": 939195481,
-            "Value": "Atropeladores esporulados"
+            "Value": "Atropeladores Cáusticos"
         },
         {
             "Key": 940091660,
@@ -55232,7 +55588,7 @@
         },
         {
             "Key": 1524275396,
-            "Value": "CUSPIDOR ÁCIDO"
+            "Value": "CUSPIDOR CÁUSTICO"
         },
         {
             "Key": 1526662829,
@@ -55664,7 +56020,7 @@
         },
         {
             "Key": 1805104840,
-            "Value": "Guerreiros ácidos"
+            "Value": "Guerreiros Cáusticos"
         },
         {
             "Key": 1815342243,
@@ -55872,7 +56228,7 @@
         },
         {
             "Key": 1939105083,
-            "Value": "Atropelador esporulado"
+            "Value": "Atropelador Cáustico"
         },
         {
             "Key": 1940364089,
@@ -56651,6 +57007,10 @@
             "Value": "SUPERIORIDADE"
         },
         {
+            "Key": 2528666920,
+            "Value": "Carniçais Nocivos"
+        },
+        {
             "Key": 2531617188,
             "Value": "PICO FAMOLOBO"
         },
@@ -56720,7 +57080,7 @@
         },
         {
             "Key": 2572786553,
-            "Value": "Repugnantes ácidos"
+            "Value": "Repugnantes Cáusticos"
         },
         {
             "Key": 2574167973,
@@ -57479,8 +57839,16 @@
             "Value": "Caminhantes fabris"
         },
         {
+            "Key": 3075862396,
+            "Value": "ALCANCE DA AUTORIDADE"
+        },
+        {
             "Key": 3077749065,
             "Value": "Comandante da ninhada"
+        },
+        {
+            "Key": 3081607124,
+            "Value": "CARNIÇAL NOCIVO"
         },
         {
             "Key": 3084412776,
@@ -57513,6 +57881,10 @@
         {
             "Key": 3097344451,
             "Value": "Leviatã"
+        },
+        {
+            "Key": 3100212748,
+            "Value": "Alcance da Autoridade"
         },
         {
             "Key": 3101528587,
@@ -57597,6 +57969,10 @@
         {
             "Key": 3160372667,
             "Value": "ERATA PRIME"
+        },
+        {
+            "Key": 3163013034,
+            "Value": "Carniçal Nocivo"
         },
         {
             "Key": 3164522440,
@@ -57852,11 +58228,11 @@
         },
         {
             "Key": 3302818592,
-            "Value": "REPUGNANTE ÁCIDO"
+            "Value": "REPUGNANTE CÁUSTICO"
         },
         {
             "Key": 3306812932,
-            "Value": "GUERREIRO ÁCIDO"
+            "Value": "GUERREIRO CÁUSTICO"
         },
         {
             "Key": 3311517734,
@@ -57912,7 +58288,7 @@
         },
         {
             "Key": 3365898186,
-            "Value": "Guerreiro ácido"
+            "Value": "Guerreiro Cáustico"
         },
         {
             "Key": 3367789650,
@@ -61495,6 +61871,10 @@
             "Value": "Alerta: há civis leais no campo de batalha."
         },
         {
+            "Key": 461034013,
+            "Value": "CEPA CÁUSTICA"
+        },
+        {
             "Key": 463730113,
             "Value": "<i=1>Tempo para extração</i> contra <i=1>Autômatos</i> <i=1>#V_ONE</i> segundos mais lento."
         },
@@ -63363,6 +63743,10 @@
             "Value": "RASTREANDO..."
         },
         {
+            "Key": 1937755919,
+            "Value": "CEPA NOCIVA"
+        },
+        {
             "Key": 1939963888,
             "Value": "Helldivers são redirecionados do conflito com os Autômatos para enfrentar de novo os Terminídios"
         },
@@ -64783,6 +65167,10 @@
             "Value": "Períodos de altas temperaturas <i=1>aumentam o consumo de resistência</i> e <i=1>aceleram o acúmulo de calor nas armas</i>."
         },
         {
+            "Key": 3001998873,
+            "Value": "Uma cepa de Terminídios dotada de vesículas biliares de alta alcalinidade infestou este planeta. Prepare-se para enfrentar inimigos que expelem fluidos corrosivos e explodem violentamente ao morrer."
+        },
+        {
             "Key": 3007670585,
             "Value": "A capacidade para estimulantes foi reduzida em <i=1>#V_ONE</i> para todos os Helldivers neste planeta."
         },
@@ -65101,6 +65489,10 @@
         {
             "Key": 3271778464,
             "Value": "As naves de guerra da classe Leviatã patrulham os céus do campo de batalha."
+        },
+        {
+            "Key": 3273516527,
+            "Value": "Há uma cepa de Terminídios com glândulas secretoras de toxinas neste planeta. Prepare-se para enfrentar inimigos com uma peçonha incapacitante."
         },
         {
             "Key": 3279518460,
@@ -69535,6 +69927,10 @@
             "Value": "Sabia que mostramos dicas durante essas sequências de transição?"
         },
         {
+            "Key": 1465771321,
+            "Value": "Não foi possível conectar-se com a rede de Easy Anti Cheat. Caso o problema persista, tente novamente mais tarde ou contate o suporte. Helldivers 2 será encerrado."
+        },
+        {
             "Key": 1467505284,
             "Value": "MAPA"
         },
@@ -71481,6 +71877,10 @@
         {
             "Key": 2761160728,
             "Value": "ABAIXO DA BÚSSOLA"
+        },
+        {
+            "Key": 2765302830,
+            "Value": "Bate-papo desativado."
         },
         {
             "Key": 2769225748,
@@ -73567,6 +73967,10 @@
             "Value": "ARMA PRINCIPAL"
         },
         {
+            "Key": 4080024300,
+            "Value": "Erro do Easy Anti Cheat."
+        },
+        {
             "Key": 4080572359,
             "Value": "BOMBARDEIO PLANETÁRIO (OEM)"
         },
@@ -73721,6 +74125,10 @@
         {
             "Key": 4151724965,
             "Value": "Suavização Temporal"
+        },
+        {
+            "Key": 4151809581,
+            "Value": "Não foi possível acessar a rede de Easy Anti Cheat. Caso o problema persista, tente novamente mais tarde ou contate o suporte. Helldivers 2 será encerrado."
         },
         {
             "Key": 4154432606,
